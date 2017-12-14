@@ -13,8 +13,8 @@
 
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
+<fanart>https://i.imgur.com/JK14obf.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/BASECINEA.xml</externallink>
 </item>
@@ -22,41 +22,29 @@
 
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/DKsiws2.jpg</thumbnail>
+<fanart>https://i.imgur.com/DKsiws2.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
-
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SAGAS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
 
 
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TELENOVELAS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/ZoMQK2S.jpg</thumbnail>
+<fanart>https://i.imgur.com/ZoMQK2S.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/lista%20telenovelas.xml</externallink>
 </item>
 
 
-
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PROGRAMAS[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/6blgchR.jpg</thumbnail>
+<fanart>https://i.imgur.com/6blgchR.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
-
 
 
 
@@ -68,6 +56,13 @@
 <externallink></externallink>
 </item>
 
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SAGAS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
 
 
 <item>
