@@ -95,6 +95,48 @@
     <fanart></fanart>
             ]]></listrepeat>
             <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=S05mDNMSF0E&amp;list=PL5X-WIYpQrX6pWWobvTe38byjbfHBbG1P</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+ <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+
+ <item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PESADILLA EN LA COCINA USA T6 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                          <title>[COLOR lime] JHG [/COLOR][COLOR white]——[makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                       <thumbnail></thumbnail>
+    <fanart></fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=TspRtQLussw&amp;list=PLJsHhoQ4W0flShnrx8WIjip6sqOkL67ec</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+ <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+
+ <item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PESADILLA EN LA COCINA USA T7 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                          <title>[COLOR lime] JHG [/COLOR][COLOR white]——[makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                       <thumbnail></thumbnail>
+    <fanart></fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
             <page>https://www.youtube.com/watch?v=TspRtQLussw&amp;list=PLJsHhoQ4W0flShnrx8WIjip6sqOkL67ec</page>
              <cookieJar></cookieJar>
 </regex>
@@ -104,7 +146,7 @@
 </item>
 
  <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PESADILLA EN LA COCINA USA T4 pelis prueba [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PESADILLA EN LA COCINA USA T pelis prueba [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
             <name>makelist</name>
