@@ -902,3 +902,449 @@
 <link>http://ignoreme</link>
 <externallink></externallink>
 </item>
+
+<item>
+<title>*** SAGAS ***</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/DavisowGrupo/TvGratis/master/sagascine.xml</externallink>
+<thumbnail>https://image.ibb.co/chAgCb/peliculas.png</thumbnail>
+<fanart>https://image.ibb.co/iEA3Qw/fondo_sagas.jpg</fanart>
+</item>
+
+<item>
+<title>*** TAQUILLAS ***</title>
+<link>http://ignorame</link>  
+<externallink>https://raw.githubusercontent.com/DavisowGrupo/TvGratis/master/Peliculas/taquillas.xml</externallink>
+<thumbnail>https://image.ibb.co/chAgCb/peliculas.png</thumbnail>
+<fanart>http://www.hendka.com/wp-content/uploads/2016/12/fast-and-furious-8-1.jpg</fanart>
+</item>
+
+<item>
+ <title>Alien: Covenant</title>
+ <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
+ <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg/<fanart>
+ <genre>Ciencia ficción, Terror, Extraterrestres</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Alien: Covenant [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
+    <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FLRQNLM27W</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Rumbo a un remoto planeta al otro lado de la galaxia, la tripulación de la nave colonial Covenant descubre lo que creen que es un paraíso inexplorado, pero resulta tratarse de un mundo oscuro y hostil </info>
+    </regex>
+</item>
+
+<item>
+<title>Annabelle: Creation</title>
+<urlsolve>https://streamango.com/f/ltqflrrldclsmepn/Annabelle_Creation_m1080p_Castellano_mkv</urlsolve>
+<thumbnail>https://s20.postimg.org/44aovrb9p/icnono_anabelle_creation.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w185/nOwmLWIALXrrEldkg9pXckxgNWu.jpg</fanart>
+<genre>Terror, Fantastica</genre>
+<date>2017</date> 
+<info>Varios años después del trágico fallecimiento de su hija, un juguetero que crea muñecas y su mujer, acogen en su casa a una monja enfermera y a un grupo de niñas, tratando de convertir su casa en un acogedor orfanato</info>  
+</item>
+  
+<item>
+<title>American Assassin</title>
+<urlsolve>https://streamango.com/f/sasftfbnrlppmatp/American_Assassin_BR_1080p_Screener_Castellano_mkv</urlsolve>
+<thumbnail>https://s20.postimg.org/k1jnxo2ot/icoo_americaasesin.png</thumbnail>
+<fanart>https://s20.postimg.org/bja7tcblp/fondo_American-_Assassin.jpg</fanart>
+<genre>Acción, Suspense</genre>
+<date>2017</date> 
+<info>Un estudiante ejemplar que, tras la terrible muerte de su novia en una playa a manos de unos terorristas, decide cambiar el rumbo de su vida y dedicarse a la caza de esta clase de delincuentes</info>  
+</item>  
+  
+<item>
+<title>Atomica</title>
+<urlsolve>https://streamango.com/f/rmbpqoeelbbanfnl/Atomicaa_m1080p_Castellano_mkv_mp4</urlsolve>
+<thumbnail>https://s20.postimg.org/3xu8kdb25/icono_atomica.png</thumbnail>
+<fanart>https://s20.postimg.org/xprazjq5p/fondo_atomica.jpg</fanart>
+<genre>Acción, Thriller, Espionaje</genre>
+<date>2017</date> 
+<info>Año 1989, el muro de Berlín está a punto de caer. Un agente del MI6 encubierto aparece muerto y la espía Lorraine Broughton (Charlize Theron) debe encontrar por todos los medios una lista</info>  
+</item>  
+
+<item>
+ <title>Barry Seal El traficante</title>
+ <thumbnail>https://s20.postimg.org/3x6axiuod/icono_barry.png</thumbnail>
+ <fanart>https://s20.postimg.org/uv07z97lp/fondo_barry.jpg</fanart>
+ <genre>Thriller, Acción, Comedia</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Barry Seal El traficante [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/3x6axiuod/icono_barry.png</thumbnail>
+    <fanart>https://s20.postimg.org/uv07z97lp/fondo_barry.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FLRD2EXD9S</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Basada en la vida real de Barry Seal, un expiloto que se convirtió en un importante narcotraficante en el cartel de Medellín y que acabó siendo reclutado por la CIA y el departamento de inteligencia de la DEA.</info>
+    </regex>
+</item>
+  
+<item>
+<title>Baywatch: Los vigilantes de la playa</title>
+<urlsolve>https://streamango.com/f/cmalecmdbsboeqqp/B4ywatc1_2017_V_Extendida_m1080p_mkv</urlsolve>
+<thumbnail>https://s20.postimg.org/rowttvw1p/icono_baywatc.png</thumbnail>
+<fanart>https://s20.postimg.org/pkcgsp78t/fondo_baywatch.jpg</fanart>
+<genre>Accion, Comedia</genre>
+<date>2017</date> 
+<info>Adaptación al cine de la serie "Los vigilantes de la playa". Narra la historia del esforzado socorrista Mitch Buchannon (Johnson) y su choque de carácter con un bravucón socorrista novato (Efron). Juntos, descubren una trama delictiva local que amenaza el futuro de la Bahía</info>  
+</item>  
+  
+<item>
+ <title>Cars 3</title>
+ <thumbnail>https://s20.postimg.org/864lge7n1/icono_car3.png</thumbnail>
+ <fanart>https://s20.postimg.org/v7l6m4rv1/fondo_cars3.jpg</fanart>
+ <genre>Animacion, Coches, Infantil</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Cars 3 [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/864lge7n1/icono_car3.png</thumbnail>
+    <fanart>https://s20.postimg.org/v7l6m4rv1/fondo_cars3.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FLA5D14Y9M</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Rayo McQueen sigue siendo el mejor coche de carreras del mundo, pero ahora que es uno de los más veteranos del circuito, debe demostrar a todo el mundo que aún puede ganar una gran carrera y que no necesita jubilarse</info>
+    </regex>
+</item>
+  
+<item>
+<title>Deadpool</title>
+<urlsolve>https://streamango.com/f/sqqmmsaootpffepk/n</urlsolve>
+<thumbnail>https://s20.postimg.org/7l9zqalsd/icono_Deadpoll.png</thumbnail>
+<fanart>https://s20.postimg.org/7y1dwgwcd/fondo_Deadpool.jpg</fanart>
+<genre>Aventura, Acción, Comedia</genre> 
+<info>Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida,</info> 
+<date>2016</date> 
+</item>  
+  
+<item>
+ <title>Déjame Salir</title>
+ <thumbnail>https://s20.postimg.org/qylk4icj1/icono_dejame_salir.png</thumbnail>
+ <fanart>https://www962.playercdn.net/thumb/1/171114/297FLHKZD30YXP7YGTERY.jpg</fanart>
+ <genre>Terror, Misterio, Suspense</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Déjame Salir [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/qylk4icj1/icono_dejame_salir.png</thumbnail>
+    <fanart>https://www962.playercdn.net/thumb/1/171114/297FLHKZD30YXP7YGTERY.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FLHKYP82V0</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris y su novia Rose ha llegado el momento de conocer a los futuros</info>
+    </regex>
+</item>
+  
+<item>
+<title>El círculo</title>
+<urlsolve>https://streamango.com/f/spoebabcdmbcfmer/n</urlsolve>
+<thumbnail>https://s20.postimg.org/p1kp5dasd/icono_elcirculo.png</thumbnail>
+<fanart>https://s20.postimg.org/r6526ihkt/fondo_elcirculo.jpg</fanart>
+<genre>Drama, Suspense</genre> 
+<info>El día que Mae Holland es contratada para trabajar en el Círculo, la empresa de internet más influyente del mundo, sabe que se le ha concedido la oportunidad de su vida. A través de un innovador sistema operativo, el Círculo unifica direcciones de email, perfiles de redes sociales, operaciones bancarias y contraseñas</info> 
+<date>2017</date> 
+</item>  
+
+<item>
+<title>El lobo de Wall Street</title>
+<urlsolve>https://streamango.com/f/qfrarfclqslcltna/n</urlsolve>
+<thumbnail>https://s20.postimg.org/r9yf3ndwt/icono_lobo_wall.png</thumbnail>
+<fanart>https://www.diariocritico.com/fotos/1/290346_el-lobo-de-wall-street-poster-promocional.jpg</fanart>
+<genre>Comedia, Drama, Biográfico</genre> 
+<info>Película basada en hechos reales del corredor de bolsa neoyorquino Jordan Belfort (Leonardo DiCaprio). A mediados de los años 80, Belfort era un joven honrado que perseguía el sueño americano, pero pronto en la agencia de valores aprendió </info> 
+<date>2013</date> 
+</item>
+  
+<item>
+<title>El ultimo cazador de brujas</title>
+<urlsolve>https://streamango.com/f/ltoadprpokbbclfq/n</urlsolve>
+<thumbnail>https://s20.postimg.org/681p42y3h/icono_elultimocazadordebrujas.png</thumbnail>
+<fanart>https://s20.postimg.org/55riljmzx/fondo_elultimo_cazador_de_brujas.jpg</fanart>
+<genre>Aventura, Fantasía, Acción</genre> 
+<info>En plena guerra de las brujas contra los humanos, los cazadores de brujas están dispuestos a pararles los pies. Uno de estos valientes cazadores es Kaulder (Vin Diesel), que consigue matar a la todopoderosa Reina Bruja, diezmando así a sus devotos seguidores.</info> 
+<date>2015</date> 
+</item>
+
+<item>
+<title>Fast & Furious 8</title>
+<urlsolve>https://streamango.com/f/nfptkpotolnnttlq/F45tfur10s_BRScreener_mkv</urlsolve>
+<thumbnail>https://s20.postimg.org/o06obe7rh/icono_fast_furius8.png</thumbnail>
+<fanart>http://www.hendka.com/wp-content/uploads/2016/12/fast-and-furious-8-1.jpg</fanart>
+<genre>Accion, Triller</genre> 
+<info>Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente</info> 
+<date>2017</date> 
+</item> 
+  
+<item>
+<title>John Wick (Otro día para matar)</title>
+<urlsolve>https://streamango.com/f/sbdtfcrooeloqdrm/n</urlsolve>
+<thumbnail>https://s20.postimg.org/4bvkk1fr1/icono_jonwick1.png</thumbnail>
+<fanart>https://s20.postimg.org/8xrosdtkd/fondo_jonwick1.jpg</fanart>
+<genre>Acción, Suspense, Crimen</genre> 
+<info>En Nueva York, John Wick, un asesino a sueldo retirado, vuelve otra vez a la acción para vengarse de los gángsters que le quitaron todo.</info> 
+<date>2014</date> 
+</item>
+  
+<item>
+<title>John Wick: Pacto de sangre</title>
+<urlsolve>https://streamango.com/f/kcpspmqnakdemdrf/n</urlsolve>
+<thumbnail>https://s20.postimg.org/pa1qhs02l/icono_jonwick2.png</thumbnail>
+<fanart>https://s20.postimg.org/t6f2drdcd/fondo_jonwick2.jpg</fanart>
+<genre>Acción, Suspense, Crimen</genre> 
+<info>El legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre, John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo.</info> 
+<date>2017</date> 
+</item>   
+  
+<item>
+<title>La autopsia de Jane Doer</title>
+<urlsolve>https://streamango.com/f/mqtqbrdonntmeadb/n</urlsolve>
+<thumbnail>https://s20.postimg.org/5ynjde3e5/icono_laautopsiadejane.png</thumbnail>
+<fanart >http://pelisdanko.com/img/movie.posters/w185/1AiWyquYKmK2CZW30jOmZSa4fdb.jpg</fanart>
+<genre>Terror, Triller, Misterio</genre> 
+<info>El dueño de una funeraria de una pequeña localidad y su hijo, que trabaja con él, reciben un día el cadáver de la víctima de un misterioso crimen: una bella joven que no tiene ninguna causa aparente de muerte.</info> 
+<date>2016</date> 
+</item>  
+
+<item>
+<title>La guerra del planeta de los simios</title>
+<urlsolve>https://streamango.com/f/oaqcmnmlfcofrtsp/W4ROF4P3S20171080p_mp4</urlsolve>
+<thumbnail>https://s20.postimg.org/l8nekltrh/icono_laguerradelasmono.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/-4XhiKFe1Ik/maxresdefault.jpg</fanart>
+<genre>Ciencia ficción, Aventuras, Bélico</genre> 
+<info>César y sus monos son forzados a encarar un conflicto mortal contra un ejército de humanos liderado por un brutal coronel. Después de sufrir pérdidas enormes, César lucha con sus instintos más oscuros</info> 
+<date>2017</date>  
+</item > 
+  
+<item>
+ <title>Logan</title>
+ <thumbnail>https://s20.postimg.org/m621ux20t/icono_loga.png</thumbnail>
+ <fanart>https://s20.postimg.org/nxv0ptdnx/fondo_logan.jpg</fanart>
+ <genre>Accion, Comic, Superheroes</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Logan [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/m621ux20t/icono_loga.png</thumbnail>
+    <fanart>https://s20.postimg.org/nxv0ptdnx/fondo_logan.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FJSNU6RDGQ</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Sin sus poderes, por primera vez, Wolverine es verdaderamente vulnerable. Después de una vida de dolor y angustia, sin rumbo y perdido en el mundo donde los X-Men son leyenda</info>
+    </regex>
+</item>  
+
+<item>
+<title>Los minions</title>
+<urlsolve>https://streamango.com/f/omdfokcobqmfscrn/n</urlsolve>
+<thumbnail>https://s20.postimg.org/laao04yb1/icono_minion.png</thumbnail>
+<fanart>https://s20.postimg.org/5otcg6en1/fondo_minions.jpg</fanart>
+<genre>Animación, Comedia, Cine familiar</genre> 
+<info>La historia de Los Minions se remonta al principio de los tiempos. Empezaron siendo organismos amarillos unicelulares que evolucionaron a través del tiempo, poniéndose siempre al servicio de los amos más despreciables</info> 
+</item> 
+  
+<item>
+<title>Marea Negra</title>
+<urlsolve>https://streamango.com/f/pkebkonmedfccreq/n</urlsolve>
+<thumbnail>https://s20.postimg.org/wmej9ubr1/icono_marea_negra.png</thumbnail>
+<fanart>https://image.ibb.co/hza9fw/fondomareanegra.jpg</fanart>
+<genre>Accion, Drama</genre> 
+<info>Basado en los eventos sucedidos en el Golfo de México en abril del 2010, cuando un accidente en un oleoducto causó una catástrofe que mató a 11 personas e hirió a otras 16, provocando además una de las catástrofes medioambientales más graves causadas por el hombre.</info> 
+<date>2016</date>  
+</item> 
+  
+<item>
+<title>Objetivo: Londres</title>
+<urlsolve>https://streamango.com/f/polmsnpoolqqdpde/n</urlsolve>
+<thumbnail>https://s20.postimg.org/j8an4z6wd/icono_objetivolondres.png</thumbnail>
+<fanart>https://s20.postimg.org/dk4ce2uu5/fondo_objetivolondres.jpg</fanart>
+<genre>Accion, Suspense</genre> 
+<info>En un mundo gobernado por la injusticia y el caos, aparece la figura del presidente de los Estados Unidos que junto a su portavoz Trumbull, liderarán una lucha interna por las libertades de todos los americanos. Sin embargo, se producirá un intento de derrocamiento por parte de fuerzas espías para acabar con el primer ministro inglés</info> 
+<date>2016</date>  
+</item>   
+  
+<item>
+<title>Passengers</title>
+<urlsolve>https://streamango.com/f/dfrsanrsntlrqefb/n</urlsolve>
+<thumbnail>https://s20.postimg.org/3zbizro6l/icono_passengers.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/8JuGv5xI52w/maxresdefault.jpg</fanart>
+<genre>Ciencia ficción, Aventuras, Drama, Romance</genre> 
+<info>Una nave espacial, que viaja a un planeta lejano transportando a miles de personas, tiene una avería en una de las cápsulas de hibernación tras el impacto con un gran meteorito. Como resultado, un pasajero se despierta noventa años antes del final del viaje.</info> 
+<date>2016</date> 
+</item>
+  
+ <item>
+<title>Piratas del Caribe: La venganza de Salazar</title>
+<urlsolve>https://streamango.com/f/ebsplfppnrnanqca/n</urlsolve>
+<thumbnail>https://s20.postimg.org/m78d0fm4t/icono_piratas_salazar.png</thumbnail>
+<fanart>https://s20.postimg.org/6yifmrfml/fondo_piratas.jpg</fanart>
+<genre>Aventura, Fantasía, Acción</genre> 
+<info>Empujado hacia una nueva aventura, un sumamente desafortunado Jack Sparrow descubre que los vientos de los malos augurios soplan incluso más fuerte cuando los mortales piratas fantasma liderados por su viejo enemigo, el capitán Salazar, escapan del Triángulo del Diablo</info> 
+<date>2017</date> 
+</item>  
+  
+<item>
+ <title>Spider-Man: Homecoming</title>
+ <thumbnail>https://s20.postimg.org/f1k8lkht9/icono_Spider_Man_De_Regreso_a_Casa_Homecoming.png</thumbnail>
+ <fanart>https://s20.postimg.org/n72ajpycd/fondo_spider-man-homecoming.jpg</fanart>
+ <genre>Accion, Comic, Superheroes</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Spider-Man: Homecoming [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/f1k8lkht9/icono_Spider_Man_De_Regreso_a_Casa_Homecoming.png</thumbnail>
+    <fanart>https://s20.postimg.org/n72ajpycd/fondo_spider-man-homecoming.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FLFLEKMZ92</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Peter Parker (Tom Holland) comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores</info>
+    </regex>
+</item>
+  
+<item>
+ <title>The Covenant</title>
+ <thumbnail>https://s20.postimg.org/ht3ic6vrh/icono_The_Covenant.png</thumbnail>
+ <fanart>https://s20.postimg.org/z6dsr1bn1/fondo_The_Covenant.jpg</fanart>
+ <genre>Terror, Misterio, Suspense</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>The Covenant [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/ht3ic6vrh/icono_The_Covenant.png</thumbnail>
+    <fanart>https://s20.postimg.org/z6dsr1bn1/fondo_The_Covenant.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FL8R8UTZNP</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Tras la trágica muerte de su marido e hija, Sarah Doyle se muda de regreso a su casa de la infancia con su hermano distanciado, Richard</info>
+    </regex>
+</item>
+
+
+<item>
+<title>The Devil's Dolls</title>
+<urlsolve>https://ok.ru/video/275609946758</urlsolve>
+<thumbnail>https://s20.postimg.org/dmf19d6ul/icono_thedevilsdolls.png</thumbnail>
+<fanart>http://hdfull.tv/tthumb/172x256/movie_5cb2c0c0f97ae76a41583ac79059ea0b.jpg</fanart>
+<genre>Terror, Sobrenatural</genre> 
+<info>Henry Leonard Bale, un brutal asesino en serie, muere en manos de la policía, pero su legado sigue con vida. Cuando una cadena de crímenes atroces se desata en un tranquilo pueblo, el detective Matt Williams descubre algo aparentemente imposible: todas las muertes tienen su origen en un juego </info> 
+<date>2016</date> 
+</item> 
+  
+<item>
+<title>The Saint</title>
+<urlsolve>https://streamango.com/f/fqqqqntoalamekkn/n</urlsolve>
+<thumbnail>https://s20.postimg.org/gbjha7q0t/icono_thesaint.png</thumbnail>
+<fanart>https://s20.postimg.org/v7i0hstpp/fondo_thesaint.jpg</fanart>
+<genre>Accion, Aventuras</genre> 
+<info>El internacional ladrón maestro, Simon Templar, también conocido como El Santo, es pedido por un hombre rico desesperado para encontrar a su hija secuestrada. Sin embargo, además de evadir a las autoridades, Simon debe enfrentarse a un peligroso adversario de su pasado.</info> 
+<date>2017</date> 
+</item>  
+  
+
+<item>
+ <title>Transformers: El último caballero</title>
+ <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
+ <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
+ <genre>Acción, Aventuras, Ciencia ficción</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Transformers: El último caballero [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
+    <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FKTL5ZGTCH</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra</info>
+    </regex>
+</item>  
+  
+<item>
+<title>Wonder Woman</title>
+<urlsolve>https://streamango.com/f/stpdkaoosefoqles/w0nd3r_w0m4n_2017_hdrip_720p_castellano_mp4</urlsolve>
+<thumbnail>https://s20.postimg.org/hcnea7o71/icono_wonder_woman.png</thumbnail>
+<fanart>https://s20.postimg.org/wldbnza5p/fondo_wonderwoman.jpg</fanart>
+<genre>Fantástico, Acción, Bélico., Aventuras, Superhéroes, Cómic</genre> 
+<info>Antes de ser Wonder Woman (Gal Gadot) era Diana, princesa de las Amazonas, entrenada para ser una guerrera invencible. Diana fue criada en una isla paradisíaca protegida.</info> 
+<date>2017</date>
+</item> 
+  
+<item>
+<title>xXx: Reactivated</title>
+<urlsolve>https://streamango.com/f/kqebefleqrrdnsoq/n</urlsolve>
+<thumbnail>https://s20.postimg.org/wb69o3ci5/icono_xxxreac.png</thumbnail>
+<fanart>https://s20.postimg.org/4b263v6hp/fondo_xxx.jpg</fanart>
+<genre>Aventura, Accion, Suspense</genre> 
+<info>La película gira en torno al regreso de Xander Cage, a quien todos creían muerto. Cage, alias xXx (Triple X), es un rebelde amante de los deportes extremos que adora romper las leyes y que por ello acaba siendo atrapado por las autoridades de EE.UU.</info> 
+<date>2017</date>
+</item>  
+  
