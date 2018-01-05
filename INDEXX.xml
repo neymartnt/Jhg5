@@ -2,6 +2,132 @@
 
 
 
+
+<item>
+<title>[COLOR gold]PARTNER TEAM VIPSECRET[/COLOR]</title>
+<link>rs</link>
+<thumbnail>https://i.imgur.com/k049nJD.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]DONATION PAYPAL.ME/[COLOR blue]TEAM[/COLOR][COLOR blue]VIPSECRET[/COLOR]
+[COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+
+
+<item>
+<title>[COLOR white]DONATION PAYPAL.ME/[COLOR blue]TEAM[/COLOR][COLOR gold]VIPSECRET[/COLOR]</title>
+<link>rs</link>
+<thumbnail>https://i.imgur.com/k049nJD.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<jsonrpc>plugin://script.module.donation</jsonrpc>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]DONATION PAYPAL.ME/[COLOR blue]TEAM[/COLOR][COLOR blue]VIPSECRET[/COLOR]
+[COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+
+
+<item>    
+<title>[COLOR blue]RS[/COLOR]IPTV CLEANER</title>
+<link>rs</link>
+<jsonrpc>plugin://script.rsmaintenance/?mode=fullclean</jsonrpc>
+<thumbnail>http://i.imgur.com/w6QokOw.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR blue]RS[/COLOR]IPTV SPORTS</title>
+<thumbnail>http://i.imgur.com/Xl2OBFr.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<link>rs</link>
+<jsonrpc>plugin://plugin.video.rsiptv/?fanart=https://i.imgur.com/14f6IoJ.jpg&amp;mode=1&amp;name=[COLOR blue]RS[/COLOR]IPTV SPORTS&amp;url=https://goo.gl/dPjGz3</jsonrpc>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+<item>    
+<title>[COLOR blue]M[/COLOR]OBDRO</title>
+<link>rs</link>
+<jsonrpc>plugin.video.rsiptv/?fanart=http://i.imgur.com/14f6IoJ.jpg&amp;mode=1&amp;name=[COLOR blue]M[/COLOR]OBDRO&amp;url=http://goo.gl/Te1kwV</jsonrpc>
+<thumbnail>http://i.imgur.com/qv1AlCH.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR blue]RS[/COLOR]IPTV LIVETV</title>
+<thumbnail>https://i.imgur.com/ULgLPgQ.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<link>rs</link>
+<jsonrpc>plugin://plugin.video.rsiptv/?fanart=http://i.imgur.com/14f6IoJ.jpg&amp;mode=1&amp;name=[COLOR blue]RS[/COLOR]IPTV LIVETV&amp;url=https://goo.gl/GNjPG6</jsonrpc>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]RS[/COLOR]IPTV MOVIES</title>
+<thumbnail>http://i.imgur.com/bt1eEQM.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<link>rs</link>
+<jsonrpc>plugin://script.module.rsiptvm/</jsonrpc>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR blue]RS[/COLOR]IPTV TVSHOWS</title>
+<thumbnail>http://i.imgur.com/GkEEAOx.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<link>rs</link>
+<jsonrpc>plugin://script.module.rsiptvt/</jsonrpc>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR blue]RS[/COLOR]IPTV MUSIC</title>
+<thumbnail>http://i.imgur.com/2TRCNTC.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<link>rs</link>
+<jsonrpc>plugin://plugin.video.rsiptv/?fanart=http://i.imgur.com/14f6IoJ.jpg&amp;mode=1&amp;name=[COLOR blue]RS[/COLOR]IPTV MUSIC&amp;url=http://goo.gl/WpKS7q</jsonrpc>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+item>
+<title>[COLOR blue]RS[/COLOR]IPTV WORLD CAMS</title>
+<thumbnail>https://i.imgur.com/hFchzSb.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<link>rs</link>
+<jsonrpc>plugin://plugin.video.rsiptv/?fanart=http://i.imgur.com/14f6IoJ.jpg&amp;mode=1&amp;name=[COLOR blue]RS[/COLOR]IPTV WORLD CAMS&amp;url=https://goo.gl/3jTXhf</jsonrpc>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+ <item>    
+<title>[COLOR blue]RS[/COLOR]IPTV WIZARD</title>
+<link>rs</link>
+<jsonrpc>plugin://script.rsmaintenance/?mode=builds</jsonrpc>
+<thumbnail>http://i.imgur.com/vMhp6tD.png</thumbnail>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
+
+ <item>    
+<title>[COLOR blue]T[/COLOR]WITTER/[COLOR blue]RS[/COLOR]IPTV </title>
+<link>rs</link>
+<jsonrpc>plugin://script.rsmaintenance/?mode=contact</jsonrpc>
+<thumbnail>https://i.imgur.com/mCcfS3e.png</thumbnail>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item
+
+
+<item>
+<title>[COLOR blue]TESTZONE[/COLOR]</title>
+<thumbnail>http://i.imgur.com/YhsyifG.png</thumbnail>
+<fanart>http://i.imgur.com/14f6IoJ.jpg</fanart>
+<link>rs</link>
+<jsonrpc></jsonrpc>
+<info>[COLOR blue]RS[/COLOR]IPTV [COLOR white]Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+</item>
+
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] VIDEOCLUB [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
