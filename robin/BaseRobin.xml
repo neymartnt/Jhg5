@@ -4,6 +4,62 @@
 
 
 
+<item>
+<title>[COLOR red][B]Netflix Series:[/B][/COLOR] [COLOR yellow]Orden Alfabetico[/COLOR] [COLOR violet][I](Nuevo)[/I][/COLOR]</title>
+ <link>$doregex[makelist3]</link>
+ 
+ <regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyblue][B][makelist3.param1][/B][/COLOR]</title>
+ <link>$doregex[makelist2]</link>
+<thumbnail>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</thumbnail><fanart>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</fanart>
+]]></listrepeat>
+<expres>series-letra-(.*?).html</expres>
+<page>http://www.mejortorrent.com/series-letra-t.html</page>
+ </regex>
+ 
+
+ 
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyblue][makelist2.param2][makelist2.param3][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</thumbnail><fanart>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg/fanart>    
+]]></listrepeat>
+<expres>href=\'(.*?)\'>(.*?)\ʨ.*?)<</expres>
+<page>http://www.mejortorrent.com/series-letra-[makelist3.param1].html</page>
+ </regex>
+
+  
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR deepskyblue] [makelist2.param2] - capitulo [makelist.param2][/COLOR]</title>
+<link>plugin://plugin.video.quasar/play?uri=http://www.mejortorrent.com$doregex[link]</link>
+><thumbnail>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</thumbnail><fanart>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg/fanart>       
+]]></listrepeat>
+<expres>solid\sblack.*href='(.*?)'>(.*?)<</expres>
+<page>http://www.mejortorrent.com/[makelist2.param1]</page>
+ </regex>
+
+<regex>
+<name>link</name>
+<expres>href='(.*?torrent)'</expres>
+<page>http://www.mejortorrent.com/$doregex[link2]</page>
+</regex>
+<thumbnail>[makelist.param2]</thumbnail>     
+<regex>
+<name>link2</name>
+<expres>Torrent.*?href='(.*?)'</expres>
+<page>http://www.mejortorrent.com/[makelist.param1]</page>
+</regex>
+<thumbnail>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</thumbnail>
+<fanart>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg/fanart>
+</item>
+
 
 
 
