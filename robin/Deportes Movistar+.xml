@@ -1,0 +1,1110 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channel>
+<name>             [COLOR goldenrod]<<<<<<<<<[/COLOR][COLOR darkcyan]][B][DEPORTES MOVISTAR[/B][/COLOR][COLOR goldenrod]>>>>>>>>[/COLOR]</name>
+    <thumbnail>http://logok.org/wp-content/uploads/2014/06/Movistar-logo-M.png</thumbnail>
+     <fanart>http://www.fonditos3d.com/Imagenes/jugador-de-futbol-3d.jpg</fanart>
+ <items>
+ 
+
+<item>
+<title>                        [COLOR=goldenrod]*~*~*    [/COLOR][B][COLOR blue] ESTRENOSTV  [/COLOR][/B]    [COLOR=goldenrod] *~*~*[/COLOR]</title>
+   <link>ignorme</link>
+     <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/cinestrenostv.cfg&amp;mode=1</jsonrpc>
+	   <fanart>http://images.all-free-download.com/images/graphiclarge/blue_background_200541.jpg</fanart>
+         <thumbnail>http://www.qviart.com/images/portada2/DVB-T.png</thumbnail>
+    </item>
+
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/GH/1.html</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    gran hermano 17 online  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img/ghvip.png</thumbnail>
+   <info>canal plus   </info>
+ </item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve1.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    ver la primera tve 1 online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img/tve1.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+	
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve2.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    ver la segunda tve 2 online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//tve2.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve24h.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    tve 24h online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//24h.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/antena-3.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    antena 3 online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//antena3.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-cuatro.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    cuatro online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//cuatro.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/telecinco.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    telecinco online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//telecinco.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/la-sexta.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    la sexta online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//sexta.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/nova.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    antena 3 nova online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//nova.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/divinity.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+  <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    divinity online en directo  [/B][/COLOR]</title>
+   <thumbnail>http://cinestrenostv.tv/img//divinity.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/astreseries.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    astreseries online en directo  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//atreseries.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/bemad.php</sportsdevil>
+ <referer>http://cinestrenostv.tv/</referer>
+   <title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    BE MAD Online Gratis  [/B][/COLOR]</title>
+    <thumbnail>http://cinestrenostv.tv/img//bemad.png</thumbnail>
+  <info>canal plus   </info>
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/energy.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal energy online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//energy.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/cosmo.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal cosmopolitan online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//cosmo.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/fdf.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    factoria de ficcion fdf online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//fdf.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/neox.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    neox online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//neox.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/mega.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    mega en directo y online  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//mega.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/ten.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    ten en directo y online  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//ten.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/mtv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    mtv espaÃ±a online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//mtv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/40tv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    40 tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//40tv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/dkiss.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    dkiss online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//dkiss.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/fox.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    la fox online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//fox.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/foxcrime.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    fox crime online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//foxlife.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/tnt.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal tnt online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//tnt.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/axn.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    axn online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//axn.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/axnwhite.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    axn white online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//axnwhite.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/calle13.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal calle 13 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//calle13.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal syfy online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//syfy.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal amc online en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//amc.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/tcm.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    tcm online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//tcn.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/holliwood.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal holliwood online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//holliwood.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/p-comedy.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    paramount comedy online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//comedycentral.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/p-channel.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    paramount channel online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//paramountchannel.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/dark.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    DARK tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//dark.jpg</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/13tv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    13 tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//13tv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/intereconomia.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    intereconomia punto pelota online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//intereconomia.png</thumbnail>
+<info>canal plus   </info>
+</item>
+			
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/disneyxd.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    disney xd online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//disneyxd.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/boing.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal boing online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//boing.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/clantv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    clan tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//clantv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/disneyjunior.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    disney junior online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//disneyjunior.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/panda.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    panda online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//panda.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/disneychannel.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    disney channel online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//disneychannel.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/cartoon.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    cartoon network online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//cartoon.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/discoverychannel.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    discovery channel online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//discoverychannel.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/discoverymax.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    discovery max espaÃ±a online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//discoverymax.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/nationalgeo.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    national geographic online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//national.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/natgeowill.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    nat geo will online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//natgeo.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/bio.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal ae online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//ae.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/crimeninvestigacion.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    crimen y investigacion online en vivo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//ci.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/historia.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal historia online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//history.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/odisea.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal odisea online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//odisea.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/cazaypesca.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    ver caza y pesca en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//cazapesca.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/iberaliatv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    iberalia online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//iberalia.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/animalplanet.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    animal planet en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//animalplanet.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/cocina.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal cocina en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//cocina.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/viajartv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    viajar tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//viajar.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/documentales/decasa.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    de casa online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//decasa.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/telemadrid.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    telemadrid online en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//telemadrid.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/tv3.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    TV3 online en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//tv3.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/tvcanaria.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    tv canarias online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//tvcanaria.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/teleasturias.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    tele asturias Online Gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//teleasturias.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/super3.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    super 3 Online Gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//33.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/marbella.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    marbella tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//marbellatv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/levantetv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    levante tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//levantetv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/islasbaleares.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    islas baleares tv en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//islasbalearestv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/galiciatv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    galicia tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//galiciatv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/extremadura.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    extremadura tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//extremaduratv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/castillayleon.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    castilla y leon online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//cyl.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/castillalamancha.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    castilla la mancha tv  online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//clm.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/canalsur.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    andalucia tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//andaluciatv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/aragontv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    aragon tv online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//aragontv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/autonomicos/33madrid.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal 33 madrid Online En Directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//33madrid.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/pelis/cine1.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    cine online  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//cine.png</thumbnail>
+<info>canal plus   </info>
+</item>
+	
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/a24.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    A 24 NOTICIAS -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//a24.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/americatv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    AMERICA TV -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//americatv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/telefe.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    telefe -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//telefe.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/eltrece.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    el trece -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//eltrece.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/magazine.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    magazine -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//magazine.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/nueve.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    el nueve -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//nueve.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/lasiete.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    la siete -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//tvpublica.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/tn.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    todo noticias -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//tn.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/brasil/gh1.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    big brother brasil  [/B][/COLOR]</title> src="http://1.bp.blogspot.com/-pWB6vs6YCKo/VKczlbCcCnI/AAAAAAAAc0g/L8jHV-AbQAE/s1600/bbb15_logo_2015.jpg</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/panama/tvn.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    vtn  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//tvn.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/uruguay/vtv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    VTV URUGUAY -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//vtv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/colombia/caracoltv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    CARACOL TV -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//caracoltv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/universal.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    CANAL UNIVERSAL -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//universal.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/hboplus.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    hbo plus -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//hboplus.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/hbolatino.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    hbo latino -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//hbolatino.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/hbolatino2.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    HBO 2 -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//hbo2.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/cinemax.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    cine max -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//cinemax.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<br>	
+<table><tr><td>	
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/mundofox.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    Mundo Fox -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//mundofox.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/cn5.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    C5N -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//c5n.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/space.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    space -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//space.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/argentina/fx.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    FX -LATINOAMERICA  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//fx.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/cmd.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal cmd online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//cmd.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/sky1ger.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    sky 1 ger online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//sky1ger.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/sky2ger.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    sky 2 ger online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//sky2ger.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/sport1.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    sport 1 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//sport1.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance1.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    bein france 1 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//bein1fr.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance2.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    bein france 2 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//bein2fr.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/beinfrance3.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    bein france 3 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/bein3fr.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/nfl/canal1.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    NFL online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/nfl.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/xxx/playboy.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    Playboy Online Gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/playboy.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/hustlertv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    ver hustler tv hd en vivo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/hustlertv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/xxx/penthouse.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    penthouse Online Gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/penthouse.gif</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/xxx/venus.php</sportsdevil><referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    VENUS 1  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/venus.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/xxx/redlight.php</sportsdevil><referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    REDLIGHT  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/redlight.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/xxx/hot.php</sportsdevil><referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    HOT  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/hot.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus online en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//plus0.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-toros.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus toros online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//toros.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/realmadridtv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    Real Madrid Tv Online En Directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//realmadrid.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/barcatv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    barsa Tv Online En Directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//barcatv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/sevillafc.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    sevilla fc gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//sevillafctv.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/teledeporte.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    teledeporte online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//teledeporte.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/nba/canal.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    NBA online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//nba.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    eurosports online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//eurosport.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports2.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    ver eurosports 2 online y en vivo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//eurosport2.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/sport3.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    ver sport 3 online y en vivo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//esport3.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/directv-sports.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    ver directv sports en vivo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//directvsports.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/tycsports.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    tyc sports online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//tyc.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    fox sports online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//foxsports.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports2.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    fox s`ports 2 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//foxsports2.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/espn.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    espn online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//espn.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/espn2.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    espn 2 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//espn2.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/wwwe.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    wwwe online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//wwwe.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/boxnation.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    box nation online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//boxnation.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    bein sport online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//bein.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus liga online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//beinlaliga.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    GOL TV Online Gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//gol.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    futbol online por canal plus liga 2 en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//liga2.png</thumbnail>
+<info>canal plus   </info>
+</item>
+	
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus partidazo online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//partidazo.png</thumbnail>
+<info>canal plus   </info>
+</item>
+	
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus futbol online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//futbol.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus deportes online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//deportes.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus deportes 2 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//deportes2.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus golf online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//golf.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    moto gp online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//motogp.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    formula1 online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//f1.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus estrenos online en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//estrenos.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+</td><td>
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-accion.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus accion online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//accion.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus dcine online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//dcine.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-dcine-español.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus dcine español online en directo gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//dcinen.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-comedia.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    canal plus comedia online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//comedia.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    Canal plus series Online Gratis  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//series.png</thumbnail>
+<info>canal plus   </info>
+</item>
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus-series-xtra.php</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    series xtra online en directo  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img//seriesxtra.png</thumbnail>
+<info>canal plus   </info>
+</item>
+         
+<item><sportsdevil>http://cinestrenostv.tv/programacion/tv.html</sportsdevil> <referer>http://cinestrenostv.tv/</referer><title>[COLOR darkcyan][COLOR deeppink]• [/COLOR][B]    blank  [/B][/COLOR]</title><thumbnail>http://cinestrenostv.tv/img/programacion.png</thumbnail>
+<info>canal plus   </info>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<item>
+<title>[COLOR goldenrod]                                 <<<<  [/COLOR][COLOR blue][B][I]Deportes Movistar[/I][/B][/COLOR][COLOR goldenrod]  >>>>[/COLOR]</title>
+<thumbnail>https://dl.dropbox.com/s/2ahlnkbcywuqv07/icon%20jDR63iptv.png</thumbnail>
+<fanart>http://www.fonditos3d.com/Imagenes/jugador-de-futbol-3d.jpg</fanart>
+<link>#</link>
+</item>
+
+<item>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] Deportes Movistar [/COLOR]</title>
+<thumbnail>http://logok.org/wp-content/uploads/2014/06/Movistar-logo-M.png</thumbnail>
+<fanart>http://www.adslzone.net/app/uploads/2015/03/apertura-movistar-tv-futbol.jpg</fanart>
+<info>Deportes Movistar </info>
+</item>
+
+
+
+<item><sportsdevil>http://cinestrenostv.tv/canales/nacionales/plus1.php</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] canal plus  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/plus0.png</thumbnail>
+<info>canal plus   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/realmadridtv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] Real Madrid Tv  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/realmadrid.png</thumbnail>
+<info>Real Madrid Tv   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/barcatv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] barsa Tv  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/barcatv.png</thumbnail>
+<info>barsa Tv   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/sevillafc.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] sevilla fc  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/sevillafctv.png</thumbnail>
+<info>sevilla fc   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/teledeporte.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] teledeporte  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/teledeporte.png</thumbnail>
+<info>teledeporte   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/nba/canal.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] NBA  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/nba.png</thumbnail>
+<info>NBA   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] eurosports  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/eurosport.png</thumbnail>
+<info>eurosports   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] eurosports 2  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/eurosport2.png</thumbnail>
+<info>eurosports 2  </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/sport3.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] sport 3  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/esport3.png</thumbnail>
+<info>sport 3   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/directv-sports.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] directv sports  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/directvsports.png</thumbnail>
+<info>directv sports   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/tycsports.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] tyc sports  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/tyc.png</thumbnail>
+<info>tyc sports   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] fox sports  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/foxsports.png</thumbnail>
+<info>fox sports   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] fox sports 2  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/foxsports2.png</thumbnail>
+<info>fox sports 2   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/img/espn.png</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] espn  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/espn.png</thumbnail>
+<info>espn   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/espn2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] espn 2  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/espn2.png</thumbnail>
+<info>espn 2   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] bein sport  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/bein.png</thumbnail>
+<info>bein sport   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] bein la liga  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/beinlaliga.png</thumbnail>
+<info>bein la liga   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/goltv.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] GOL TV  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/gol.png</thumbnail>
+<info>GOL TV   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] La liga 123  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/liga2.png</thumbnail>
+<info>La liga 123  </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] canal plus partidazo  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/partidazo.png</thumbnail>
+<info>canal plus partidazo   </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] canal plus futbol  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/futbol.png</thumbnail>
+<info>canal plus futbol  </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] canal plus deportes  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/deportes.png</thumbnail>
+<info>canal plus deportes  </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] canal plus deportes 2  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/deportes2.png</thumbnail>
+<info>canal plus deportes 2  </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] canal plus golf  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/golf.png</thumbnail>
+<info>canal plus golf  </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] moto gp  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/motogp.png</thumbnail>
+<info>moto gp  </info>
+</item>
+ 
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR goldenrod][COLOR blue]• [/COLOR] formula1  [/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/f1.png</thumbnail>
+<info>formula1  </info>
+</item>
+
+<item>
+<sportsdevil>http://verdirectotv.com/tv/nacionales/granhermano17.html</sportsdevil>
+<referer>http://verdirectotv.net/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]gran hermano 17 online[/COLOR]</title>
+<thumbnail>http://cinestrenostv.tv/img/gh17.png</thumbnail>
+<info>gran hermano 17 online  </info> 
+</item>
+
+<item>
+<sportsdevil>http://verdirectotv.net/ver-canal-plus-movistar-cero-hd-en-directo-opcion-2-y-online-las-24h/</sportsdevil>
+<referer>http://verdirectotv.net/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Canal plus cero[/COLOR]</title>
+<thumbnail>http://verdirectotv.com/logos/cero.png</thumbnail>
+<info>Canal plus cero </info> 
+</item>
+
+<item>
+<sportsdevil>http://www.rojadirectatv.tv/movistar-formula-1.php</sportsdevil>
+<referer>http://www.rojadirectatv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Movistar Formula 1 Live [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/70/Logo-f1.png</thumbnail>
+<info>Movistar Formula 1 Live  </info> 
+</item>
+
+<item>
+<sportsdevil>http://vercanalestv.com/tv/nacionales/canal-plus-1.html</sportsdevil>
+<referer>http://vercanalestv.com/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Movistar plus cero[/COLOR]</title>
+<thumbnail>http://oi66.tinypic.com/14u887o.jpg</thumbnail>
+<info>Movistar plus cero </info> 
+</item>
+
+<item>
+<sportsdevil>http://www.vipgoal.net/C+Liga/35576/Canal-plus-liga-en-directo.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]beIN SPORTS La Liga[/COLOR]</title>
+<thumbnail>https://static.beinconnect.es/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
+<info>beIN SPORTS La Liga </info> 
+</item>
+
+<item>
+<sportsdevil>http://latelete.tv/bein-sport-en-directo-gratis-por-internet/</sportsdevil>
+<referer>http://latelete.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]beIN SPORTS ESPAÑA[/COLOR]</title>
+<thumbnail>http://www.satfrequency.com/wp-content/uploads/2015/02/Bein-Sports-Satellite-Frequency.png</thumbnail>
+<info>bein sport en directo gratis por internet </info> 
+</item>
+
+<item>
+<sportsdevil>http://www.vipgoal.net/MovistarF1/35596/Movistar-F1-en-directo.html</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Movistar F1[/COLOR]</title>
+<thumbnail>http://www.plus.es/estaticos/images/canales/png/mf1.png</thumbnail>
+<info> Movistar F1 en directo </info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]beIN Sport MAX1[/COLOR]</title>
+<thumbnail>https://static.beinsportsconnect.es/uploads/beinsports/web/img/logos/logo-beinsports-max-1.png</thumbnail>
+<info> Multi beIN Sport MAX1 online</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal2.html</sportsdevil>
+<referer></referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]beIN Sport MAX2[/COLOR]</title>
+<thumbnail>http://bein.net/en/wp-content/uploads/sites/3/2015/09/MAX2.png</thumbnail>
+<info>Multi beIN Sport MAX2 online</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal3.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]beIN Sport MAX3[/COLOR]</title>
+<thumbnail>http://store1.up-00.com/2016-01/14536724213281.png</thumbnail>
+<info>Multi beIN Sport MAX3 online </info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Movistar Deportes[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/05/Logo-deportes-1.png</thumbnail>
+<info>multideportes </info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal2.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Multideportes1[/COLOR]</title>
+<thumbnail>http://www.plus.es/estaticos/images/canales/png/multideporte-01.png</thumbnail>
+<info>multideportes</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal3.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Multideportes2[/COLOR]</title>
+<thumbnail>http://www.plus.es/estaticos/images/canales/png/multideporte-01.png</thumbnail>
+<info>multideportes</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal4.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Multideportes3[/COLOR]</title>
+<thumbnail>http://www.plus.es/estaticos/images/canales/png/multideporte-01.png</thumbnail>
+<info>multideportes</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Movistar deportes 2[/COLOR]</title>
+<thumbnail>http://vertelevisor.com/imagenes/movistar-deportes-2.png</thumbnail>
+<info>multiliga2</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal2.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Multiliga1[/COLOR]</title>
+<thumbnail>http://epg-ott.telecable.es/canales/big/044.png</thumbnail>
+<info>multiliga2</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal3.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Multiliga2[/COLOR]</title>
+<thumbnail>http://epg-ott.telecable.es/canales/big/044.png</thumbnail>
+<info>multiliga2</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal4.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]Multiliga3[/COLOR]</title>
+<thumbnail>http://epg-ott.telecable.es/canales/big/044.png</thumbnail>
+<info>multiliga2</info> 
+</item>
+
+<item>
+<sportsdevil>http://www.vercanalestv.com/tv/deportes/multi-liga-2/canal-1.html</sportsdevil>
+<referer>http://www.verpelistv.com/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]MULTI-LIGA 2 / CANAL 1[/COLOR]</title>
+<thumbnail>http://09stream.com/img/liga2.png</thumbnail>
+<info>Toda la Liga 1|2|3 en directo online </info> 
+</item>
+
+<item>
+<sportsdevil>http://www.vercanalestv.com/tv/deportes/multi-liga-2/canal-2.html</sportsdevil>
+<referer>http://www.verpelistv.com/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR] MULTI-LIGA 2 / CANAL 2[/COLOR]</title>
+<thumbnail>http://09stream.com/img/liga2.png</thumbnail>
+<info>Toda la Liga 1|2|3 en directo online</info> 
+</item>
+
+<item>
+<sportsdevil>http://www.vercanalestv.com/tv/deportes/multi-liga-2/canal-3.html</sportsdevil>
+<referer>http://www.verpelistv.com/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR] MULTI-LIGA 2 / CANAL 3[/COLOR]</title>
+<thumbnail>http://09stream.com/img/liga2.png</thumbnail>
+<info>Toda la Liga 1|2|3 en directo online</info> 
+</item>
+
+<item>
+<sportsdevil>http://www.vercanalestv.com/tv/deportes/multi-liga-2/canal-4.html</sportsdevil>
+<referer>http://www.verpelistv.com/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR] MULTI-LIGA 2 / CANAL 4[/COLOR]</title>
+<thumbnail>http://09stream.com/img/liga2.png</thumbnail>
+<info>Toda la Liga 1|2|3 en directo online</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]LaLiga 1|2|3 Multi 1[/COLOR]</title>
+<thumbnail>http://www.tvenganchado.com/favicon.png</thumbnail>
+<info> Los Partidos de la LaLiga 1|2|3 se ponen 5 minutos antes de su Principio</info>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal2.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]LaLiga 1|2|3 Multi 2[/COLOR]</title>
+<thumbnail>http://www.tvenganchado.com/favicon.png</thumbnail>
+<info> Los Partidos de la LaLiga 1|2|3 se ponen 5 minutos antes de su Principio</info> 
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal3.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]LaLiga 1|2|3 Multi 3[/COLOR]</title>
+<thumbnail>http://www.tvenganchado.com/favicon.png</thumbnail>
+<info> Los Partidos de la LaLiga 1|2|3 se ponen 5 minutos antes de su Principio</info> 
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal4.html</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]LaLiga 1|2|3 Multi 4[/COLOR]</title>
+<thumbnail>http://www.tvenganchado.com/favicon.png</thumbnail>
+<info> Los Partidos de la LaLiga 1|2|3 se ponen 5 minutos antes de su Principio</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil>
+<referer>http://www.p2p4u.net/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]F1 online en directo gratis formula 1[/COLOR]</title>
+<thumbnail>http://latelete.tv/img/f1.png</thumbnail>
+<info> Movistar Fórmula1 es un canal de televisión español de pago,Movistar+</info> 
+</item>
+
+<item>
+<sportsdevil>http://www.downloadplayer1.com/FirstRowSport/?title=El%20dia%20del%20Futbol</sportsdevil>
+<referer>http://www.p2p4u.net/</referer>
+<title>[COLOR orange][COLOR blue]• [/COLOR]El dia del Futbol[/COLOR]</title>
+<thumbnail>http://www.movistarplus.es/recorte/n/caratula4/F3223938</thumbnail>
+<info> online</info> 
+</item>
+
+</channel>
