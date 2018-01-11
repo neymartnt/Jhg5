@@ -2,6 +2,18 @@
 
 
 
+
+
+ 
+<item>
+<title> [COLOR skyblue]*AdryanList [/COLOR]</title>
+<link>NA</link>
+<externallink>http://adryanlist.info</externallink>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</item>
+ 
+
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] SERVER 12 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -11,84 +23,14 @@
 <item>
 
 
-<item>
-<title>[COLOR red][B]Netflix Series:[/B][/COLOR] [COLOR yellow]Orden Alfabetico[/COLOR] [COLOR violet][I](Nuevo)[/I][/COLOR]</title>
- <link>$doregex[makelist3]</link>
- 
- <regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyblue][B][makelist3.param1][/B][/COLOR]</title>
- <link>$doregex[makelist2]</link>
-<thumbnail>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</thumbnail><fanart>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</fanart>
-]]></listrepeat>
-<expres>series-letra-(.*?).html</expres>
-<page>http://www.mejortorrent.com/series-letra-t.html</page>
- </regex>
- 
-
- 
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyblue][makelist2.param2][makelist2.param3][/COLOR]</title>
- <link>$doregex[makelist]</link>
-<thumbnail>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</thumbnail><fanart>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg/fanart>    
-]]></listrepeat>
-<expres>href=\'(.*?)\'>(.*?)\ʨ.*?)<</expres>
-<page>http://www.mejortorrent.com/series-letra-[makelist3.param1].html</page>
- </regex>
-
-  
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR deepskyblue] [makelist2.param2] - capitulo [makelist.param2][/COLOR]</title>
-<link>plugin://plugin.video.quasar/play?uri=http://www.mejortorrent.com$doregex[link]</link>
-><thumbnail>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</thumbnail><fanart>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg/fanart>       
-]]></listrepeat>
-<expres>solid\sblack.*href='(.*?)'>(.*?)<</expres>
-<page>http://www.mejortorrent.com/[makelist2.param1]</page>
- </regex>
-
-<regex>
-<name>link</name>
-<expres>href='(.*?torrent)'</expres>
-<page>http://www.mejortorrent.com/$doregex[link2]</page>
-</regex>
-<thumbnail>[makelist.param2]</thumbnail>     
-<regex>
-<name>link2</name>
-<expres>Torrent.*?href='(.*?)'</expres>
-<page>http://www.mejortorrent.com/[makelist.param1]</page>
-</regex>
-<thumbnail>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg</thumbnail>
-<fanart>http://www.jeuxactu.com/datas/jeux/d/i/diablo-iii/vn/diablo-iii-51c86d783419d.jpg/fanart>
-</item>
-
-
-
-
-
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] 2 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/robin/basedeportesjulio.xml</externallink>	
-</item> 
-
-
 
 <item>
-<title>[COLOR red]*JHG [/COLOR][COLOR blue] PLUS [/COLOR][COLOR red]  MOVISTAR [/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR yellow] ZONA [/COLOR] [COLOR red] ENTRETENIMIENTO [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
-<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/BASEDEPORTESJHG.xml</externallink>	
+<thumbnail>http://www.nosotrasonline.com.co/Plantillas/NOL/imagenes/entretenimiento/img_entretenimiento.png</thumbnail>
+<fanart>http://www.nosotrasonline.com.co/Plantillas/NOL/imagenes/entretenimiento/img_entretenimiento.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
 </item>
- 
 
  
 
@@ -100,49 +42,17 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>	
 </item>
 
+
+
+
+
+
+
  
 
-<item>
-<title>[COLOR red]* [/COLOR][COLOR blue] FULL  [/COLOR][COLOR red] HD  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.alza.cz/foto/LegendFoto/410190_1.jpg</thumbnail>
-<fanart>https://i.alza.cz/foto/LegendFoto/410190_1.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
-</item>
-
-  
-<item>
-<title>[COLOR red] * [/COLOR][COLOR blue] ESTRENOS [/COLOR] [COLOR red] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.viuvalencia.com/netpublisher/minfo/imagenes/1393_MM_cineverano_lona_not_web-01.jpg</thumbnail>
-<fanart>http://www.viuvalencia.com/netpublisher/minfo/imagenes/1393_MM_cineverano_lona_not_web-01.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/ESTRENOSDIABLO.xml</externallink>	
-</item>
-
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] VIDEOCLUB[/COLOR] [COLOR red] JHG [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://img.ymlp.com/n1cm_logotipo_2.jpg</thumbnail>
-<fanart>http://img.ymlp.com/n1cm_logotipo_2.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CineJHg.xml</externallink>	
-</item>
-
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] EL[/COLOR] [COLOR red] INFIERNO [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</thumbnail>
-<fanart>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/EL%20INFIERNO.xml</externallink>	
-</item>
 
 
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] EL[/COLOR] [COLOR red] INFIERNO 2 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</thumbnail>
-<fanart>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/ELINFIERNO22.xml</externallink>	
-</item>
+
 
 
 <item>
@@ -155,44 +65,7 @@
 
 
 
-<items>	
-<item>
-<title>[COLOR red]* [/COLOR][COLOR blue] ESTRENOS  [/COLOR][COLOR red] 2017  [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-<fanart>http://www.laizquierdadiario.com/IMG/arton10508.png</fanart>
-<thumbnail>http://www.laizquierdadiario.com/IMG/arton10508.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/estrenos-de-cine-2017-65743/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/estrenos-de-cine-2017-65743/list,1,2</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<fanart>http://www.laizquierdadiario.com/IMG/arton10508.png</fanart>
-<thumbnail>http://www.laizquierdadiario.com/IMG/arton10508.png</thumbnail>
-</item>
+
 
 
 
@@ -229,24 +102,8 @@
 
 
 
-<item>
-<title>[COLOR red]* [/COLOR][COLOR blue] JHG [/COLOR][COLOR red] MASTER  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>	
-</item>
+ 
 
- 
- 
-<item>
-<title> [COLOR skyblue]*AdryanList [/COLOR]</title>
-<link>NA</link>
-<externallink>http://adryanlist.info</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
- 
 
  
 
@@ -272,14 +129,6 @@
 </item>
  
 
-
-<item>
-<title>[COLOR red] * [/COLOR][COLOR yellow] ZONA [/COLOR] [COLOR red] ENTRETENIMIENTO [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.nosotrasonline.com.co/Plantillas/NOL/imagenes/entretenimiento/img_entretenimiento.png</thumbnail>
-<fanart>http://www.nosotrasonline.com.co/Plantillas/NOL/imagenes/entretenimiento/img_entretenimiento.png</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
-</item>
 
 
 
