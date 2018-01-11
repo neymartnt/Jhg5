@@ -1,6 +1,142 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+
+
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue] FORMULA1 [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue] NASCAR [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/TheOfficialNASCAR/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue] T[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/FIAFormulaE/</jsonrpc>
+<info></info>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue] TELEDEPORTE [/COLOR] [/B]</title>
+<link>http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue] FIFA TV [/COLOR][/B]</title>
+<link>ignorme</link> 
+<fanart><fanart> 
+<thumbnail></thumbnail> 
+<jsonrpc>plugin://plugin.video.youtube/user/FIFATV/</jsonrpc> 
+<info></info> 
+</item>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]ARENAVISION[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<externallink>https://www.dropbox.com/s/jo3apifrks91795/Arenavision.xml?dl=1</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]1[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<externallink>https://www.dropbox.com/s/ewtbbepuvbx8ym8/MiClubIndex.xml?dl=1</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]LIGA SANTANDER[/COLOR][/B]</title>
+<link>ignorme</link> 
+<fanart><fanart> 
+<thumbnail></thumbnail> 
+<jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc> 
+<info></info> 
+</item>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]NOTICIAS DEPORTIVAS[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<externallink>https://www.dropbox.com/s/9ziapuzu78moaqz/NoticiasDeportivas.xml?dl=1</externallink>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]LA LIGA 123[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail>https://github.com/djliptv/INSOMNIA/blob/master/Pics/InsomniaThumbnail.png?raw=true</thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/LigaAdelante/</jsonrpc> 
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]LIGA ENDESA ACB[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/acbcom/</jsonrpc> 
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]MOVISTAR MINUTO #0[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCmhCSQIhEX6ofes4Y5G4JPg/</jsonrpc> 
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]EL DÍA DESPUÉS[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/eldiadespuesplus/</jsonrpc> 
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]CAZA Y PESCA[/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCl21P-G1j6AsSzXjwqEyHLw/</jsonrpc> 
+<info></info>
+</item>
+
+
 <item>
 <title>[COLOR red]* [/COLOR][COLOR blue] 7 [/COLOR][COLOR red] ** [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -59,7 +195,7 @@
  
 
 <item>
-<title>[COLOR white]*JHG [/COLOR][COLOR white] CINEFLIX [/COLOR]</title>
+<title>[COLOR skyblue]*JHG [/COLOR][COLOR skyblue] CINEFLIX [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
 <fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
@@ -240,7 +376,7 @@
 </item>
 
 <item>
-<title>[COLOR white] ADDONS [/COLOR][COLOR white] AMIGOS 2 [/COLOR]</title>
+<title>[COLOR skyblue] ADDONS [/COLOR][COLOR skyblue] AMIGOS 2 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -268,10 +404,10 @@
  
  
  
- [COLOR white]  [/COLOR]
+ [COLOR skyblue]  [/COLOR]
 
 <item>
-<title>[COLOR white] Zona latina [/COLOR]</title>
+<title>[COLOR skyblue] Zona latina [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -288,7 +424,7 @@
 </item>
 
 <item>
-<title>[COLOR white] SERIES [/COLOR]</title>
+<title>[COLOR skyblue] SERIES [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
 <fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
@@ -307,7 +443,7 @@
 
 
 <item>
-<title>[COLOR white] EN PRUEBAS [/COLOR]</title>
+<title>[COLOR skyblue] EN PRUEBAS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
 <fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
@@ -316,7 +452,7 @@
 
 
 <item>
-<title>[COLOR red]* [/COLOR][COLOR blue] **++k [/COLOR][COLOR red] * [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] **JHGMASTERJHGMASTERk [/COLOR][COLOR red] * [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
