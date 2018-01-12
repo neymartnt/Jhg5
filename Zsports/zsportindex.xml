@@ -6,6 +6,25 @@
 
 
 
+		
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] CANALES DEPORTES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/Zsports/new21.xml</externallink>	
+</item>
+		
+
+ 
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.dipuleon.es/img/File/logo_servicio_de_deportes.jpg</thumbnail>
+<fanart>http://www.dipuleon.es/img/File/logo_servicio_de_deportes.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/new21.xml</externallink> 
+<item>
+
 
 
 
@@ -46,10 +65,10 @@
 </item>
 
 <item>
-<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue]  [/COLOR][/B]</title>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] Onda Cadiz [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCpOz3CN6mDlxkE7-m5AS1aQ</jsonrpc>
 <info></info>
 </item>
