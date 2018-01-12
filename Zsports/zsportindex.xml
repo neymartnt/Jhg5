@@ -8,31 +8,48 @@
 
 
 
-<item>
-<title>[COLOR red]  UFC[/COLOR]</title>
-<link>http://190.57.234.164/V3/6/2.m3u8</link>
-<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
-<title>[COLOR red]  UFC[/COLOR]</title>
-</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=UFC Network&amp;url=http://wachtv.org:8000/live/DemoFullHD/1234/15285.ts</link>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] WWE [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
 <thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/WWEFanNation/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue]  [/COLOR][/B]</title>
+<link>ignorme</link>
 <fanart></fanart>
-</item>
- 
-
-<item>
-<title>[COLOR blue] [I]LIVE FOOTBALL VIDEO[/I] [/COLOR] [COLOR Lime] Live Sports [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livefootballvideo.com.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
+<info></info>
 </item>
 
 <item>
-<title>[COLOR blue] [I]ROJA DIRECTA[/I] [/COLOR] [COLOR red] Live Sports [/COLOR]</title>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] UFC [/COLOR][/B]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/UFC/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] Pesca [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/barracudoguiadepesca/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue]  [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
+<info></info>
 </item>
