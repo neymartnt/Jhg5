@@ -60,12 +60,22 @@
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.youtube/barracudoguiadepesca/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/UC3_ybZX5pvo-bbhFtWHQzRA</jsonrpc>
 <info></info>
 </item>
 
+
+
 <item>
-<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] Onda Cadiz [/COLOR][/B]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Carnavales Cadiz [/COLOR][COLOR red] Youtube[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=WBpphRxPBEI</urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue]  [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
