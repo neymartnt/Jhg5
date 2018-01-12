@@ -3,7 +3,46 @@
 
 
 
+ <item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOTOGP [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                          <title>[COLOR lime] Z Sports [/COLOR][COLOR white]——[makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                       <thumbnail></thumbnail>
+    <fanart></fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=ky-ZyN8BGhs&amp;list=PLAwW2JS8YfRl1w3NWJD0gqhUnucrh59Jd</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+ <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
 
+
+ <item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue]  [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                          <title>[COLOR lime] Z Sports [/COLOR][COLOR white]——[makelist.param1][/COLOR]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                       <thumbnail></thumbnail>
+    <fanart></fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=Gq5FQL8E_1A&amp;list=PLJsHhoQ4W0fn_qUuELnkWQCF3bsn74JvP</page>
+             <cookieJar></cookieJar>
+</regex>
+ 
+ <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
 
 
 		
@@ -17,6 +56,14 @@
 		
 
 
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] EL CHIRINGUITO [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
+<info></info>
+</item>
 
 
 <item>
@@ -29,15 +76,6 @@
 </item>
 
 <item>
-<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue]  [/COLOR][/B]</title>
-<link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
-<info></info>
-</item>
-
-<item>
 <title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] UFC [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
@@ -46,12 +84,24 @@
 <info></info>
 </item>
 
+
 <item>
-<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] Pesca [/COLOR][/B]</title>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] MOTOG GP [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.youtube/channel/UC3_ybZX5pvo-bbhFtWHQzRA</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
+<info></info>
+</item>
+
+
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] PESCA [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc></jsonrpc>
 <info></info>
 </item>
 
@@ -64,20 +114,12 @@
 <fanart></fanart>
 </item>
 
+
 <item>
-<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] 1 [/COLOR][/B]</title>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] Muestra 1 [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/TheBestofUFCandMMA</jsonrpc>
-<info></info>
-</item>
-
-<item>
-<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] 2 [/COLOR][/B]</title>
-<link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCeYa3QaP2n7I8SpGSqD-kUQ</jsonrpc>
 <info></info>
 </item>
