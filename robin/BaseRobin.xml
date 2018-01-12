@@ -5,6 +5,362 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR red]  UFC[/COLOR]</title>
+<link>http://190.57.234.164/V3/6/2.m3u8</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/625.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]  UFC[/COLOR]</title>
+</title><link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=UFC Network&amp;url=http://wachtv.org:8000/live/DemoFullHD/1234/15285.ts</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+
+<item>
+<title>[COLOR blue] [I]LIVE FOOTBALL VIDEO[/I] [/COLOR] [COLOR Lime] Live Sports [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livefootballvideo.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]ROJA DIRECTA[/I] [/COLOR] [COLOR red] Live Sports [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue] [I]LIVE EVENTS[/I] [/COLOR] [COLOR red] Schedule ... Agenda [/COLOR]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR deepskyblue][makelist.param1] •[/COLOR][COLOR blue] [makelist.param2][/COLOR]</title>
+    <link>$doregex[makelist2]</link>
+	<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+]]></listrepeat>
+<expres>(?s)&lt;td.*?&lt;p\s+class.*?&gt;(\d+\:\d+)\s*&lt;.*?class.*?&gt;\s*(.+?)\s*&lt;(.*?)&lt;\/td</expres>
+<page>http://www.stadium-live.biz/</page>
+<referer>http://www.stadium-live.biz/</referer>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getpage</name>
+<expres>$pyFunction:codecs.decode(page_data,'windows-1252').encode('ascii', 'xmlcharrefreplace').replace('&nbsp;', ' ')</expres>
+<page>http://www.stadium-live.biz/</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent>
+<proxy></proxy>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?name=[COLOR lightblue]Stallion-IPTV[/COLOR] [makelist.param2]&amp;streamtype=HLS&amp;url=$doregex[catcher]</link>
+]]></listrepeat>
+<expres>href="(\w+\d+\.html)".+?&gt;(.*?)&lt;</expres>
+<page>[makelist.param3]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>catcher</name>
+<expres><![CDATA[#$pyFunction
+import urllib
+import requests
+import re
+import sys
+import base64
+import urlparse
+import json
+
+def GetLSProData(page_data, Cookie_Jar, m, ref='http://www.stadium-live.biz/[makelist2.param1]'):  
+    print 'stadium_py: ', ref
+    ua = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36'
+    hdrs = {'Referer':ref, 'User-Agent':ua}
+    try:
+        match = re.findall(r'iframe\s+src="(ch_.*?)"', page_data)
+        pge = match[0]
+        print 'stadium_py: ' + pge
+        html = requests.get('http://www.stadium-live.biz/' + pge, headers=hdrs).text
+        match = re.findall(r'src="(http://.*?file=\d*)&', html)
+        pge = match[0]
+        host = urlparse.urlparse(pge).scheme + '://' + urlparse.urlparse(pge).netloc + '/'
+        html =  requests.get(pge + r'&width=800&height=450&autostart=true',  headers=hdrs).text
+        match = re.findall(r'iframe.*?"(http://.*/\S*)"', html)
+        pge = match[0]
+        html = requests.get(pge, headers=hdrs).text
+        #print html
+        vars = re.findall(r'(?s)ajax.*v_cod1:\s*(\w+).*v_cod2:\s*(\w+).*url:\s*(\w+)', html)
+        if vars and len(vars[0]) > 2:
+            cod1 = re.search(vars[0][0] + r'.*?["\'](.+?)["\']', html).group(1)
+            cod2 = re.search(vars[0][1] + r'.*?["\'](.+?)["\']', html).group(1)
+            uri = re.search(vars[0][2] + r'.*?["\'](.+?)["\']', html).group(1)
+            
+        else:            
+            vars =re.findall(r"(?s)function\s+\w+\(\)\{\s*\w+\s*=\s*document.getElementById\('([^']+).*?\w+\s*=\s*document.getElementById\('([^']+).*?\w+\s*=\s*document.getElementById\('([^']+).*?\w+\s*=\s*document.getElementById\('([^']+)", html)
+            #print 'stadium_py: '
+            #print vars
+            if vars and len(vars[0]) > 3:
+                cod1 = re.findall('input\s+type="hidden"\s+id="' + vars[0][0] + '" value="(.*?)"', html)[0]
+                cod2 = re.findall('input\s+type="hidden"\s+id="' + vars[0][1] + '" value="(.*?)"', html)[0]
+                uri = re.findall('input\s+type="hidden"\s+id="' + vars[0][3] + '" value="(.*?)"', html)[0]                
+            
+        uri = host + base64.b64decode(uri) + '?callback=jQuery&v_cod1=' + urllib.quote_plus(cod1) + '&v_cod2=' + urllib.quote_plus(cod2)
+        data = requests.get(uri, headers=hdrs).text
+        streamer = re.findall(r'(http.*?m3u8)', data)[0]
+        streamer = streamer.replace('\\', '')
+
+        return urllib.quote_plus(streamer + '|Referer=' + urllib.quote_plus(pge) + '&User-Agent=' + urllib.quote_plus(ua))
+		
+    except Exception as e:
+        print 'stadium_py: ' +  str(e.message)
+        return "http://no.stream.found"
+
+]]></expres>
+<page>http://www.stadium-live.biz/[makelist2.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>			
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]BRO SPORTS[/I] [/COLOR] [COLOR red] Schedule . Agenda . TuttoSport [/COLOR]</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR blue][makelist.param1] ([makelist.param3])[/COLOR]</title>
+		<link>$doregex[getUrl]</link>
+		<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+        ]]></listrepeat>
+<expres>\n(.*?)<[\w\W\s]{0,15}tuttosportweb.com/(.*?).[\w\W\s]{0,15}blank">(.*?)<</expres>
+<page>http://tuttoserie.blogspot.com/p/daily.html</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+ <regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m, param=''):
+   
+    import requests
+    import re
+    import base64
+   
+    try:
+       
+        id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
+        url = 'http://bro.adca.st/stream.php?id=' + id + '&amp;width=640&amp;height=480'
+        headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://tuttosportweb.com/update/ch1.html'}
+        source = requests.get(url, headers = headers)
+        curl = re.findall('curl = "(.*?)"', source.text)[0]
+        m3u8 = base64.b64decode(curl)
+ 
+        url2 = 'http://bro.adca.st/getToken.php'    
+        headers2 = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
+        source2 = requests.get(url2, headers = headers2)
+        token = re.findall('"token":"(.*?)"', source2.text)[0]
+ 
+        return m3u8 + token + '|Referer=http://cdn.bro.adca.st/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+ 
+    except Exception as e:
+        print 'wizhdsports: Error: '
+        if hasattr(e, 'code'):
+            print str(e.code)              
+        if hasattr(e, 'reason'):
+            print " " + str(e.reason)
+]]></expres>
+<page>http://tuttosportweb.com/update/[makelist.param2].html</page>
+<referer>http://tuttosportweb.com</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<cookieJar></cookieJar>
+</regex>	<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]ARENA VISION[/I] [/COLOR] [COLOR red] Schedule ... Agenda [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR red][makelist.param4][/COLOR][COLOR blue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]All SPORTS[/I] [/COLOR] [COLOR red] Schedule . Agenda . ZemTv Sport365 [/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] [I]WIZ SPORTS[/I] [/COLOR] [COLOR red] Schedule . Agenda [/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR skyblue][makelist.param2][/COLOR] [COLOR blue][makelist.param1][/COLOR]</title>
+   <link>$doregex[makelist2]</link>
+   <referer>http://wizhdsports.com</referer>
+   <thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)class="match".+?class="name">\s*(.+?)\s*<.*?margin.*?>([\d:\s-]+).+?channel.+?>(.+?)<script]]></expres>
+<page>http://wizhdsports.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR red][makelist.param1] [/COLOR] Stream [makelist2.param1]</title>
+    <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)float:left.{4,10}href.+?Stream\s*(\d+)\s*<\/a]]></expres>
+<page>[makelist.param3]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m, param=''):
+   
+    import requests
+    import re
+    import base64
+   
+    try:
+       
+        id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
+        url = 'http://bro.adca.st/stream.php?id=' + id + '&width=640&height=480'
+        headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://wizhdsports.com/live/stream20.php'}
+        source = requests.get(url, headers = headers)
+        curl = re.findall('curl = "(.*?)"', source.text)[0]
+        m3u8 = base64.b64decode(curl)
+ 
+        url2 = 'http://bro.adca.st/getToken.php'    
+        headers2 = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
+        source2 = requests.get(url2, headers = headers2)
+        token = re.findall('"token":"(.*?)"', source2.text)[0]
+ 
+        return m3u8 + token + '|Referer=http://cdn.bro.adca.st/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+ 
+    except Exception as e:
+        print 'wizhdsports: Error: '
+        if hasattr(e, 'code'):
+            print str(e.code)              
+        if hasattr(e, 'reason'):
+            print " " + str(e.reason)
+]]></expres>
+<page>http://wizhdsports.com/live/stream[makelist2.param1].php</page>
+<referer>http://wizhdsports.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR blue] [I]STREAM KING[/I] [/COLOR] [COLOR red] Sports Channels [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<item><title>[COLOR red] [makelist.param3][/COLOR]</title>
+<link>$doregex[hash]|Referer=http://streamking.cc/[makelist.param1]&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+			<regex>
+			<name>hash</name> 
+			<expres>source: '(.*?)'</expres>
+			<page>http://streamking.cc/player?channel=[makelist.param1]&amp;player=clappr</page>
+			<referer>http://streamking.cc</referer>
+			<thumbnail>http://1streamking.co/[makelist.param2]</thumbnail>
+			</regex>
+</item>	
+]]></listrepeat>
+<expres>tv-block[\w\W\s]{0,18}href="/(.*?)"[\w\W\s]{0,48}src="(.*?)"[\w\W\s]{0,27}alt="(.*?)" </expres>
+<page>http://streamking.cc/</page>
+</regex><thumbnail>http://www.delrey.com.sv/wp-content/uploads/2014/05/del-rey-logo1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] .Sport 365.live[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] .Zem TV  PAk TV[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=Paktv%20sports&amp;url=sss</jsonrpc>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue] [I]DIMSPORTS[/I] [/COLOR] [COLOR Lime] Live Sports [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue] .Zem TV  Sports[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=36&amp;name=PV2%20Sports&amp;url=zemsports</jsonrpc>
+<thumbnail>http://www.hdicon.com/wp-content/uploads/2013/04/Miami_Dolphins_1997.png</thumbnail>
+</item>
+
+<item>		
+<title>[COLOR blue][B] .Pro Sports - NFL - MLB - NHL - NBA[/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.prosport</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[B][COLOR grey]+[/COLOR] [COLOR white]RS IPTV[/COLOR][/B]</title>
 <link>ignorme</link>
@@ -103,7 +459,7 @@
 <title>[B][COLOR lime]JHGMASTER[/COLOR] [COLOR skyblue]LA LIGA 123[/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
-<thumbnail>https://github.com/djliptv/INSOMNIA/blob/master/Pics/InsomniaThumbnail.png?raw=true</thumbnail>
+<thumbnail></thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/LigaAdelante/</jsonrpc> 
 <info></info>
 </item>
