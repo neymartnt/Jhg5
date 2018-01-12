@@ -2,6 +2,19 @@
 
 
 
+		
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] CANALES DEPORTES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/Zsports/new21.xml</externallink>	
+</item>
+		
+
+
+
+
 
  <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOTOGP [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
@@ -45,15 +58,7 @@
 </item>
 
 
-		
-<item>
-<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] CANALES DEPORTES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/Zsports/new21.xml</externallink>	
-</item>
-		
+
 
 
 <item>
@@ -96,19 +101,12 @@
 
 
 
-<item>
-<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] PESCA [/COLOR][/B]</title>
-<link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<jsonrpc></jsonrpc>
-<info></info>
-</item>
+
 
 
 
 <item>
-<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] Carnavales Cadiz [/COLOR][COLOR red] Youtube[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] ** [/COLOR][COLOR red] Youtube[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=WBpphRxPBEI</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -150,3 +148,89 @@
 <jsonrpc>plugin://plugin.video.youtube/user/canalmundodeportivo/</jsonrpc>
 <info></info>
 </item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS LA LIGA [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS FCBARCELONA [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/fcbarcelona/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS REAL MADRID [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/realmadridcf/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS FORMULA 1 [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS  [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS  [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS  [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS  [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS  [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc>
+<info></info>
+</item>
+
+
+
+
+
