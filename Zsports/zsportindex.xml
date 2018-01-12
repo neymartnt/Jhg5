@@ -64,12 +64,20 @@
 <fanart></fanart>
 </item>
 
-
 <item>
-<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] Ufc [/COLOR][/B]</title>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] 1 [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/TheBestofUFCandMMA</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] 2 [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCeYa3QaP2n7I8SpGSqD-kUQ</jsonrpc>
 <info></info>
 </item>
