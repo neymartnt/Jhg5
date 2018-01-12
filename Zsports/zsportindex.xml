@@ -116,10 +116,37 @@
 
 
 <item>
-<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] Muestra 1 [/COLOR][/B]</title>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] NOTICIAS DIARIO MARCA [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.youtube/user/TheBestofUFCandMMA</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/user/Marca</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] NOTICIAS DIARIO SPORT [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/eldiariosport</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] NOTICIAS DIARIO AS [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/DIARIOAScom</jsonrpc>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] NOTICIAS DIARIO MUNDO DEPORTIVO [/COLOR][/B]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/canalmundodeportivo</jsonrpc>
 <info></info>
 </item>
