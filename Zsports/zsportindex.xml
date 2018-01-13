@@ -2,16 +2,24 @@
 
 
 
-		
-<item>
-<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] CANALES DEPORTES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/Zsports/new21.xml</externallink>	
-</item>
-		
 
+
+
+
+
+<item><title>[COLOR yellow]*Carnavales cadiz[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCpOz3CN6mDlxkE7-m5AS1aQ</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 
 
