@@ -13,6 +13,19 @@
 
 
 
+<item><title>[COLOR yellow] Carnavales cadiz[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCpOz3CN6mDlxkE7-m5AS1aQ</page>
+</regex>
+<thumbnail>http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/oc-directo-portada.jpg</thumbnail>
+</item>
 
 
 <item> 
