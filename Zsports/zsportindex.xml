@@ -15,6 +15,22 @@
 
 
 
+<item><title>MOTOGP 2017</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCB5KuMSSMiBqy6zutqagKNQ</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
 
  <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOTOGP [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
@@ -91,7 +107,7 @@
 
 
 <item>
-<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] MOTOG GP [/COLOR][/B]</title>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] ESPECIAL MOTOG GP [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
@@ -186,11 +202,11 @@
 </item>
 
 <item>
-<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS  [/COLOR][/B]</title>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS LIGA ADELANTE [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/user/LigaAdelante/</jsonrpc>
 <info></info>
 </item>
 
