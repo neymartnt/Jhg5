@@ -4,22 +4,39 @@
 
 
 
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] SPORTS365 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://pbs.twimg.com/profile_images/589075153092550657/Q7aS9g6Y.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/589075153092550657/Q7aS9g6Y.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
+  	
+<item> 
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] ADDON [/COLOR][COLOR orange] ADRYANLIST[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
+<externallink>http://adryanlist.info</externallink>	
+</item> 
 
 
 
-<item><title>[COLOR yellow]*Carnavales cadiz[/COLOR]</title>
+<item><title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] EL [/COLOR][COLOR orange] CHIRINGUITO [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/899439317529112576/3MQ-sy9r_400x400.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCpOz3CN6mDlxkE7-m5AS1aQ</page>
+<page>https://www.youtube.com/channel/UCCj8dgFh8dz4FB14XAt_AZQ</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/899439317529112576/3MQ-sy9r_400x400.jpg</thumbnail>
 </item>
+
 
 
 
@@ -86,7 +103,7 @@
 
 
 <item>
-<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] EL CHIRINGUITO [/COLOR][/B]</title>
+<title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue]  [/COLOR][/B]</title>
 <link>ignorme</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
