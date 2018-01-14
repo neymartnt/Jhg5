@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] UFC [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://www.spaceboxing.com/wp-content/uploads/2013/07/UFC-Logo-2-psd87648-300x300.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=yAP4R5VdZlA&amp;list=PL4qLto13WOlecXPZdBDnLjHVuv6w_qsd6</page>
+             <cookieJar></cookieJar>
+</regex>
+
+ 
+    <thumbnail>https://www.spaceboxing.com/wp-content/uploads/2013/07/UFC-Logo-2-psd87648-300x300.jpg</thumbnail>
+<fanart>https://www.spaceboxing.com/wp-content/uploads/2013/07/UFC-Logo-2-psd87648-300x300.jpg</fanart>
+ 
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR blue]para videos[/COLOR]</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wYiR0ohGDGQ</link>
+<thumbnail>https://cloud10.todocoleccion.online/videos-dvd-musicales/tc/2014/01/28/23/41295740.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item><title>para canales enteros</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCTPUL6Sgd2HRVrwhp5AdoFg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-XWfjrlokcbw/AAAAAAAAAAI/AAAAAAAAAAA/TQLVejqWFAs/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
