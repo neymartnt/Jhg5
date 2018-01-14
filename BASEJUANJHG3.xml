@@ -14,7 +14,7 @@
 
 
 
-<item><title>[COLOR yellow]_**_  [/COLOR][COLOR yellow] Carnavales cadiz[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<item><title>[COLOR yellow]_**_  [/COLOR][COLOR yellow] Carnavales cadiz [/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -47,6 +47,14 @@
 </item> 
 
 
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/IN2sI5N.jpg</thumbnail>
+<fanart>https://i.imgur.com/IN2sI5N.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/camarasdelmundo.xml</externallink>	
+</item> 
+
 
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
@@ -90,7 +98,7 @@
 
 
 <item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ** [/COLOR][COLOR orange] PROXIMAMENTE [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
