@@ -61,6 +61,7 @@
 -------------------------------------------------------------------------------------------------------------
 
 
+
 <item><title>MOTOGP 2017</title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
@@ -178,8 +179,8 @@
 <item>
 <title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] NOTICIAS DIARIO MARCA [/COLOR][/B]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://www.caratulasylogos.com/sites/default/files/marca.jpg</fanart>
+<thumbnail>http://www.caratulasylogos.com/sites/default/files/marca.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/Marca/</jsonrpc>
 <info></info>
 </item>
@@ -187,8 +188,8 @@
 <item>
 <title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] NOTICIAS DIARIO SPORT [/COLOR][/B]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://ramski-vjesnik.ba/wp-content/uploads/2017/01/sport1.jpg</fanart>
+<thumbnail>https://ramski-vjesnik.ba/wp-content/uploads/2017/01/sport1.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/eldiariosport/</jsonrpc>
 <info></info>
 </item>
@@ -196,8 +197,8 @@
 <item>
 <title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] NOTICIAS DIARIO AS [/COLOR][/B]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/5756a54de84b9835b73d19b687d2ff4a_L.jpg</fanart>
+<thumbnail>http://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/5756a54de84b9835b73d19b687d2ff4a_L.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/DIARIOAScom/</jsonrpc>
 <info></info>
 </item>
@@ -205,8 +206,8 @@
 <item>
 <title>[B][COLOR lime]Z[/COLOR] [COLOR skyblue] NOTICIAS DIARIO MUNDO DEPORTIVO [/COLOR][/B]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://st-listas.20minutos.es/images/2008-03/10343/149212_640px.jpg?1206223502</fanart>
+<thumbnail>https://st-listas.20minutos.es/images/2008-03/10343/149212_640px.jpg?1206223502</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/canalmundodeportivo/</jsonrpc>
 <info></info>
 </item>
@@ -214,8 +215,8 @@
 <item>
 <title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS LA LIGA [/COLOR][/B]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://ultrasbet.com/wp-content/uploads/2016/08/Premira-Division-2016-17-620x330.jpg</fanart>
+<thumbnail>https://ultrasbet.com/wp-content/uploads/2016/08/Premira-Division-2016-17-620x330.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/laliga/</jsonrpc>
 <info></info>
 </item>
@@ -223,8 +224,8 @@
 <item>
 <title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS FCBARCELONA [/COLOR][/B]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://cdn.ussoccerplayers.com/images/2014/02/barcelona-logo-champions-league.jpg</fanart>
+<thumbnail>https://cdn.ussoccerplayers.com/images/2014/02/barcelona-logo-champions-league.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/fcbarcelona/</jsonrpc>
 <info></info>
 </item>
@@ -232,8 +233,8 @@
 <item>
 <title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS REAL MADRID [/COLOR][/B]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://media-assets-05.thedrum.com/cache/images/thedrum-prod/public-news-tmp-77017-capture_85--default--300.jpg</fanart>
+<thumbnail>http://media-assets-05.thedrum.com/cache/images/thedrum-prod/public-news-tmp-77017-capture_85--default--300.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/realmadridcf/</jsonrpc>
 <info></info>
 </item>
@@ -241,8 +242,8 @@
 <item>
 <title>[B][COLOR lime] Z [/COLOR] [COLOR skyblue] NOTICIAS FORMULA 1 [/COLOR][/B]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://www.blogcdn.com/www.engadget.com/media/2011/01/f1logo440.jpg</fanart>
+<thumbnail>https://www.blogcdn.com/www.engadget.com/media/2011/01/f1logo440.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/Formula1/</jsonrpc>
 <info></info>
 </item>
