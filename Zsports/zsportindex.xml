@@ -5,14 +5,21 @@
 
 
 
-
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] Tow Surf [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>ignorme</link>
+<fanart>https://as01.epimg.net/deportes_accion/imagenes/2017/07/26/agua/1501064853_216318_1501079238_sumario_normal.jpg</fanart>
+<thumbnail>https://as01.epimg.net/deportes_accion/imagenes/2017/07/26/agua/1501064853_216318_1501079238_sumario_normal.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/PureDIGITALMaui/</jsonrpc>
+<info></info>
+</item>
 
 
 <item>
 <title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] XI Motocross freestyle [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://myhero.com/images/guest/g217662/hero57428/g217662_u63594_travis.jpg</fanart>
+<thumbnail>https://myhero.com/images/guest/g217662/hero57428/g217662_u63594_travis.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/sxrider821/</jsonrpc>
 <info></info>
 </item>
@@ -22,8 +29,8 @@
 <item>
 <title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] X Rafting extremo [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>https://josewcardenass.files.wordpress.com/2015/01/rafting-extremo-misspendejadas.jpg</fanart>
+<thumbnail>https://josewcardenass.files.wordpress.com/2015/01/rafting-extremo-misspendejadas.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/lavidadeviaje/</jsonrpc>
 <info></info>
 </item>
@@ -31,8 +38,8 @@
 <item>
 <title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] ALPINISMO [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
 <link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
+<fanart>http://www.guiasboira.com/guiasboira/wp-content/uploads/2014/05/curso-alpinismo-madrid.jpg</fanart>
+<thumbnail>http://www.guiasboira.com/guiasboira/wp-content/uploads/2014/05/curso-alpinismo-madrid.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.youtube/user/SURTT2009/</jsonrpc>
 <info></info>
 </item>
@@ -45,12 +52,12 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail></thumbnail>
+<thumbnail>http://munfitnessblog.com/wp-content/uploads/2008/04/parkour-slow-sequence-shots-jumping-building.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCJ41sbmX55WIhhRSC58o-sg</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://munfitnessblog.com/wp-content/uploads/2008/04/parkour-slow-sequence-shots-jumping-building.jpg</thumbnail>
 </item>
 
 
@@ -61,13 +68,24 @@
 <listrepeat><![CDATA[
 <title>[makelist.param1]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.bikozulu.co.ke/wp-content/uploads/2016/01/skydiving.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/channel/UCi0M4xJ2kA6qPulhusG3n1w</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://www.bikozulu.co.ke/wp-content/uploads/2016/01/skydiving.jpg</thumbnail>
 </item>
+
+
+		
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] NOTICIAS DEPORTIVAS [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://radioeme.com.ar/11-2017/thumbnail_1510398570.jpg</thumbnail>
+<fanart>http://radioeme.com.ar/11-2017/thumbnail_1510398570.jpg</fanart>
+<externallink></externallink>	
+</item>
+		
 
 
 
@@ -116,15 +134,7 @@
 </item>
 		
 
-		
-<item>
-<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] NOTICIAS DEPORTIVAS [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://radioeme.com.ar/11-2017/thumbnail_1510398570.jpg</thumbnail>
-<fanart>http://radioeme.com.ar/11-2017/thumbnail_1510398570.jpg</fanart>
-<externallink></externallink>	
-</item>
-		
+
 -------------------------------------------------------------------------------------------------------------
 
 
