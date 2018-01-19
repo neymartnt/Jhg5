@@ -2,6 +2,14 @@
 
 
 
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ADUANAS [/COLOR][COLOR orange] VIGILANCIA ADUANERA [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>ignorme</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/user/Xandre200/</jsonrpc>
+<info></info>
+</item>
 
 <item>
 <title> [COLOR red] * [/COLOR] [COLOR lime] PESADILLA EN LA COCINA [/COLOR][COLOR red] * [/COLOR]</title>
@@ -20,13 +28,12 @@
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/programas/Pesadillausa.xml</externallink>	
 </item>
 
-
-
+https://www.youtube.com/user/Xandre200
 
 
 <item>
 <title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue] EL CHIRINGUITO [/COLOR][COLOR red][/COLOR][COLOR yellow]_**_ [/COLOR]</title>
-<urlsolve>https://www.youtube.com/watch?v=Lg4h3kapWSY</urlsolve>
+<urlsolve>https://www.youtube.com/watch?v=PuLXfgSUwqo</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
