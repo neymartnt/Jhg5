@@ -2,7 +2,14 @@
 
 
 
-
+ 
+<item> 
+<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TDT [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
  
 <item> 
 <title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] INFANTIL [/COLOR][COLOR  red]_**_ [/COLOR]</title>
@@ -12,15 +19,6 @@
 <externallink></externallink>	
 </item> 
 
-
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TDT [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
 
  
 <item> 
@@ -38,7 +36,7 @@
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/series/BASE11.xml</externallink>	
 </item> 
 
  
@@ -78,12 +76,13 @@
 </item> 
 
  
+
 <item> 
 <title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO [/COLOR][COLOR  red]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/camarasdelmundo.xml</externallink>	
 </item> 
 
  
@@ -92,7 +91,7 @@
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/radiosespa%C3%B1a.xml</externallink>	
 </item> 
 
  
