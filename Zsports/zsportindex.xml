@@ -86,8 +86,66 @@
 <externallink></externallink>	
 </item>
 		
+	
+	
 
 
+<item><title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] TAEKWONDO [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UClldNUtMkuqTvt2QgJ0N9kA</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+		
+		
+		
+
+<item><title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] JUDO [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCSQt35nZ4t0w_NScRaEAhSw</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] KARATE [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+                   
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=nGmMXuDzh08&list=PL6mtYCOrpNeyVxCbd-8PQHa76Dux-Snts</page>
+             <cookieJar></cookieJar>
+</regex>
+
+ 
+  <thumbnail></thumbnail>
+<fanart></fanart>
+ 
+</item>
+
+		
+		
+--------------------------------------------------------------------
 
 <item> 
 <title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] SPORTS365 [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
