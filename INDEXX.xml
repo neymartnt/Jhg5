@@ -2,17 +2,50 @@
 
 
 
-
-
-
- 
+	
 <item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TDT [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<title>[COLOR yellow]_**_ [/COLOR][COLOR skyblue]ADDON [/COLOR][COLOR red] ADRYANLIST[/COLOR][COLOR yellow]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
+<externallink>http://adryanlist.info</externallink>	
+</item> 
+	
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TV MAGELLAN [/COLOR][COLOR  red] NUEVO [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
-</item> 
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/MAGELLAN1.xml</externallink>
+</item>
+ 
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  red] NUEVO [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
+<link>ignoreme</link>
+<info>Canaies de TDT y AUTONOMICOS españoles</info>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/TDT1.xml</externallink>
+</item>
+
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR  yellow] PREMIUM[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/BOOM.xml</externallink> 
+<item>
+
+ <item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TV MAGELLAN [/COLOR][COLOR  red] NUEVO [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/MAGELLAN1.xml</externallink>
+</item>
+ 
  
 <item> 
 <title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] INFANTIL [/COLOR][COLOR  red]_**_ [/COLOR]</title>
