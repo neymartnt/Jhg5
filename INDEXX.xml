@@ -19,6 +19,15 @@
 <externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/MAGELLAN1.xml</externallink>
 </item>
  
+ 
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
+<fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/base.xml</externallink>
+</item>
+
 
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  red] NUEVO [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
@@ -38,33 +47,6 @@
 <externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/BOOM.xml</externallink> 
 <item>
 
- <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TV MAGELLAN [/COLOR][COLOR  red] NUEVO [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/MAGELLAN1.xml</externallink>
-</item>
- 
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] INFANTIL [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
-
-
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LIVE MUSIC [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
-
 
  
 <item> 
@@ -83,6 +65,16 @@
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/base.xml</externallink>	
 </item> 
+
+ 
+<item> 
+<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] INFANTIL [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
 
  
 <item> 
@@ -112,15 +104,13 @@
 </item> 
 
  
-
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/camarasdelmundo.xml</externallink>	
-</item> 
-
+<item>
+	<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>ignoreme</link>
+	<externallink>http://bit.ly/camaraspicapau$$LSProEncKey= $$</externallink>
+</item>
  
 <item> 
 <title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS [/COLOR][COLOR  red]_**_ [/COLOR]</title>
@@ -138,8 +128,6 @@
 <fanart></fanart>
 <externallink></externallink>	
 </item> 
-
-
 
 
 
@@ -172,14 +160,6 @@
 </item> 
 			
 
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] AMIGOS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/QREhP0H.jpg</thumbnail>
-<fanart>https://i.imgur.com/QREhP0H.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/AMIGOSJHG2.xml</externallink>	
-</item> 
-
 
 
 <item> 
@@ -190,15 +170,8 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/PROGRAMASTV.xml</externallink>	
 </item> 
 
-	
-			
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/16JGL5F.jpg</thumbnail>
-<fanart>https://i.imgur.com/16JGL5F.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/BASEDEPORTESJHG2.xml</externallink>	
-</item> 
+		
+
 		
 <item> 
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
