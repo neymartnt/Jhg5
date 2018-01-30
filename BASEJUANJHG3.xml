@@ -3,6 +3,7 @@
 
 
 
+
  
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
@@ -13,6 +14,15 @@
 <item>
 
 
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] SPORTS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
+  	
 
 <item><title>[COLOR yellow]_**_  [/COLOR][COLOR yellow] Carnavales cadiz [/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -29,13 +39,6 @@
 </item>
 
 
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] SPORTS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
-<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
-</item> 
 
   	
 <item> 
@@ -47,32 +50,10 @@
 </item> 
 
 
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/IN2sI5N.jpg</thumbnail>
-<fanart>https://i.imgur.com/IN2sI5N.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/camarasdelmundo.xml</externallink>	
-</item> 
-
-
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS ESPAÑA [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/V4GfdHT.jpg</thumbnail>
-<fanart>https://i.imgur.com/V4GfdHT.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/radiosespa%C3%B1a.xml</externallink>	
-</item> 
 
 
 
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ** [/COLOR][COLOR orange] PROXIMAMENTE [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/1b.xml</externallink>	
-</item> 
+
 
 
 <!--------
