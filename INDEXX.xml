@@ -78,41 +78,7 @@
 </item> 
 
  
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] INFANTIL [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
 
-
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TELENOVELAS [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
-
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PROGRAMASTV [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
-
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CANALES DEPORTE [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
 
  
 <item>
@@ -202,13 +168,6 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/baseretroordenado.xml</externallink>	
 </item> 
 		
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/iVfvshN.jpg</thumbnail>
-<fanart>https://i.imgur.com/iVfvshN.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/larevancha.xml</externallink>	
-</item> 
 
 
 
@@ -230,13 +189,7 @@
 </item>
 
 
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail>https://i.imgur.com/DKsiws2.jpg</thumbnail>
-<fanart>https://i.imgur.com/DKsiws2.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
+
 
 
 <item>
@@ -256,13 +209,4 @@
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/programas/programas.xml</externallink>
 </item>
 
-
-
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] LIVE MUSIC[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
 
