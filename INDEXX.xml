@@ -8,7 +8,7 @@
 	
 	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue]CREADO POR JHGMASTER [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CREADO POR JHGMASTER [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -18,7 +18,7 @@
 
  
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR  yellow] PREMIUM[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR red]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR  gold] PREMIUM   [/COLOR][COLOR red]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart><fanart>
@@ -28,7 +28,7 @@
 	
 	
 <item>
-<title>[COLOR lime]DEPORTES LFP [/COLOR] </title>
+<title>[COLOR lime]*DEPORTES LFP [/COLOR] </title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.LFP/</jsonrpc>
 <thumbnail></thumbnail>
@@ -44,14 +44,6 @@
 <externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/MAGELLAN1.xml</externallink>
 </item>
  
- 
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
-<fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/base.xml</externallink>
-</item>
 
 
 <item>
@@ -75,13 +67,12 @@
 
  
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR  yellow] PREMIUM[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart><fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/BOOM.xml</externallink> 
-<item>
-
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
+<fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/base.xml</externallink>
+</item>
 
  
 <item> 
@@ -104,32 +95,6 @@
  
 
 
- 
-<item>
-	<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-	<link>ignoreme</link>
-	<externallink>http://bit.ly/camaraspicapau$$LSProEncKey= $$</externallink>
-</item>
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/radiosespa%C3%B1a.xml</externallink>	
-</item> 
-
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DOCUMENTALES [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item> 
-
 
 
 
@@ -151,47 +116,6 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/BASETAQUILLAJHG3.xml</externallink>	
 </item> 
 
-
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OCIO  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/dwusiIP.jpg</thumbnail>
-<fanart>http://i.imgur.com/dwusiIP.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
-</item> 
-			
-
-
-
-<item> 
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PROGRAMAS TV [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/i6DjXNs.jpg</thumbnail>
-<fanart>https://i.imgur.com/i6DjXNs.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/PROGRAMASTV.xml</externallink>	
-</item> 
-
-		
-
-		
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/proyectoJHGADryan.xml</externallink>	
-</item> 
-	
-	
-	
-<item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG2 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/baseretroordenado.xml</externallink>	
-</item> 
-		
 
 
 
@@ -216,6 +140,29 @@
 
 
 
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] [COLOR  yellow]  _**_ [/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/123.xml</externallink>
+</item>
+
+https://raw.githubusercontent.com/neymartnt/Jhg5/master/123.xml
+
+
+ <!------
+<item> 
+<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DOCUMENTALES [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+
+
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TELENOVELAS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <thumbnail>https://i.imgur.com/ZoMQK2S.jpg</thumbnail>
@@ -234,13 +181,64 @@
 </item>
 
 
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OCIO  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/dwusiIP.jpg</thumbnail>
+<fanart>http://i.imgur.com/dwusiIP.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
+</item> 
+			
 
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] [COLOR  yellow]  _**_ [/COLOR]</title>
+		
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/123.xml</externallink>
-</item>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/proyectoJHGADryan.xml</externallink>	
+</item> 
+	
+	
+	
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG2 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/baseretroordenado.xml</externallink>	
+</item> 
+		
 
-https://raw.githubusercontent.com/neymartnt/Jhg5/master/123.xml
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PROGRAMAS TV [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/i6DjXNs.jpg</thumbnail>
+<fanart>https://i.imgur.com/i6DjXNs.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/PROGRAMASTV.xml</externallink>	
+</item> 
+
+		
+
+ 
+<item>
+	<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+	<link>ignoreme</link>
+	<externallink>http://bit.ly/camaraspicapau$$LSProEncKey= $$</externallink>
+</item>
+ 
+<item> 
+<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/radiosespa%C3%B1a.xml</externallink>	
+</item> 
+
+
+
+
+
