@@ -484,3 +484,781 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 </item>
+
+
+<item>
+<title>[COLOR white][B]Elitegol.me[/B] Live tv - Deportes. [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR gold][B][makelist.param2][/B][/COLOR]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://www.elitegol.me/</referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)online.*?src="(.*?)"</expres>
+<page>http://www.elitegol.me/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white][B]VipGoal.Net[/B] [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR yellow][B][makelist.param2][/B][/COLOR]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://www.vipgoal.net/</referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)online.*?src="(.*?)"</expres>
+<page>http://www.vipgoal.net/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+  <item>
+ <title>[COLOR brown]VIPRACING[/COLOR]</title>
+ <link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+ 
+            <regex>
+            <name>ip</name>
+            <expres>redirect=(.*)</expres>
+            <page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+            </regex>
+            <regex>
+            <name>m3u8</name>
+ 
+            <expres>ea \+ "(.*?)"</expres>
+            <page>http://www.mipsplayer.net/membedplayer/max36a1/1/650/400</page>
+            <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+            <referer>http://www.mipsplayer.net</referer>
+            </regex>
+            <regex>
+            <name>hls</name>
+ 
+            <expres>hlsUrl \+ \(\"(.*?)"</expres>
+            <page>http://www.mipsplayer.net/membedplayer/max36a1/1/650/400</page>
+            <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+            <referer>http://www.mipsplayer.net</referer>
+            </regex>
+<thumbnail>https://memegenerator.net/img/images/600x600/15131989/red-card.jpg</thumbnail><fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart></item>
+ 
+ 
+ 
+ 
+ 
+
+<item>
+<title>[COLOR red]BEIN SPORTS ESPAÑA  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=beinsport&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/bein-sport.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR red]BEIN SPORTS ESPAÑA  [/COLOR]</title>
+<sportsdevil>http://elitegoltv.me/bein-sports.php</sportsdevil>
+<sportsdevil>http://www.vercanalestv.com/ver-bein-sport-espanol-online-y-en-directo-las-24h-por-internet-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/bein-sport.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR white]BEINSPORTS LA LIGA  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=beinlaliga&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/bein-spor-liga.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR white]BEINSPORTS LA LIGA  [/COLOR]</title>
+
+<sportsdevil>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/bein-spor-liga.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR lime]LA LIGA (ACESTREAM)[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+ 
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param4]</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/$doregex[canal]</page>
+            <referer>http://arenavision2017.tk/</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <regex>
+            <name>canal</name>
+            <expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+            <page></page>
+            </regex>
+           
+            <thumbnail>https://img.utdstc.com/icons/256/ace-stream.png</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}SPANISH LA LIGA[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ 
+<thumbnail>http://vercanalestv.com/imagenes/laligatv.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>    
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow]LA LIGA  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=barliga&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/laligatv.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR yellow]LA LIGA  [/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+liga.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/laligatv.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow]LA LIGA  [/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-laliga-tv-online-y-en-directo-las-24h-por-internet-gratis/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/laligatv.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR purple]LA LIGA 123  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.dinostream.pw/channel.php?file=151&width=650&height=400&autostart=true</page>
+<cookieJar></cookieJar>
+<referer>http://09stream.com/canales/laliga123multi1.html</referer>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR pink]MOVISTAR+ PARTIDAZO  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=iPad</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=partidazo&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-partidazo.png</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR pink]MOVISTAR+ PARTIDAZO  [/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-partidazo-online-y-directo-gratis/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-partidazo.png</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR purple]MOVISTAR+ FUTBOL  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=futbolespm&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR purple]MOVISTAR+ FUTBOL  [/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR purple]MOVISTAR+ FUTBOL  [/COLOR]</title>
+
+<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-futbol-online-y-en-directo-las-24-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-futbol.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR blue]MOVISTAR+ DEPORTES 1  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=deporteone&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-deportes.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR blue]MOVISTAR+ DEPORTES 1  [/COLOR]</title>
+  <link>$doregex[get-id]|Referer=http://vercanalestv.com/tv/deportes/canal-plus-deportes.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusdeportes1.php</page>
+<referer>http://vercanalestv.com/tv/deportes/canal-plus-deportes.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-deportes.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR blue]MOVISTAR+ DEPORTES 1  [/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-deportes-online-y-en-directo-las-24-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-deportes.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR teal]MOVISTAR+ DEPORTES 2  [/COLOR]</title>
+  <link>$doregex[get-id]|Referer=http://vercanalestv.com/tv/deportes/canal-plus-deportes.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/plusdeportes2.php</page>
+<referer>http://vercanalestv.com/tv/deportes/canal-plus-deportes.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-depores-2.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR teal]MOVISTAR+ DEPORTES 2  [/COLOR]</title>
+
+<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-deportes-2-online-y-en-directo-las-24h-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-depores-2.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR orchid]MOVISTAR+ FORMULA 1  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=funoesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/BOTO%20WEB%20formula%201.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+   
+ 
+       
+<item>
+<title>[COLOR orchid]MOVISTAR+ FORMULA 1  [/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/BOTO%20WEB%20formula%201.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+           
+ 
+<item>
+<title>[COLOR green]MOVISTAR+ MOTO GP  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=motogpm&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.vercanalestv.com/imagenes/moto%20gp.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR green]MOVISTAR+ MOTO GP  [/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://www.vercanalestv.com/imagenes/moto%20gp.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+   
+ 
+ 
+<item>
+<title>[COLOR gray]MOVISTAR+ GOLF  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=golfesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-golf.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+           
+<item>
+<title>[COLOR gray]MOVISTAR+ GOLF  [/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-plus-golf-online-en-directo-gratis/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://vercanalestv.com/imagenes/movistar-golf.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>        
+ 
+ 
+ 
+<item>
+<title>[COLOR olive]EUROSPORT 1  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=eurosportsesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.vercanalestv.com/imagenes/eurosport.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+   
+       
+<item>
+<title>[COLOR olive]EUROSPORT 1  [/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>https://s5.postimg.org/6o5vpz0ef/Eurosport.png</thumbnail>
+<fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+</item>
+ 
+ 
+ 
+   
+           
+ 
+<item>
+<title>[COLOR olive]EUROSPORT 1  [/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-canal-eurosport-en-directo-y-online-gratis/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://www.vercanalestv.com/imagenes/eurosport.jpg</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR golden]EUROSPORT 2  [/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=eurosportsdosesp&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.vercanalestv.com/imagenes/eurosport2.png</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title>[COLOR golden]EUROSPORT 2  [/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/eurosport2.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://www.vercanalestv.com/imagenes/eurosport2.png</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+ 
+ 
+
+ 
+<item>
+<title>[COLOR golden]EUROSPORT 2  [/COLOR]</title>
+<sportsdevil>http://www.vercanalestv.com/ver-eurosport-2-online-y-en-vivo-gratis-las-24-horas/</sportsdevil>
+<referer>http://cinestrenostv.tv/</referer>
+<thumbnail>http://www.vercanalestv.com/imagenes/eurosport2.png</thumbnail>
+<fanart>http://www.lanueva.com/upload/news/deportes/2017/10/59d2b2640b019_large.jpg</fanart>
+</item>
+
+
+<item>
+<title> [COLOR lime]*[/COLOR]    [COLOR white][B] IPTV España[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lightgreen] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,28}href='(.*?)'>(IPTV.*?)<]]></expres>
+<page>https://pastebin.com/raw/XN6S8jJy</page>
+</regex>
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR lightyellow][makelist.param1][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?url=https://pastebin.com/raw/XN6S8jJy&amp;streamtype=HLSRETRY&amp;name=[COLOR white]IPTV Premium: Hercules[/COLOR] [makelist.param1]</link>
+    <thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[EXTINF:-1,(.*?)<.*>\n(http.*?).m3u8]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=orange][B]Canales Latinos [/B][/COLOR]</title>
+<link>ignore<link>
+<externallink>https://pastebin.com/raw/HXBbZUJk</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+ 
+<item>
+<title>[COLOR=orange][B][I]Real Madrid Tv [/I][/B][/COLOR]</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR=orange][B][I]Barça Tv [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=barca&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>http://www.creativesatellite.co.uk/contents/media/barca_tv.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR=orange][B][I]Gol Tv [/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=golesp&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>http://static.goltelevision.com/uploads/gol/web/img/og-image.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR=orange][B][I]Fightime [/I][/B][/COLOR]</title>
+<link><link><thumbnail>http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-1.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Bein Sports[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil><sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil></sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bein_Sports.png/200px-Bein_Sports.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]La Liga Tv[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=barliga&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>http://i65.tinypic.com/dgm78k.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]La Liga 123[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>http://files.laliga.es/seccion_logos/laliga-123-h-16-9.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Bein Sports La Liga[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BeinLaLiga.png/300px-BeinLaLiga.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Bein Sports[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinsport&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bein_Sports.png/200px-Bein_Sports.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Partidazo[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil></sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Movistar_Partidazo.svg/200px-Movistar_Partidazo.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Deportes 1[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/200px-Movistar_Deportes_1.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Deportes 1[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=deporteone&width=588&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/200px-Movistar_Deportes_1.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Deportes 2[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/200px-Movistar_Deportes_2.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Deportes 2[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=deportedosm&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/200px-Movistar_Deportes_2.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Futbol[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multifutbol/canal1.html</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/200px-Movistar_F%C3%BAtbol.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Futbol[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=futbolespm&width=100%&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/200px-Movistar_F%C3%BAtbol.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Moto Gp[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/motogp.php</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/200px-Movistar_Moto_GP.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Moto Gp[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=motogpm&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/200px-Movistar_Moto_GP.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Formula 1[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/formula1.php</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/200px-Movistar_Formula_1.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Formula 1[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=funoesp&width=100%&height=100%</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/200px-Movistar_Formula_1.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Teledeporte[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/teledeporte.php</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/150px-Tve_teledeporte.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Teledeporte[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=teledeporteesp&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/150px-Tve_teledeporte.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Nba[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/nba/canal.html</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b6/NBALogo.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Nba[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=nnba&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/b6/NBALogo.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+
+
+<item>
+<title>[COLOR orange][B][I]Eurosport 1[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports.php</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/250px-Eurosport_1_Logo_2015.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+<info>Cortesia de Adryanlist </info>
+
+<item>
+<title>[COLOR orange][B][I]Eurosport 1[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=eurosportsesp&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/250px-Eurosport_1_Logo_2015.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+<info>Cortesia de Adryanlist </info>
+
+<item>
+<title>[COLOR orange][B][I]Eurosport 2[/I][/B][/COLOR] [COLOR orange](Sports Devil)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/eurosports2.php</sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/250px-Eurosport_2_Logo_2015.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+<info>Cortesia de Adryanlist </info>
+
+<item>
+<title>[COLOR orange][B][I]Eurosport 2[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=eurosportsdosesp&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/250px-Eurosport_2_Logo_2015.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
+
+<info>Cortesia de Adryanlist </info>
+
+<item>
+<title>[COLOR orange][B][I]Golf[/I][/B][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=golfesp&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/200px-Movistar_Golf.svg.png</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart></item>
