@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] LA 1 HD [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/tve1.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] LA 2 HD [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@439397/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://img.rtve.es/a/3803139?w=1180&preview=1479280957704.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] LA CUATRO [/COLOR][COLOR red] _**_ [/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=lacuatro&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] LA CUATRO  HD*[/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live1/cuatro.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cuatro.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TELECINCO HD [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/telecinco.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TELECINCO [/COLOR][COLOR red] _**_ [/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=telecinco&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] BOING [/COLOR][COLOR red] _**_ [/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=boing&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] FDF [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/fdf.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/tve-1.html</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] BE MAD [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/bemad.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] DIVINITY [/COLOR][COLOR red] _**_ [/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=divinity&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] ENERGY [/COLOR][COLOR red] _**_ [/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=energy&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] ANTENA 3 [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8?sd=11&amp;rebase=on</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLOR red] **_ [/COLOR][COLOR  skyblue] NEOX [/COLOR][COLOR red] **_ [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] LA SEXTA [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] MEGA HD [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+[COLOR red] _**_ [/COLOR][COLOR  skyblue] [/COLOR][COLOR red] _**_ [/COLOR]
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] A3 SERIES [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] NOVA HD [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] 24 HORAS [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_0400_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] 13 TV [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://streaming13tv.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist_w1664206825_b700000.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] PARAMOUNT CHANNEL [/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>http://paramount.live.flumotion.com/live/chunks.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] DKISS [/COLOR][COLOR red] _**_ [/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=dkiss&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://www.formulatv.com/images/noticias/55900/55970/1_4bda286a54.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TEN [/COLOR][COLOR red] _**_ [/COLOR]</title>
+ <link>$doregex[GetPageUrl]|Referer=http://livesports.pw/embed2.php?file=launotelefivegb&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=ten&amp;width=650&amp;height=397</page>
+<cookieJar></cookieJar>
+</regex>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png</thumbnail>
+<fanart></fanart>
+</item>
