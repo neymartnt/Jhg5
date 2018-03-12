@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
-
-
-
+<item>
+<title>[COLOR red]Netflix: [/COLOR][COLOR skyblue]al[/COLOR][COLOR white]fa[/COLOR][COLOR yellow] (HDFULL)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkhERnVsbCIsIAogICAgImNoYW5uZWwiOiAiaGRmdWxsIiwgCiAgICAiY29udGV4dCI6IFsKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAiY2hhbm5lbF9jb25maWciLCAKICAgICAgICAgICAgImNoYW5uZWwiOiAic2V0dGluZyIsIAogICAgICAgICAgICAiY29uZmlnIjogImhkZnVsbCIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibWFpbmxpc3QiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJoZGZ1bGwiLCAKICAgICAgICAgICAgInRpdGxlIjogIkNvbmZpZ3VyYXIgY2FuYWwiCiAgICAgICAgfQogICAgXSwgCiAgICAiZmFuYXJ0IjogIiIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAibGFuZ3VhZ2UiOiBbCiAgICAgICAgImNhc3QiLCAKICAgICAgICAibGF0IgogICAgXSwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcanVsZW5cXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmFsZmFcXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcaGRmdWxsLnBuZyIsIAogICAgInRpdGxlIjogIkhERnVsbCIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2ZXJzaW9uIjogMSwgCiAgICAidmlld21vZGUiOiAibGlzdCIKfQ%3d%3d/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/f8AXKTHAPew/maxresdefault.jpg</thumbnail>
+<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
+</item>
 
 <item>
-<title>[COLOR red][COLOR  lime]•TELEVISION [/COLOR] ONLINE [/COLOR]</title>
-<link>http://ignorame</link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://github.com/elchocolate/tvchocotv/blob/master/cine/PELICULAS%20DEL%20VIDEOCLUB.xml</externallink>
-<info></info>
+<title>[COLOR red]Netflix: [/COLOR][COLOR skyblue]al[/COLOR][COLOR white]fa[/COLOR][COLOR yellow] (CINEFOX)[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkNpbmVmb3giLCAKICAgICJjaGFubmVsIjogImNpbmVmb3giLCAKICAgICJjb250ZXh0IjogWwogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjaGFubmVsX2NvbmZpZyIsIAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZXR0aW5nIiwgCiAgICAgICAgICAgICJjb25maWciOiAiY2luZWZveCIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibWFpbmxpc3QiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJjaW5lZm94IiwgCiAgICAgICAgICAgICJ0aXRsZSI6ICJDb25maWd1cmFyIGNhbmFsIgogICAgICAgIH0KICAgIF0sIAogICAgImZhbmFydCI6ICIiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgImxhbmd1YWdlIjogImVzIiwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcanVsZW5cXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmFsZmFcXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcY2luZWZveC5wbmciLCAKICAgICJ0aXRsZSI6ICJDaW5lZm94IiwgCiAgICAidG90YWxJdGVtcyI6IDAsIAogICAgInZlcnNpb24iOiAxLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
+<thumbnail>http://www.cinefox.tv/static/img/social.png</thumbnail>
+<fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
 </item>
 
 
 
-https://github.com/elchocolate/tvchocotv/blob/master/cine/PELICULAS%20DEL%20VIDEOCLUB.xml
+
+
+
 
 <item>
 <title>[COLOR red][COLOR  lime]•TELEVISION [/COLOR] ONLINE [/COLOR]</title>
@@ -172,25 +177,7 @@ https://github.com/elchocolate/tvchocotv/blob/master/cine/PELICULAS%20DEL%20VIDE
 </item>
 
 
-<item>
-<title>[COLOR red]* [/COLOR][COLOR blue] 3  [/COLOR][COLOR red] ** [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
 
-
-
- 
-<item>
-<title> [COLOR skyblue]*AdryanList [/COLOR]</title>
-<link>NA</link>
-<externallink>http://adryanlist.info</externallink>
-<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
- 
 
 <item> 
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ** [/COLOR][COLOR orange] ** [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
@@ -378,13 +365,6 @@ https://github.com/elchocolate/tvchocotv/blob/master/cine/PELICULAS%20DEL%20VIDE
 </item>
  
 
-<item>
-<title>[COLOR red]* [/COLOR][COLOR blue] TOP [/COLOR][COLOR red] 300 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://st.depositphotos.com/1911557/3033/i/950/depositphotos_30331625-stock-photo-top-300.jpg</thumbnail>
-<fanart>http://st.depositphotos.com/1911557/3033/i/950/depositphotos_30331625-stock-photo-top-300.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/TOP300.xml</externallink>	
-</item>
 
 <item>
  <title>[COLOR blue][COLOR  yellow] TECNOTV [/COLOR][/COLOR][COLOR blue]J[/COLOR][COLOR yellow]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow][COLOR  yellow] MAster  [/COLOR] Tecnotv[/COLOR]</title>
@@ -423,7 +403,6 @@ https://github.com/elchocolate/tvchocotv/blob/master/cine/PELICULAS%20DEL%20VIDE
  
  
  
- [COLOR skyblue]  [/COLOR]
 
 <item>
 <title>[COLOR skyblue] Zona latina [/COLOR]</title>
@@ -1498,7 +1477,7 @@ https://github.com/elchocolate/tvchocotv/blob/master/cine/PELICULAS%20DEL%20VIDE
 
 
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] *[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
