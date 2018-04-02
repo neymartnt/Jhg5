@@ -58,7 +58,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR blue]Television Premium  Online Sportdevil [COLOR white][ES][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR red] Television Premium  Online Sportdevil [COLOR white][ES][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <parentalblock>true</parentalblock>
 <link>$doregex[makelist]</link>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
@@ -71,13 +71,13 @@
 <referer>[makelist.param3]</referer>
 ]]></listrepeat>
 <expres><![CDATA[canal:"(.*?)" url:"(.*?)" referer:"(.*?)" logo:"(.*?)";]]></expres>
-<page>https://pastebin.com/raw/nB9tWcdJ</page>
+<page>https://pastebin.com/raw/3e4cjRim</page>
 </regex>
 </item>
 
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR blue]Guia de partidos Televisados:[/COLOR][COLOR white] Liga Santander[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR red]Guia de partidos Televisados:[/COLOR][COLOR white] Liga Santander[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 
  <link>$doregex[makelist]</link>
 
@@ -101,10 +101,10 @@
 
 </regex>
 
-<thumbnail>http://www.mundodeportivo.com/r/GODO/MD/p3/ContraPortada/Imagenes/2015/11/06/Recortada/img_vmauri_20151106-120448_imagenes_md_otras_fuentes_guiatv-kZIF-U3012230926NQH-428x221@MundoDeportivo-Web.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B]Donde lo hechan[/B][COLOR white] Guia de partidos televisados.[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR blue][B]Donde lo hechan[/B][COLOR red] Guia de partidos televisados.[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <link>$doregex[verpagina]</link>
 <regex>
 <name>verpagina</name>
@@ -121,7 +121,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>https://pbs.twimg.com/profile_images/594577038180245504/5W4eqHJj_400x400.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
  
 <item>
