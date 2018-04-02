@@ -58,7 +58,26 @@
 </item>
 
 <item>
-<title>[COLOR blue]Guia de partidos Televisados:[/COLOR][COLOR white] Liga Santander[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR blue]Television Premium  Online Sportdevil [COLOR white][ES][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<parentalblock>true</parentalblock>
+<link>$doregex[makelist]</link>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR gold][makelist.param1][/COLOR]</title>
+<thumbnail>[makelist.param4]</thumbnail>
+<sportsdevil>[makelist.param2]</sportsdevil>
+<referer>[makelist.param3]</referer>
+]]></listrepeat>
+<expres><![CDATA[canal:"(.*?)" url:"(.*?)" referer:"(.*?)" logo:"(.*?)";]]></expres>
+<page>https://pastebin.com/raw/nB9tWcdJ</page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR blue]Guia de partidos Televisados:[/COLOR][COLOR white] Liga Santander[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 
  <link>$doregex[makelist]</link>
 
@@ -70,9 +89,9 @@
 
 <link>$doregex[ip]|User-Agent=iPad</link>
 
-<thumbnail>https://pbs.twimg.com/profile_images/594577038180245504/5W4eqHJj_400x400.png</thumbnail>
+<thumbnail></thumbnail>
 
-<fanart>https://pbs.twimg.com/profile_images/594577038180245504/5W4eqHJj_400x400.png</fanart>
+<fanart></fanart>
 
 ]]></listrepeat>
 
@@ -115,7 +134,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	
 	
 <item>
-<title>[COLOR lime]*DEPORTES LFP [/COLOR] </title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR lime]*DEPORTES LFP [/COLOR][COLOR yellow]_**_  [/COLOR] </title>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.LFP/</jsonrpc>
 <thumbnail></thumbnail>
