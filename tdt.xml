@@ -4,6 +4,29 @@
 
 
 
+
+
+<item>
+<title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] TOROSTV*[/COLOR][COLOR red] _**_ [/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live1/toros.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/toros.php</page>
+<referer>http://www.vercanalestv.com/ver-toros-online-en-directo-las-24h-por-internet/</referer>
+<agent>iPad</agent>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+http://vergol.com/live1/toros.php
+
+
+
+
 <item>
 <title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] LA 1 HD [/COLOR][COLOR red] _**_ [/COLOR]</title>
 <link>$doregex[get-id]|User-Agent=iPad&amp;Referer=http://vergol.com/live/tve1.php</link>
@@ -39,6 +62,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
 
 <item>
 <title>[COLOR red] _**_ [/COLOR][COLOR  skyblue] LA CUATRO  HD*[/COLOR][COLOR red] _**_ [/COLOR]</title>

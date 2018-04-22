@@ -84,4 +84,17 @@
 <thumbnail>https://yt3.ggpht.com/-XWfjrlokcbw/AAAAAAAAAAI/AAAAAAAAAAA/TQLVejqWFAs/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 
+<item><title>*Paracaidismo</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UCi0M4xJ2kA6qPulhusG3n1w</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
