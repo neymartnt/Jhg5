@@ -15,7 +15,489 @@
 
 
 
+<item>
+<title>[COLOR lime]•[/COLOR] SPORT365 (addon deportes a la carta necesario)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
+<thumbnail>http://s1.medianetworkinternational.com/images/icons/apple-touch-icon-114x114.png</thumbnail>
+</item>
 
+<item>
+<title>[COLOR lime]•[/COLOR] Avezy (Addon Avezy Necesario)</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
+<thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
+<fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ar1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] LFP</title>
+<fanart>http://www.gamingesports.com/wp-content/uploads/2016/07/maxresdefault-4.jpg</fanart>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
+</item> 
+
+<item>
+<title>[COLOR lime]•[/COLOR] Livesports.pw</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Darkman2110/DarkmanList/master/menu/deportes.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Mongolia deportes españa</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://oqefuh.blogspot.com.es/p/menu-listas-espana_11.html</externallink>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] AGENDA ROJA (Sportsdevil)</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail></item>
+
+
+<tem>
+<title> [COLOR black]•[/COLOR]    [COLOR white][B]Arena[COLOR lightblue]Vision[/B] [/COLOR][/COLOR][COLOR lightblue]AGENDA / SCHEDULE [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR white][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR lightblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BlackAddon+[makelist.param3]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail>
+</item>
+]]></listrepeat>
+<expres><![CDATA[190px">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">(.*?)<[\w\W\s]{0,70}">([0-9]+)]]></expres>
+<page>http://arenavision.in/schedule</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] TikiTaka 01 </title>
+<link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+    <regex>
+    <name>ip</name>
+    <expres>redirect=(.*)</expres>
+    <page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+    </regex>
+    <regex>
+    <name>m3u8</name>
+    <expres>ea \+ "(.*?)"</expres>
+    <page>http://www.mipsplayer.com/membedplayer/$doregex[canal]/1/750/420</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mipsplayer.com</referer>
+    </regex>
+    <regex>
+    <name>hls</name>
+    <expres>hlsUrl \+ \(\"(.*?)"</expres>
+    <page>http://www.mipsplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mipsplayer.com</referer>
+    </regex>
+    <regex>
+    <name>canal</name>
+    <expres>channel='(.*?)'</expres>
+    <page>http://lacasadeltikitaka.club/directo/canal1.php</page>
+    </regex>
+<thumbnail></thumbnail>
+<info></info></item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] TikiTaka 02 </title>
+<link>http://$doregex[ip]$doregex[m3u8]$doregex[hls]</link>
+    <regex>
+    <name>ip</name>
+    <expres>redirect=(.*)</expres>
+    <page>http://cdn.mipspublisher.com:1935/loadbalancer</page>
+    </regex>
+    <regex>
+    <name>m3u8</name>
+    <expres>ea \+ "(.*?)"</expres>
+    <page>http://www.mipsplayer.com/membedplayer/$doregex[canal]/1/750/420</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mipsplayer.com</referer>
+    </regex>
+    <regex>
+    <name>hls</name>
+    <expres>hlsUrl \+ \(\"(.*?)"</expres>
+    <page>http://www.mipsplayer.com/membedplayer/$doregex[canal]/1/500/400</page>
+    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+    <referer>http://www.mipsplayer.com</referer>
+    </regex>
+    <regex>
+    <name>canal</name>
+    <expres>channel='(.*?)'</expres>
+    <page>http://lacasadeltikitaka.club/directo/canal2.php</page>
+    </regex>
+<thumbnail></thumbnail>
+<info></info></item>
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR yellow] VER LIGA  0 [/COLOR] </title>
+<link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[get-url]</page>
+<referer>http://www.verliga.net/live/verliga1.php</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>allowfullscreen\ssrc="(.*?)"</expres>
+<page>http://www.verliga.net/live/verliga1.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail><info>Recuerda hacer tu donacion para seguir mejorando Adryanlist en     http://paypal.me/Adryanlist</info></item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR yellow] VER LIGA 1  [/COLOR]</title>
+<link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[get-url]</page>
+<referer>http://www.verliga.net/live/verliga1.php</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>allowfullscreen\ssrc="(.*?)"</expres>
+<page>http://www.verliga.net/live/verliga1.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail></thumbnail></item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR yellow] VER LIGA 2  [/COLOR]</title>
+<link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[get-url]</page>
+<referer>http://www.verliga.net/live/verliga2.php</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>allowfullscreen\ssrc="(.*?)"</expres>
+<page>http://www.verliga.net/live/verliga2.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail></thumbnail></item>
+
+
+  <item>
+<title>[COLOR lime]•[/COLOR][COLOR yellow] VER LIGA  3 [/COLOR]</title>
+<link>$doregex[get-id]|Referer=http://www.verliga.net/live/verliga1.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[get-url]</page>
+<referer>http://www.verliga.net/live/verliga3.php</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>allowfullscreen\ssrc="(.*?)"</expres>
+<page>http://www.verliga.net/live/verliga3.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<thumbnail></thumbnail></item>
+
+<item>
+<title>[COLOR  lime]•[/COLOR] BEIN LIGA</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live3/beinliga.php</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<referer>http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-gratis-online</referer>
+</regex> 
+<thumbnail>https://3.bp.blogspot.com/-_w7fnKT_BKs/V6b5Q4so3UI/AAAAAAAAASQ/EbLnk-Y4CQc87xBqklIpAWroNGJ31wWJgCLcB/s1600/bein-sport-liga.png </thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Futbol 1080 solo fibra</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes%201080.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/img/esp.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Deportes internacional</title>
+<thumbnail>https://www.ayto-villacanada.es/sites/default/files/images/imagenesbannersinf/icono2_deportes_web.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/deportes%20internaciomales.xml</externallink>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] Diario AS</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/DIARIOAScom/videos</page>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_diario_AS.svg/245px-Logo_diario_AS.svg.png</thumbnail>
+</item>
+
+<item><title>[COLOR lime]•[/COLOR] Diario MARCA</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/user/Marca/videos</page>
+</regex>
+<thumbnail>http://e00-marca.uecdn.es/assets/v9/img/logo-marca.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Repeticion carreras F1</title>
+<thumbnail>http://www.thesportsdb.com/images/icons/honours/FIA_Formula_1_World_Championship.png</thumbnail>
+<fanart>http://www.f1fanatic.co.uk/wp-content/uploads/2017/04/XPB_868129_HiRes-e1491629335234.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/formula1.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Repeticion carreras MOTOGP </title>
+<thumbnail>https://i.imgur.com/STFpv7Z.png</thumbnail>
+<fanart>https://i.imgur.com/UlIfR3z.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/RetroBlogPi/MagicPi/master/menumotos.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Deportes supermopy</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://goo.gl/jhQVWm</externallink>
+</item>	
+
+
+ <item>
+<title>[COLOR lime]•[/COLOR] GOLTV </title>
+<sportsdevil>http://vergol.com/live1/goltv.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] BEIN SPORTS ESPAÑA</title>
+<sportsdevil>http://vergol.com/live3/beinsport.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] BEIN SPORTS LA LIGA</title>
+<sportsdevil>http://vergol.com/live3/canal1.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] LA LIGA 123</title>
+<sportsdevil>http://vergol.com/live3/liga123.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+ <item>
+<title>[COLOR lime]•[/COLOR] MOTOGP</title>
+<sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] F1 </title>
+<sportsdevil>http://vergol.com/live3/formula1.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] EUROSPORT</title>
+<sportsdevil>http://vergol.com/live1/eurosport.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] EUROSPORT 2 </title>
+<sportsdevil>http://vergol.com/live1/eurosport2.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+ <item>
+<title>[COLOR lime]•[/COLOR] TELEDEPORTE </title>
+<sportsdevil>http://vergol.com/live1/teledeporte.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] MOVISTAR FUTBOL </title>
+<sportsdevil>http://vergol.com/live3/plusfutbol.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] MOVISTAR DEPORTES 1 </title>
+<sportsdevil>http://vergol.com/live1/plusdeportes1.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] MOVISTAR DEPORTES 2 </title>
+<sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+ <item>
+<title>[COLOR lime]•[/COLOR] PARTIDAZO </title>
+<sportsdevil>http://vergol.com/live3/canal1.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] FOX SPORTS</title>
+<sportsdevil>http://embed.latino-webtv.com/channels/foxsports.html</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] FOX SPORTS 2</title>
+<sportsdevil>http://embed.latino-webtv.com/channels/foxsports2.html</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] ESPN </title>
+<sportsdevil>http://embed.latino-webtv.com/channels/espn.html</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+ <item>
+<title>[COLOR lime]•[/COLOR] ESPN2</title>
+<sportsdevil>http://embed.latino-webtv.com/channels/espn2.html</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] DIRECTV SPORTS </title>
+<sportsdevil>http://vergol.com/live3/canal1.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] TYC SPORT </title>
+<sportsdevil>http://vergol.com/live1/tycsports.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+ <item>
+<title>[COLOR lime]•[/COLOR] TOROSTV </title>
+<sportsdevil>http://vergol.com/live1/toros.php</sportsdevil>
+<referer>http://www.vertelevisor.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] TOROS </title>
+<sportsdevil>http://vercanalestv.com/tv/nacionales/canal-plus-toros.html</sportsdevil>
+<referer>http://vercanalestv.com/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
@@ -69,75 +551,6 @@
 
 
 
-
-
- <item>
-<title>Wiseplay listas </title>
-<link>http://ignora.me</link>
-<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/wise.xml</externallink>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/peliculas.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
-</item>
-
-
-
-
-
-<item>
-<title>some movies</title>
-<link>$doregex[makelist]</link>
-
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>$pyFunction:'[makelist.param3]'.replace(".mp4", " [I]by MexFlix[/I]")</title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail>https://image.tmdb.org/t/p/original/$doregex[imagen]</thumbnail>
-		]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/mexflix17/03peliculas-de-drama30-77318/list,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-
-
-<regex>
-<name>imagen</name>
-<expres><![CDATA[poster_path\":\"\\/(.*?)\"]]></expres>
-<page>https://api.themoviedb.org/3/search/movie?api_key=a958401b483306f9eafdc89cb7d26e7a&amp;language=es&amp;query=$doregex[nombre2]</page>
-</regex>
-
-<regex>
-<name>nombre2</name>
-<expres>$pyFunction:'[makelist.param3]'.replace(".mp4", "").replace(" ", "+")</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/mexflix17/03peliculas-de-drama30-77318/list,1,15</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-
-<thumbnail> </thumbnail>
-</item>
-
-
-
-
-http://gruponetai.com/portal/?s=ben&x=0&y=0
 
 
 
@@ -314,17 +727,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-<item>
-<title>[B][COLOR grey]+[/COLOR] [COLOR white]RS IPTV[/COLOR][/B]</title>
-<link>ignorme</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<externallink>http://rsiptv.amerikanotuga.tech/RSIPTV/ES/menu_ES.html</externallink>
-<info></info>
-</item>
 
 
 
