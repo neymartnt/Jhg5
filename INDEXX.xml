@@ -18,6 +18,40 @@
 	
 
 
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR white] Deportes a la carta[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime] Avezy (Addon Avezy Necesario)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
+<thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
+<fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ar1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime] LFP[/COLOR]</title>
+<fanart>http://www.gamingesports.com/wp-content/uploads/2016/07/maxresdefault-4.jpg</fanart>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
+</item> 
+	
+	
+	
+	
+	
+	
+	
+	
+
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
 <thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
