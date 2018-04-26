@@ -19,6 +19,52 @@
 
 
 
+
+
+<channel>
+<name>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerCanalesTV.com[/I][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerCanalesTV.com[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerCanalesTV.com%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fvercanalestv.cfg%26definedIn%3dcustoms.cfg%26director%3dvercanalestv.com%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</channel>
+
+
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerdirectoTv.net[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerDirectoTV.net%2b%2528TV%2bEspa%25C3%25B1a%2529%26url%3dcustoms%252Fverdirectotv.cfg%26definedIn%3dcustoms.cfg%26director%3dverdirectotv.net%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Verplusonline.com[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerplusonline%2b%2528TeleFiveGB%2529%26url%3dcustoms%252Ftelefivegb.cfg%26definedIn%3dcustoms.cfg%26director%3dverplusonline.com%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+</channel>
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dCinestrenosTV.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR white] Deportes a la carta[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <link>http://Ignoreme</link>
