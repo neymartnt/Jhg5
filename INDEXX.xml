@@ -16,15 +16,45 @@
 </item>
 	
 	
+	
+	
+	
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
+<link>ignoreme</link>
+<info>Canaies de TDT y AUTONOMICOS españoles</info>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/TDT1.xml</externallink>
+</item>	
+	
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/YSKPXch.jpg</thumbnail>
+<fanart>https://i.imgur.com/YSKPXch.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER1.xml</externallink> 
+</item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/16JGL5F.jpg</thumbnail>
+<fanart>https://i.imgur.com/16JGL5F.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER3DEPORT.xml</externallink> 
+</item>	
 
 
-
-
-
-<channel>
-<name>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerCanalesTV.com[/I][/COLOR]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DOCUMENTALES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/EQfNGdH.jpg</thumbnail>
+<fanart>https://i.imgur.com/EQfNGdH.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER2DOCU.xml</externallink> 
+</item>
 
 
 <item>
@@ -34,7 +64,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-</channel>
+
 
 
 
@@ -55,7 +85,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-</channel>
+
 
 <item>
 <title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</title>
@@ -94,20 +124,7 @@
 	
 	
 	
-	
-	
-	
 
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
-<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
-<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
-<link>ignoreme</link>
-<info>Canaies de TDT y AUTONOMICOS españoles</info>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/TDT1.xml</externallink>
-</item>	
-	
-	
 
  
 
@@ -120,22 +137,7 @@
 <externallink>https://raw.githubusercontent.com/neymartnt/ElDiablo/master/4.m3u</externallink> 
 <item>
 	
- 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/YSKPXch.jpg</thumbnail>
-<fanart>https://i.imgur.com/YSKPXch.jpg<fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER1.xml</externallink> 
-</item>
 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/16JGL5F.jpg</thumbnail>
-<fanart>https://i.imgur.com/16JGL5F.jpg<fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER3DEPORT.xml</externallink> 
-</item>
 
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR red] Television Premium  Online Sportdevil [COLOR white][ES][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
