@@ -8,7 +8,7 @@
 	
 	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CREADO POR JHGMASTER [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] CREADO POR JHGMASTER [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 <thumbnail>https://i.imgur.com/Vj6tXUY.jpg</thumbnail>
@@ -78,14 +78,6 @@
 
 
 
-<item>
-<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Verplusonline.com[/I][/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerplusonline%2b%2528TeleFiveGB%2529%26url%3dcustoms%252Ftelefivegb.cfg%26definedIn%3dcustoms.cfg%26director%3dverplusonline.com%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 
 <item>
 <title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</title>
@@ -95,33 +87,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR white] Deportes a la carta[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR lime] Avezy (Addon Avezy Necesario)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.avezy/</jsonrpc>
-<thumbnail>http://dimitrology.com/wp-content/uploads/2017/08/icon-5.png</thumbnail>
-<fanart>http://www.androidaba.com/wp-content/uploads/2016/12/ar1.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime] LFP[/COLOR]</title>
-<fanart>http://www.gamingesports.com/wp-content/uploads/2016/07/maxresdefault-4.jpg</fanart>
-<thumbnail></thumbnail>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
-</item> 
-	
-	
-	
 	
 	
 
@@ -158,62 +123,8 @@
 </item>
 
 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR red]Guia de partidos Televisados:[/COLOR][COLOR white] Liga Santander[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 
- <link>$doregex[makelist]</link>
 
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-
-<title>[COLOR blue][makelist.param1][/COLOR] [COLOR yellow][makelist.param2][/COLOR] [COLOR lime] [makelist.param3] [COLOR][COLOR white][makelist.param4] [makelist.param5][/COLOR][COLOR orange][B] [makelist.param6], [makelist.param7][/B][/COLOR]</title>
-
-<link>$doregex[ip]|User-Agent=iPad</link>
-
-<thumbnail></thumbnail>
-
-<fanart></fanart>
-
-]]></listrepeat>
-
-<expres><![CDATA[(?s)class="visible-md visible-lg dia-partido">([^<]+).*?|hora">([^<]+).*?underline">([^<]+).*?no-underline">([^<]+).*?no-underline">([^<]+).*?title="([^<]+).*?title="([^"]+).*?]]></expres>
-
-<page>http://www.futbolenlatv.es/competicion/la-liga</page>
-
-</regex>
-
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR blue][B]Donde lo hechan[/B][COLOR red] Guia de partidos televisados.[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
-<link>$doregex[verpagina]</link>
-<regex>
-<name>verpagina</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-   title = "LIVE TV:"  
-   line1 = "Ahora estas accediendo a https://www.dondeloechan.com/"
-   line2 = "Es una guia de partidos televisados"
-   line3 = "Este contenido esta fuera del addon."
-   xbmcgui.Dialog().ok(title, line1, line2, line3)
-   return "plugin://plugin.program.chrome.launcher/?url=https://www.dondeloechan.com/&mode=showSite&stopPlayback=no"
-]]></expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
- 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DOCUMENTALES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.imgur.com/EQfNGdH.jpg</thumbnail>
-<fanart>https://i.imgur.com/EQfNGdH.jpg<fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER2DOCU.xml</externallink> 
-</item>
-	
 	
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR lime]*DEPORTES LFP [/COLOR][COLOR yellow]_**_  [/COLOR] </title>
@@ -257,7 +168,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES* [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES** [/COLOR][COLOR  red]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -266,7 +177,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS* [/COLOR][COLOR  red]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
