@@ -521,98 +521,35 @@ https://raw.githubusercontent.com/team1515/mirame/master/HD/peliculas3d.xml
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/team1515/mirame/master/HD/peliculas3d.xml</externallink>
+<externallink></externallink>
 </item>
 
 <item>
-<title>[COLOR lime] Livesports.pw3[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[COLOR lime] 3456[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/haVpTb0Sdxy2WzMxzsGKlvw6tF9.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w300_and_h450_bestv2/haVpTb0Sdxy2WzMxzsGKlvw6tF9.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/team1515/mirame/master/HD/peliculasaccionhd.xml</externallink>
+<externallink>http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/6/5/1480901087456.mp4</externallink>
 </item>
 
-
+	
+	
+	
 <item>
-<playlist_name><![CDATA[Peliculas Por Genero]]></playlist_name>
-
-  
-<channel>       
-<title> series </title>
-<logo_30x30></logo_30x30>
-<description>Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url>https://raw.githubusercontent.com/team1515/mirame/master/HD/peliculas3d.xml</playlist_url>
+<title><![CDATA[A Esmorga (2014)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/haVpTb0Sdxy2WzMxzsGKlvw6tF9.jpg" />Crуnica tensa e intensa de 24 horas en la vida de tres compaсeros de juerga que van dejando un reguero de destrucciуn, de sexo equнvoco y reprimido, y tambiйn cerrando puertas tras tirar las llaves, como si de manera deliberada buscaran la perdiciуn.]]></description>
+<stream_url>http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/6/5/1480901087456.mp4</stream_url>
 <buffer_kb>30000</buffer_kb>
-</channel>
-  
-<channel>       
-<title><![CDATA[ACCION]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/83638aad7892119a02682f1404a7b6b9.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/peliculasaccionhd.xml</playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+</item>
   
 
-<channel>       
-<title><![CDATA[AVENTURAS]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/fd2544f01ff9d361bfaa2033f7fc3771.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/aventurashd.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-<channel>       
-<title><![CDATA[BELICAS]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/1d3c085e828f6a46ba26430e72ce24fd.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/belicashd.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
-<channel>       
-<title><![CDATA[CIENCIA FICCION]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/4253c7a279becd927f580daeb0e255e8.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/cienciaficcion.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-<channel>       
-<title><![CDATA[COMEDIA]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/01acdb82b1ef44bc69bcc41628bfa21c.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/comedia.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-<channel>       
-<title><![CDATA[DRAMA]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/3eaf22a39ee8afdabc3c45009cd9259a.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/drama.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
-<channel>       
-<title><![CDATA[TERROR]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/baf566346c73da711a7c30957fa90d40.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/terror.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-  
-  <channel>       
-<title><![CDATA[WESTERN]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/f010cfd5d0ba82e24120fab03b206584.gif">Portal Dedicado Al Streaming Series De Alta Calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HD/western.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-  
-<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url>
-
-</items>
+	
+	
+  <item>
+<title><![CDATA[Apocalipsis en Los Ángeles (2014)  ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/oX1IHsiG8OvVQIrOmLckBb03bWM.jpg" />Se detecta actividad volcánica en el núcleo de la tierra y los científicos descubren que la ciudad de Los Ángeles está a punto de ser borrada del mapa. Mientras el área es evacuada, un hombre vuelve a la ciudad para encontrar a su novia, pero descubre que ha sido secuestrada.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/N5ajg3ODE6rcpbd5UziYcQmUrP_4_SIg/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>204800</buffer_kb>
+</channel> 
