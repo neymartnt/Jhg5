@@ -3,13 +3,13 @@
 
 
 <item>
-<title>[COLOR orange]  [B]FUTBOL [/B][/COLOR](Por Adryanlist) [COLOR lime](Elige tu Liga) [/COLOR]</title>
+<title>[COLOR orange]  [B]FUTBOL [/B][/COLOR](Por Z.SPORTS) [COLOR lime](Elige tu Liga) [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue][makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[COLOR skyblue][makelist.param4][/COLOR]</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Z.SPORTS+[COLOR skyblue][makelist.param4][/COLOR]</link>
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -21,9 +21,9 @@
 			<name>canal</name> 			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
 			<page></page>
 			</regex>
-<thumbnail>http://adryanlist.org/adryan/img/acestreams.png</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<info>Adryanlist es GRATIS, pero funciona gracias a  tus donaciones, para mantener las listas y el addon funcionando, es por ello que  te pido tu apoyo realizando una pequeña donacion "VOLUNTARIA" mediante PAYPAL  ya sea al correo adrian.bu@gmail.com o  entrando directamente a la pagina http://paypal.me/adryanlist, Gracias a tus donaciones este proyecto seguira adelante</info>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </item>
 ]]></listrepeat>
 <expres><![CDATA[style13">(.*?)<[\w\W\s]{0,32}">(.*?)CET[\w\W\s]{0,35}">(.*?)<[\w\W\s]{0,32}">$doregex[select][\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
