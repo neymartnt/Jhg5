@@ -2,231 +2,8 @@
 
 
 
- <item>
-<title>[COLOR yellow][COLOR yellow][B]• [/B] [/COLOR][B]SPAIN TV[/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.AmerikanoTuga/url=http://goo.gl/NgzE8X</jsonrpc>
-<fanart>https://images3.alphacoders.com/788/78855.jpg</fanart>
-<thumbnail>http://i.imgur.com/KvOkI4q.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
 
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
-</item>
 
-<item><title>[COLOR blue]#  [COLOR]#0[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=#0&amp;iconImage=https://www.comparaiso.es/images/cero-logo3-300.jpg</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/1.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Accion[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Accion&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/200px-Movistar_Acci%C3%B3n.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/4.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Antena 3[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 Int&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/150px-Antena_3_%282017%29.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/11.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Axn[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Axn&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/200px-AXN_logo_%282015%29.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/36.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Axn White[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Axn White&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/200px-AXN_White_logo_%282015%29.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/37.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]bein la Liga[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Bein la Liga&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BeinLaLiga.png/300px-BeinLaLiga.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/15.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Barça Tv[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Barça Tv&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Football_club_barcelona_television.png/100px-Football_club_barcelona_television.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/24.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Cosmo[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Cosmo&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/220px-Cosmo_TV_logo.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/38.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Cuatro[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/150px-Cuatro.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/12.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Calle 13[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/150px-Calle13_logo.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/9.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Comedia[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Comedia&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/200px-Movistar_Comedia.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/5.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Caza y Pesca[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest/scale-to-width-down/220?cb=20161008171111</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/31.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Deportes 1[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Deportes 1&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/200px-Movistar_Deportes_1.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/17.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Deportes 2[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Deportes 2&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/200px-Movistar_Deportes_2.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/18.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Dcine[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Dcine&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/150px-Movistar_DCine.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/3.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Disney[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Disney Xd&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/250px-2015_Disney_Channel_logo.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/41.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Disney Jr[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Disney Jr&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Disney_Junior.svg/revision/latest/scale-to-width-down/200?cb=20170831161603</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/42.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Discovery Max[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Discovery&amp;iconImage=https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Discovery_Channel_International.svg/250px-Discovery_Channel_International.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/28.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Estrenos[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/175px-Movistar_Estrenos.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/2.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Eurosport[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/200px-Eurosport_Logo_2015.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/25.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Fox[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Fox&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/200px-FOX_wordmark-orange.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/34.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Fox Life[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life&amp;iconImage=https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Fox_Life_logo.svg/250px-Fox_Life_logo.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/35.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Futbol[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Futbol&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/200px-Movistar_F%C3%BAtbol.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/19.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]F1[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=F1&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/200px-Movistar_Formula_1.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/21.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Golf[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Golf&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/200px-Movistar_Golf.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/23.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Gol Tv[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Gol Tv&amp;iconImage=https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/GolT.png/250px-GolT.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/16.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Historia[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Historia&amp;iconImage=http://canalhistoria.pt/wp-content/themes/html5blank-stable/img/logo-canalhistoria.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/29.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]La Liga Tv[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=La Liga&amp;iconImage=https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/14.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Nat Geo[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/26.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Nat Geo Wild[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wikd&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/200px-Logo_Nat_Geo_Wild.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/27.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Nick[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Nick&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/3/34/Nickelodeon_2009.svg/revision/latest/scale-to-width-down/300?cb=20170411103805</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/44.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Xtra[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Xtra&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/200px-Movistar_Xtra.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/6.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Hollywood[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Holywood&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/200px-HWD_logo.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/5.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Syfy[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Syfy&amp;iconImage=https://cdn.vox-cdn.com/thumbor/jQ1X8i003Duvm4rAzFAB9Zb9IVg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/54740455/aliptak_syfi.0.0.jpg</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/8.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]La 1[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=La 1&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/10.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Series[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Series&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/150px-Movistar_Series.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/32.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Series Xtra[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=La 1&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Movistar_Series_Xtra.svg/200px-Movistar_Series_Xtra.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/33.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Telecinco[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Telecinco_2012.png/100px-Telecinco_2012.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/13.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Tnt[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Tnt&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/200px-TNT_Logo_2016.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/39.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Motogp[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Motogp&amp;iconImage=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Movistar_Moto_GP.svg/200px-Movistar_Moto_GP.svg.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/20.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Toros[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Toros&amp;iconImage=http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/toros-tv/logo/medium.jpg</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/22.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Iberalia[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Iberalia&amp;iconImage=http://www.iberalia.tv/images/logo_blanco.png</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/30.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
-
-<item><title>[COLOR blue]#  [COLOR]Mtv[/COLOR]</title><link>plugin://plugin.video.f4mTester/?url=$doregex[get-urlencoded]&amp;streamtype=TSDOWNLOADER&amp;name=Mtv&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/1/1b/MTV_2010.svg/revision/latest/scale-to-width-down/200?cb=20170822030005</link>
-<regex><name>get-urlencoded</name><expres>$pyFunction:urllib.quote_plus('http://37.187.128.169:8000/live/noadl/lksdjfajsdfad444te/40.ts|User-Agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git')<expres><page></page></regex>
-<thumbnail>https://goo.gl/yZhfFG</thumbnail>
-<fanart>https://www.ivacy.com/blog/wp-content/uploads/2017/07/Best-Kodi-IPTV-addons-1.jpg</fanart></item>
 
 
 
@@ -256,7 +33,7 @@
 </item>
 
 <item>
-<title>[COLOR lime] LFP[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR lime] LFP[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <fanart>http://www.gamingesports.com/wp-content/uploads/2016/07/maxresdefault-4.jpg</fanart>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
@@ -264,7 +41,7 @@
 </item> 
 
 <item>
-<title>[COLOR lime] Livesports.pw[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR lime] Livesports.pw[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -272,14 +49,14 @@
 </item>
 
 <item>
-<title>[COLOR lime] Livesports.pw2[/COLOR]</title>
-<thumbnail></thumbnail>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR white][B] SPORTDEVIL[/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/</jsonrpc>
+<thumbnail>http://www.androidstylehd.com/wp-content/uploads/2015/10/sports-devil-xbmc-kodi1.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/marques1212/mirame/master/HD/menuhd.xml</externallink>
-</item>
+</iteml>
 
-https://raw.githubusercontent.com/team1515/mirame/master/HD/peliculas3d.xml
+
 
 <item>
 <title>[COLOR red]_*_  [/COLOR][COLOR gold] CANALES TV[/COLOR][COLOR red]  _*_[/COLOR]</title>
