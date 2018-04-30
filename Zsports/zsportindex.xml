@@ -2,7 +2,43 @@
 
 
 
-
+<item>
+<title>[B][COLOR orange]A todo gas 8[/COLOR][/B]  - Ingles - [COLOR yellow] [/COLOR] [COLOR lime][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title> 
+        <link>$doregex[getUrl]</link>
+<thumbnail>http://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_41438_76.jpg</thumbnail>  
+<fanart>http://cdn.20m.es/img2/recortes/2017/03/19/442690-944-465.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/moipera/a-todos-gas-8-80992</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer></referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_41438_76.jpg</thumbnail>  
+<fanart>http://cdn.20m.es/img2/recortes/2017/03/19/442690-944-465.jpg</fanart>
+</item>
 
 
 <item>
