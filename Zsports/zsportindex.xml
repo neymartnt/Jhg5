@@ -116,7 +116,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR black]•[/COLOR][COLOR white]  [B] DEPORTE[/B][/COLOR] [COLOR yellow](categorias) [/COLOR]</title>
+<title>[COLOR black]•[/COLOR][COLOR white]  [B] DEPORTE[/B][/COLOR] </title>
 
 <link>$doregex[makelist3]</link>
 
@@ -159,7 +159,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 
 
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/vwQIsQl.jpg</thumbnail>
 </item>
 
 
