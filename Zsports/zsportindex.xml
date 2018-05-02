@@ -4,37 +4,6 @@
 
 
 
-<item>
-<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][in][/COLOR] [/COLOR][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
-			<regex>
-			<name>hash</name>
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2018.tk/$doregex[canal]</page>
-			<referer>http://arenavision2018.tk</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-				<regex>
-			<name>canal</name>
-			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
-			<page></page>
-			</regex>
-			<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://arenavision.in/guide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2018.tk</referer>
-<setcookie>beget=begetok</setcookie>
- </regex>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
 
 
 
@@ -42,181 +11,7 @@
 
 
 <item>
-<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][ru][/COLOR] [/COLOR][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
-			<regex>
-			<name>hash</name>
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2018.tk/$doregex[canal]</page>
-			<referer>http://arenavision2018.tk</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-				<regex>
-			<name>canal</name>
-			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
-			<page></page>
-			</regex>
-			<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://arenavision.ru/guide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2018.tk</referer>
-<setcookie>beget=begetok</setcookie>
- </regex>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][top][/COLOR] [/COLOR][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
-			<regex>
-			<name>hash</name>
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2018.tk/$doregex[canal]</page>
-			<referer>http://arenavision2018.tk</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-				<regex>
-			<name>canal</name>
-			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
-			<page></page>
-			</regex>
-			<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://www.arenavision.top/guide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2018.tk</referer>
-<setcookie>beget=begetok</setcookie>
- </regex>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR skyblue][B] Agenda Arenavision  [COLOR aquamarine] Server [COLOR white][us][/COLOR] [/COLOR][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param5]+Arenavision</link>
-			<regex>
-			<name>hash</name>
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2018.tk/$doregex[canal]</page>
-			<referer>http://arenavision2018.tk</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-				<regex>
-			<name>canal</name>
-			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
-			<page></page>
-			</regex>
-			<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
-<page>http://www.arenavision.us/guide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2018.tk</referer>
-<setcookie>beget=begetok</setcookie>
- </regex>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR black][B][  ][/B][/COLOR]  [COLOR lightblue][B]BUSCAR CANAL ACESTREAM[/B] [/COLOR][COLOR white] [/COLOR] </title>
-<link>$doregex[lista]</link>
-
-<regex>
-<name>lista</name>
-  <listrepeat><![CDATA[
-         
-		 <title>[lista.param2]</title>
-        <link>plugin://program.plexus/?url=[lista.param1]&amp;mode=1&amp;name=BlackAddon+[lista.param2]</link>
-		<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestream.png</thumbnail>
-		]]></listrepeat>
-<expres><![CDATA[acestream:\/\/(.*?)">(.*?)<]]><expres>
-<page>https://acestreamsearch.com/en/index.php</page>
-<rawpost>cn=$doregex[search]</rawpost>
-<referer>https://acestreamsearch.com/en/index.php</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>search</name>
-<expres><![CDATA[#$pyFunction
-import xbmc
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    dialog = xbmcgui.Dialog()
-    d = dialog.input('Buscar  Canal: ejemplo: Sky Sports', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
-    return d
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR black]•[/COLOR][COLOR white]  [B]FUTBOL[/B][/COLOR] [COLOR lightslategray](Elige tu Liga) [/COLOR]</title>
+<title>[COLOR white] • [/COLOR][COLOR red] FUTBOL [/COLOR] [COLOR white](Elige tu Liga) [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -660,8 +455,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR yellow] _**_  [/COLOR][COLOR white] Deportes a la carta[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/GenH1gM.png</thumbnail>
+<fanart>https://i.imgur.com/GenH1gM.png</fanart>
 </item>
 
 
@@ -676,7 +471,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR white] LFP [/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <fanart>http://www.gamingesports.com/wp-content/uploads/2016/07/maxresdefault-4.jpg</fanart>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/jwkXTRL.jpg</thumbnail>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
 </item> 
