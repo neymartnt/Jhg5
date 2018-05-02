@@ -116,7 +116,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR black]•[/COLOR][COLOR white]  [B]DEPORTE[/B][/COLOR] [COLOR lightslategray](categorias) [/COLOR]</title>
+<title>[COLOR black]•[/COLOR][COLOR white]  [B] DEPORTE[/B][/COLOR] [COLOR yellow](categorias) [/COLOR]</title>
 
 <link>$doregex[makelist3]</link>
 
@@ -151,7 +151,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
 <SetwatchMode>55</SetwatchMode>
 <title> [COLOR white] [B][makelist2.param5][/B] [/COLOR] [I] Canal  [makelist.param1]  idioma:[makelist.param3] [/I]</title>
-<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=BlackAddon</link>
+<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=ZSPORTS</link>
 </item>
 ]]></listrepeat>
 <expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
@@ -159,7 +159,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 
 
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
@@ -175,179 +175,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR white][B] Agenda Arenavision  [COLOR white] Multi-Servers [COLOR white][/COLOR] [/COLOR][/B][/COLOR]</title>
-<link>NA</link>
-<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/acemulti.xml</externallink>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
 
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR white][B] Agenda Aceoplisting  [COLOR white]   [COLOR white][/COLOR] [/COLOR][/B] OFFLINE[/COLOR]</title>
-
-<link>$doregex[makelist]</link>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[B][I][COLOR white] [makelist.param3][/I] [COLOR lightblue] [makelist.param2][/COLOR]  [COLOR white] [makelist.param4][/B] [/COLOR] [COLOR white][makelist.param5][/COLOR] [/COLOR] </title>
-<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1</link>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
-<page>http://www.acesoplisting.in/</page>
-<agent>Mozilla</agent>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-			<iem>
-<title>Canales Deportivos España & Mexico </title>
-			<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-			<title>[COLOR white][I][makelist.param2] [/I][/COLOR][COLOR lightslategray]                            [/COLOR]</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BlackAddon+[makelist.param2]</link>
-			<regex>
-			<name>hash</name>
-			<expres>\/embed\/(.*?)"</expres>
-			<page>http://freelive365.com/[makelist.param1]</page>
-			<referer>http://freelive365.com/</referer>
-			</regex>
-			<regex>
-			<name>code</name>
-			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
-			<page></page>
-			</regex>
-			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
-<page>http://freelive365.com/live_info.php?id=6</page>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-
-		<iem>
-<title>Acestream Television por Paises</title>
-<link>$doregex[makelist2]</link>
-
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-			<title>[COLOR  skyblue] [makelist2.param2][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-]]></listrepeat>
-<expres>acestream:"(.*?)" pais:"(.*?)";</expres>
-<page>https://raw.githubusercontent.com/blackghostaddon/gray/master/kozm.txt</page>
-</regex>
-
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-			<title>[COLOR white] [makelist.param2][/COLOR]</title>
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BlackAddon( [makelist.param2] )</link>
-			<regex>
-			<name>hash</name>
-			<expres>torrentstream.org\/embed\/(.*?)"</expres
-			<page>$doregex[URL]</page>
-			</regex>
-			<regex>
-			<name>URL</name>
-			<expres>allowfullscreen src="(.*?)"</expres>
-			<page>http://freelive365.com/[makelist.param1]</page>
-			</regex>
-			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>href='(.*?)'[\w\W\s]{0,65}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
-<page>http://freelive365.com/[makelist2.param1]</page>
-</regex>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR white][B] Canales Arenavision  [COLOR white][I]Opcion 1[/I]  [/COLOR][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BlackAddon+Acestreams</link>
-			<regex>
-			<name>hash</name>
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2018.tk/$doregex[select]</page>
-			<referer>http://arenavision2018.tk</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-
-			 <regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('Elige un Canal ', ['AV 1','AV 2','AV 3','AV 4','AV 5','AV 6','AV 7','AV 8','AV 9','AV 10','AV 11','AV 12','AV 13','AV 14','AV 15','AV 16','AV 17','AV 18','AV 19','AV 20','AV 21','AV 22','AV 23','AV 24','AV 25','AV 26','AV 27','AV 28','AV 29','AV 30','AV 31','AV 32','AV 33','AV 34','AV 35','AV 36','AV 37','AV 38','AV 39','AV 40'])
-   lists = ['01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40']
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
- <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR white][B] Canales Arenavision  [COLOR white][I]Opcion 2[/I] [/COLOR][/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title> [COLOR white] [makelist.param2][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BlackAddon + [makelist.param2]</link>
-			<regex>
-			<name>hash</name>
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2018.tk/[makelist.param1]</page>
-			<referer>http://arenavision2018.tk</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
- <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-]]></listrepeat>
-<expres><![CDATA[arenavision2018\.tk\/(.*?)\?.*?title="">(.*?)<]]></expres>
-<page>http://arenavision.us</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision.tk</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
- <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
 
 
 
