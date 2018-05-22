@@ -1,5 +1,4507 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+<item>
+<title>     [B] SERVERS   [/B] [I][Automatically Updated Daily][/I]</title>
+<link>$doregex[makelist3]</link>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[B][makelist3.param1][/B][makelist3.param2]</title>
+<link>$doregex[makelist2]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[fnChangeTab\(event\)">(.*?2018)<|>(http.*?)\/g.*?name=(.*?)\&.*?ssword=(.*?)\&]]></expres>
+<page>http://www.m3uliste.pw/</page>
+</regex>
+
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>User: [makelist3.param3]  |  Status: [makelist2.param1] |  Maximas Conexiones:[makelist2.param2]  </title>
+ <link>NA</link>
+ <externallink>[makelist3.param2]/get.php?username=[makelist3.param3]&amp;password=[makelist3.param4]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>status":"(.*?)".*max_connections":"(.*?)",</expres>
+<page>[makelist3.param2]/panel_api.php?username=[makelist3.param3]&amp;password=[makelist3.param4]</page>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>     [B] SERVERS  [/B] [I][Manually Updated][/I]</title>
+<link>$doregex[makelist3]</link>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+ <title>Server [makelist3.param1]</title>
+<link>$doregex[makelist2]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>Server:"(.*?)"[\w\W\s]{0,6}http:\/\/(.*?)\/g[\w\W\s]{0,11}name=(.*?)&amp;password=(.*?)&amp;t</expres>
+<page>http://blackaddon.rf.gd/gray/servers.txt</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>Server [makelist3.param1]  |  Status: [makelist2.param1] |  Max_Con:[makelist2.param2]  </title>
+ <link>NA</link>
+ <externallink>http://[makelist3.param2]/get.php?username=[makelist3.param3]&amp;password=[makelist3.param4]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>status":"(.*?)".*max_connections":"(.*?)",</expres>
+<page>http://[makelist3.param2]/panel_api.php?username=[makelist3.param3]&amp;password=[makelist3.param4]</page>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B] GSIPTV [/B] [I][GeantSat][/I]</title>
+<link>$doregex[makelist]</link>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]  </title>
+ <link>NA</link>
+<externallink>[makelist.param1]$$TSDOWNLOADER$$</externallink>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>href="(http.*?m3u)"</expres>
+<page>http://www.geantsat.com/free-iptv/</page>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tem>
+<title>     [B] Servidores[/B] [I][con Canales Españoles][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>Server [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>http://blackaddon.rf.gd/gray/servers.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=BlackGhost [makelist.param1] (server [makelist2.param1]) </link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B] M3U LISTS [/B] [I][Updated Daily][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>LISTS [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>SERVER [I][makelist.param1][/I]   -  USER [I][makelist.param2][/I] </title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+
+
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+<itm>
+<title>     [B] IPTV ULTRA[/B] [I]Sept[/I]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>$doregex[makelist2]</link>
+   <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvultra.com/2017/09/</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title> [makelist2.param2]</title>
+   <link>plugin://plugin.video.f4mTester/?url=[makelist2.param5]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]&amp;maxbitrate=0&amp;Buffer=20971520</link>
+   <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[\"(.*?)\[\@\](.*?)\[\@\](.*?)\[\@\](.*?)\[\@\](.*?)\"]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>     [B] DailyPlaylist Countrys[/B] [I][/I]</title>
+
+<link>$doregex[leg2]</link>
+
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title>[leg2.param2]</title>
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+
+
+
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+
+
+
+
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+
+
+
+
+<item>
+<title>     [B] DailyPlaylist SPORTS[/B] [I][/I]</title>
+
+<link>$doregex[leg]</link>
+
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>https://www.dailyiptvlist.com/sports/</page>
+</regex>
+
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+
+
+
+<item>
+<title>     [B] Ultimate IPTV[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=BlackGhost [makelist.param1]  </link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>     [B] IPTVSharing[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=BlackGhost [makelist.param1]  </link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>     [B] IPTVFree[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>http://www.iptv4free.com/search?max-results=40</page>
+</regex>
+
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=BlackGhost [makelist.param1]  </link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B] IPTV Brasil[/B] [I]listasiptvgratis.com[/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> Lista [makelist2.param1]</title>
+ <link>NA</link>
+ <externallink>[makelist2.param2]</externallink>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[strong>(.*?)<[\w\W\s]{0,90}data-clipboard-text="(.*?)"]]></expres>
+<page>https://listasiptvgratis.com/</page>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>     [B] FTA[/B] [I]Free to Air[/I]</title>
+<link>NA</link>
+<externallink>http://blackaddon.rf.gd/gray/fta.m3u</externallink>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+<item>
+<title>     [B] FTA[/B] [I]Latinos[/I]</title>
+<link>NA</link>
+<externallink>http://www.radiosargentina.com.ar/TVLA.m3u</externallink>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+<item>
+<title>     [B] FTA[/B] [I]España[/I]</title>
+<link>NA</link>
+<externallink>http://www.radiosargentina.com.ar/TVES.m3u</externallink>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+<item>
+<title>     [B] FTA[/B] [I]Argentina[/I]</title>
+<link>NA</link>
+<externallink>http://www.radiosargentina.com.ar/TVAR.m3u</externallink>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>     [B] FTA[/B] [I]Brasil[/I]</title>
+<link>NA</link>
+<externallink>http://www.radiosargentina.com.ar/TVBR.m3u</externallink>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>     [B] FTA[/B] [I]USA[/I]</title>
+<link>NA</link>
+<externallink>http://www.radiosargentina.com.ar/TVUS.m3u</externallink>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B] IPTV España[/B] [I]   [/I]</title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,28}href='(.*?)'>(IPTV.*?)<]]></expres>
+<page>http://www.iptvbin.com/search/label/Spain?max-results=18</page>
+</regex>
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2].m3u8&amp;streamtype=HLSRETRY&amp;name=BlackGhost [makelist.param1]</link>
+    <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[EXTINF:-1,(.*?)<.*>\n(http.*?).m3u8]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+		<title>•      [B]FTA[/B]  [  [B][/B]  ][B]                  PT - ES - USA -  UK - ITA -FR[/B]  </title>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param3]   [I] ([makelist.param2])[/I]</title>
+	<link>[makelist.param4]</link>
+<thumbnail>[makelist.param1]</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+]]></listrepeat>
+<expres>EXTINF:-.*?tvg-logo="(.*)".*group-title="(.*)".*,(.*?)\s\(.*\n(.*)</expres>
+<page>http://bit.ly/LISTA_SSIPTV</page>
+</regex>
+
+<thumbnail>http://blackaddon.rf.gd/gray/img/tp.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+<tem>
+  <title>iptv test 02</title>
+  <link>$doregex[makelist]</link>
+
+  <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+     <title> [makelist2.param2]  </title>
+<link>$doregex[makelist]</link>
+	<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+]]></listrepeat>
+<expres>entry-title[\w\W\s]{0,6}href="(.*?)"[\w\W\s]{0,19}to(.*?)"</expres>
+<page>https://www.tvonlinestreams.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [makelist.param1]  </title>
+    <link>[makelist.param2]</link>
+	<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+]]></listrepeat>
+<expres>EXTINF.*,(.*?)<.*\n.*?(http.*ts)<</expres>
+<page>http://dvbsat.ru/smf/index.php?topic=282.1230</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]m3u Liste[/B] [I][/I]</title>
+  <link>$doregex[makelist2]</link>
+
+  <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title> [makelist2.param1]  </title>
+<link>NA</link>
+<externallink>[makelist2.param1]/playlist.m3u8</externallink>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+]]></listrepeat>
+<expres>(htt.*?)\/playlist.m3u8</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]Giniko TV[/B] [I]  [/I]</title>
+<link>$doregex[country]</link>
+<regex>
+<name>country</name>
+<listrepeat><![CDATA[
+        <title> [country.param3]</title>
+        <link>$doregex[list]</link>
+       <thumbnail>http://www.giniko.com/[country.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)<img src="(.+?)".+?href="(country.php.+?)".+?<strong>(.+?)</strong>]]></expres>
+<page>http://www.giniko.com/watch-by-country.php</page>
+</regex>
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+        <title> [list.param3]</title>
+        <link>$doregex[ch]</link>
+       <thumbnail>http://www.giniko.com/[list.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)<img src="(.+?)".+?href="(watch.php.+?)".+?<strong>(.+?)</strong>]]></expres>
+<page>http://www.giniko.com/[country.param2]</page>
+</regex>
+<regex>
+<name>ch</name>
+<expres><![CDATA[file: "(.+?)" ]]></expres>
+<page>http://www.giniko.com/[list.param2]</page>
+</regex> <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]ArabTVZ[/B] [I][/I]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[makelist.param2]</title>
+   <link>$doregex[getUrl]</link>
+   <thumbnail>[makelist.param3]</thumbnai>
+]]></listrepeat>
+<expres><![CDATA[(?s)post-frame.+?href="(video-elements/(.*?)/.*?)".title="live.*?src="(.*?)"]]></expres>
+<page>http://arabtvz.com/</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m,):
+  url = re.findall('src="(h.*m3u8.*?)"', page_data)[0]
+  source = requests.get(url, headers = {'Referer': 'http://arabtvz.com/[makelist.param1]', 'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0', 'Accept': '*/*'}).text
+  return re.findall('src="(h.*m3u8.*?)"', source)[0] + '|Referer=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf&User-Agent=iPad'
+]]></expres>
+<page>http://arabtvz.com/[makelist.param1]</page>
+<referer>http://arabtvz.com/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+<cookieJar></cookieJar>
+</regex> <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>     [B]Fluxus TV[/B] [I][/I]</title>
+<link>ignorme</link>
+<externallink>http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<page></page>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>     [B]Darkzide TV[/B] [I][/I]</title>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/Darkzide-inc/Builds/master/DarkzideTV.xml</externallink>
+<page></page>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]SPORTS DEVIL LIVE TV[/B] [I][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]ROJA IPTV M3U[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ <fanart></fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://dl.dropbox.com/s/8gd67jk61jxi0d2/servers.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=BG [makelist.param1]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]EDOCTOR[/B] [I][/I]</title>
+<link>rs</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/hadjistyllis/myapp/master/TV%20category.m3u</externallink>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+<item>
+<title>FLUXUS TV</title>
+<link>rs</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+<item>
+ <title>     [B]IPTV EMBED[/B] [I][/I]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> ( [makelist.param1] )  </title>
+    <link>NA</link>
+	<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.iptvembed.net/liveiptv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+<item>
+<title>     [B]DAILY IPTV M3U 2[/B] [I][/I]</title>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>Server: [makelist.param2]</title>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>(http://(.*)/.*)</expres>
+<page>http://pastebin.com/raw/5tBNEXZ1</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>  [makelist2.param1]</title>
+	<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[makelist2.param1]</title></link>
+    <thumbnail></thumbnail>
+        <fanart></fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<page>[makelist.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]DAILY PLAYLIST COUNTRIES[/B] [I][/I]</title>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+
+<link>$doregex[leg2]</link>
+
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title>[leg2.param2]</title>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+
+
+
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+
+
+
+
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+<thumbnail>http://i.imgur.com/QS3c3hk.png</thumbnail>
+<fanart>http://i.imgur.com/zGAi8bi.png</fanart>
+</regex>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]M3U LIST[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://dl.dropbox.com/s/8gd67jk61jxi0d2/servers.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=RSIPTV[makelist.param1]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <item>
+<title>     [B]DiarLima IPTV BRASIL[/B] [I][/I]</title>
+<link>rs</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<externallink>http://secretv.j2mf4.com/RSIPTV/World/brasil.html</externallink>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]WORLD DAILY SERVERS IPTV[/B] [I][/I]</title>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title> [makelist.param2] ( [makelist.param1] ) </title>
+	<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+<link>NA</link>
+<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]M3U LISTS Updated Daily[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> LISTS [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>SERVER [I][makelist.param1][/I]   -  USER [I][makelist.param2][/I] </title>
+ <link>NA</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]ULTIMATE IPTV[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>  [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=RSIPTV [makelist.param1]  </link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [B]IPTV SHARING[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>  [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=RSIPTV [makelist.param1]  </link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+ <item>
+<title>     [B]IPTV FREE[/B] [I][/I]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>  [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>http://www.iptv4free.com/search?max-results=40</page>
+</regex>
+
+
+
+
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=RSIPTV [makelist.param1]  </link>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+<fanart>http://blackaddon.rf.gd/gray/img/fanart.jpg</fanart>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title> ...test area dont pass</title>
+<link>$doregex[makelist3]</link>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>Server [makelist3.param1] status:  $doregex[activa] </title>
+<link>$doregex[makelist2]</link>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>Server:"(.*?)"[\w\W\s]{0,6}http:\/\/(.*?)\/g[\w\W\s]{0,11}name=(.*?)&amp;password=(.*?)&amp;t</expres>
+<page>http://blackaddon.rf.gd/gray/servers.txt</page>
+</regex>
+
+
+<regex>
+<name>activa</name>
+<expres>status":"(.*?)"</expres>
+<page>http://[makelist3.param2]/panel_api.php?username=[makelist3.param3]&amp;password=[makelist3.param4]</page>
+<cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode><title>Server [makelist3.param1]  |  Status: [makelist2.param1] |  Max_Con:[makelist2.param2]  </title>
+ <link>NA</link>
+ <externallink>http://[makelist3.param2]/get.php?username=[makelist3.param3]&amp;password=[makelist3.param4]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ <thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>status":"(.*?)".*max_connections":"(.*?)",</expres>
+<page>http://[makelist3.param2]/panel_api.php?username=[makelist3.param3]&amp;password=[makelist3.param4]</page>
+</regex>
+<thumbnail>http://blackaddon.rf.gd/gray/img/iptv.jpg</thumbnail>
+</item>
+
+
+
+<channel>
+    <name>Acestreams</name>
+    <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
+    <fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
+        <items>
+           <items_info> <!-- this is opitonal -->
+      <title>Adryan List </title>
+      <genre>Tv Live</genre>
+      <description>: Lista de Canales para el Livestreamspro :</description>
+      <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
+      <fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
+      <date>03.02.2015</date>
+      <credits>adryan</credits>
+    </items_info>
+			
+
+			<item>
+			<title>     [COLOR skyblue]AdryanList[COLOR white]>[/COLOR]Sports p2p@plexus[/COLOR]</title> 
+			<link>http://ignora.me</link>
+			<thumbnail>http://gradajoven.es/logo/logo/all/ARENAVISION%203.png</thumbnail>
+			</item>
+			
+			
+			<item>
+			<title>[COLOR deepskyblue]All this channels needs the Addon PLEXUS to work[/COLOR]</title> 
+			<link>http://ignora.me</link>
+			<thumbnail>http://gradajoven.es/logo/logo/all/ARENAVISION%203.png</thumbnail>
+			</item>
+			
+			
+			
+			<item>
+			<title>[COLOR skyblue]Agenda Arenavision http://arenavision.in/agenda[/COLOR]</title> 
+			<link>http://ignora.me</link>
+			<thumbnail>http://gradajoven.es/logo/logo/all/ARENAVISION%203.png</thumbnail>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 1</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av1</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+
+			
+			<item>
+			<title>ArenaVision 2</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av2</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 3</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av3</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 4</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av4</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 5</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av5</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 6</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av6</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 7</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av7</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 8</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av8</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 9</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av9</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 10</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av10</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			<item>
+			<title>ArenaVision 11</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av11</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 12</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av12</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 13</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av13</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>ArenaVision 14</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av14</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 15</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av15</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 16</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av16</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 17</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av17</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 18</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av18</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 19</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av19</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 20</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av20</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>ArenaVision 21</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av21</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 22</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av22</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 23</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av23</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 24</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av24</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 25</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av25</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 26</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av26</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 27</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av27</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 28</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av28</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 29</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av29</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>ArenaVision 30</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/av30</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			</item>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+
+<item>
+<title>ARENAVISION 1 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs1</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+<item>
+<title>ARENAVISION 2 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 3 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs3</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 4 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs4</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+
+<item>
+<title>ARENAVISION 5 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs5</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 6 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs6</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 7 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs7</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+
+<item>
+<title>ARENAVISION 8 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs8</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 9 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs9</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 10 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:$doregex[hash]&amp;mode=2&name=AdryanList+SopCast</link>
+<regex>
+<name>hash</name> 
+<expres>sop://broker.sopcast.com:(.*?)"</expres>
+<page>http://www.arenavision.in/avs10</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>ARENAVISION 22 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258921&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 23 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258922&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 24 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258923&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 25 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258924&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 26 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258925&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 27 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258926&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 28 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258927&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 29 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258928&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+<item>
+<title>ARENAVISION 30 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258929&amp;mode=2&name=AdryanList+SopCast</link>
+</item>
+
+		
+<item>
+<title>ARENAVISION 31 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259381&amp;mode=2&name=AdryanList+SopCast</link>
+</item>	
+<item>
+<title>ARENAVISION 32 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259382&amp;mode=2&name=AdryanList+SopCast</link>
+</item>	
+<item>
+<title>ARENAVISION 33 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259383&amp;mode=2&name=AdryanList+SopCast</link>
+</item>	
+<item>
+<title>ARENAVISION 34 [SopCast]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/259384&amp;mode=2&name=AdryanList+SopCast</link>
+</item>	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+
+			<item>
+			<title>[COLOR deepskyblue]Movistar Moto GP[/COLOR]</title>
+			<link>plugin://program.plexus/?url=7c01784bfeba11565fce3626e155da1fcdb45976&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+
+			<item>
+			<title>[COLOR deepskyblue]Movistar F1[/COLOR]</title>
+			<link>plugin://program.plexus/?url=98b327d19a16be09070212124826e9209cb97540&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+
+			<item>
+			<title>[COLOR deepskyblue]Canal+ Liga[/COLOR]</title>
+			<link>plugin://program.plexus/?url=dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+
+			<item>
+			<title>[COLOR deepskyblue]Antena 3[/COLOR]</title>
+			<link>plugin://program.plexus/?url=edf445b6ba5ac73cf17b6807c09d9a3d5456820f&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+
+			<item>
+			<title>[COLOR deepskyblue]Teledeporte[/COLOR]</title>
+			<link>plugin://program.plexus/?url=c6635313ebda29534b908d1e67d724d443236a0a&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+
+			<item>
+			<title>[COLOR deepskyblue]Canal+ Comedia[/COLOR]</title>
+			<link>plugin://program.plexus/?url=4194bf57823b1079c300b0104f86c99c9421cb00&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+			<item>
+			<title>[COLOR deepskyblue]Canal+ Deportes[/COLOR]</title>
+			<link>plugin://program.plexus/?url=a994a04ff801f11872fc1e89258d53c5601ccfbd&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+			
+			
+			
+			<item>
+			<title>[COLOR deepskyblue]Canal TDP[/COLOR]</title>
+			<link>plugin://program.plexus/?url=c6635313ebda29534b908d1e67d724d443236a0a&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+			
+			
+			
+			<item>
+			<title>[COLOR deepskyblue]Canal+ Deportes 2[/COLOR]</title>
+			<link>plugin://program.plexus/?url=7a3408bafc83d13ec6ecd8dcbc1d0511d4032963&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+			
+			
+	
+			<item>
+			<title>[COLOR deepskyblue]Canal+ Golf[/COLOR]</title>
+			<link>plugin://program.plexus/?url=3e3f47c529724e5682ed518d691d0d1ac5190226&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+	
+	
+	
+			<item>
+			<title>[COLOR deepskyblue]Canal+ Toros[/COLOR]</title>
+			<link>plugin://program.plexus/?url=b5b43500253f735b17c107637c98f4e9747d8a93&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+	
+	
+			<item>
+			<title>[COLOR deepskyblue]Canal+ Comedia[/COLOR]</title>
+			<link>plugin://program.plexus/?url=4194bf57823b1079c300b0104f86c99c9421cb00&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+	
+	
+			<item>
+			<title>[COLOR deepskyblue]Canal+ HD[/COLOR]</title>
+			<link>plugin://program.plexus/?url=8865d45b76b0e8b70dd9eed64930d3b218204520&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+	
+	
+			<item>
+			<title>[COLOR deepskyblue]Canal+ Futbol[/COLOR]</title>
+			<link>plugin://program.plexus/?url=8bd19c12f5cd0fff9435ef48f0f7b3bb5e9d35da&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+			
+			<item>
+			<title>[COLOR deepskyblue]Canal+ LIGA[/COLOR]</title>
+			<link>plugin://program.plexus/?url=dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+			
+			<item>
+			<title>[COLOR deepskyblue]Canal+ LIGA 2[/COLOR]</title>
+			<link>plugin://program.plexus/?url=32d6e551fa22fb6b4d92609a09d6ce36824fad03&amp;mode=1&amp;name=Adryanlist+Acestreams</link></item>
+	
+	
+		
+			
+			
+
+	
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/11644.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>11644</info><title>[COLOR lightblue]Arena Sport 1 ***[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/11266.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>11266</info><title>[COLOR lightblue]Arena Sport 2[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10984.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10984</info><title>[COLOR lightblue]Arena Sport 3[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12121.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12121</info><title>[COLOR lightblue]Bein Sports 1 HD France[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/11997.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>11997</info><title>[COLOR lightblue]Bein Sports 2 HD France[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13562.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13562</info><title>[COLOR lightblue]Boxnation[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/9220.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>9220</info><title>[COLOR lightblue]BT Sport 2[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13090.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13090</info><title>[COLOR lightblue]BT Sport ESPN[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10188.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10188</info><title>[COLOR lightblue]C More Tennis[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13230.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13230</info><title>[COLOR lightblue]Canal+ Deportes[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13231.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13231</info><title>[COLOR lightblue]Canal+ Deportes 2[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13405.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13405</info><title>[COLOR lightblue]Canal+ Futbol[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/9387.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>9387</info><title>[COLOR lightblue]Canal+ Liga[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13404.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13404</info><title>[COLOR lightblue]Canal+ Liga 2[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12550.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12550</info><title>[COLOR lightblue]CT Sport[/COLOR]</title></item>
+	    
+	<item> <link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13430.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13430</info><title>[COLOR lightblue]Digi Sport 1[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13431.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13431</info><title>[COLOR lightblue]Digi Sport 2[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12748.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12748</info><title>[COLOR lightblue]Eurosport 2 British[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12747.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12747</info><title>[COLOR lightblue]Eurosport British[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/13250.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>13250</info><title>[COLOR lightblue]Eurospоrt 2 North-East[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/1814.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>1814</info><title>[COLOR lightblue]Extreme Sports[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/1483.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>1483</info><title>[COLOR lightblue]Motors TV[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12712.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12712</info><title>[COLOR lightblue]Motorsport[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/11642.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>11642</info><title>[COLOR lightblue]Movistar F1[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12227.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12227</info><title>[COLOR lightblue]Movistar MotoGP[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/9315.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>9315</info><title>[COLOR lightblue]Nova Sport[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/9688.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>9688</info><title>[COLOR lightblue]nSport + HD[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/9686.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>9686</info><title>[COLOR lightblue]Polsat Sport Extra HD[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/9685.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>9685</info><title>[COLOR lightblue]Polsat Sport HD[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12817.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12817</info><title>[COLOR lightblue]Polsat Sport News[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/6972.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>6972</info><title>[COLOR lightblue]Premier Sports[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12247.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12247</info><title>[COLOR lightblue]Setanta Sports + HD[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/6909.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>6909</info><title>[COLOR lightblue]Sky Sports 3[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/9299.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>9299</info><title>[COLOR lightblue]Sky Sports F1[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12008.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12008</info><title>[COLOR lightblue]Sky Sports F1 HD[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10729.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10729</info><title>[COLOR lightblue]Sport 1 Cz[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10560.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10560</info><title>[COLOR lightblue]Sport 1 DE[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10873.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10873</info><title>[COLOR lightblue]Sport 2 Cz[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12557.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12557</info><title>[COLOR lightblue]Sport 5[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10480.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10480</info><title>[COLOR lightblue]Sport TV 1[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10481.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10481</info><title>[COLOR lightblue]Sport TV 2[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10482.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10482</info><title>[COLOR lightblue]Sport TV 3[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10483.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10483</info><title>[COLOR lightblue]Sport TV 4[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10484.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10484</info><title>[COLOR lightblue]Sport TV 5[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/9217.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>9217</info><title>[COLOR lightblue]Super Tennis HD[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/11139.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>11139</info><title>[COLOR lightblue]Teledeporte[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/12959.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>12959</info><title>[COLOR lightblue]Viasat Fotboll[/COLOR]</title></item>
+	    
+	<item><link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/10048.acelive&amp;mode=1&amp;name=Adryanlist+Acestreams</link>
+	<info>10048</info><title>[COLOR lightblue]Viasat Hockey[/COLOR]</title></item>
+	    
+
+			
+
+			
+			<item>
+<title>[COLOR hotpink]Canal+ Liga[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=103&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=103&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Canal+ Liga 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=150&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=150&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Canal+ Futbol[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=159&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=159&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Canal+ Deportes[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=156&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=156&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+tem>
+<title>[COLOR hotpink]Canal+ Deportes 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=157&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=157&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Movistar F1[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=107&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=107&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Movistar MotoGP[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=129&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=129&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Teledeporte[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=101&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=101&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sky Sports 1[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=114&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=114&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sky Sports 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=115&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=115&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sky Sports 3[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=116&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=116&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sky Sports 4[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=117&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=117&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sky Sports 5[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=118&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=118&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sky Sports F1[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=119&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=119&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]BT Sports 1[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=120&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=120&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]BT Sports 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=121&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=121&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]BT ESPN[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=102&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=102&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]SKY Bundesliga[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=110&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=110&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Premier Sport[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=113&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=113&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Motors TV[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=109&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=109&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Racing UK[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=163&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=163&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]British Eurosport[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=111&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=111&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]British Eurosport 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=112&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=112&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ Futbol[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=132&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=132&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ Futbol 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=133&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=133&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ Futbol 3[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=140&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=140&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ Sport[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=130&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=130&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ Sport Plus[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=131&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=131&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ Nash Futbol[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=134&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=134&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ Tenis[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=138&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=138&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+
+<item>
+<title>[COLOR hotpink]NTV+ Basket[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=139&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=139&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Eurosport RU[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=105&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=105&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Eurosport 2 RU[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=106&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=106&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ Futbol HD[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=178&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=178&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ 2 Futbol HD[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=179&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=179&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ 3 Futbol HD[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=180&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=180&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NTV+ HD SPORT[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=136&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=136&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]KHL Ice Hockey[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=141&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=141&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Futbol 1 Ua[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=122&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=122&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Futbol 2 Ua[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=123&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=123&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport 1 Ucrania[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=124&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=124&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport 2 Ucrania[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=125&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=125&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport Ruso[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=126&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=126&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport 1 Ruso[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=127&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=127&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Rusia 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=128&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=128&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Extreme Sports[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=100&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=100&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Viasat Sport RU[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=142&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=142&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Viasat Sport Baltic[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=143&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=143&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Viasat Sport SW[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=145&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=145&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Viasat Motor[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=144&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=144&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Viasat TV3 Sport 1[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=146&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=146&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Viasat TV3 Sport 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=147&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=147&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Viasat Hockey[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=148&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=148&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Viasat Golf[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=155&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=155&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+
+
+<item>
+<title>[COLOR hotpink]Bein MAX ES[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=170&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=170&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+
+<item>
+<title>[COLOR hotpink]Sport TV1 PT[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=165&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=165&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport TV2 PT[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=166&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=166&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport TV3 PT[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=167&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=167&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport TV4 PT[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=168&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=168&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport TV5 PT[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=169&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=169&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Setanta Sports[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=149&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=149&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]NBA Live USA[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=177&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=177&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport 1 CZ[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=153&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=153&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport 2 CZ[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=154&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=154&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport Klub 1[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=135&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=135&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport Klub 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=137&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=137&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]Sport Klub 3[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=160&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=160&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+<item>
+<title>[COLOR hotpink]IDMAN[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[url]/$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<regex>
+<name>url</name>
+<expres>var previo="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=161&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+<regex>
+<name>id</name>
+<expres>httpid="(.*?)"</expres>
+<page>http://mebuscan.net/kos/contenedor.php?canal=161&amp;tipo=1&amp;nav=OTRO</page>
+</regex>
+</item> 
+
+
+
+
+			
+			
+	<item>
+<title>[COLOR skyblue]CANAL + LIGA [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=9387</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>https://chinoataku.files.wordpress.com/2011/08/canal.jpg</thumbnail>
+<fanart>https://chinoataku.files.wordpress.com/2011/08/canal.jpg</fanart>
+</item>
+<item>
+<title>[COLOR skyblue]CANAL + DEPORTES [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=13314</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg</thumbnail>
+<fanart>http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg</fanart>
+</item>
+<item>
+<title>[COLOR skyblue]CANAL + DEPORTES 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=13231</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg</thumbnail>
+<fanart>http://www.telebasura.net/wp-content/2011/02/tie_break_en_canal+_deportes.jpg</fanart> 
+</item>
+<item>
+   <title>[COLOR skyblue]FORMULA 1 2015((MOVISTAR))</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=11642</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>https://lh4.googleusercontent.com/-tA_wV01h8EA/UjhrGGYJxtI/AAAAAAAABD8/2t2yB9lqY8A/w536-h427-no/BOTO+WEB+formula+1.jpg</thumbnail>
+<fanart>https://lh4.googleusercontent.com/-tA_wV01h8EA/UjhrGGYJxtI/AAAAAAAABD8/2t2yB9lqY8A/w536-h427-no/BOTO+WEB+formula+1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR skyblue]MOTOGP 2015 (MOVISTAR)  </title>
+ <link>plugin://program.plexus/?url=7c01784bfeba11565fce3626e155da1fcdb45976&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<thumbnail>http://imagenes.es.sftcdn.net/es/scrn/6652000/6652088/motogp-2012-01-400x535.png</thumbnail>
+<fanart>http://motorcyclefeed.com/wp-content/uploads/2015/01/2013-Indianopolis-MotoGP-Championship-race.png</fanart>
+</item>
+<item>
+<title>[COLOR skyblue]NTV + TENIS[/COLOR]</title>
+<link>plugin://program.plexus/?url=131d343c5bb241600b70fe7e812d1e52b8f6fd4d&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<thumbnail>http://www.vodafoneteam.com/wp-content/uploads/2012/10/tenis_picvb-490x325.jpg</thumbnail>
+<fanart>http://www.vodafoneteam.com/wp-content/uploads/2012/10/tenis_picvb-490x325.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]FIGHT BOX CHANNEL[/COLOR]</title>
+<link>plugin://program.plexus/?url=8f5afdd10c6e425018f5b8cd3a837c8393b21749&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fight_box_hd.png</thumbnail>
+<fanart>http://www.lyngsat-logo.com/hires/ff/fight_box_hd.png</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]FIGHT BOX CHANNEL </title>
+<link>http://92.50.181.6/tv/1118/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fight_box_hd.png</thumbnail>
+<fanart>http://www.lyngsat-logo.com/hires/ff/fight_box_hd.png</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]FIGHT  CHANNEL  </title>
+<link>http://87.248.160.8/edge/smil:boet/playlist.m3u8</link>
+<thumbnail>http://www.fightchannel.hr/fightchannel.hr/wp-content/uploads/fc-logo.jpg</thumbnail>
+<fanart>http://www.fightchannel.hr/fightchannel.hr/wp-content/uploads/fc-logo.jpg</fanart>
+</item>
+<item>
+
+<item>
+<title>[COLOR skyblue]VIASAT Hockey [/COLOR]</title>
+<link>plugin://program.plexus/?url=548d364053e6650458e3f347dfbda0dd852781da&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20100318124513/logopedia/images/d/de/Viasat_Hockey_logo.png</thumbnail>
+<fanart>http://img1.wikia.nocookie.net/__cb20100318124513/logopedia/images/d/de/Viasat_Hockey_logo.png</fanart>
+</item>
+<item>
+<item> 
+<title>[COLOR skyblue]FUTBOL 1 UA[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=9079</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/futbol_ua_1.png</thumbnail>
+<fanart>http://www.ciudadfutbol.com/wp-content/uploads/2015/03/Liga-BBVA.jpg</fanart>
+</item>
+<item> 
+<title>[COLOR skyblue]BEING SPORT FR 1 [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=13184</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://i.ytimg.com/vi/4j35GUTIZvI/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/4j35GUTIZvI/maxresdefault.jpg</fanart>
+</item>
+<item> 
+<title>[COLOR skyblue]BEING SPORT FR 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=13110</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://i.ytimg.com/vi/4j35GUTIZvI/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/4j35GUTIZvI/maxresdefault.jpg</fanart>
+</item>
+<item>
+<item> 
+<title>[COLOR skyblue]BEING SPORT FR 3[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=13176</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://i.ytimg.com/vi/4j35GUTIZvI/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/4j35GUTIZvI/maxresdefault.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]FUTBOL 2 UA  </title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=9251</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/futbol_ua_2.png</thumbnail>
+<fanart>http://www.wallpapersoccer.com/wp-content/uploads/2014/08/Barclays-Premier-League-Logo-hd-wallpaper-1080-1024x768.jpg</fanart>
+</item>
+<item>
+
+<item>
+<title>[COLOR skyblue]NTV + FUTBOL 1[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=3256</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.fcrubin.ru/images/stories/pressa/ntv-plus-nash-football.jpg</thumbnail>
+<fanart>http://www.ciudadfutbol.com/wp-content/uploads/2015/03/Liga-BBVA.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]NTV + FUTBOL 2[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=2977</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.fcrubin.ru/images/stories/pressa/ntv-plus-nash-football.jpg</thumbnail>
+<fanart>http://www.fcrubin.ru/images/stories/pressa/ntv-plus-nash-football.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]NTV + FUTBOL 3[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=6313</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.fcrubin.ru/images/stories/pressa/ntv-plus-nash-football.jpg</thumbnail>
+<fanart>http://www.fcrubin.ru/images/stories/pressa/ntv-plus-nash-football.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR skyblue]SKY SPORT 1[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=10351</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</thumbnail>
+<fanart>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]SKY SPORT 2  </title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=12738</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</thumbnail>
+<fanart>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]SKY SPORT 3[/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=6909</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</thumbnail>
+<fanart>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]SKY SPORT 4  </title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=12739</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</thumbnail>
+<fanart>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</fanart>
+</item>
+<item>
+<item>
+<title>[COLOR skyblue]SKY SPORT 5  </title>
+<link>plugin://program.plexus/?url=$doregex[id]&amp;mode=1&amp;name=AdryanList+Acestream</link>
+<regex>
+<name>id</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://1ttv.net/iframe.php?site=2058&amp;channel=10285</page>
+<referer>http://www.serbiaplus.com</referer>
+</regex>
+<thumbnail>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</thumbnail>
+<fanart>http://www.pictuhotpinkrome.net/files/Sky-Sports-Logo.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+			
+			
+			
+			
+			
+			
+			
+			<item>
+			<title>[COLOR red]BT Sport[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=9220</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=9220</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+				
+				
+			<item>
+			<title>[COLOR red]BT Sport[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=9688</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=9688</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>[COLOR red]Sport TV 1[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=10480</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=10480</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>[COLOR red]Sport TV 2[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=10481</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=10481</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>[COLOR red]Sport TV 3[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=10482</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=10482</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>[COLOR red]Sport TV 4[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=10483</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=10483</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>[COLOR red]Sport TV 5[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=10484</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=10484</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			
+			
+			
+			<item>	<title>[COLOR lila]Eurosport HD[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=Sportmania</link>
+			<regex><name>url</name> <expres>this.loadPlayer\("([^"]*)</expres>
+			<page>http://allfon.tv/?id=24#11</page>
+			<referer></referer></regex></item>
+			
+			<item>
+			<title>[COLOR red]BT Sport[/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=11777</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=11777</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			
+		 
+			
+			
+			
+			
+			<item>
+			<title>[COLOR lila]Sky Sports 3 [/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=AdryanList+Acestreams</link>
+			<regex>
+				<name>hash</name>
+				<expres>this.loadTorrent."(.*?)"<expres>                                           
+				<page>http://torrent-tv.ru/torrent-online.php?translation=6909</page>
+				<setcookie>BHC=$doregex[getCookie]</setcookie>
+				<referer>http://torrent-tv.ru/torrent-online.php?translation=6909</referer>
+			</regex>
+			<regex>
+				<name>getCookie</name>
+				<expres>x-bh-token:(.*?)\s<expres>                                           
+				<page>http://torrent-tv.ru/banhammer/pid</page>
+				<includeheaders></includeheaders>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+				<item>	<title>[COLOR yellow]Musica: MTV Dance [/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=Sportmania</link>
+			<regex><name>url</name> <expres>this.loadPlayer\("([^"]*)</expres>
+			<page>http://allfon.tv/?id=97</page>
+			<referer></referer></regex></item>
+			
+			
+				<item>	<title>[COLOR yellow]Musica: MTV Hits [/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=Sportmania</link>
+			<regex><name>url</name> <expres>this.loadPlayer\("([^"]*)</expres>
+			<page>http://allfon.tv/?id=112</page>
+			<referer></referer></regex></item>
+				<item>	<title>[COLOR yellow]Musica: MTV Rock [/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=Sportmania</link>
+			<regex><name>url</name> <expres>this.loadPlayer\("([^"]*)</expres>
+			<page>http://allfon.tv/?id=98</page>
+			<referer></referer></regex></item>
+				<item>	<title>[COLOR yellow]Musica: VH1 Classics [/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=Sportmania</link>
+			<regex><name>url</name> <expres>this.loadPlayer\("([^"]*)</expres>
+			<page>http://allfon.tv/?id=111</page>
+			<referer></referer></regex></item>
+				<item>	<title>[COLOR yellow]Musica: VH1 Europa [/COLOR]</title>
+			<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=Sportmania</link>
+			<regex><name>url</name> <expres>this.loadPlayer\("([^"]*)</expres>
+			<page>http://allfon.tv/?id=110</page>
+			<referer></referer></regex></item>
+			
+			
+			
+			
+			
+</items>
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/9GLCbiI.jpg</thumbnail>
+<fanart>https://i.imgur.com/9GLCbiI.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/deportes.xml</externallink> 
+<item>
+
+
+
+
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] 1 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://pastebin.com/BXgW98HJ</externallink> 
+<item>
+
+
+
+
+
+
+
+
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] AUTONOMICAS[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/autonomicos.xml</externallink> 
+<item>
+
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TDT(NUEVO) [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/wQMzvl6.jpg</thumbnail>
+<fanart>https://i.imgur.com/wQMzvl6.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/TDTJHG4.xml</externallink> 
+<item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TV DIGITAL [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/MOVISTAR.xml</externallink> 
+<item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] INFANTIL [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/crios.xml</externallink> 
+<item>
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DOCUMENTALES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/DOCUMNTALES.xml</externallink> 
+<item>
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] RADIOS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://pastebin.com/gnyhazj6</externallink> 
+<item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TELENOVELAS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/LISTA.m3u</externallink> 
+<item>
+
+
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.dipuleon.es/img/File/logo_servicio_de_deportes.jpg</thumbnail>
+<fanart>http://www.dipuleon.es/img/File/logo_servicio_de_deportes.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/UFC/master/new21.xml</externallink> 
+<item>
+
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] SPORTS [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/J0zmr7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/J0zmr7e.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/AV%20JHG.xml</externallink>	
+</item> 
+
+  	
+
+
+
+
+
+
+
+
+
+
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TDT [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/wQMzvl6.jpg</thumbnail>
+<fanart>https://i.imgur.com/wQMzvl6.jpg</fanart>
+<externallink>https://pastebin.com/raw/U7SXbEiN</externallink>	
+</item> 
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] En Mantenimiento [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/Steven%20Seagal/1proyect.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/IN2sI5N.jpg</thumbnail>
+<fanart>https://i.imgur.com/IN2sI5N.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/camarasdelmundo.xml</externallink>	
+</item> 
+
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS ESPAÑA [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/V4GfdHT.jpg</thumbnail>
+<fanart>https://i.imgur.com/V4GfdHT.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/radiosespa%C3%B1a.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DOCUMENTALES [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/documentales.xml</externallink>	
+</item> 
+
+
+
+
+
+
+
+<item>
+<title>-[COLOR brown] MUNDO INFANTIL (portadas.) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
+</item>
+	
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] LIVE [/COLOR][COLOR orange] MUSIC [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/d3Aivnb.png</thumbnail>
+<fanart>https://i.imgur.com/d3Aivnb.png</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/LIVEMUSIC/master/index.xml</externallink>
+</item>	
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/UhIwDJr.jpg</thumbnail>
+<fanart>https://i.imgur.com/UhIwDJr.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/BASETAQUILLAJHG3.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] OCIO  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/dwusiIP.jpg</thumbnail>
+<fanart>http://i.imgur.com/dwusiIP.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>	
+</item> 
+			
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] JOKER  [/COLOR][COLOR  yellow]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/Jkr0r7o.jpg</thumbnail>
+<fanart>http://i.imgur.com/Jkr0r7o.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE.xml</externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] AMIGOS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/QREhP0H.jpg</thumbnail>
+<fanart>https://i.imgur.com/QREhP0H.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/AMIGOSJHG2.xml</externallink>	
+</item> 
+
+
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] AEROBIC [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/qDODEGY.png</thumbnail>
+<fanart>https://i.imgur.com/qDODEGY.png</fanart>
+<externallink>https://raw.githubusercontent.com/Delhia/Aerobic/master/index.xml</externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PROGRAMAS TV [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/i6DjXNs.jpg</thumbnail>
+<fanart>https://i.imgur.com/i6DjXNs.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHG.MASTER.3.0/master/PROGRAMASTV.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item> 
+
+ 
+			
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR orange] DEPORTES [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/16JGL5F.jpg</thumbnail>
+<fanart>https://i.imgur.com/16JGL5F.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/BASEDEPORTESJHG2.xml</externallink>	
+</item> 
+		
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/proyectoJHGADryan.xml</externallink>	
+</item> 
+	
+	
+	
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] FAMILIA JHG2 [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/baseretroordenado.xml</externallink>	
+</item> 
+		
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/iVfvshN.jpg</thumbnail>
+<fanart>https://i.imgur.com/iVfvshN.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/larevancha.xml</externallink>	
+</item> 
+
+			
+<item>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] ESPECIAL SERVER LOGAN [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://is2.mzstatic.com/image/thumb/Purple71/v4/cc/92/3f/cc923f5f-d790-8f09-5849-35ca2ff91587/source/1200x630bb.jpg</thumbnail>
+<fanart>http://is2.mzstatic.com/image/thumb/Purple71/v4/cc/92/3f/cc923f5f-d790-8f09-5849-35ca2ff91587/source/1200x630bb.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/logan.xml</externallink>	
+</item>
+	
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]ANIME</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://3.bp.blogspot.com/-vfa4NZQtk64/WPaxIbf26nI/AAAAAAAAAA8/Ip9YsuRU7D8ViKXud5jY9xo7GgmtPuK1ACLcB/s1600/4_6017157591518413019.png</thumbnail>
+<fanart>https://2.bp.blogspot.com/-dTSj4GdpJk0/WUXQFFlPJQI/AAAAAAAAODw/fJbWo5Fsx3kJJEKdOHnfC0cpeS45D8olQCLcBGAs/s1600/fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/zdvuv29c9iv2iou/SERIES%20ANIME.txt</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]SERIES DISKOKOSMIKOS[/COLOR]</title>
+<thumbnail>https://dl.dropbox.com/s/9hf72hb4mco5t57/TV%20SERIES%20DISKOKOSMIKO.jpg</thumbnail>
+<fanart>https://t.ipadizate.es/2017/11/Series-Quiz-640x336.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]SERIES KBAGI[/COLOR]</title>
+<thumbnail>https://dl.dropbox.com/s/awotba00vx2amjl/TV%20SERIES%20KBAGI.jpg</thumbnail>
+<fanart>http://www.aescotilha.com.br/wp-content/uploads/2015/11/series-muito-longas.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropbox.com/s/5nuku6uiho3mz9t/SERIES%20KBAGI.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]SERIES STREAMCLOUD[/COLOR]</title>
+<thumbnail>https://dl.dropbox.com/s/v8vlyf87r3kx5oa/TV%20SERIES%20STREAMCLOUD.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-gKwgQlwmAQc/Volh5xUnQcI/AAAAAAAABFk/6JJBEOdHcYY/s1600/Collage.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropbox.com/s/s4lduvz9os0yngg/SERIES%20STREAMCLOUD.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]SERIES INFANTILES</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://2.bp.blogspot.com/-jCvRkZx_KyE/WekR0B2K6ZI/AAAAAAAAARg/cUunTUbPYGw-JwDfUJ3gvLHHoARhiiungCLcBGAs/s320/INFANTIL.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-M4R7UPnQcMs/WeZC-PAGrkI/AAAAAAAAAQY/mNFdWZFcbCkzHWHwbjP6omcmELSnhQ6YACLcBGAs/s1600/fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/3hla9osy989aw31/SERIES%20INFANTILES.xml</externallink>
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]SERIES INFANTILES KBAGI</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.pinimg.com/originals/34/88/1f/34881f01ef5db56f09e146b1ff9d5c70.jpg</thumbnail>
+<fanart>http://www.irregular.com.br/fotos/artigo-553_1.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/w0cybmoljjs0cmh/SERIES%20INFANTILES%20KBAGI.xml</externallink>
+
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]SERIES INFANTILES MIO POR STREAMCLOUD DE MI PROPIO SERVIDOR</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://orig15.deviantart.net/ac3c/f/2015/118/6/4/series_dibujos_animados__logo__by_robertsnaker-d8rd2sa.png</thumbnail>
+<fanart>https://1.bp.blogspot.com/-mYg6TEAc7-A/WWvPd-C5beI/AAAAAAAAAHU/QTjBK7UUFF0T8hdMWEVyErAzvsCxY7JcACLcBGAs/s1600/fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/go6sqhhlhfowye8/SERIES%20INFANTILES%20PAQUI.txt</externallink>
+
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]MINI SERIES[/COLOR]</title>
+<thumbnail>https://dl.dropbox.com/s/bovx14vlj16nyr5/MINISERIES%20JGP.jpg</thumbnail>
+<fanart>https://dl.dropbox.com/s/5eeb161lb71cmnw/MINISERIES%20FONDO.png</fanart>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropbox.com/s/1v3injyogj4rda8/MINI%20SERIES-gpgfxFiX.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]MINISERIES[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR darkturquoise][COLOR  lime][/COLOR]+- [makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn.collider.com/wp-content/uploads/2015/12/best-tv-2015-miniseries-slice-600x200.jpg</thumbnail>
+        <fanart>http://cdn.collider.com/wp-content/uploads/2015/12/best-tv-2015-miniseries-slice-600x200.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
+<page>http://kbagi.com/REALRONALDO/miniseries-652725/gallery,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://kbagi.com/'
+ url='http://kbagi.com[makelist.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'Addonfesta' , 'Password' : 'addonfesta2017'}
+ nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.collider.com/wp-content/uploads/2015/12/best-tv-2015-miniseries-slice-600x200.jpg</thumbnail>
+<fanart>http://cdn.collider.com/wp-content/uploads/2015/12/best-tv-2015-miniseries-slice-600x200.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]PROGRAMAS TV</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://2.bp.blogspot.com/-8FBKlqIRKNE/WfrDgTRtWnI/AAAAAAAAATk/Sbai-SzVSd4eiIC1eRmxNWRfPWLX1KPjQCLcBGAs/s1600/1509575018431.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-M4R7UPnQcMs/WeZC-PAGrkI/AAAAAAAAAQY/mNFdWZFcbCkzHWHwbjP6omcmELSnhQ6YACLcBGAs7s1600/fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/y7019wcowvmzbqq/PROGRAMAS%202.txt</externallink>
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]PROGRAMAS TV STREAMCLOUD</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://2.bp.blogspot.com/-8FBKlqIRKNE/WfrDgTRtWnI/AAAAAAAAATk/Sbai-SzVSd4eiIC1eRmxNWRfPWLX1KPjQCLcBGAs/s1600/1509575018431.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-M4R7UPnQcMs/WeZC-PAGrkI/AAAAAAAAAQY/mNFdWZFcbCkzHWHwbjP6omcmELSnhQ6YACLcBGAs7s1600/fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/98nuaams2shzta5/PROGRAMAS%20STREAMCLOUD.xml</externallink>
+
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]RISA Y CACHONDEO</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://3.bp.blogspot.com/-W12FEuVW2-4/WPaxGTMZa_I/AAAAAAAAAAg/UkQGsOtxsiwKHInj-2th0dBMH74_oapZQCLcB/s1600/429915816_225506.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-dTSj4GdpJk0/WUXQFFlPJQI/AAAAAAAAODw/fJbWo5Fsx3kJJEKdOHnfC0cpeS45D8olQCLcBGAs/s1600/fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/nketmrdlpz7zdqg/RISAS%20Y%20CACHONDEO.txt</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]TELENOVELAS</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://2.bp.blogspot.com/-l9Tir-iFIBw/WPaxKCpVOOI/AAAAAAAAABg/ua2rbGhori4eedlCHT_5wW0eFbyDpIErACLcB/s1600/4_6019409391332098104.png</thumbnail>
+<fanart>https://2.bp.blogspot.com/-dTSj4GdpJk0/WUXQFFlPJQI/AAAAAAAAODw/fJbWo5Fsx3kJJEKdOHnfC0cpeS45D8olQCLcBGAs/s1600/fanart.jpg</fanart>
+<externallink>https://dl.dropbox.com/s/55584qddaaofkde/TELENOVELAS.txt</externallink>	
+</item>
+
+
+<item>
+<title>[COLOR lightsalmon][COLOR  bisque]• [/COLOR]SERIES SUPER NINTENDO</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://s-i.huffpost.com/gen/2226338/images/o-NINTENDO-facebook.jpg</thumbnail>
+<fanart>http://www.pngmart.com/files/3/Nintendo-Characters-PNG-Pic.png</fanart>
+<externallink>https://dl.dropbox.com/s/oyvkzq74ltrbmdc/SUPER%20NINTENDO%20SERIES.xml?dl=0https://www.dropbox.com/s/oyvkzq74ltrbmdc/SUPER%20NINTENDO%20SERIES.xml</externallink>
+
+
+
+
+
+
+
+
+
+
+
 <item>
 <title>[COLOR white][B]Elitegol.me[/B] Live tv - Deportes. [/COLOR] </title>
 <link>$doregex[makelist]</link>
