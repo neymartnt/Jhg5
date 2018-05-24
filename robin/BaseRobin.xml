@@ -2,39 +2,163 @@
 
 
  
+<channels>
+<channels_info>
+<title>LReylist</title>
+<thumbnail>http://i.imgur.com/DbnjLHj.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channels_info>
+ 
+<channel>
+<name>[COLOR orange]LReylist
+Versión completa 2.0.2[/COLOR]</name>                            
+<info></info>
+<thumbnail>http://i.imgur.com/DbnjLHj.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
 
-<item>
-<title>[COLOR red] También te puede interesar,[/COLOR] [COLOR gold][B]Palantir:[/B][/COLOR] [COLOR orange]Peliculas y Series[/COLOR]</title>
+<channel>
+<name>[COLOR darkorange]                 [/COLOR]</name>                            
+<info></info>
+<thumbnail>http://i.imgur.com/DbnjLHj.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+ 
+<channel>
+<name>[COLOR red][B]OFERTA:[/COLOR] [COLOR lime]"IPTV PREMIUM"[/B][/COLOR]</name>                            
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<channel>
+<name>[COLOR orange]¿Estas cansado de pelearte con las listas de canales
+para poder poner el futbol? ¿Te fallan  o freezean los canales?[/COLOR]</name>
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<channel>
+<name>[COLOR orange]No esperes mas, por un ridiculo precio le damos solucion.[/COLOR]</name>
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+<channel>
+<name>[COLOR orange]Solicita informacion o incluso pruebas gratuitas de nuestra IPTV
+Privada. Contactanos por Telf. o wassap en el 637840250[/COLOR]</name>
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+<channel>
+<name>[COLOR orange]                                                                       [/COLOR]</name>
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+ 
+<channel>
+<name>[COLOR skyblue]                                             Actualizado:[/COLOR] [COLOR white]05/05/2018[/COLOR]</name>      
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>            
+   
+
+
+
+<channel>
+<name>[COLOR red][B]Zona Netflix[/B][/COLOR]</name>
 <link>http://ignoreme</link>
-<jsonrpc>plugin://plugin.video.palantir/</jsonrpc>
-<thumbnail>http://img13.deviantart.net/771b/i/2014/250/c/5/the_palantir_of_barad_dur_by_stirzocular-d7xwbi9.jpg</thumbnail>
-<fanart></fanart>
+<externallink>https://dl.dropboxusercontent.com/s/roxckgryw8rygot/Netflix%20Index.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+<channel>
+<name>[COLOR skyblue][B]Taquillas Movistar +[/B][/COLOR][COLOR orange][I] (Mayo)[/I][/COLOR]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/s28chgs930kkbt1/Taquillas%20Movistar%20%2B.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/FZUe0Jc.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]Zona TV en directo[/B][/COLOR]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/u09kxyu5579bn9f/Zona%20Television%20en%20directo.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/J43jIDN.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+<channel>
+<name>[COLOR lime][B]Zona Deportes en directo[/B][/COLOR]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/yewz5thxr0ebdpi/Zona%20deportes%20en%20directo.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/hwRTmTi.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
 </item>
+</channel>
 
-<item>
-<title>[COLOR red] También te puede interesar,[/COLOR] [COLOR skyblue]Video-Club de series 2.0.0[/COLOR] [COLOR violet][I](Nuevo)[/I][/COLOR]</title>
-<link>http://ignoreme</link>
-<externallink>https://dl.dropboxusercontent.com/s/jnst9923jo48t5l/Addon%20Series.html?dl=0</externallink>
-<thumbnail>http://i.imgur.com/W1Tab3u.png</thumbnail>
-<fanart>http://i.imgur.com/B3kuqq5.jpg</fanart>
-</item>
 
-<item>
-<title>[COLOR red] También te puede interesar,[/COLOR] [COLOR red][B]Netflix Series:[/B] [/COLOR][COLOR skyblue]Pelis[/COLOR][COLOR white]ala[/COLOR][COLOR skyblue]carta[/COLOR]</title>
+<channel>
+<name>[B][COLOR red]Zona[/COLOR] [COLOR blue]WorldPa[/COLOR][COLOR white]delTour[/COLOR][/B]</name>
 <link>http://ignoreme</link>
-<externallink>https://dl.dropboxusercontent.com/s/ht6av6d9ngq82xo/Pelisalacarta.html?dl=0</externallink>
-<thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail>
-<fanart></fanart>
-</item>
+<externallink>https://dl.dropboxusercontent.com/s/lmekvd7st7je6su/WorldPadelTour.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/MSP86rs.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
 
-<item>
-<title>[COLOR red] También te puede interesar,[/COLOR] [COLOR red][B]Netflix Series:[/B] [/COLOR][COLOR yellow]Infantiles [/COLOR]</title>
+
+
+<channel>
+<name>[B][COLOR white]Zo[/COLOR][COLOR lightgreen]na [/COLOR][COLOR orange]In[/COLOR][COLOR yellow]fan[/COLOR][COLOR violet]til[/COLOR][/B]</name>
 <link>http://ignoreme</link>
-<externallink>https://dl.dropboxusercontent.com/s/5e3omuv6wxu6yej/Series%20Infantiles.html?dl=0</externallink>
+<externallink>https://dl.dropboxusercontent.com/s/ao3tiipvtru09jg/Zona%20infantil%20premium.html?dl=0</externallink>
 <thumbnail>http://i.imgur.com/H8inbhN.jpg</thumbnail>
-<fanart></fanart>
-</item>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
 
+<channel>
+<name>[B][COLOR silver]Zona[/COLOR][COLOR crimson] Disco y Karaoke[/COLOR][/B]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/zb2deptqgiloate/zona%20disco%20y%20karaoke.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/cK4ciz6.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue]Zona[/COLOR][COLOR lightblue] Humor y Carnavales[/COLOR][/B]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/xg4okch515390x8/Humor.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/bJBzNhR.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+<channel>
+<name>[B][COLOR violet]Zona Adultos: [/COLOR][/B][I][COLOR pink]+18[/COLOR][/I]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/qkkgs09usjzhhic/Adultos%20premium.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/AxrgOle.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+ 
+<channel>
+<name>[I][COLOR silver]Zona de pruebas[/COLOR][/I]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/w7117qclh22f8kq/Zona%20Test.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/3lAr5OI.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+ 
+
+
+
+
+ 
+</channels>
 
  
 <item> 
