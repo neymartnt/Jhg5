@@ -2,6 +2,76 @@
 
 
 
+
+
+
+
+
+
+<item>
+<title>Programacion EPG [FormulaTV]</title>
+ <link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][makelist.param1][/B][B][makelist.param2] [makelist.param3][/B][makelist.param4] [makelist.param5]</title>
+<link>$doregex[ip]|User-Agent=iPad</link>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
+<page>http://www.formulatv.com/programacion/</page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail>
+<info>Cortesia de Adryanlist </info>
+ </item>
+
+
+
+
+<item>
+<title>    [B]TDT[/B] [I]  [/I]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/tdt.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/esp.png</thumbnail>
+</item>
+
+<item>
+<title>    [B]DIGITAL ESP[/B] [I]  [/I]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/digital.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/esp.png</thumbnail>
+</item>
+
+	<item>
+<title>    [B]MOVISTAR +[/B] [I]  [/I]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/movistarplus.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/esp.png</thumbnail>
+</item>
+
+
+		<item>
+<title>    [B]DEPORTES  [/B] [I]  [/I]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/espdep.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/esp.png</thumbnail>
+</item>
+
+
+			<item>
+<title>    [B]LOCALES [/B] [I]  [/I]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/localesesp.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/esp.png</thumbnail>
+</item>
+
+
+
+
+
+
+
 <item>
 <title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA  [/COLOR][COLOR skyblue] rufuskue zaski  mu phisnca 2018*****  [/COLOR]</title>
 <link>http://Ignoreme</link>
