@@ -18,6 +18,60 @@
 <externallink>https://pastebin.com/raw/qHKE5Aby</externallink>	
 </item>
 
+<item>
+<title>Cinestrenostv.tv</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>http://cinestrenostv.tv[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>PHOTOCALLTV</title>
+<link>$doregex[menulist]</link>
+<regex>
+<name>menulist</name>
+<listrepeat><![CDATA[
+<title>[menulist.param2]</title>
+<link>$doregex[m3u8]</link>
+<thumbnail>http://photocall.tv/[menulist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[a href="([^"]+)".*title="([^"]+)".*?src="([^"]+)"]]></expres>
+<page>http://photocall.tv/</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>source: '(.*?)'</expres>
+<page>http://photocall.tv/[menulist.param1]</page>  
+</regex>
+<thumbnail>https://s18.postimg.cc/cxiwmu3kp/PHOTOCALLTV.png</thumbnail>
+<fanart>https://s18.postimg.cc/b5pxrxci1/PHOTOCALLTV.jpg</fanart>
+</item>
+
+<item>
+<title>Verliga.net </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] [makelist.param3]</title> <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26videoTitle=VerLiga%26url%3D[makelist.param4]</link>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres>&gt;\d+:\d+.*img\s+src="([^"]+)".*&lt;strong&gt;([^&lt;]+).*?&gt;([^&lt;]+).*?href="([^"]+)</expres>
+<page>http://verliga.net/</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+</regex>
+</item>
 
 <item>
 <title>M3ULISTE.PW</title>
