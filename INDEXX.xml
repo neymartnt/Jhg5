@@ -37,7 +37,73 @@
 <fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
 </item>
 	
-		
+<item>
+ <title>*** NEWPCT *** </title>
+
+ <link>$doregex[makelist2]</link>
+
+
+  <regex>
+ <name>makelist2</name>
+ <listrepeat><![CDATA[
+ <title> [makelist2.param2]   </title>
+ <link>$doregex[makelist3]</link>
+ <thumbnail>[makelist2.param3]</thumbnail>
+ <fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+ <expres>href="(.*?)".*?Descargar(.*?)gratis.*?src="(.*?)</expres>
+ <page>$doregex[select]</page>
+ </regex>
+
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import xbmcgui
+  dialog = xbmcgui.Dialog()
+  ret = dialog.select('Elige una Seccion ', ['Peliculas Castellano', 'Estrenos de Cine Castellano', 'Peliculas Alta Definicion HD', 'Peliculas en 3D HD', 'Otras Peliculas', 'Peliculas x264 MKV'])
+  lists = ['http://www.newpct.com/peliculas/', 'http://descargas2020.com/estrenos-de-cine/', 'http://www.newpct.com/peliculas-hd/', 'http://www.newpct.com/peliculas-3d/', 'http://www.newpct.com/otras-peliculas/', 'http://www.newpct.com/peliculas-x264-mkv/']
+  return lists[ret]
+]]></expres>
+ <page></page>
+ </regex>
+
+
+
+
+
+
+
+  <regex>
+ <name>makelist3</name>
+ <listrepeat><![CDATA[
+ <title> [makelist2.param2] server:[makelist3.param1]</title>
+  <link>$doregex[id3]</link>
+ <thumbnail>[makelist2.param3]</thumbnail>
+ <fanart>[makelist2.param3]</fanart>
+ ]]></listrepeat>
+ <expres><![CDATA[href='(https://openload.*?|https://powvideo.*?|http://uptobox.*?|https://vidabc.*?)']]></expres>
+ <page>[makelist2.param1]</page>
+ </regex>
+
+ <regex>
+ <name>id3</name>
+ <expres><![CDATA[#$pyFunction
+ def GetLSProData(page_data,Cookie_Jar,m):
+     import urlresolver
+     url = '[makelist3.param1]'
+     try:
+         u = urlresolver.resolve(url)
+     except:
+         u = 'https://reduviid-tellers.000webhostapp.com/Fallo.mp4'
+     return u
+ ]]></expres>
+ <page></page>
+ </regex>
+
+ <thumbnail>https://s20.postimg.org/53cz5h40t/icono_newpct.png</thumbnail>
+ <fanart>https://s20.postimg.org/4ck8z8yy5/fondo_newpct.jpg</fanart>
+ </item>		
 	
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
@@ -176,35 +242,6 @@
 <externallink>http://pastebin.com/raw.php?i=wL2Jvyh8</externallink>
 </item>
 
-
- 
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES** [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/series/BASE11.xml</externallink>	
-</item> 
-
- 
-<item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS* [/COLOR][COLOR  red]_**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/base.xml</externallink>	
-</item> 
-
- 
-
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
-<fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/base.xml</externallink>
-</item>
 
 
 
