@@ -21,7 +21,7 @@
 	
 	
 	<item>
-<title>[COLOR lime]•[/COLOR] [COLOR red] Netflix: [/COLOR] (HDFULL)</title>
+<title>[COLOR yellow]•[/COLOR] [COLOR red] Netflix: [/COLOR][COLOR  yellow] (HDFULL)[/COLOR] </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkhERnVsbCIsIAogICAgImNoYW5uZWwiOiAiaGRmdWxsIiwgCiAgICAiY29udGV4dCI6IFsKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAiY2hhbm5lbF9jb25maWciLCAKICAgICAgICAgICAgImNoYW5uZWwiOiAic2V0dGluZyIsIAogICAgICAgICAgICAiY29uZmlnIjogImhkZnVsbCIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibWFpbmxpc3QiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJoZGZ1bGwiLCAKICAgICAgICAgICAgInRpdGxlIjogIkNvbmZpZ3VyYXIgY2FuYWwiCiAgICAgICAgfQogICAgXSwgCiAgICAiZmFuYXJ0IjogIiIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAibGFuZ3VhZ2UiOiBbCiAgICAgICAgImNhc3QiLCAKICAgICAgICAibGF0IgogICAgXSwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcanVsZW5cXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmFsZmFcXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcaGRmdWxsLnBuZyIsIAogICAgInRpdGxlIjogIkhERnVsbCIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2ZXJzaW9uIjogMSwgCiAgICAidmlld21vZGUiOiAibGlzdCIKfQ%3d%3d/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/f8AXKTHAPew/maxresdefault.jpg</thumbnail>
@@ -30,81 +30,13 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR] [COLOR red] Netflix: [/COLOR] (CINEFOX)</title>
+<title>[COLOR yellow]•[/COLOR] [COLOR red] Netflix: [/COLOR][COLOR  yellow] (CINEFOX)[/COLOR] </title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkNpbmVmb3giLCAKICAgICJjaGFubmVsIjogImNpbmVmb3giLCAKICAgICJjb250ZXh0IjogWwogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjaGFubmVsX2NvbmZpZyIsIAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZXR0aW5nIiwgCiAgICAgICAgICAgICJjb25maWciOiAiY2luZWZveCIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibWFpbmxpc3QiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJjaW5lZm94IiwgCiAgICAgICAgICAgICJ0aXRsZSI6ICJDb25maWd1cmFyIGNhbmFsIgogICAgICAgIH0KICAgIF0sIAogICAgImZhbmFydCI6ICIiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgImxhbmd1YWdlIjogImVzIiwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcanVsZW5cXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmFsZmFcXHJlc291cmNlc1xcbWVkaWFcXGNoYW5uZWxzXFx0aHVtYlxcY2luZWZveC5wbmciLCAKICAgICJ0aXRsZSI6ICJDaW5lZm94IiwgCiAgICAidG90YWxJdGVtcyI6IDAsIAogICAgInZlcnNpb24iOiAxLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
 <thumbnail>http://www.cinefox.tv/static/img/social.png</thumbnail>
 <fanart>http://i.imgur.com/kTfrP4w.jpg</fanart>
 </item>
-	
-<item>
- <title>*** NEWPCT *** </title>
 
- <link>$doregex[makelist2]</link>
-
-
-  <regex>
- <name>makelist2</name>
- <listrepeat><![CDATA[
- <title> [makelist2.param2]   </title>
- <link>$doregex[makelist3]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
- <fanart>[makelist2.param3]</fanart>
-]]></listrepeat>
- <expres>href="(.*?)".*?Descargar(.*?)gratis.*?src="(.*?)</expres>
- <page>$doregex[select]</page>
- </regex>
-
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import xbmcgui
-  dialog = xbmcgui.Dialog()
-  ret = dialog.select('Elige una Seccion ', ['Peliculas Castellano', 'Estrenos de Cine Castellano', 'Peliculas Alta Definicion HD', 'Peliculas en 3D HD', 'Otras Peliculas', 'Peliculas x264 MKV'])
-  lists = ['http://www.newpct.com/peliculas/', 'http://descargas2020.com/estrenos-de-cine/', 'http://www.newpct.com/peliculas-hd/', 'http://www.newpct.com/peliculas-3d/', 'http://www.newpct.com/otras-peliculas/', 'http://www.newpct.com/peliculas-x264-mkv/']
-  return lists[ret]
-]]></expres>
- <page></page>
- </regex>
-
-
-
-
-
-
-
-  <regex>
- <name>makelist3</name>
- <listrepeat><![CDATA[
- <title> [makelist2.param2] server:[makelist3.param1]</title>
-  <link>$doregex[id3]</link>
- <thumbnail>[makelist2.param3]</thumbnail>
- <fanart>[makelist2.param3]</fanart>
- ]]></listrepeat>
- <expres><![CDATA[href='(https://openload.*?|https://powvideo.*?|http://uptobox.*?|https://vidabc.*?)']]></expres>
- <page>[makelist2.param1]</page>
- </regex>
-
- <regex>
- <name>id3</name>
- <expres><![CDATA[#$pyFunction
- def GetLSProData(page_data,Cookie_Jar,m):
-     import urlresolver
-     url = '[makelist3.param1]'
-     try:
-         u = urlresolver.resolve(url)
-     except:
-         u = 'https://reduviid-tellers.000webhostapp.com/Fallo.mp4'
-     return u
- ]]></expres>
- <page></page>
- </regex>
-
- <thumbnail>https://s20.postimg.org/53cz5h40t/icono_newpct.png</thumbnail>
- <fanart>https://s20.postimg.org/4ck8z8yy5/fondo_newpct.jpg</fanart>
- </item>		
-	
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
 <thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
