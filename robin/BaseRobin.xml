@@ -2,9 +2,9 @@
 
 
 <item>
-<title>[COLOR yellow] _**_  [/COLOR][COLOR white] ******[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR red] ******[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.cine/</jsonrpc>
+<jsonrpc>plugin://plugin.video.JHG.MASTER.4.0/</jsonrpc>
 <thumbnail>https://i.imgur.com/GenH1gM.png</thumbnail>
 <fanart>https://i.imgur.com/GenH1gM.png</fanart>
 </item>
