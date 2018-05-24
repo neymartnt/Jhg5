@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
- 
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR white] ******[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.sportweb/</jsonrpc>
+<thumbnail>https://i.imgur.com/GenH1gM.png</thumbnail>
+<fanart>https://i.imgur.com/GenH1gM.png</fanart>
+</item>
+
+
+plugin.video.sportweb
+
+<!-------- 
 <channels>
 <channels_info>
 <title>LReylist</title>
