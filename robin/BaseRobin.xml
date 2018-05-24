@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+
+
+<item>
+<title>[COLOR skyblue] * [/COLOR][COLOR yellow] ZONA  [/COLOR][COLOR skyblue] *****  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/Tn99cKV.jpg</thumbnail> 
+<fanart>https://i.imgur.com/Tn99cKV.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/newprueba.xml$$LSProEncKey=tvchopo$$</externallink>	
+</item>
+
+
 <item>
 <title>[COLOR yellow] _**_  [/COLOR][COLOR red] ******[/COLOR][COLOR lime][I] Addon Necesario[/I][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -9,8 +22,6 @@
 <fanart>https://i.imgur.com/GenH1gM.png</fanart>
 </item>
 
-
-plugin.video.sportweb
 
 <!-------- 
 <channels>
