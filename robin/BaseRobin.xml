@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+ 
+
+<item>
+<title>[COLOR red] También te puede interesar,[/COLOR] [COLOR gold][B]Palantir:[/B][/COLOR] [COLOR orange]Peliculas y Series[/COLOR]</title>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.palantir/</jsonrpc>
+<thumbnail>http://img13.deviantart.net/771b/i/2014/250/c/5/the_palantir_of_barad_dur_by_stirzocular-d7xwbi9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] También te puede interesar,[/COLOR] [COLOR skyblue]Video-Club de series 2.0.0[/COLOR] [COLOR violet][I](Nuevo)[/I][/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/jnst9923jo48t5l/Addon%20Series.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/W1Tab3u.png</thumbnail>
+<fanart>http://i.imgur.com/B3kuqq5.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red] También te puede interesar,[/COLOR] [COLOR red][B]Netflix Series:[/B] [/COLOR][COLOR skyblue]Pelis[/COLOR][COLOR white]ala[/COLOR][COLOR skyblue]carta[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/ht6av6d9ngq82xo/Pelisalacarta.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/zxxBggL.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red] También te puede interesar,[/COLOR] [COLOR red][B]Netflix Series:[/B] [/COLOR][COLOR yellow]Infantiles [/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/5e3omuv6wxu6yej/Series%20Infantiles.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/H8inbhN.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+ 
+<item> 
+<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] SERIES** [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/series/BASE11.xml</externallink>	
+</item> 
+
+ 
+<item> 
+<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS* [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/base.xml</externallink>	
+</item> 
+
+ 
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] PELICULAS (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<thumbnail>https://i.imgur.com/g24UqUU.jpg</thumbnail>
+<fanart>https://i.imgur.com/g24UqUU.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/base.xml</externallink>
+</item>
+
 
 
 
