@@ -20,6 +20,64 @@
 
 
 <item>
+<title>M3ULISTE.PW</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>      [COLOR lightgreen][makelist.param2][/COLOR]    ( [makelist.param1] )  </title>
+    <link>nolink</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+</regex>
+<thumbnail>https://www.m3uliste.pw/files/.logo-lw-scaled.jpg.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/dsiI5upEdBs/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>FLUXUSTV</title>
+<link>nolink</link>
+<externallink>https://pastebin.com/raw/6t4ifUG9</externallink>
+<thumbnail>http://i.imgur.com/72tK2FB.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/VS62K8K2h-c/maxresdefault.jpg</fanart> 
+</item>
+
+<item>
+<title>LODGETV</title>
+<link>nolink</link>
+<externallink>https://pastebin.com/raw/cXe72XM5</externallink>
+<thumbnail>https://s9.postimg.cc/y2ofs0frz/Lodge_TV_Logo-_Square.png</thumbnail>
+<fanart>https://s9.postimg.cc/n338gg7db/Lodge_TVfb.jpg</fanart> 
+</item>
+
+<item>
+<title>TECNOTV</title>
+<link>nolink</link>
+<externallink>https://pastebin.com/raw/MXPxXwVM</externallink>
+<thumbnail>https://s9.postimg.cc/rccjweab3/TECNOTV.png</thumbnail>
+<fanart>https://s9.postimg.cc/8jw3f46jj/TECNOTVAPK.jpg</fanart> 
+</item>
+
+<item>
+<title>CAFETV (SPAIN CHANNELS)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>nolink</link>
+    <externallink>[makelist.param1]</externallink>
+]]></listrepeat>
+<expres><![CDATA[.*?href="(.*m3u)"]]></expres>
+<page>https://cafe-tv.net/2017/12/iptv-m3u-spain-channels/</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart> 
+</item>
+
+<item>
 <title>#0</title>
 <link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
 <regex>
