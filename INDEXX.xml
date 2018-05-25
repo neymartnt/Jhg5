@@ -70,24 +70,6 @@
 </item>
 
 
-<item>
-<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerCanalesTV.com[/I][/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerCanalesTV.com%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fvercanalestv.cfg%26definedIn%3dcustoms.cfg%26director%3dvercanalestv.com%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerdirectoTv.net[/I][/COLOR]</title>
-<link>http://ignora.me</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerDirectoTV.net%2b%2528TV%2bEspa%25C3%25B1a%2529%26url%3dcustoms%252Fverdirectotv.cfg%26definedIn%3dcustoms.cfg%26director%3dverdirectotv.net%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 
@@ -103,6 +85,27 @@
 	
 	
 
+
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MAGELLAN [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/iDcUypr.jpg</thumbnail>
+<fanart>https://i.imgur.com/iDcUypr.jpg</fanart>
+<externallink>http://pastebin.com/raw.php?i=wL2Jvyh8</externallink>
+</item>
+
+
+
+
+
+ <!------
+ 
+ https://raw.githubusercontent.com/neymartnt/neymar/master/PELICULASLREYJHG.xml
+ 
+
+	
 
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR red] Television Premium  Online Sportdevil [COLOR white][ES][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
@@ -154,27 +157,6 @@
 <externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/MAGELLAN1.xml</externallink>
 </item>
  
-
-
-
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MAGELLAN [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/iDcUypr.jpg</thumbnail>
-<fanart>https://i.imgur.com/iDcUypr.jpg</fanart>
-<externallink>http://pastebin.com/raw.php?i=wL2Jvyh8</externallink>
-</item>
-
-
-
-
-
- <!------
- 
- https://raw.githubusercontent.com/neymartnt/neymar/master/PELICULASLREYJHG.xml
- 
-
-	
 	
 	
 <item> 
@@ -335,5 +317,23 @@
 
 
 
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerCanalesTV.com[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerCanalesTV.com%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fvercanalestv.cfg%26definedIn%3dcustoms.cfg%26director%3dvercanalestv.com%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]VerdirectoTv.net[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dVerDirectoTV.net%2b%2528TV%2bEspa%25C3%25B1a%2529%26url%3dcustoms%252Fverdirectotv.cfg%26definedIn%3dcustoms.cfg%26director%3dverdirectotv.net%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
