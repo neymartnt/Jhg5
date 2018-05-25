@@ -20,7 +20,7 @@
 		
 	
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] Z SPORTS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] Z SPORTS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/Zsports/zsportindex.xml</externallink>
 <thumbnail>https://i.imgur.com/V0OSbfK.jpg</thumbnail>
@@ -32,7 +32,7 @@
 	 
  
 <item>
-<title>[COLOR red] * [/COLOR][COLOR white]** SERIES DANKO ** [/COLOR][COLOR red] NUEVO [/COLOR]</title>
+<title>[COLOR  yellow] ** [/COLOR][COLOR white]** SERIES DANKO ** [/COLOR][COLOR red] NUEVO [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIlNlcmllc2RhbmtvIiwgCiAgICAiY2hhbm5lbCI6ICJzZXJpZXNkYW5rbyIsIAogICAgImNvbnRleHQiOiBbCiAgICAgICAgewogICAgICAgICAgICAiYWN0aW9uIjogImNoYW5uZWxfY29uZmlnIiwgCiAgICAgICAgICAgICJjaGFubmVsIjogInNldHRpbmciLCAKICAgICAgICAgICAgImNvbmZpZyI6ICJzZXJpZXNkYW5rbyIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibWFpbmxpc3QiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJzZXJpZXNkYW5rbyIsIAogICAgICAgICAgICAidGl0bGUiOiAiQ29uZmlndXJhciBjYW5hbCIKICAgICAgICB9CiAgICBdLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6IFsKICAgICAgICAiY2FzdCIsIAogICAgICAgICJsYXQiCiAgICBdLCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxqdWxlblxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYWxmYVxccmVzb3VyY2VzXFxtZWRpYVxcY2hhbm5lbHNcXHRodW1iXFxzZXJpZXNkYW5rby5wbmciLCAKICAgICJ0aXRsZSI6ICJTZXJpZXNkYW5rbyIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2ZXJzaW9uIjogMSwgCiAgICAidmlld21vZGUiOiAibGlzdCIKfQ%3d%3d/</jsonrpc>
 <thumbnail></thumbnail>
@@ -77,7 +77,6 @@
 <fanart>https://i.imgur.com/EQfNGdH.jpg<fanart>
 <externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER2DOCU.xml</externallink> 
 </item>
-
 
 
 
