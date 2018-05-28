@@ -24,25 +24,23 @@
 </item>
 
 
-
-
-
 <item>   
 <title>[I][B][COLOR gold]•  AMERIKANO PREMIUM [/I][/B][/COLOR]</title>
 <link>rs</link>
 <jsonrpc>plugin://plugin.video.amerikanopremium</jsonrpc>
 <thumbnail>http://i.imgur.com/jAlj01s.png</thumbnail>
-<fanart>http://i.imgur.com/OdN4LZD.jpg<</fanart>
+<fanart>http://i.imgur.com/OdN4LZD.jpg</fanart>
 <info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
 [COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
 </item>
+
 
 <item>   
 <title>[I][B][COLOR lime]•  AMERIKANO PREMIUM JR[/I][/B][/COLOR]</title>
 <link>rs</link>
 <jsonrpc>plugin://plugin.video.amerikanopremiumjr</jsonrpc>
 <thumbnail>https://i.imgur.com/AhNZFpE.png</thumbnail>
-<fanart>http://i.imgur.com/OdN4LZD.jpg<</fanart>
+<fanart>http://i.imgur.com/OdN4LZD.jpg</fanart>
 <info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
 [COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
 </item>
@@ -101,7 +99,6 @@
 
 [COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
 </item>
-
 
 
 
@@ -554,71 +551,6 @@ item>
 
 [COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
 </item>
-
-<channel>
-<name>[COLOR red][B] APITO DOURADO, A FRUTA DO BURRO [/B][/COLOR]</name>
-<thumbnail>http://4.bp.blogspot.com/-yhcPXcEBr50/UPQ9oZjlUoI/AAAAAAAADnU/5QV9lyK286Q/s640/Pinto_Orelhas_de+burro.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/rFQz5T3z</externallink>
-<fanart>https://cromosdodesporto.files.wordpress.com/2007/02/pinto.JPG?w=500</fanart>
-</channel>
-
-<channel>
-<name>[COLOR gold][B] ADDONS DA TV DO BURRO [/B][/COLOR]</name>
-<thumbnail>https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/d8/40/3b/d8403b55-7756-42ec-8e4d-23f85c370da5/mzl.zvajtzxb.png/246x0w.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/FF4BJKPi</externallink>
-<fanart>https://i.ytimg.com/vi/rJSBELtAYgE/maxresdefault.jpg</fanart>
-<info>DESPORTO SEMPRE EM ANDAMENTO</info>
-</channel>
- 
-<channel>
-<name>[COLOR orange][B] DESPORTO [/B][/COLOR]</name>
-<thumbnail>https://www.agenciagetdigital.com/wp-content/uploads/2016/09/planeta-futebol-logo.png</thumbnail>
-<externallink>https://pastebin.com/raw/yTrnaxx5</externallink>
-<fanart>http://s1.static-footeo.com/uploads/cschange/news/pronostic-foot__n14y3j.jpg</fanart>
-<info>DESPORTO SEMPRE EM ANDAMENTO</info>
-</channel>
-
-<channel>
-<name>[COLOR green][B] CANAIS IPTV [/B][/COLOR]</name>
-<thumbnail>http://apkdownloadcenter.com/wp-content/uploads/2016/11/3QEtlieDxrg.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/6u5h4E38</externallink>
-<fanart>http://www.fusaka.com.br/wp-content/uploads/2017/05/configurar_ssiptv.jpg</fanart>
-</channel>
-
-<channel>
-<name>[COLOR aqua][B] PRAIAS IPTV[/B][/COLOR]</name>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/08/webcam-praia-vagueira.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Team-JMF/lists/master/pt.m3u</externallink>
-<fanart>https://viralitycz.tiscali.cz/wp-content/uploads/2016/02/maxresdefault.jpg</fanart>
-</channel>
-
-<channel>
-<name>[COLOR blue][B] FILMES [/B][/COLOR]</name>
-<thumbnail>http://vitaminapublicitaria.com.br/wp-content/uploads/2013/09/filmes-publicitarios.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/0HM0FSbE</externallink>
-<fanart>http://4.bp.blogspot.com/-mqykPD9lTr8/U3jNwE9AG_I/AAAAAAAAAZ4/W9JXyoq2Ne0/s1600/img-2419-mashup-filmes-2012.jpg</fanart>
-</channel>
-
-<channel>
-<name>[COLOR yellow][B] CONCERTOS [/B][/COLOR]</name>
-<thumbnail>https://i.pinimg.com/236x/a5/f4/63/a5f463327f6ae69bfc52fc7f6c9e76d4--ac-dc.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/7pTEefzd</externallink>
-<fanart>http://4.bp.blogspot.com/-qhJ5PvjO0vs/UGBmED9flYI/AAAAAAAAApY/sTv3VJR1g0Y/s1600/ACDC-Live-at-River-Plate-2009.jpg</fanart>
-</channel>
-
-<channel>
-<name>[COLOR lawngreen][B] MUSICA [/B][/COLOR]</name>
-<thumbnail>http://www.cm-amarante.pt/media/image_manager/projetos_e_iniciativas/mercado_da_musica.png</thumbnail>
-<externallink>https://www.dropbox.com/s/nuvswndb351sibo/Music.txt?dl=1</externallink>
-<fanart>https://i0.wp.com/mp3kite.online/wp-content/uploads/2017/03/ELECTRO_HOUSE_2017_Best_EDM_Remixes_Of_Popular_Songs_Shuffle_Dance_Music.jpg?resize=300%2C169</fanart>
-</channel>
-
-<channel>
-<name>[COLOR brown][B] KARAOKE [/B][/COLOR]</name>
-<thumbnail>http://pizzabobs.ca/pb17/wp-content/uploads/2017/09/karaoke-1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Team-JMF/MUSICA/master/KARAOKE</externallink>
-<fanart>http://www.curtamais.com.br/uploads/conteudos/d9e70f21d778e677b5ab63ba187edcfc.jpg</fanart>
-</channel>
 
 
 
