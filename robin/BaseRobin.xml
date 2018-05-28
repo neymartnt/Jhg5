@@ -9,11 +9,6 @@
 
 
 
-
-
-
-
-
 <item>
 <title>peliculas</title>
 <thumbnail></thumbnail>
@@ -27,7 +22,7 @@
 <thumbnail></thumbnail>
 <fanart>http://www.hdfondos.eu/pictures/2015/0602/1/orig_94537.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/palantir2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/series/series.xml</externallink>
 </item>
  
 <item>
@@ -35,7 +30,7 @@
 <thumbnail></thumbnail>
 <fanart>https://cde.peru.com//ima/0/1/4/6/8/1468670/924x530/club-comedia.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/javilucy609/prueba/master/humor.xml</externallink>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/humor/index%20humor.xml</externallink>
 </item>
  
 <item>
@@ -43,7 +38,7 @@
 <thumbnail>https://www.google.es/imgres?imgurl=http%3A%2F%2Fassets1.ignimgs.com%2F2015%2F04%2F11%2Fanimeclublogobgpng-d12ea7.png&imgrefurl=https%3A%2F%2Fpodfanatic.com%2Fpodcast%2Fign-anime-club&docid=4_0jCrjXL69WjM&tbnid=tRlV4jhUA-7aQM%3A&vet=12ahUKEwj7_5W4wOraAhVIApoKHYSPAzI4ZBAzKAEwAXoECAEQAg..i&w=1600&h=1600&itg=1&bih=669&biw=1280&q=logo%20anime%20png&ved=2ahUKEwj7_5W4wOraAhVIApoKHYSPAzI4ZBAzKAEwAXoECAEQAg&iact=mrc&uact=8</thumbnail>
 <fanart>http://globalmedicalco.com/photos/globalmedicalco/1/4386.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/Anime%20completo.xml</externallink>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/anime/index%20anime.xml</externallink>
 </item>
 <item>
 
@@ -51,7 +46,34 @@
 <thumbnail>https://www.google.es/imgres?imgurl=http%3A%2F%2Fassets1.ignimgs.com%2F2015%2F04%2F11%2Fanimeclublogobgpng-d12ea7.png&imgrefurl=https%3A%2F%2Fpodfanatic.com%2Fpodcast%2Fign-anime-club&docid=4_0jCrjXL69WjM&tbnid=tRlV4jhUA-7aQM%3A&vet=12ahUKEwj7_5W4wOraAhVIApoKHYSPAzI4ZBAzKAEwAXoECAEQAg..i&w=1600&h=1600&itg=1&bih=669&biw=1280&q=logo%20anime%20png&ved=2ahUKEwj7_5W4wOraAhVIApoKHYSPAzI4ZBAzKAEwAXoECAEQAg&iact=mrc&uact=8</thumbnail>
 <fanart>http://globalmedicalco.com/photos/globalmedicalco/1/4386.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/LiveTV.xml</externallink>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/live%20tv/LiveTV.xml</externallink>
+</item>
+
+<item>
+
+<title>Cocina</title>
+<thumbnail>http://ritmoparana.com/web/wp-content/uploads/2017/06/58289-thumb.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/cocina/menu%20cocina.xml</externallink>
+</item>
+
+<item>
+
+<title>Adultos</title>
+<thumbnail>http://vitalegria.com/upload/es/2017/02/18/1714874/gallery/tn/2.jpg</thumbnail>
+<fanart>https://thumbs.dreamstime.com/z/mujer-hermosa-er%C3%B3tica-atractiva-42070506.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/Adulto/solo%20adultos/soloadultos.xml</externallink>
+</item>
+
+<item>
+
+<title>Documentales</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/javilucy609/RetroTv/master/documentales/menu%20documental.xml</externallink>
 </item>
 
 
