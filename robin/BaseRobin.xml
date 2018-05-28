@@ -23,10 +23,461 @@
 
 
 
+<item>
+<title>[B][COLOR lightseagreen] |+| [/COLOR][COLOR white] Buscador [/COLOR][COLOR orange] Dk [/COLOR][/B] </title>
+<link>$doregex[lista]</link>
+ 
+<regex>
+<name>lista</name>
+  <listrepeat><![CDATA[
+         <SetViewMode>55</SetViewMode>
+         <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".avi", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".mkv", "[COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]")</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
+        ]]></listrepeat>
+<expres><![CDATA[href=\"(.*?,(.*?)\..*?)\".*?preview">(.*?mkv|.*?mp4|.*?avi)<]]><expres>
+<page>http://diskokosmiko.mx/action/SearchFiles?Phrase=MagyckPi&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
+<rawpost>Phrase=$doregex[search]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/action/SearchFiles</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>d248aa4e1e697a53b195098a52759e8d21507325199</cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Busca tu pelicula o serie favorita:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+
+
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[lista.param1]</page>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://diskokosmiko.mx/'
+ url='http://diskokosmiko.mx[lista.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'josele89'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>tok2</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx[lista.param1]</page>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
+</item>
 
 
 
+ 
+ 
+<item>
+<title>[B][COLOR paleturquoise] |+| [/COLOR][COLOR white] Buscador [/COLOR][COLOR lime]Kbagi[/COLOR][/B] </title>
+<link>$doregex[lista]</link>
+<regex>
+<name>lista</name>
+  <listrepeat><![CDATA[
+         <SetViewMode>55</SetViewMode>
+         <title>$pyFunction:'[lista.param3]'.replace(".mp4", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".avi", "  [COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]").replace(".mkv", "[COLOR deeppink]Mgck[/COLOR][COLOR lime]Pi[/COLOR]")</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
+        ]]></listrepeat>
+<expres><![CDATA[href=\"(.*?,(.*?)\..*?)\".*?preview">(.*?mkv|.*?mp4|.*?avi)<]]><expres>
+<page>http://kbagi.com/action/SearchFiles?Phrase=MagyckPi&amp;Mode=List&amp;Type=Video&amp;SizeFromMB=0&amp;SizeToMB=0&amp;pageNumber=10</page>
+<rawpost>Phrase=$doregex[search]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://kbagi.com/action/SearchFiles</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>d248aa4e1e697a53b195098a52759e8d21507325199</cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Busca tu pelicula o serie favorita:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://kbagi.com/[lista.param1]</page>
+<referer>http://kbagi.com/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex><name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+ ref = 'http://kbagi.com/'
+ url='http://kbagi.com[lista.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+ 
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'josele89' , 'Password' : 'almera89'}
+ nr1 = requests.post('http://kbagi.com/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>tok2</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://kbagi.com[lista.param1]</page>
+<referer>http://kbagi.com/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://i.imgur.com/aJ4O796.png</thumbnail>
+</item>
 
+<item>
+<title>[B][COLOR sandybrown]+----------------------------------+[/COLOR][/B]</title>
+<link>na</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR lightseagreen] |#| [/COLOR][/B][B][COLOR white] Series[/COLOR][COLOR orange] Dk[/COLOR][/B]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[makelist2.param1]</title>
+        <link>$doregex[makelist]</link>
+		<thumbnail></thumbnail>
+        <fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[titulo:"(.*?)" src="(.*?)";foto:"(.*?)";]]></expres>
+<page>https://pastebin.com/raw/KZC6ecsW</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[getUrl]</link>
+		<thumbnail></thumbnail>
+        <fanart></fanart>
+        ]]></listrepeat>
+<expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
+<page>[makelist2.param2]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re , requests ,json
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ ref = 'http://diskokosmiko.mx/' 
+ url='http://diskokosmiko.mx[makelist.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
+            'X-Requested-With' : 'XMLHttpRequest' , 'Accept' : '*/*'}
+ session = requests.Session()
+ r = session.get(url, headers=headers)
+ rv1 = r.cookies
+
+ vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
+ nrj=json.loads(nr)
+ nr = nrj['Content']
+ r2 = re.findall(r'(?s)value=\"(.*?)\"', nr)[0]
+ data_a ={'__RequestVerificationToken': r2 , 'Username': 'catoal1' , 'Password' : 'masterkodi2016'}
+ nr1 = requests.post('http://diskokosmiko.mx/action/Account/Login', headers=headers,cookies = rv1 , data=data_a)
+ print nr1.headers['Set-Cookie']
+ rasp = re.findall('ASPXAUTH_v2=(.*?);', nr1.headers['Set-Cookie'])[0]
+ rv1['.ASPXAUTH_v2'] = rasp
+ data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
+ nr3 = requests.post('http://diskokosmiko.mx/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers, cookies = rv1 , data=data_a).text
+ r3 = re.findall('DownloadUrl":"(.*?)"', nr3)[0]
+ print r3
+ return r3
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>	
+
+
+<item>
+<title>[B][COLOR lightseagreen] |#| [/COLOR][/B][B][COLOR white] Series Dkiss[/COLOR][/B]</title>
+ <link>$doregex[magyck]</link>
+ 
+<regex>
+<name>magyck</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR red] - [COLOR white][magyck.param2] [/COLOR][/B]</title>
+<thumbnail>[magyck.param3]</thumbnail>
+<fanart>[magyck.param3]</fanart>
+<link>$doregex[magyck2]</link>  
+]]></listrepeat>
+<expres><![CDATA[(?s)<li><a href="/dkiss/([^"]+).*?>([^<]+).*?]]></expres>
+<page>http://es.dplay.com/series/</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+  <name>magyck2</name>  
+  <listrepeat><![CDATA[  
+     <title>[B][COLOR greenyellow] - [/COLOR][COLOR white][magyck2.param5][/COLOR][/B]</title>
+<thumbnail>[magyck.param3]</thumbnail>
+<fanart>[magyck.param3]</fanart>
+     <link>$doregex[magyck3]</link>  
+]]></listrepeat>
+<expres>(?s)class="episode-slide animated "([^<]+).*?a href="([^"]+).*?data-duration='([^']+).*?class="caros-show-title">([^<]+).*?class="caros-ep-title">([^<]+).*?</expres>
+<page>http://es.dplay.com/dkiss/[magyck.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>magyck3</name>  
+<expres>\"url.+\"(.*?)true.\"</expres>
+<page>http://es.dplay.com/[magyck2.param2]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>http://www.kissfm.es/wp-content/uploads/2016/04/DKISS-WEB-650x361.png</thumbnail>
+<fanart>http://perdidosenlatele.com/wp-content/uploads/2016/04/DKISS.png</fanart>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR teal] |#| [/COLOR][/B][B][COLOR white]  Series Dplay[/COLOR][/B]</title>
+ <link>$doregex[magyck]</link>
+ 
+<regex>
+<name>magyck</name>  
+<listrepeat><![CDATA[  
+<title>[B][COLOR red] - [COLOR white][magyck.param2] [/COLOR][/B]</title>
+<thumbnail>[magyck.param3]</thumbnail>
+<fanart>[magyck.param3]</fanart>
+<link>$doregex[magyck2]</link>  
+]]></listrepeat>
+<expres><![CDATA[(?s)<li><a href="/dmax/([^"]+).*?>([^<]+).*?]]></expres>
+<page>http://es.dplay.com/series/</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+  <name>magyck2</name>  
+  <listrepeat><![CDATA[  
+     <title>[B][COLOR blue] - [/COLOR][COLOR white][magyck2.param5][/COLOR][/B]</title>
+<thumbnail>[magyck.param3]</thumbnail>
+<fanart>[magyck.param3]</fanart>
+     <link>$doregex[magyck3]</link>  
+]]></listrepeat>
+<expres>(?s)class="episode-slide animated "([^<]+).*?a href="([^"]+).*?data-duration='([^']+).*?class="caros-show-title">([^<]+).*?class="caros-ep-title">([^<]+).*?</expres>
+<page>http://es.dplay.com/dmax/[magyck.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>magyck3</name>  
+<expres>\"url.+\"(.*?)true.\"</expres>
+<page>http://es.dplay.com/[magyck2.param2]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<thumbnail>https://www.recordere.dk/wp-content/uploads/2016/05/dplay.jpg</thumbnail>
+<fanart>https://it.dplay.com/0009/static/assets/imgs/default_share_img.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR turquoise]+----------------------------------+[/COLOR][/B]</title>
+<link>na</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR violet] |#| [/COLOR][/B][B][COLOR white]  Peliculas (Por orden Alfabetico)(Español y Latino)[/COLOR][/B]</title>
+<link>$doregex[magyck]</link>
+ 
+<regex>
+<name>magyck</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][magyck.param2][/COLOR]</title>
+<link>$doregex[magyck2]</link>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)/">(.*?)/]]></expres>
+<page>http://axstvdoble.mine.nu/peliculas%20agui/</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>magyck2</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][magyck2.param2][/COLOR]</title>
+<link>$doregex[magyck3]</link>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">(.*?)/]]></expres>
+<page>http://axstvdoble.mine.nu/peliculas%20agui/[magyck.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>magyck3</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][magyck3.param2][/COLOR]</title>
+<link>http://axstvdoble.mine.nu/peliculas%20agui/[magyck.param1]/[magyck2.param1]/[magyck3.param1]</link>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*)">(.*).mkv]]></expres>
+<page>http://axstvdoble.mine.nu/peliculas%20agui/[magyck.param1]/[magyck2.param1]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>http://www.dosbit.com/images/2014/12/diez-alternativas-a-peliculas-yonkis-01.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-rrFM1SR8C4c/WaNJ7pXEUOI/AAAAAAAAAto/x9xR_Ejq_VASoodFwkF5Wai4zh56FgVhgCLcBGAs/s1600/2.jpg</fanart>
+ 
+</item>
+
+
+
+<item>
+<title>[B][COLOR violet] |#| [/COLOR][/B][B][COLOR white] + Peliculas [/COLOR][/B]</title>
+ <link>$doregex[magyck]</link>
+ 
+<regex>
+  <name>magyck</name>  
+  <listrepeat><![CDATA[  
+       <title>[COLOR white][magyck.param2][/COLOR] - [COLOR yellow][magyck.param3][/COLOR]</title>
+       <link>http://condor1726.dedicatedpanel.com/PELICULAS/[magyck.param1]</link>  
+  ]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">(.*?).mkv</a></td><td align="right">(.*?) ]]></expres>
+<page>http://condor1726.dedicatedpanel.com/PELICULAS/</page>
+<cookieJar></cookieJar>
+</regex>
+
+<thumbnail>http://www.dosbit.com/images/2014/12/diez-alternativas-a-peliculas-yonkis-01.jpg</thumbnail>
+<fanart>https://www.ecartelera.com/images/sets/19500/19571.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet] |#| [/COLOR][/B][B][COLOR white] Peliculas Infantiles [/COLOR][/B]</title>
+<link>na</link>
+<externallink>https://pastebin.com/raw/y3AdBLHV</externallink>
+<thumbnail>https://www.chisschass.com/wp-content/uploads/2014/11/cine-y-palomitas-copia.jpg</thumbnail>
+<fanart>http://endimages.s3.amazonaws.com/cache/da/eb/daeba9f359fa8d6bcd862bc401ec3925.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR brown]+----------------------------------+[/COLOR][/B]</title>
+<link>na</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR crimson] |#| [/COLOR][/B][B][COLOR white] F1 [/COLOR][/B]</title>
+<link>na</link>
+<externallink>https://pastebin.com/raw/X0FhSayd</externallink>
+<thumbnail>https://d2d0b2rxqzh1q5.cloudfront.net/sv/1.67/dir/459/image/45948ed820777a246ff9eee13107e746.jpg</thumbnail>
+<fanart>https://www.telegraph.co.uk/content/dam/formula-1/2017/11/26/TELEMMGLPICT000147694666-xlarge_trans_NvBQzQNjv4Bq_SwnslUQkpHNk4h-1lw-o5J8IjL1YlPJBDBZyBKm58o.jpeg</fanart>
+</item>
 
 
 
