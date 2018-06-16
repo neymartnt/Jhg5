@@ -258,148 +258,149 @@
 
 
 
-
-
-
- <item>
-<title>[COLOR red][COLOR red][B]• [/B] [/COLOR][B] LOGAN TV[/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.loganaddon</jsonrpc>
-<fanart>http://i.imgur.com/Bep0gXS.jpg</fanart>
-<thumbnail>http://i.imgur.com/d3Ox3LF.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+<item>
+<title>[B]RUSSIA 2018[/B]</title>
+<link>http://ignorame</link><thumbnail>https://vectors.pro/wp-content/uploads/2017/10/fifa-world-cup-2018-logo-vector.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/russia.xml</externallink>
+<info>Opciones para disfrutar de la Copa del mundo de Futbol Russia 2018</info>
 </item>
-
-
-
-
- <item>
-<title>[COLOR yellow][COLOR yellow][B]• [/B] [/COLOR][B]MOVIES 1080/FHD[/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://script.module.AmerikanoTugam/</jsonrpc>
-<fanart>https://img00.deviantart.net/f10d/i/2013/039/c/0/2013_movies_wallpaper_by_z_designs-d5u94o3.jpg</fanart>
-<thumbnail>http://i.imgur.com/lyJZN3c.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
-</item>
-
-
-
-
-
- <item>
-<title>[COLOR purple][COLOR purple][B]• [/B] [/COLOR][B]MOVIES & TV SHOWS[/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.loganaddon</jsonrpc>
-<fanart>https://img00.deviantart.net/f10d/i/2013/039/c/0/2013_movies_wallpaper_by_z_designs-d5u94o3.jpg</fanart>
-<thumbnail>http://i.imgur.com/xSDG4LY.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
-</item>
-
 
 
 
 <item>
-<title>[COLOR gold][COLOR gold][B]• [/B] [/COLOR][B]GHOST STREAM[/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.AmerikanoTuga/url=https://goo.gl/KEUQkK</jsonrpc>
-<fanart>http://i.imgur.com/4LG6Cir.png</fanart>
-<thumbnail>http://i.imgur.com/4LG6Cir.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+<title>Deportes</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/deportes.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/deportes.xml</externallink>
 </item>
 
-
-
-
-item>
-<title>[COLOR gold][COLOR gold][B]• [/B] [/COLOR]ARENAVISION[B][/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.AmerikanoTuga/url=http://goo.gl/mgLMMn</jsonrpc>
-<fanart>http://i.imgur.com/7BJriWZ.png</fanart>
-<thumbnail>http://i.imgur.com/7BJriWZ.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+<item>
+<title>Extratime</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/extratime.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/multicanales.xml</externallink>
 </item>
-
-
-
-
 
 
 <item>
-<title>[COLOR gold][COLOR gold][B]• [/B] [/COLOR]ARENAVISION[B][/B][/COLOR]</title>
+<title>Acestreams</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/plexus.xml</externallink>
+<fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestream.png</thumbnail>
+</item>
+
+
+<item>
+<title>Peliculas</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/peliculas.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/pyt_vod.xml</externallink>
+</item>
+
+
+<item>
+<title>Series de TV </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/series.png</thumbnail>
+	<fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/gnula.xml</externallink>
+</item>
+
+<item>
+<title>Torrents [COLOR lightslategray] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/torrent.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/quasar.xml</externallink>
+</item>
+
+
+<iem>
+<title>KIDS [COLOR lightslategray] [/COLOR] -</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/kids.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/infantiles.xml</externallink>
+</item>
+
+
+<item>
+<title>España </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/esp.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/esp.xml</externallink>
+</item>
+
+
+<item>
+<title>Mexico </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/mexico.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/mx.xml</externallink>
+</item>
+
+<item>
+<title>TotalPlay</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/tp.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/totalp.xml</externallink>
+</item>
+
+
+<item>
+<title>[B]Television 24/7[/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title> [COLOR white] [makelist.param1] - Canal [makelist.param2][/COLOR]</title>
-<fanart>http://i.imgur.com/7BJriWZ.png</fanart>
-<thumbnail>http://i.imgur.com/7BJriWZ.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Canal + [makelist.param2]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>href="acestream:\/\/(.*)"</expres>
-			<page>http://acelisting.in</page>
-			<referer>http://acelisting.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-<fanart>http://i.imgur.com/7BJriWZ.png</fanart>
-<thumbnail>http://i.imgur.com/7BJriWZ.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
-</item>	
+<title>[makelist.param2]</title>
+<link>https://mp4.vaughnsoft.net/live?app=live&amp;port=2935&amp;stream=live_[makelist.param1]|Referer=https://vaughnlive.tv/</link>
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[href="acestream:\/\/.*"\s.*\s.*"(.*)<br.*\/>.*<br.*\/>Channel.(\d+)<br]]></expres>
-<page>http://acelisting.in</page>
-<Agent>Mozilla</Agent>
-<referer>http://acelisting.in</referer>
-<setcookie>beget=begetok</setcookie>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
 </regex>
-<fanart>http://i.imgur.com/7BJriWZ.png</fanart>
-<thumbnail>http://i.imgur.com/7BJriWZ.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/247.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+</item>
+
+
+	
+	
+<item>
+<title>[COLOR white][B]IPTV[/B] [/COLOR][COLOR lightslategray][World Servers Updated Daily][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/iptv.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/iptv.xml</externallink>
+</item>
+
+<item>
+<title>Entretenimiento</title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/entretenimiento.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/ent.xml</externallink>
 </item>
 
 
 
 
-
-
- <item>
-<title>[COLOR orange][COLOR orange][B]• [/B] [/COLOR][B]VIP KIDS TV[/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.AmerikanoTuga/url=http://goo.gl/gwiyoq</jsonrpc>
-<fanart>http://i.imgur.com/JBhLACR.png</fanart>
-<thumbnail>http://i.imgur.com/jUSXeFD.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+<item>
+<title>Paises </title>
+<link>http://ignorame</link><thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/paises.png</thumbnail><fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blackghostaddon/gray/master/paises.xml</externallink>
 </item>
- 
 
 
 
+<item>
+<title>[B]Mas listas[/B]</title>
 
-
- <item>
-<title>[COLOR purple][COLOR purple][B]• [/B] [/COLOR][B] BEIN SPORTS  [/B][/COLOR]</title>
-<link>http://MENU.me</link>
-<jsonrpc>plugin://plugin.video.AmerikanoTuga/url=http://goo.gl/95MfEf</jsonrpc>
-<fanart>http://i.imgur.com/BdJMtrS.png</fanart>
-<thumbnail>http://i.imgur.com/Epu38pn.png</thumbnail>
-<info>[B][COLOR red]AMERIKANO[/COLOR][COLOR green]TUGA[/B][/COLOR] 
-
-[COLOR aquamarine] Todos os Links são adquiridos através de uma busca livre pela Internet[/COLOR]</info>
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona una Lista ', ['Sr Regio', 'BassFox', 'TecnoTV', 'MospyTV'])
+   lists = ['http://srregio.xyz', 'https://goo.gl/YuhGky', 'http://tecnotv.xyz/addon/index.htm', 'http://www.blog.kodipro.org/Supermospy%20TV.xml']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/mas.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/fanart.jpg</fanart>
 </item>
 
 
