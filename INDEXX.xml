@@ -54,17 +54,10 @@
 <fanart></fanart>
 </item>
  
-<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] CANALES TDT [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
-<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
-<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
-<link>ignoreme</link>
-<info>Canaies de TDT y AUTONOMICOS españoles</info>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/TDT1.xml</externallink>
-</item>	
+
 	
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue]TDT[/COLOR][COLOR  yellow]_**_  [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue]**TDT[/COLOR][COLOR  yellow]_**_  [/COLOR]</title>
 <link>nolink</link>
 <externallink>https://pastebin.com/raw/1VS1SdGF</externallink>
 <thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
@@ -106,7 +99,14 @@
 <fanart></fanart>
 </item>
 
-	
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PAISES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/paises.xml</externallink> 
+</item>
 	
 
 
