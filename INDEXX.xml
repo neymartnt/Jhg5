@@ -35,14 +35,7 @@
 		
 	
  
-<item>
-<title>[COLOR  yellow] ** [/COLOR][COLOR white]** SERIES DANKO ** [/COLOR][COLOR red] NUEVO [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIlNlcmllc2RhbmtvIiwgCiAgICAiY2hhbm5lbCI6ICJzZXJpZXNkYW5rbyIsIAogICAgImNvbnRleHQiOiBbCiAgICAgICAgewogICAgICAgICAgICAiYWN0aW9uIjogImNoYW5uZWxfY29uZmlnIiwgCiAgICAgICAgICAgICJjaGFubmVsIjogInNldHRpbmciLCAKICAgICAgICAgICAgImNvbmZpZyI6ICJzZXJpZXNkYW5rbyIsIAogICAgICAgICAgICAiZnJvbV9hY3Rpb24iOiAibWFpbmxpc3QiLCAKICAgICAgICAgICAgImZyb21fY2hhbm5lbCI6ICJzZXJpZXNkYW5rbyIsIAogICAgICAgICAgICAidGl0bGUiOiAiQ29uZmlndXJhciBjYW5hbCIKICAgICAgICB9CiAgICBdLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6IFsKICAgICAgICAiY2FzdCIsIAogICAgICAgICJsYXQiCiAgICBdLCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxqdWxlblxcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYWxmYVxccmVzb3VyY2VzXFxtZWRpYVxcY2hhbm5lbHNcXHRodW1iXFxzZXJpZXNkYW5rby5wbmciLCAKICAgICJ0aXRsZSI6ICJTZXJpZXNkYW5rbyIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2ZXJzaW9uIjogMSwgCiAgICAidmlld21vZGUiOiAibGlzdCIKfQ%3d%3d/</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
+
  <item>
 <title>[COLOR red]--> [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
 <link>ignorme</link>
@@ -51,15 +44,7 @@
 <fanart></fanart>
 </item>
  
- 
-<item>
-<title>[COLOR  yellow] ** [/COLOR][COLOR white]** PELICULAS ** [/COLOR][COLOR  yellow] NUEVO [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIlBlbGljdWxhc0dyYXRpcyIsIAogICAgImNoYW5uZWwiOiAicGVsaWN1bGFzZ3JhdGlzIiwgCiAgICAiY29udGV4dCI6IFtdLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6IFsKICAgICAgICAiY2FzdCIsIAogICAgICAgICJsYXQiCiAgICBdLCAKICAgICJ0aHVtYm5haWwiOiAiaHR0cDovL2ltZ3VyLmNvbS9UaEg4Wm1rLnBuZyIsIAogICAgInRpdGxlIjogIlBlbGljdWxhc0dyYXRpcyIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
+
  
 <item>
 <title>[COLOR  yellow] ** [/COLOR][COLOR white] **PELICULAS (AÑOS)** [/COLOR][COLOR  yellow] ** [/COLOR]</title>
@@ -78,6 +63,13 @@
 <externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/TDT/TDT1.xml</externallink>
 </item>	
 	
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue]TDT[/COLOR][COLOR  yellow]_**_  [/COLOR]</title>
+<link>nolink</link>
+<externallink>https://pastebin.com/raw/1VS1SdGF</externallink>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
+</item>
  
 <item>
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] MOVISTAR [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
