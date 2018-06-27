@@ -5,7 +5,7 @@
 
 
 
-
+https://raw.githubusercontent.com/ZGrupoKodi/ZGRUPOKODI/master/LIVE%20MUSIC/indexLIVEMUSIC.xml
 
 		
 	
@@ -22,7 +22,14 @@
 </item>
 		
 		
-		
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] LIVE [/COLOR][COLOR orange] MUSIC [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/FCKCIUP.jpg</thumbnail>
+<fanart>https://i.imgur.com/FCKCIUP.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/ZGrupoKodi/ZGRUPOKODI/master/LIVE%20MUSIC/indexLIVEMUSIC.xml</externallink>
+</item>	
+
 				
 	
 <item>
@@ -100,15 +107,6 @@
 </item>
 
 
-<item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PAISES(off) [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart><fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/paises.xml</externallink> 
-</item>
-	
-
 
 
 
@@ -151,6 +149,15 @@
 
 
 
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] PAISES(off) [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart><fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/paises.xml</externallink> 
+</item>
+	
 
 	
 <item>
