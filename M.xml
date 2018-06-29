@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR red][[/COLOR][B][COLOR gold]M[/COLOR][COLOR red]][/COLOR][COLOR blue] [COLOR deepskyblue] AUTONÓMICAS Y NACIONALES[/COLOR][/B]</title>
+<thumbnail>https://github.com/Lagranmomia/banderas/blob/master/Tv%20local%20espa%C3%B1a.png?raw=true</thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<externallink>http://oqefuh.blogspot.com.es/p/lista-1-espana.html</externallink>
+</item>
+
+<item>
+<title>[COLOR red][[/COLOR][B][COLOR gold]M[/COLOR][COLOR red]][/COLOR][B][COLOR deepskyblue]CANALES +  [/COLOR][/B][COLOR lime]Opción 1 [/COLOR]</title>
+<thumbnail>https://github.com/Lagranmomia/banderas/blob/master/sd%20espa%C3%B1a.png?raw=true</thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<externallink>http://oqefuh.blogspot.com.es/p/canales-en-sd.html</externallink>
+</item>
+
+
+<item>
+<title>[COLOR red][[/COLOR][B][COLOR gold]M[/COLOR][COLOR red]][/COLOR][B][COLOR deepskyblue]CANALES +  [/COLOR][/B][COLOR lime]Opción 2 [/COLOR]</title>
+<thumbnail>https://github.com/Lagranmomia/banderas/blob/master/sd%20espa%C3%B1a.png?raw=true</thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<externallink>http://oqefuh.blogspot.com.es/p/lista-2-espana.html</externallink>
+</item>
+
+<item>
+<title>[COLOR red][[/COLOR][B][COLOR gold]M[/COLOR][COLOR red]][/COLOR][B][COLOR deepskyblue]CANALES +  [/COLOR][/B][COLOR lime]Opción 3 [/COLOR][COLOR red]]En Mantenimiento[/COLOR]</title>
+<thumbnail>https://github.com/Lagranmomia/banderas/blob/master/Hd%20espa%C3%B1a.png?raw=true</thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<externallink>http://oqefuh.blogspot.com.es/p/lista-3-espana.html</externallink>
+</item>
+
+<item>
+<title>[COLOR red][[/COLOR][B][COLOR gold]M[/COLOR][COLOR red]][/COLOR][B][COLOR deepskyblue]CANALES +  [/COLOR][/B][COLOR lime]Opción 4 [/COLOR][COLOR red]]En Mantenimiento[/COLOR]</title>
+<thumbnail>https://github.com/Lagranmomia/banderas/blob/master/Hd%20espa%C3%B1a.png?raw=true</thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<externallink>http://oqefuh.blogspot.com.es/p/lista-4-espana.html</externallink>
+</item>
+
+<item>
+<title>[COLOR red][[/COLOR][B][COLOR gold]M[/COLOR][COLOR red]][/COLOR][B][COLOR deepskyblue]CANALES +  [/COLOR][/B][COLOR lime]Opción 5 [/COLOR][COLOR red]]En Mantenimiento[/COLOR]</title>
+<thumbnail>https://github.com/Lagranmomia/banderas/blob/master/Hd%20espa%C3%B1a.png?raw=true</thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<externallink>http://oqefuh.blogspot.com.es/p/lista-4-tv-espana.html</externallink>
+</item>
