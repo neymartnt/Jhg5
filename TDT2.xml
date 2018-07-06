@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR] Tve 1</title>        
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=650000.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Tve 2</title>        
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=1500000.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A_400x400.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] 24h </title>        
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=650000.m3u8</link>
+<thumbnail>http://img.rtve.es/imagenes/multisenal-24/1361962728583.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Cuatro (reserva)</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/cuatro.php</page>
+<referer>http://verdirectotv.com/tv/nacionales2/cuatro.html</referer>
+</regex>
+<thumbnail>https://s7.postimg.cc/pv3i999bf/cuatro.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Cuatro HD</title>        
+<link>https://dai.google.com/linear/hls/p/event/2DbwX2JMQvef-4YCGEtRkQ/stream/d41af50e-bccf-4e72-989b-619bab9f7ed2:BRU/variant/55fab65b92e5624bc6651ff5ec9f2fc3/bandwidth/2564000.m3u8</link>
+<thumbnail>http://s.libertaddigital.com/fotos/noticias/logo-cuatro-mjg.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Antena 3 HD</title>        
+<link>https://livepull1-i.akamaized.net/antena3mpp/bitrate_4.m3u8</link>
+<thumbnail>http://static.programacion-tdt.com/imgAPP/Antena_3.min.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Telecinco (reserva)</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live1/telecinco.php</page>
+<referer>http://vercanalestv.com/tv/multicanal/telecinco.html</referer>
+</regex>
+<thumbnail>https://s7.postimg.cc/a9m6pectn/telecinco.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Telecinco HD</title>        
+<link></link>
+<thumbnail>http://www.vectorlogo.es/wp-content/uploads/2016/06/logo-vector-telecinco-circular.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] La sexta HD</title>        
+<link>https://livepull1.secure.footprint.net/lasextampp/bitrate_3.m3u8</link>
+<thumbnail>http://ocio.diariodemallorca.es/img_contenido/estaticos/canales/24.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Mega HD</title>        
+<link>https://livepull1.secure.footprint.net/geomegampp/bitrate_3.m3u8</link>
+<thumbnail>http://static.programacion-tdt.com/imgAPP/Mega.min.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Atreseries HD</title>        
+<link>https://livepull1.secure.footprint.net/a3seriesmpp/bitrate_3.m3u8</link>
+<thumbnail>http://atreseries.atresmedia.com/public/img/a3series.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Neox HD</title>        
+<link>https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_3.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/509064688550694912/WY6A_PqH_normal.jpeg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Nova HD</title>        
+<link>https://atresplayerp-i.akamaized.net/geonovampp/bitrate_4.m3u8</link>
+<thumbnail>http://www.mundoplus.tv/img/f25b812e6e6095afe68d44feb7d119ad</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Energy</title>        
+<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_3.m3u8</link>
+<thumbnail>http://www.mundoplus.tv/img/4383106e80f56baabb149cc1e94f53f0</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] FDF</title>        
+<link>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8</link>
+<thumbnail>https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/FDF-en-directo-online.png?fit=400%2C260</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] BE MAD</title>        
+<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8</link>
+<thumbnail>https://cdn.sincroguia.tv/uploads/images/b/e/-/be-mad.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] BE MAD</title>
+<link>$doregex[GetPageUrl]|Referer=http://vercanalestv.com/tv/nacionales/be-mad.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://vergol.com/live/bemad.php</page>
+<referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
+</regex>
+<thumbnail>http://zonadjjavi.webcindario.com/Kodi/logos/bemad1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR red]•[/COLOR] Paramount Channel</title>        
+<link></link>
+<thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/noticias/paramount-channel-cambia-de-dial/7797075-1-esl-ES/Paramount-Channel-cambia-de-dial_landscape.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Life tv</title>        
+<link>http://178.132.6.97/uzivo/lifetvesp/tracks-v1a1/index.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/CcY76rUYz2k/mqdefault.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] 101 españa</title>        
+<link></link>
+<thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/101tv-en-directo-online.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Lancelot TV</title>        
+<link>http://62.210.141.18:1935/directo/lancelot.television/live.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Andalucia TV</title>        
+<link></link>
+<thumbnail>http://www.blaguemultimedia.com/wp-content/uploads/2014/12/logo-Andalucia-Television.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR red]•[/COLOR] Andalucia turismo</title>        
+<link></link>
+<thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/spain/129-Canal-Andalucia-Turismo-2.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] La Otra</title>        
+<link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8</link>
+<thumbnail>http://publicidadcines.com/images/logo-laotra.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Telemadrid</title>        
+<link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_2.m3u8</link>
+<thumbnail>http://media.tvalacarta.info/canales/256x256/telemadrid.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] 8 tv</title>        
+<link>http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8</link>
+<thumbnail>http://www.8tv.cat/wp-content/themes/8tv/_/images/apple-touch-icons/apple-touch-icon.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] BOING</title>        
+<link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_3.m3u8</link>
+<thumbnail>http://www.simbajuguetes.com/wp-content/uploads/2017/05/logo-boing.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Anime TV</title>        
+<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/media/a6409ac6c4c768ab0c68e38f5f8ffc1d.jpeg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Galicia tv</title>        
+<link>http://europa-crtvg.flumotion.com/playlist.m3u8</link>
+<thumbnail>https://buscador.cablevisionfibertel.com.ar/logos/65.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] TDP HD</title>        
+<link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdphd_lv3_aosv4_gl1/tdphd_lv3_aosv4_gl1.isml/tdphd_lv3_aosv4_gl1-audio=128000-video=1500000.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000825220874/9a37e1ec3b1aa0bb5aa723e43c30c8ba_400x400.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Real madrid tv</title>        
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail>http://puu.sh/nB5fs/d0fbb8562f.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Betis tv</title>        
+<link>http://rbetis-hls.flumotion.com/rbetis/live/chunks.m3u8</link>
+<thumbnail>http://www.grupocomunica.com/wp-content/uploads/2016/05/Radio-Betis-y-Betis-TV.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Sevilla fc</title>        
+<link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://img21.taquilla.com/data/images/t/07/sevilla-fc.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EuroEspa%C3%B1a.svg/1200px-EuroEspa%C3%B1a.svg.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Secrets of The Universe Live Stream Spark (Subtitulado) </title>
+<urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
+<thumbnail>https://i.pinimg.com/originals/2a/2e/b8/2a2eb8fd66a4df06afe41ed0b1c54529.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] NASA TV Public-Education (Subtitulado)</title>
+<urlsolve>https://www.youtube.com/watch?v=wwMDvPCGeE0</urlsolve>
+<thumbnail>https://pbs.twimg.com/profile_images/991065825116393472/Gbysy5gd.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] GRANADA CHANNEL TV  (Español)</title>
+<urlsolve>https://www.youtube.com/watch?v=o2rViDSaRZE</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/o2rViDSaRZE/hqdefault_live.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
