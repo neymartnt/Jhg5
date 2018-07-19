@@ -1,0 +1,974 @@
+#EXTM3U
+
+
+#EXTINF:-1,2500 ES: Barca TV  SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/676.ts
+#EXTINF:-1,2504 ES: BEIN La Liga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/680.ts
+#EXTINF:-1,2502 ES: BEIN Liga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/678.ts
+#EXTINF:-1,2501 ES: BEIN Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/677.ts
+#EXTINF:-1,2503 ES: BEIN Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/679.ts
+#EXTINF:-1,2505 ES: Caza y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/681.ts
+#EXTINF:-1,2507 ES: Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/683.ts
+#EXTINF:-1,2506 ES: Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/682.ts
+#EXTINF:-1,2508 ES: Euro Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/684.ts
+#EXTINF:-1,2509 ES: Euro Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/685.ts
+#EXTINF:-1,2510 ES: Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/686.ts
+#EXTINF:-1,2512 ES: GOL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/688.ts
+#EXTINF:-1,2511 ES: Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/687.ts
+#EXTINF:-1,2515 ES: Iberalia Caza y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/691.ts
+#EXTINF:-1,2513 ES: LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/689.ts
+#EXTINF:-1,2418 ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/664.ts
+#EXTINF:-1,2516 ES: Movistar F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/692.ts
+#EXTINF:-1,2517 ES: Movistar Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/693.ts
+#EXTINF:-1,2518 ES: Movistar Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/694.ts
+#EXTINF:-1,2519 ES: Tele Deporte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/695.ts
+#EXTINF:-1,2520 ES: Toros HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos/1234/696.ts
+
+
+
+#EXTINF:-1,------------------------- SPORTS INTERNATIONAL -------------------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/661.ts
+#EXTINF:-1,ES:CANAL GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10688.ts
+#EXTINF:-1,ES:CANAL MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10687.ts
+#EXTINF:-1,ES:EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10675.ts
+#EXTINF:-1,ES:EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10674.ts
+#EXTINF:-1,ES_FHD:BEIN SPORT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9734.ts
+#EXTINF:-1,ES_FHD:CANAL DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10636.ts
+#EXTINF:-1,ES_FHD:CANAL DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10635.ts
+#EXTINF:-1,ES_FHD:CANAL FUTBAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10634.ts
+#EXTINF:-1,ES_FHD:LA LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9733.ts
+#EXTINF:-1,ES_FHD:TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/10633.ts
+#EXTINF:-1,LA_SD:Gol TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/4542.ts
+#EXTINF:-1,SPORTES:IT: RAI SPORT +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3935.ts
+#EXTINF:-1,SPORTS:IT:Sky Sports 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3933.ts
+#EXTINF:-1,SPORTS:IT:Sky Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3930.ts
+#EXTINF:-1,SPORTS:IT:Sky Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3929.ts
+#EXTINF:-1,SPORTES:IT: FOX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3936.ts
+#EXTINF:-1,SPORTS:IT:Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3932.ts
+#EXTINF:-1,ES:Movistar Toros TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3621.ts
+#EXTINF:-1,ES:Movistar Deportes 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/4218.ts
+#EXTINF:-1,ES:Movistar Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3623.ts
+#EXTINF:-1,ES:CANAL_FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/3618.ts
+#EXTINF:-1,SPORTS: WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/4312.ts
+#EXTINF:-1,SPORTS: EN:SPORTSTONIGHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/4300.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2923.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2922.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2921.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2920.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2919.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2918.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2917.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2916.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2915.ts
+#EXTINF:-1,SPORTS: AR: BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2914.ts
+#EXTINF:-1,SPORTS: ES:BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/2999.ts
+#EXTINF:-1,SPORTS:ADSport 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/415.ts
+#EXTINF:-1,SPORTS:ADSport 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/416.ts
+#EXTINF:-1,UK:Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/7302.ts
+#EXTINF:-1,UK:Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/7301.ts
+#EXTINF:-1,UK:Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/7300.ts
+#EXTINF:-1,UK:Sky Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/7299.ts
+#EXTINF:-1,USA:ESPN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9841.ts
+#EXTINF:-1,USA:ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9840.ts
+#EXTINF:-1,USA:FIGHT Network SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9839.ts
+#EXTINF:-1,USA:Fox Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9838.ts
+#EXTINF:-1,USA:Fox Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9837.ts
+#EXTINF:-1,USA:Fox Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9836.ts
+#EXTINF:-1,USA:NBC SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/9828.ts
+#EXTINF:-1,SPORTS:_AF:Gtv Sports Plus (Ghana)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11297.ts
+#EXTINF:-1,SPORTS:_AL:K Sport 1 (Shqip)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11281.ts
+#EXTINF:-1,SPORTS:_AL:K Sport 2 (Shqip)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11280.ts
+#EXTINF:-1,SPORTS:_AL:Rtsh Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11279.ts
+#EXTINF:-1,SPORTS:_AL:Super Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11278.ts
+#EXTINF:-1,SPORTS:_AL:Super Sport Kosova 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11277.ts
+#EXTINF:-1,SPORTS:_AL:Super Sport Kosova 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11276.ts
+#EXTINF:-1,SPORTS:_AL:SuperSport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11275.ts
+#EXTINF:-1,SPORTS:_AL:Supersport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11274.ts
+#EXTINF:-1,SPORTS:_AL:Supersport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11273.ts
+#EXTINF:-1,SPORTS:_AL:SuperSport4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11272.ts
+#EXTINF:-1,SPORTS:_AL:Tele Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11271.ts
+#EXTINF:-1,SPORTS:_AL:Tring Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11270.ts
+#EXTINF:-1,SPORTS:_AL:Tring Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11269.ts
+#EXTINF:-1,SPORTS:_AL:Tring Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11268.ts
+#EXTINF:-1,SPORTS:_AL:Tring Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11267.ts
+#EXTINF:-1,SPORTS:_AL:Tring Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11266.ts
+#EXTINF:-1,SPORTS:_AR:ABU DHABI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11434.ts
+#EXTINF:-1,SPORTS:_AR:ABU DHABI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11433.ts
+#EXTINF:-1,SPORTS:_AR:ABU DHABI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11432.ts
+#EXTINF:-1,SPORTS:_AR:ABU DHABI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11431.ts
+#EXTINF:-1,SPORTS:_AR:ABU DHABI SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11430.ts
+#EXTINF:-1,SPORTS:_AR:AL Sharjah SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11424.ts
+#EXTINF:-1,SPORTS:_AR:ALKASS1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11429.ts
+#EXTINF:-1,SPORTS:_AR:ALKASS2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11428.ts
+#EXTINF:-1,SPORTS:_AR:ALKASS3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11427.ts
+#EXTINF:-1,SPORTS:_AR:ALKASS4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11426.ts
+#EXTINF:-1,SPORTS:_AR:ALKASS5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11425.ts
+#EXTINF:-1,SPORTS:_AR:DMC Sport HD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11423.ts
+#EXTINF:-1,SPORTS:_AR:Kuwait Sport PLUS *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11422.ts
+#EXTINF:-1,SPORTS:_AR:Kuwait Sport TV *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11421.ts
+#EXTINF:-1,SPORTS:_AR:MBC PROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11438.ts
+#EXTINF:-1,SPORTS:_AR:MBC PROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11437.ts
+#EXTINF:-1,SPORTS:_AR:MBC PROSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11436.ts
+#EXTINF:-1,SPORTS:_AR:MBC PROSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11435.ts
+#EXTINF:-1,SPORTS:_AR:NILE SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11417.ts
+#EXTINF:-1,SPORTS:_AR:Oman Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11420.ts
+#EXTINF:-1,SPORTS:_AR:ON Sport HD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11419.ts
+#EXTINF:-1,SPORTS:_AR:SAUDI SPORT *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11418.ts
+#EXTINF:-1,SPORTS:_BE:VOO SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11400.ts
+#EXTINF:-1,SPORTS:_BE:VOO SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11399.ts
+#EXTINF:-1,SPORTS:_BE:VOO SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11398.ts
+#EXTINF:-1,SPORTS:_BE:VOO SPORT WORLD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11397.ts
+#EXTINF:-1,SPORTS:_DE:Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11396.ts
+#EXTINF:-1,SPORTS:_DE:Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11395.ts
+#EXTINF:-1,SPORTS:_DE:Sky Sport Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11394.ts
+#EXTINF:-1,SPORTS:_DE:Sky Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11393.ts
+#EXTINF:-1,SPORTS:_DE:Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11392.ts
+#EXTINF:-1,SPORTS:_DE:Sport-Digital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11391.ts
+#EXTINF:-1,SPORTS:_EX-YU_BIH: A1 SPORT (BiH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11243.ts
+#EXTINF:-1,SPORTS:_EX-YU_CR: Arena Sport 1 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11251.ts
+#EXTINF:-1,SPORTS:_EX-YU_CR: Arena Sport 2 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11250.ts
+#EXTINF:-1,SPORTS:_EX-YU_CR: Arena Sport 3 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11249.ts
+#EXTINF:-1,SPORTS:_EX-YU_CR: Arena Sport 4 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11248.ts
+#EXTINF:-1,SPORTS:_EX-YU_CR: Arena Sport 5 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11247.ts
+#EXTINF:-1,SPORTS:_EX-YU_CR: Sport Klub 1 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11246.ts
+#EXTINF:-1,SPORTS:_EX-YU_CR: Sport Klub 2 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11245.ts
+#EXTINF:-1,SPORTS:_EX-YU_CR: Sport Klub 3 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11244.ts
+#EXTINF:-1,SPORTS:_EX-YU_SLO: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11242.ts
+#EXTINF:-1,SPORTS:_EX-YU_SLO: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11241.ts
+#EXTINF:-1,SPORTS:_EX-YU_SLO: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11240.ts
+#EXTINF:-1,SPORTS:_EX-YU_SLO: Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11239.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Arena Sport 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11265.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Arena Sport 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11264.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Arena Sport 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11263.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Arena Sport 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11262.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Arena Sport 5 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11261.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: EUROSPORT 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11253.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: EUROSPORT 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11252.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Sport Klub 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11260.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Sport Klub 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11259.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Sport Klub 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11258.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Sport Klub 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11257.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Sport news (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11256.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Super Sport 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11255.ts
+#EXTINF:-1,SPORTS:_EX-YU_SR: Super Sport 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11254.ts
+#EXTINF:-1,SPORTS:_FR:BeIN.SPORTS.MAX10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11405.ts
+#EXTINF:-1,SPORTS:_FR:BeIN.SPORTS.MAX4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11411.ts
+#EXTINF:-1,SPORTS:_FR:BeIN.SPORTS.MAX5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11410.ts
+#EXTINF:-1,SPORTS:_FR:BeIN.SPORTS.MAX6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11409.ts
+#EXTINF:-1,SPORTS:_FR:BeIN.SPORTS.MAX7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11408.ts
+#EXTINF:-1,SPORTS:_FR:BeIN.SPORTS.MAX8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11407.ts
+#EXTINF:-1,SPORTS:_FR:BeIN.SPORTS.MAX9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11406.ts
+#EXTINF:-1,SPORTS:_FR:Bein_Sport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11414.ts
+#EXTINF:-1,SPORTS:_FR:Bein_Sport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11413.ts
+#EXTINF:-1,SPORTS:_FR:Bein_Sport.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11412.ts
+#EXTINF:-1,SPORTS:_FR:BFM Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11416.ts
+#EXTINF:-1,SPORTS:_FR:CANAL SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11415.ts
+#EXTINF:-1,SPORTS:_FR:SFR SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11404.ts
+#EXTINF:-1,SPORTS:_FR:SFR SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11403.ts
+#EXTINF:-1,SPORTS:_FR:SFR SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11402.ts
+#EXTINF:-1,SPORTS:_FR:SFR SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11401.ts
+#EXTINF:-1,SPORTS:_GR:EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11340.ts
+#EXTINF:-1,SPORTS:_GR:Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11339.ts
+#EXTINF:-1,SPORTS:_GR:TILESPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11338.ts
+#EXTINF:-1,SPORTS:_IND:STAR SPORTS.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11337.ts
+#EXTINF:-1,SPORTS:_IND:STAR SPORTS.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11336.ts
+#EXTINF:-1,SPORTS:_IND:STAR SPORTS.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11335.ts
+#EXTINF:-1,SPORTS:_IND:STAR SPORTS.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11334.ts
+#EXTINF:-1,SPORTS:_IND:TEN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11333.ts
+#EXTINF:-1,SPORTS:_IT:FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11356.ts
+#EXTINF:-1,SPORTS:_IT:Premium EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11355.ts
+#EXTINF:-1,SPORTS:_IT:Premium EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11354.ts
+#EXTINF:-1,SPORTS:_IT:Premium Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11353.ts
+#EXTINF:-1,SPORTS:_IT:Premium Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11352.ts
+#EXTINF:-1,SPORTS:_IT:Rai Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11351.ts
+#EXTINF:-1,SPORTS:_IT:Sky Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11350.ts
+#EXTINF:-1,SPORTS:_IT:Sky Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11349.ts
+#EXTINF:-1,SPORTS:_IT:Sky Sports 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11347.ts
+#EXTINF:-1,SPORTS:_IT:Sky Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11348.ts
+#EXTINF:-1,SPORTS:_IT:Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11346.ts
+#EXTINF:-1,SPORTS:_IT:Sky Sports MotoGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11345.ts
+#EXTINF:-1,SPORTS:_NL:Fox_Sport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11310.ts
+#EXTINF:-1,SPORTS:_NL:fox_Sport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11309.ts
+#EXTINF:-1,SPORTS:_NL:fox_Sport.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11308.ts
+#EXTINF:-1,SPORTS:_NL:fox_Sport.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11307.ts
+#EXTINF:-1,SPORTS:_NL:Fox_Sport.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11306.ts
+#EXTINF:-1,SPORTS:_NL:Fox_Sport.6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11305.ts
+#EXTINF:-1,SPORTS:_NL:Ziggo_Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11304.ts
+#EXTINF:-1,SPORTS:_NL:Ziggo_Sport_extra_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11303.ts
+#EXTINF:-1,SPORTS:_NL:Ziggo_Sport_extra_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11302.ts
+#EXTINF:-1,SPORTS:_NL:Ziggo_Sport_Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11301.ts
+#EXTINF:-1,SPORTS:_NL:Ziggo_Sport_Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11300.ts
+#EXTINF:-1,SPORTS:_NL:Ziggo_Sport_Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11299.ts
+#EXTINF:-1,SPORTS:_NL:Ziggo_Sport_Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11298.ts
+#EXTINF:-1,SPORTS:_OSN:Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11344.ts
+#EXTINF:-1,SPORTS:_OSN:Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11343.ts
+#EXTINF:-1,SPORTS:_OSN:Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11342.ts
+#EXTINF:-1,SPORTS:_OSN:Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11341.ts
+#EXTINF:-1,SPORTS:_PT:Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11440.ts
+#EXTINF:-1,SPORTS:_PT:Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11439.ts
+#EXTINF:-1,SPORTS:_PT:Eurosport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11441.ts
+#EXTINF:-1,SPORTS:_RO:Digi_Sport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11290.ts
+#EXTINF:-1,SPORTS:_RO:Digi_Sport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11289.ts
+#EXTINF:-1,SPORTS:_RO:Digi_Sport.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11288.ts
+#EXTINF:-1,SPORTS:_RO:Digi_Sport.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11287.ts
+#EXTINF:-1,SPORTS:_RO:Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11286.ts
+#EXTINF:-1,SPORTS:_RO:Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11284.ts
+#EXTINF:-1,SPORTS:_RO:Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11285.ts
+#EXTINF:-1,SPORTS:_RO:Fishing & Hunting
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11283.ts
+#EXTINF:-1,SPORTS:_RO:Sport.ro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11282.ts
+#EXTINF:-1,SPORTS:_SC_DK:Eurosport DK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11233.ts
+#EXTINF:-1,SPORTS:_SC_DK:TV 2 SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11232.ts
+#EXTINF:-1,SPORTS:_SC_DK:TV 3 SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11231.ts
+#EXTINF:-1,SPORTS:_SC_DK:TV 3 SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11230.ts
+#EXTINF:-1,SPORTS:_SC_NO:Eurosport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11229.ts
+#EXTINF:-1,SPORTS:_SC_NO:Eurosport Norge HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11228.ts
+#EXTINF:-1,SPORTS:_SC_NO:Eurosport Plus 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11227.ts
+#EXTINF:-1,SPORTS:_SC_NO:Eurosport Plus 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11226.ts
+#EXTINF:-1,SPORTS:_SC_NO:Eurosport Plus 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11225.ts
+#EXTINF:-1,SPORTS:_SC_NO:Eurosport Plus 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11224.ts
+#EXTINF:-1,SPORTS:_SC_NO:TV 2 Sport Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11223.ts
+#EXTINF:-1,SPORTS:_SC_NO:TV 2 Sport Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11222.ts
+#EXTINF:-1,SPORTS:_SC_NO:TV 2 Sport Premium 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11221.ts
+#EXTINF:-1,SPORTS:_SC_SE:Viasat Fotball HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11238.ts
+#EXTINF:-1,SPORTS:_SC_SE:Viasat Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11237.ts
+#EXTINF:-1,SPORTS:_SC_SE:Viasat Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11236.ts
+#EXTINF:-1,SPORTS:_SC_SE:Viasat Sport Baltic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11235.ts
+#EXTINF:-1,SPORTS:_SC_SE:Viasat Sport Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11234.ts
+#EXTINF:-1,SPORTS:_TR:A SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11296.ts
+#EXTINF:-1,SPORTS:_TR:beIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11295.ts
+#EXTINF:-1,SPORTS:_TR:beIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11294.ts
+#EXTINF:-1,SPORTS:_TR:beIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11293.ts
+#EXTINF:-1,SPORTS:_TR:beIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11292.ts
+#EXTINF:-1,SPORTS:_TR:SPORTS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11291.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11390.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11389.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11388.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11387.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11386.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport Extra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11385.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11384.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport Extra 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11383.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11382.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport Extra 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11381.ts
+#EXTINF:-1,SPORTS:_UK:BT Sport Extra 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11380.ts
+#EXTINF:-1,SPORTS:_UK:EIR SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11379.ts
+#EXTINF:-1,SPORTS:_UK:EIR SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11378.ts
+#EXTINF:-1,SPORTS:_UK:Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11377.ts
+#EXTINF:-1,SPORTS:_UK:Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11376.ts
+#EXTINF:-1,SPORTS:_UK:Fight Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11375.ts
+#EXTINF:-1,SPORTS:_UK:Premiere Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11374.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11358.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11367.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11366.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11365.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11364.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11363.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11362.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11361.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11360.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports HD THE OPEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11359.ts
+#EXTINF:-1,SPORTS:_UK:Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11373.ts
+#EXTINF:-1,SPORTS:_UK:Sports Tonight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11357.ts
+#EXTINF:-1,SPORTS:_USA:AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11332.ts
+#EXTINF:-1,SPORTS:_USA:AFN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11331.ts
+#EXTINF:-1,SPORTS:_USA:Bein Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11330.ts
+#EXTINF:-1,SPORTS:_USA:FIGHT Network SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11329.ts
+#EXTINF:-1,SPORTS:_USA:Fox Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11328.ts
+#EXTINF:-1,SPORTS:_USA:Fox Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11327.ts
+#EXTINF:-1,SPORTS:_USA:Fox Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11326.ts
+#EXTINF:-1,SPORTS:_USA:NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11325.ts
+#EXTINF:-1,SPORTS:_USA:NBC SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11324.ts
+#EXTINF:-1,SPORTS:_USA:NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11323.ts
+#EXTINF:-1,SPORTS:_USA:NFL Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11322.ts
+#EXTINF:-1,SPORTS:_USA:NHL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11321.ts
+#EXTINF:-1,SPORTS:_USA:Sports NET 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11320.ts
+#EXTINF:-1,SPORTS:_USA:Sports Net 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11319.ts
+#EXTINF:-1,SPORTS:_USA:Sports Net Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11318.ts
+#EXTINF:-1,SPORTS:_USA:Sports Net World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11317.ts
+#EXTINF:-1,SPORTS:_USA:TSN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11316.ts
+#EXTINF:-1,SPORTS:_USA:TSN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11315.ts
+#EXTINF:-1,SPORTS:_USA:TSN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11314.ts
+#EXTINF:-1,SPORTS:_USA:TSN Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11313.ts
+#EXTINF:-1,SPORTS:_USA:TSN Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11312.ts
+#EXTINF:-1,SPORTS:_USA:WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/11311.ts
+#EXTINF:-1,SPORTS1:_AF:Gtv Sports Plus (Ghana)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29366.ts
+#EXTINF:-1,SPORTS1:_AL:K Sport 1 (Shqip)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29365.ts
+#EXTINF:-1,SPORTS1:_AL:K Sport 2 (Shqip)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29364.ts
+#EXTINF:-1,SPORTS1:_AL:Rtsh Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29363.ts
+#EXTINF:-1,SPORTS1:_AL:Super Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29362.ts
+#EXTINF:-1,SPORTS1:_AL:Super Sport Kosova 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29361.ts
+#EXTINF:-1,SPORTS1:_AL:Super Sport Kosova 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29360.ts
+#EXTINF:-1,SPORTS1:_AL:SuperSport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29359.ts
+#EXTINF:-1,SPORTS1:_AL:Supersport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29358.ts
+#EXTINF:-1,SPORTS1:_AL:Supersport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29357.ts
+#EXTINF:-1,SPORTS1:_AL:SuperSport4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29356.ts
+#EXTINF:-1,SPORTS1:_AL:Tele Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29355.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29354.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29353.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29352.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29351.ts
+#EXTINF:-1,SPORTS1:_AL:Tring Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29350.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29349.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29348.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29347.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29346.ts
+#EXTINF:-1,SPORTS1:_AR:ABU DHABI SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29345.ts
+#EXTINF:-1,SPORTS1:_AR:AL Sharjah SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29344.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29343.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29342.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29341.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29340.ts
+#EXTINF:-1,SPORTS1:_AR:ALKASS5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29339.ts
+#EXTINF:-1,SPORTS1:_AR:DMC Sport HD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29338.ts
+#EXTINF:-1,SPORTS1:_AR:Kuwait Sport PLUS *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29337.ts
+#EXTINF:-1,SPORTS1:_AR:Kuwait Sport TV *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29336.ts
+#EXTINF:-1,SPORTS1:_AR:MBC PROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29335.ts
+#EXTINF:-1,SPORTS1:_AR:MBC PROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29334.ts
+#EXTINF:-1,SPORTS1:_AR:MBC PROSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29333.ts
+#EXTINF:-1,SPORTS1:_AR:MBC PROSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29332.ts
+#EXTINF:-1,SPORTS1:_AR:NILE SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29331.ts
+#EXTINF:-1,SPORTS1:_AR:Oman Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29330.ts
+#EXTINF:-1,SPORTS1:_AR:ON Sport HD *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29329.ts
+#EXTINF:-1,SPORTS1:_AR:SAUDI SPORT *
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29328.ts
+#EXTINF:-1,SPORTS1:_BE:VOO SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29327.ts
+#EXTINF:-1,SPORTS1:_BE:VOO SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29326.ts
+#EXTINF:-1,SPORTS1:_BE:VOO SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29325.ts
+#EXTINF:-1,SPORTS1:_BE:VOO SPORT WORLD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29324.ts
+#EXTINF:-1,SPORTS1:_DE:Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29323.ts
+#EXTINF:-1,SPORTS1:_DE:Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29322.ts
+#EXTINF:-1,SPORTS1:_DE:Sky Sport Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29321.ts
+#EXTINF:-1,SPORTS1:_DE:Sky Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29320.ts
+#EXTINF:-1,SPORTS1:_DE:Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29319.ts
+#EXTINF:-1,SPORTS1:_DE:Sport-Digital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29318.ts
+#EXTINF:-1,SPORTS1:_EX-YU_BIH: A1 SPORT (BiH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29317.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 1 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29316.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 2 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29315.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 3 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29314.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 4 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29313.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Arena Sport 5 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29312.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Sport Klub 1 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29311.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Sport Klub 2 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29310.ts
+#EXTINF:-1,SPORTS1:_EX-YU_CR: Sport Klub 3 (HR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29309.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SLO: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29308.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SLO: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29307.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SLO: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29306.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SLO: Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29305.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29304.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29303.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29302.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29301.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Arena Sport 5 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29300.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: EUROSPORT 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29299.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: EUROSPORT 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29298.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport Klub 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29297.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport Klub 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29296.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport Klub 3 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29295.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport Klub 4 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29294.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Sport news (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29293.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Super Sport 1 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29292.ts
+#EXTINF:-1,SPORTS1:_EX-YU_SR: Super Sport 2 (SR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29291.ts
+#EXTINF:-1,SPORTS1:_GR:EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29274.ts
+#EXTINF:-1,SPORTS1:_GR:Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29273.ts
+#EXTINF:-1,SPORTS1:_GR:TILESPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29272.ts
+#EXTINF:-1,SPORTS1:_IND:STAR SPORTS.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29271.ts
+#EXTINF:-1,SPORTS1:_IND:STAR SPORTS.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29270.ts
+#EXTINF:-1,SPORTS1:_IND:STAR SPORTS.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29269.ts
+#EXTINF:-1,SPORTS1:_IND:STAR SPORTS.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29268.ts
+#EXTINF:-1,SPORTS1:_IND:TEN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29267.ts
+#EXTINF:-1,SPORTS1:_IT:FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29266.ts
+#EXTINF:-1,SPORTS1:_IT:Premium EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29265.ts
+#EXTINF:-1,SPORTS1:_IT:Premium EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29264.ts
+#EXTINF:-1,SPORTS1:_IT:Premium Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29263.ts
+#EXTINF:-1,SPORTS1:_IT:Premium Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29262.ts
+#EXTINF:-1,SPORTS1:_IT:Rai Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29261.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29260.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29259.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29258.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29257.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29256.ts
+#EXTINF:-1,SPORTS1:_IT:Sky Sports MotoGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29255.ts
+#EXTINF:-1,SPORTS1:_NL:Fox_Sport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29254.ts
+#EXTINF:-1,SPORTS1:_NL:fox_Sport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29253.ts
+#EXTINF:-1,SPORTS1:_NL:fox_Sport.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29252.ts
+#EXTINF:-1,SPORTS1:_NL:fox_Sport.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29251.ts
+#EXTINF:-1,SPORTS1:_NL:Fox_Sport.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29250.ts
+#EXTINF:-1,SPORTS1:_NL:Fox_Sport.6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29249.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29248.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_extra_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29247.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_extra_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29246.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29245.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29244.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29243.ts
+#EXTINF:-1,SPORTS1:_NL:Ziggo_Sport_Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29242.ts
+#EXTINF:-1,SPORTS1:_OSN:Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29241.ts
+#EXTINF:-1,SPORTS1:_OSN:Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29240.ts
+#EXTINF:-1,SPORTS1:_OSN:Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29239.ts
+#EXTINF:-1,SPORTS1:_OSN:Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29238.ts
+#EXTINF:-1,SPORTS1:_PT:Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29237.ts
+#EXTINF:-1,SPORTS1:_PT:Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29236.ts
+#EXTINF:-1,SPORTS1:_PT:Eurosport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29235.ts
+#EXTINF:-1,SPORTS1:_RO:Digi_Sport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29234.ts
+#EXTINF:-1,SPORTS1:_RO:Digi_Sport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29233.ts
+#EXTINF:-1,SPORTS1:_RO:Digi_Sport.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29232.ts
+#EXTINF:-1,SPORTS1:_RO:Digi_Sport.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29231.ts
+#EXTINF:-1,SPORTS1:_RO:Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29230.ts
+#EXTINF:-1,SPORTS1:_RO:Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29229.ts
+#EXTINF:-1,SPORTS1:_RO:Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29228.ts
+#EXTINF:-1,SPORTS1:_RO:Fishing & Hunting
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29227.ts
+#EXTINF:-1,SPORTS1:_RO:Sport.ro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29226.ts
+#EXTINF:-1,SPORTS1:_SC_DK:Eurosport DK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29225.ts
+#EXTINF:-1,SPORTS1:_SC_DK:TV 2 SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29224.ts
+#EXTINF:-1,SPORTS1:_SC_DK:TV 3 SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29223.ts
+#EXTINF:-1,SPORTS1:_SC_DK:TV 3 SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29222.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29221.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Norge HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29220.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Plus 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29219.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Plus 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29218.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Plus 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29217.ts
+#EXTINF:-1,SPORTS1:_SC_NO:Eurosport Plus 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29216.ts
+#EXTINF:-1,SPORTS1:_SC_NO:TV 2 Sport Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29215.ts
+#EXTINF:-1,SPORTS1:_SC_NO:TV 2 Sport Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29214.ts
+#EXTINF:-1,SPORTS1:_SC_NO:TV 2 Sport Premium 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29213.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Fotball HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29212.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29211.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29210.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Sport Baltic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29209.ts
+#EXTINF:-1,SPORTS1:_SC_SE:Viasat Sport Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29208.ts
+#EXTINF:-1,SPORTS1:_TR:A SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29207.ts
+#EXTINF:-1,SPORTS1:_TR:beIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29206.ts
+#EXTINF:-1,SPORTS1:_TR:beIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29205.ts
+#EXTINF:-1,SPORTS1:_TR:beIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29204.ts
+#EXTINF:-1,SPORTS1:_TR:beIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29203.ts
+#EXTINF:-1,SPORTS1:_TR:SPORTS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29202.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29201.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29200.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29199.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29198.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29197.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29196.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29195.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29194.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29193.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29192.ts
+#EXTINF:-1,SPORTS1:_UK:BT Sport Extra 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29191.ts
+#EXTINF:-1,SPORTS1:_UK:EIR SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29190.ts
+#EXTINF:-1,SPORTS1:_UK:EIR SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29189.ts
+#EXTINF:-1,SPORTS1:_UK:Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29188.ts
+#EXTINF:-1,SPORTS1:_UK:Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29187.ts
+#EXTINF:-1,SPORTS1:_UK:Fight Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29186.ts
+#EXTINF:-1,SPORTS1:_UK:Premiere Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29185.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29184.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29183.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29182.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29181.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29180.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29179.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29178.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29177.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29176.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports HD THE OPEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29175.ts
+#EXTINF:-1,SPORTS1:_UK:Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29174.ts
+#EXTINF:-1,SPORTS1:_UK:Sports Tonight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29173.ts
+#EXTINF:-1,SPORTS1:_USA:AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29172.ts
+#EXTINF:-1,SPORTS1:_USA:AFN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29171.ts
+#EXTINF:-1,SPORTS1:_USA:Bein Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29170.ts
+#EXTINF:-1,SPORTS1:_USA:FIGHT Network SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29169.ts
+#EXTINF:-1,SPORTS1:_USA:Fox Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29168.ts
+#EXTINF:-1,SPORTS1:_USA:Fox Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29167.ts
+#EXTINF:-1,SPORTS1:_USA:Fox Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29166.ts
+#EXTINF:-1,SPORTS1:_USA:NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29165.ts
+#EXTINF:-1,SPORTS1:_USA:NBC SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29164.ts
+#EXTINF:-1,SPORTS1:_USA:NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29163.ts
+#EXTINF:-1,SPORTS1:_USA:NFL Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29162.ts
+#EXTINF:-1,SPORTS1:_USA:NHL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29161.ts
+#EXTINF:-1,SPORTS1:_USA:Sports NET 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29160.ts
+#EXTINF:-1,SPORTS1:_USA:Sports Net 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29159.ts
+#EXTINF:-1,SPORTS1:_USA:Sports Net Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29158.ts
+#EXTINF:-1,SPORTS1:_USA:Sports Net World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29157.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29156.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29155.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29154.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29153.ts
+#EXTINF:-1,SPORTS1:_USA:TSN Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://iptvtool.es:9977/live/693102/iptv/29152.ts
