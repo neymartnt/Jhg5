@@ -8,7 +8,7 @@
 
 
 			
-	
+	<!------
 	
 	
 	
@@ -85,11 +85,11 @@
 </item>
  
 <item>
-<title>[COLOR lime] TV [/COLOR]</title>
+<title>[COLOR lime] TDT(NUEVO) [/COLOR]</title>
 <thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
 <fanart>http://www.symcober.com/wp-content/uploads/2015/06/TDT.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/tdt.xml</externallink>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/TDT2.xml</externallink>
 </item>
 
 <item>
@@ -97,7 +97,7 @@
 <thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
 <fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>http://bit.ly/2nr0OzL</externallink>
+<externallink>https://pastebin.com/raw/bsabQ4L9</externallink>
 </item>
 
 	
@@ -155,6 +155,141 @@
  
  https://raw.githubusercontent.com/neymartnt/neymar/master/PELICULASLREYJHG.xml
  
+	
+	
+	<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] CREADO POR JHG.MASTER [/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/Vj6tXUY.jpg</thumbnail>
+<fanart>https://i.imgur.com/Vj6tXUY.jpg</fanart>
+</item>
+		
+		
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] LIVE [/COLOR][COLOR orange] MUSIC [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/FCKCIUP.jpg</thumbnail>
+<fanart>https://i.imgur.com/FCKCIUP.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/ZGrupoKodi/ZGRUPOKODI/master/LIVE%20MUSIC/indexLIVEMUSIC.xml</externallink>
+</item>	
+
+			https://raw.githubusercontent.com/neymartnt/Jhg5/master/M.xml	
+	
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] Z SPORTS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/Zsports/zsportindex.xml</externallink>
+<thumbnail>https://i.imgur.com/V0OSbfK.jpg</thumbnail>
+<fanart>https://i.imgur.com/V0OSbfK.jpg</fanart>
+</item>
+		
+	<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] LISTA VARIADA [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/YSKPXch.jpg</thumbnail>
+<fanart>https://i.imgur.com/YSKPXch.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/LISTAVARIADA.xml</externallink> 
+</item>
+
+ 	<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TV ESPAÑA(NUEVO)[/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/YSKPXch.jpg</thumbnail>
+<fanart>https://i.imgur.com/YSKPXch.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/M.xml</externallink> 
+</item>
+
+
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] MAGELLAN [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/iDcUypr.jpg</thumbnail>
+<fanart>https://i.imgur.com/iDcUypr.jpg</fanart>
+<externallink>http://pastebin.com/raw.php?i=wL2Jvyh8</externallink>
+</item>
+
+
+
+ <item>
+<title>[COLOR red] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.cine/</jsonrpc>
+<thumbnail>http://s3-us-west-2.amazonaws.com/argemundoapp/sites/hurlingham/images/commerces/162/1450183731-2013-03-16_08-24-56_videoclub.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+
+ 
+<item>
+<title>[COLOR  yellow] ** [/COLOR][COLOR white] **PELICULAS (AÑOS)** [/COLOR][COLOR  yellow] ** [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogInBlbGlzZm94IiwgCiAgICAiY2hhbm5lbCI6ICJwZWxpc2ZveCIsIAogICAgImNvbnRleHQiOiBbXSwgCiAgICAiZmFuYXJ0IjogIiIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAibGFuZ3VhZ2UiOiBbCiAgICAgICAgImxhdCIKICAgIF0sIAogICAgInRodW1ibmFpbCI6ICJodHRwczovL3MxNC5wb3N0aW1nLm9yZy9jNDNldGMxbHQvcGVsaXNmb3gucG5nIiwgCiAgICAidGl0bGUiOiAicGVsaXNmb3giLCAKICAgICJ0b3RhbEl0ZW1zIjogMCwgCiAgICAidmlld21vZGUiOiAibGlzdCIKfQ%3d%3d</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime] TDT(NUEVO) [/COLOR]</title>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
+<fanart>http://www.symcober.com/wp-content/uploads/2015/06/TDT.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/TDT2.xml</externallink>
+</item>
+
+<item>
+<title> [COLOR skyblue]**Movistar JULIO [/COLOR]</title>
+<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
+<fanart>https://www.adslzone.net/app/uploads/2018/04/movistar-plus.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/bsabQ4L9</externallink>
+</item>
+
+	
+<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue]**TDT[/COLOR][COLOR  yellow]_**_  [/COLOR]</title>
+<link>nolink</link>
+<externallink>https://pastebin.com/raw/1VS1SdGF</externallink>
+<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
+<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] **MOVISTAR** [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/YSKPXch.jpg</thumbnail>
+<fanart>https://i.imgur.com/YSKPXch.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER1.xml</externallink> 
+</item>
+
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DEPORTES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/16JGL5F.jpg</thumbnail>
+<fanart>https://i.imgur.com/16JGL5F.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/SERVER3DEPORT.xml</externallink> 
+</item>	
+
+ 
+<item>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] DOCUMENTALES [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/EQfNGdH.jpg</thumbnail>
+<fanart>https://i.imgur.com/EQfNGdH.jpg<fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/ZJ/SERVER2DOCU.xml</externallink> 
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]Todos los Canales[/COLOR] [COLOR lime][I]Cinetrenostv.tv[/I][/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=title%3dCinestrenosTV.tv%2b%2528Spanish%2bTV%2529%26url%3dcustoms%252Fcinestrenostv.tv.cfg%26definedIn%3dcustoms.cfg%26director%3dcinestrenostv.tv%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 	
 
