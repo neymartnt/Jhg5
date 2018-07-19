@@ -51,13 +51,27 @@
 </item>
 
 
-<item>
-<title>[COLOR lime]•[/COLOR] IPTV</title>
-<thumbnail>https://i.imgur.com/6ezAMIJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/CtczDLO.jpg</fanart>
+
+
+ <item>
+<title>[COLOR yellow] * [/COLOR][COLOR white] MOVISTAR [/COLOR]</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/IPTV.xml</externallink>
+<externallink>https://raw.githubusercontent.com/ZGrupoKodi/ZGRUPOKODI/master/lista1.xml</externallink>
 </item>
+ 
+ 
+<item>
+<title>[COLOR yellow] * [/COLOR][COLOR white]   DEPORTES  [/COLOR]</title>
+<fanart>https://i.imgur.com/uNQD9yK.jpg</fanart>
+<thumbnail>https://i.imgur.com/uNQD9yK.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/ZGrupoKodi/ZGRUPOKODI/master/deportes/INdexdeportes.xml</externallink>
+</item>
+  
+ 
+
 	
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
