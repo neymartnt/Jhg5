@@ -24,6 +24,15 @@
 		
 
 
+	
+	<item>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] MONTANDO NUEVA VERSION *CON CARIÑO*  [/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/Vj6tXUY.jpg</thumbnail>
+<fanart>https://i.imgur.com/Vj6tXUY.jpg</fanart>
+</item>
+		
 			
 	<!------
 	
@@ -46,7 +55,7 @@
 <externallink>https://raw.githubusercontent.com/ZGrupoKodi/ZGRUPOKODI/master/LIVE%20MUSIC/indexLIVEMUSIC.xml</externallink>
 </item>	
 
-			https://raw.githubusercontent.com/neymartnt/Jhg5/master/M.xml	
+		
 	
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] Z SPORTS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
@@ -84,7 +93,7 @@
 
 
  <item>
-<title>[COLOR red]--> [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
+<title>[COLOR red] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine/</jsonrpc>
 <thumbnail>http://s3-us-west-2.amazonaws.com/argemundoapp/sites/hurlingham/images/commerces/162/1450183731-2013-03-16_08-24-56_videoclub.jpg</thumbnail>
