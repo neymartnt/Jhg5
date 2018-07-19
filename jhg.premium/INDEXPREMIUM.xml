@@ -25,6 +25,25 @@
 </item>
 
 	
+	<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR blue]   Programacion Movistar [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+ <link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue][B][makelist.param1][/B][/COLOR][COLOR green][B][makelist.param2] [makelist.param3][/B][/COLOR][COLOR orange][makelist.param4] [makelist.param5][/COLOR]</title>
+<link>$doregex[ip]|User-Agent=iPad</link>
+<thumbnail>https://img.webme.com/pic/e/eric-cast/guiatv.png</thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
+<page>http://www.formulatv.com/programacion/</page>
+</regex>
+<thumbnail>https://img.webme.com/pic/e/eric-cast/guiatv.png</thumbnail>
+<fanart></fanart>
+ </item>
+	
+	
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1* [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
