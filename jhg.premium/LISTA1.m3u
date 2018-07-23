@@ -1,216 +1,182 @@
 #EXTM3U
 
- 
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",LA 1 HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",LA 2
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",Antena 3 HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcuatro.jpg",Cuatro HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tele5.jpg",Telecinco HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",La Sexta HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg",#0
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",Movistar Series
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",Movistar Series Xtra
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fox.jpg",Fox HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn.jpg",AXN HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tnt.jpg",TNT HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/comedy-central.jpg",Comedy Central HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/calle13-44x36.jpg",Calle 13
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/COSMO.png", COSMO
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/amc.jpg",AMC
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/foxcrime.jpg",Fox Life HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/axn-white.jpg",AXN White HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/syfy-44x36.jpg",SYFY
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mtvespana.jpg",MTV
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/fdf.jpg",Factoria de Ficcion
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/neox.jpg",Neox
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/energy.jpg",Energy
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg",Movistar Estrenos
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-extra.jpg",Movistar Xtra HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-accion.jpg",Movistar Accion
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-comedia.jpg",Movistar Comedia
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-dcine.jpg",Movistar DCine
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tcm.jpg",TCM
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/hollywood.jpg",Hollywood
-http://galaxytv.ml:8880/live/Tvingoplus_ES/mBio1ncIA3/3425.ts|User-Agent=tvingo.tvingoplus.01.04.18.R.A.K.A
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/paramountchannel.jpg",Paramount Channel
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",Movistar Futbol HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-laliga.png", Bein LaLiga HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/bein-sports.jpg",beIN SPORTS  HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png", Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png", Barca TV
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",Movistar Deportes 1 HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",Movistar Deportes 2 HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",Movistar Formula 1 HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",Movistar Golf HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",Eurosport 1 HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg",Eurosport 2
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/goltv.jpg",GOL
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png", La Liga TV
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg",Tele Deporte HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png", Caza y Pesca
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png", Iberalia TV
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/CFERIA.png", Toros TV HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/National-Geographic-44x36.jpg",National Geographic HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg",Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/historia.jpg",Historia
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverychannel.jpg",Discovery
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/blaze.png", Blaze
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/viajar.jpg",Viajar HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg",Crimen + Investigacion
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg",Canal Cocina
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DECASA.png", De Casa
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DIVINI.png", Divinity
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nova.jpg",Nova
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg",Mega
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg",Disney Junior
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg",Canal Panda
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickjr.jpg",NICK JR
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg",Nickelodeon HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg",Disney XD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/DCH.png",Disney Channel HD
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/boing.jpg",Boing
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/clantve.jpg",Clan TVE
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve_24h.jpg",24 Horas
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
- 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-rDdOja6DYDk/VYGoJw1-DOI/AAAAAAAAL7Y/bZfghOSgWx8/s1600/NSP.png", Non Stop People
-plugin://plugin.video.f4mTester/?url=http://185.66.143.240:25461/live/amos/1234/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG.PREMIUM[/COLOR]
+ #EXTINF:-1,###  SPAIN  ###
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1982.m3u8
+#EXTINF:-1,ES: LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2088.m3u8
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2744.m3u8
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2089.m3u8
+#EXTINF:-1,ES: VH1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2372.m3u8
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2743.m3u8
+#EXTINF:-1,ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2745.m3u8
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2280.m3u8
+#EXTINF:-1,ES: Canal 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2235.m3u8
+#EXTINF:-1,ES: MI MUSICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2179.m3u8
+#EXTINF:-1,ES: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2183.m3u8
+#EXTINF:-1,ES: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3190.m3u8
+#EXTINF:-1,ES: Disney Jr.
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2106.m3u8
+#EXTINF:-1,ES: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3790.m3u8
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2186.m3u8
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2502.m3u8
+#EXTINF:-1,ES: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2503.m3u8
+#EXTINF:-1,ES: Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2506.m3u8
+#EXTINF:-1,ES: Odisea
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2495.m3u8
+#EXTINF:-1,ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2492.m3u8
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2191.m3u8
+#EXTINF:-1,ES: TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2185.m3u8
+#EXTINF:-1,ES: CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2091.m3u8
+#EXTINF:-1,ES: VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2452.m3u8
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2582.m3u8
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2448.m3u8
+#EXTINF:-1,ES: DCINE ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2447.m3u8
+#EXTINF:-1,ES: COSMO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2450.m3u8
+#EXTINF:-1,ES: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2451.m3u8
+#EXTINF:-1,ES: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2090.m3u8
+#EXTINF:-1,ES: A & E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2636.m3u8
+#EXTINF:-1,ES: C & I
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2496.m3u8
+#EXTINF:-1,ES: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3256.m3u8
+#EXTINF:-1,ES: Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1023.m3u8
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1674.m3u8
+#EXTINF:-1,ES: NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2449.m3u8
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2092.m3u8
+#EXTINF:-1,ES: Divinity
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4109.m3u8
+#EXTINF:-1,ES: Calle 13 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1676.m3u8
+#EXTINF:-1,ES: HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1032.m3u8
+#EXTINF:-1,ES: Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2180.m3u8
+#EXTINF:-1,ES: FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1669.m3u8
+#EXTINF:-1,ES: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2454.m3u8
+#EXTINF:-1,ES: Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1024.m3u8
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2742.m3u8
+#EXTINF:-1,ES: Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2104.m3u8
+#EXTINF:-1,ES: #0 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2566.m3u8
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2105.m3u8
+#EXTINF:-1,ES: M XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2176.m3u8
+#EXTINF:-1,ES: M XTRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2494.m3u8
+#EXTINF:-1,ES: M Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2175.m3u8
+#EXTINF:-1,ES: M Futbol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2491.m3u8
+#EXTINF:-1,ES: M Accion
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3257.m3u8
+#EXTINF:-1,ES: M Accion HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1675.m3u8
+#EXTINF:-1,ES: M Series HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2453.m3u8
+#EXTINF:-1,ES: M Series XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1671.m3u8
+#EXTINF:-1,ES: M Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1672.m3u8
+#EXTINF:-1,ES: M Estrenos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2493.m3u8
+#EXTINF:-1,ES: M Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2504.m3u8
+#EXTINF:-1,ES: M Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1072.m3u8
+#EXTINF:-1,ES: M Dcine HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/889.m3u8
+#EXTINF:-1,ES: M Dcine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2490.m3u8
+#EXTINF:-1,ES: M LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/890.m3u8
+#EXTINF:-1,ES: M LIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2456.m3u8
+#EXTINF:-1,ES: M Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/710.m3u8
+#EXTINF:-1,ES: M Toros
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/709.m3u8
+#EXTINF:-1,ES: M DEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2178.m3u8
+#EXTINF:-1,ES: M DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2177.m3u8
+#EXTINF:-1,ES: M. DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2692.m3u8
+#EXTINF:-1,ES: Movistar MotoGP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2182.m3u8
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2181.m3u8
+#EXTINF:-1,ES: LA LIGA 123
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4409.m3u8
+#EXTINF:-1,ES: LaLiga Tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3154.m3u8
+#EXTINF:-1,ES: GOL TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3930.m3u8
+#EXTINF:-1,ES: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1673.m3u8
+#EXTINF:-1,ES: Bein Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2184.m3u8
+#EXTINF:-1,ES: Bein La Liga FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4337.m3u8
+#EXTINF:-1,ES: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3189.m3u8
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4338.m3u8
+#EXTINF:-1,ES: REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3191.m3u8
+#EXTINF:-1,ES: ANTENNA 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/1117.m3u8
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/971.m3u8
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2622.m3u8
+#EXTINF:-1,ES: AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/970.m3u8
+#EXTINF:-1,ES: AXN White
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2567.m3u8
+#EXTINF:-1,ES: MEGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/2873.m3u8
+#EXTINF:-1,ES: A3S Atreseries HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3787.m3u8
+#EXTINF:-1,ES: BETIS TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/4274.m3u8
+#EXTINF:-1,ES: CBN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3789.m3u8
+#EXTINF:-1,ES: CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://globiptv.com:8000/live/test1/test1/3188.m3u8
