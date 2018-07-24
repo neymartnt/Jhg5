@@ -1,6 +1,100 @@
 #EXTM3U
 
+
+
+#EXTINF:-1,-----------MOVISTAR JHG FHD -----LISTA 1---------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/6768..m3u8
+#EXTINF:-1,ES: BEIN SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/6000..m3u8
+#EXTINF:-1,ES: BEIN LA LIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/5999..m3u8
+#EXTINF:-1,ES: EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/755..m3u8
+#EXTINF:-1,ES: GOL TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/6001..m3u8
+#EXTINF:-1,ES: MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/494..m3u8
+#EXTINF:-1,ES: MOVISTAR FUTBOL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/5997..m3u8
+#EXTINF:-1,ES: MOVISTAR+ DEPORTES 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/288..m3u8
+#EXTINF:-1,ES: MOVISTAR+ DEPORTES 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/289..m3u8
+#EXTINF:-1,ES:MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/688..m3u8
+#EXTINF:-1,ES: MOVISTAR+ MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/513..m3u8
+#EXTINF:-1,ES: MOVISTAR TOROS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/812..m3u8
+#EXTINF:-1,ES: CAZA Y PESCA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/819..m3u8
+#EXTINF:-1,ES: LA LIGA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/5998..m3u8
+#EXTINF:-1,ES: LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/341..m3u8
+#EXTINF:-1,ES: ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/219..m3u8
+#EXTINF:-1,ES: CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/221..m3u8
+#EXTINF:-1,ES: TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/314..m3u8
+#EXTINF:-1,ES: #0 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/325..m3u8
+#EXTINF:-1,ES: MOVISTAR+ ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1527..m3u8
+#EXTINF:-1,ES: MOVISTAR+  COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1526..m3u8
+#EXTINF:-1,ES: MOVISTAR+ DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1525..m3u8
+#EXTINF:-1,ES: MOVISTAR+ ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1523..m3u8
+#EXTINF:-1,ES: MOVISTAR + SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1524..m3u8
+#EXTINF:-1,ES: MOVISTAR+ SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1528..m3u8
+#EXTINF:-1,ES: MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1600..m3u8
+#EXTINF:-1,ES: CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/324..m3u8
+#EXTINF:-1,ES: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/327..m3u8
+#EXTINF:-1,ES: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/984..m3u8
+#EXTINF:-1,ES: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/419..m3u8
+#EXTINF:-1,ES: AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/261..m3u8
+#EXTINF:-1,ES: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1541..m3u8
+#EXTINF:-1,ES: TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1380..m3u8
+#EXTINF:-1,ES: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1529..m3u8
+#EXTINF:-1,ES: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/575..m3u8
+#EXTINF:-1,ES: TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/996..m3u8
+#EXTINF:-1,ES: COSMO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/272..m3u8
+#EXTINF:-1,ES: VIAJAR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/117..m3u8
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/609..m3u8
+#EXTINF:-1,ES: HISTORIA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/564..m3u8
+#EXTINF:-1,ES: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/510..m3u8
+#EXTINF:-1,ES: NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1545..m3u8
+#EXTINF:-1,ES: DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/308..m3u8
+#EXTINF:-1,ES: NICKELODEON FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/470..m3u8
+
+
 #EXTINF:-1,------- SUPER JHG PREMIUM ---------
+
+
 
 
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg",LA 1 HD
