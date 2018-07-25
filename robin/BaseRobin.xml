@@ -3,6 +3,72 @@
 
 
 
+
+
+
+<item>
+ <title>LA PURGA  LATINO </title>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Transformers: El último caballero [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/e/FTIHIQC65K</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2018</date>
+    <info></info>
+    </regex>
+</item>  
+
+
+
+<item>
+ <title> </title>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Transformers: El último caballero [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/e/FTIHIQC65K</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info></info>
+    </regex>
+</item>  
+
+
+
+
+
+
+
+
+
+
  <item>
         <title>[COLOR green]                                  ARENAVISION[/COLOR]</title>
         <link>http://Ignoreme</link>
