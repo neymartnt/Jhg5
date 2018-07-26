@@ -23,3 +23,21 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PRE
  
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/clantve.jpg",Clan TVE
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/632.m3u8
+
+[COLOR  yellow] LISTA 2 [/COLOR]
+#EXTINF:-1,ES:[COLOR  yellow] BABY TV [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20409..m3u8
+#EXTINF:-1,ES: [COLOR  yellow]Boing [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20350..m3u8
+#EXTINF:-1,ES: [COLOR  yellow]Clan Tve [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20355..m3u8
+#EXTINF:-1,ES: [COLOR  yellow]DISNEY CHANNEL HD [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20388..m3u8
+#EXTINF:-1,ES:[COLOR  yellow] DISNEY XD [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20390..m3u8
+#EXTINF:-1,ES: [COLOR  yellow]NICK Jr [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20400..m3u8
+#EXTINF:-1,ES:[COLOR  yellow] NICKELODEON HD [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20364..m3u8
+#EXTINF:-1,ES:[COLOR  yellow] PANDA [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20366..m3u8
