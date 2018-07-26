@@ -18,3 +18,35 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PRE
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20327..m3u8
 #EXTINF:-1,ES : MOVISTAR FORMULA 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20328..m3u8
+[COLOR  yellow] LISTA2 [/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes1.jpg",[COLOR  yellow]Movistar Deportes 1 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/682.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-deportes2.jpg",[COLOR  yellow]Movistar Deportes 2 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/683.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg",[COLOR  yellow]Movistar Formula 1 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/692.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-motogp.jpg",[COLOR  yellow]Movistar Moto GP HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/694.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-golf.jpg",[COLOR  yellow]Movistar Golf HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/687.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport.jpg",[COLOR  yellow]Eurosport 1 HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/684.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/eurosport2.jpg",[COLOR  yellow]Eurosport 2[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/685.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/goltv.jpg",[COLOR  yellow]GOL[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/688.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png", [COLOR  yellow]La Liga TV[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos1/690.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/teledeporte.jpg",[COLOR  yellow]Tele Deporte HD[/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://185.66.143.240:25461/live/amos1/amos
