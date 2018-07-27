@@ -3,83 +3,6 @@
 
 
 
-<item>
-<title>[COLOR white][COLOR yellow] •  [/COLOR]***TEMPORADA 1.[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/75/5f/63/755f63ed458cc6970942c57b00b9a21f.jpg</thumbnail>
-<fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/12/arrow.jpg</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/aivan-barcelona/la-que-se-avecina-temporada-10-86927</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/aivan-barcelona/la-que-se-avecina-temporada-10-86927</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/75/5f/63/755f63ed458cc6970942c57b00b9a21f.jpg</thumbnail>
-<fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/12/arrow.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]****[COLOR white] CIENCIA FICCION[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-<fanart>http://radiobuap.com/wp-content/uploads/2015/09/Cyborg_Fantasy_World-e1295286948275.jpg</fanart>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/Jeviathan/cine-ciencia-ficcion-24545/</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/Jeviathan/cine-ciencia-ficcion-24545/</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<fanart>http://radiobuap.com/wp-content/uploads/2015/09/Cyborg_Fantasy_World-e1295286948275.jpg</fanart>
-<thumbnail></thumbnail>
-</item>
-
-
 
 
 
@@ -98,7 +21,7 @@
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/d4QKjct.jpg</thumbnail>
 <fanart>https://i.imgur.com/d4QKjct.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/neymartnt/neymar/master/Vi/estrenos.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/estrenos.xml</externallink>	
 </item>
 
 <item>
@@ -180,7 +103,7 @@
 
 
 <item>
- <title> </title>
+ <title> **</title>
  <thumbnail></thumbnail>
  <fanart></fanart>
  <genre></genre>
