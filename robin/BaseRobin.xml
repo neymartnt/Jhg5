@@ -2,7 +2,251 @@
 
 
 
+<item>
+<title> ESTRENOS  </title>
+<link>$doregex[makelist2]</link>
 
+
+
+<regex>
+ <name>makelist2</name>
+ <listrepeat><![CDATA[
+<title>[B][makelist2.param1] [/B] [COLOR aquamarine] Genero:[makelist2.param3]  Calidad:[makelist2.param4]  Año:[makelist2.param5]  [/COLOR]</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>https://image.tmdb.org/t/p/original$doregex[imagen]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[Pname:\"(.*?)\"urlid:\"(.*?)\"genero:\"(.*?)\"calidad:\"(.*?)\"year:\"(.*?)\"id:\"(.*?)\"]]></expres>
+<page>https://raw.githubusercontent.com/neymartnt/SUPERJHG/master/CINE/BASE1233.txt</page>
+</regex>
+
+<regex>
+<name>imagen</name>
+<expres><![CDATA[poster_path":"(.*?)"]]></expres>
+<page>https://api.themoviedb.org/3/find/[makelist2.param6]?external_source=imdb_id&amp;language=es_ES&amp;api_key=3d8a2c67653e2f8fd7dd09959e835f02</page>
+</regex>
+
+ <regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist2.param2]</page>
+<rawpost>fileId=[makelist2.param2]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/</page>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title> POR GENERO </title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+ <name>makelist2</name>
+ <listrepeat><![CDATA[
+<title>[B][makelist2.param1] [/B] [COLOR aquamarine] Calidad:[makelist2.param3]  Año:[makelist2.param4]  [/COLOR]</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>https://image.tmdb.org/t/p/original$doregex[imagen]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[Pname:\"(.*?)\"urlid:\"(.*?)\"genero:\"$doregex[select]\"calidad:\"(.*?)\"year:\"(.*?)\"id:\"(.*?)\"]]></expres>
+<page>https://raw.githubusercontent.com/neymartnt/SUPERJHG/master/CINE/BASE1233.txt</page>
+</regex>
+<regex>
+<name>imagen</name>
+<expres><![CDATA[poster_path":"(.*?)"]]></expres>
+<page>https://api.themoviedb.org/3/find/[makelist2.param5]?external_source=imdb_id&amp;language=es_ES&amp;api_key=3d8a2c67653e2f8fd7dd09959e835f02</page>
+</regex>
+
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige tu Audio preferido ', ['Accion', 'Comedia','Infantil', 'Terror', 'Drama', 'Aventura'])
+   lists = ['Accion', 'Comedia','Infantil', 'Terror', 'Drama', 'Aventura']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+
+ <regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist2.param2]</page>
+<rawpost>fileId=[makelist2.param2]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/</page>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title> POR CALIDAD </title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+ <name>makelist2</name>
+ <listrepeat><![CDATA[
+<title>[B][makelist2.param1] [/B] [COLOR aquamarine] Genero:[makelist2.param3] Año:[makelist2.param4]  [/COLOR]</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>https://image.tmdb.org/t/p/original$doregex[imagen]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[Pname:\"(.*?)\"urlid:\"(.*?)\"genero:\"(.*?)\"calidad:\"$doregex[select]\"year:\"(.*?)\"id:\"(.*?)\"]]></expres>
+<page>https://raw.githubusercontent.com/neymartnt/SUPERJHG/master/CINE/BASE1233.txt</page>
+</regex>
+<regex>
+<name>imagen</name>
+<expres><![CDATA[poster_path":"(.*?)"]]></expres>
+<page>https://api.themoviedb.org/3/find/[makelist2.param5]?external_source=imdb_id&amp;language=es_ES&amp;api_key=3d8a2c67653e2f8fd7dd09959e835f02</page>
+</regex>
+
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige tu Audio preferido ', ['HD', 'DVDRIP','CAM'])
+   lists = ['HD', 'DVDRIP','CAM']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+
+ <regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist2.param2]</page>
+<rawpost>fileId=[makelist2.param2]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/</page>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title> POR AÑO </title>
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+ <name>makelist2</name>
+ <listrepeat><![CDATA[
+<title>[B][makelist2.param1] [/B] [COLOR aquamarine] Genero:[makelist2.param3] Calidad:[makelist2.param4]  [/COLOR]</title>
+<link>$doregex[getUrl]</link>
+<thumbnail>https://image.tmdb.org/t/p/original$doregex[imagen]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[Pname:\"(.*?)\"urlid:\"(.*?)\"genero:\"(.*?)\"calidad:\"(.*?)\"year:\"$doregex[select]\"id:\"(.*?)\"]]></expres>
+<page>https://raw.githubusercontent.com/neymartnt/SUPERJHG/master/CINE/BASE1233.txt</page>
+</regex>
+<regex>
+<name>imagen</name>
+<expres><![CDATA[poster_path":"(.*?)"]]></expres>
+<page>https://api.themoviedb.org/3/find/[makelist2.param5]?external_source=imdb_id&amp;language=es_ES&amp;api_key=3d8a2c67653e2f8fd7dd09959e835f02</page>
+</regex>
+
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige tu Audio preferido ', ['2017', '2016','2015','2014','2013','2012','2011','2010'])
+   lists = ['2017', '2016','2015','2014','2013','2012','2011','2010']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+
+ <regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist2.param2]</page>
+<rawpost>fileId=[makelist2.param2]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/</page>
+<referer>http://diskokosmiko.mx/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 
 
