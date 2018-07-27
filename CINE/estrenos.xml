@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR lime] EL RASCACIELOS (LATINO) [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info>Will Ford es un antiguo líder del Equipo de Rescate de Rehenes del FBI y veterano de los marines que ahora trabaja como asesor de seguridad de los rascacielos. En una misión en China, Ford se encontrará con que el edificio más alto y seguro del mundo de repente se incendia. Mientras encuentra a los responsables del incendio, tendrá que intentar salvar a su familia atrapada dentro del rascacielos. </info> 
+</item>
+
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+
+<item>
+ <title>Alien: Covenant</title>
+ <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
+ <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg/<fanart>
+ <genre>Ciencia ficción, Terror, Extraterrestres</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Alien: Covenant [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
+    <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FLRQNLM27W</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Rumbo a un remoto planeta al otro lado de la galaxia, la tripulación de la nave colonial Covenant descubre lo que creen que es un paraíso inexplorado, pero resulta tratarse de un mundo oscuro y hostil </info>
+    </regex>
+</item>
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+
+
+<item>
+<title>[COLOR lime] GUARDIANES DE LA GALAXIA VOL.2[/COLOR]</title>
+<urlsolve>https://streamango.com/embed/nkmaobclqraemdpf/</urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+
+
+<item>
+ <title>[COLOR lime] TADEO JONES 2 [/COLOR]</title>
+ <thumbnail>https://pics.filmaffinity.com/tadeo_jones_2_el_secreto_del_rey_midas-758956125-large.jpg</thumbnail>
+ <fanart>https://pics.filmaffinity.com/tadeo_jones_2_el_secreto_del_rey_midas-758956125-large.jpg</fanart>
+ <genre>Animación,Aventuras,Comedia</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title> [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://pics.filmaffinity.com/tadeo_jones_2_el_secreto_del_rey_midas-758956125-large.jpg</thumbnail>
+    <fanart>https://pics.filmaffinity.com/tadeo_jones_2_el_secreto_del_rey_midas-758956125-large.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FMLKX00YJ9</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Tadeo Jones 2: El secreto del rey Midas: Segunda entrega de las aventuras de este albañil con un espíritu aventurero y soñador que acaba como arqueólogo por casualidad. En esta ocasión, Tadeo Jones viajará hasta Las Vegas. Allí acude a la presentación del último descubrimiento de la arqueóloga Sara Lavroff. Se trata de un papiro que demuestra que el Collar de Midas, el Rey que convertía todo lo que tocaba en oro, existe de verdad. Pero las cosas se complicarán cuando un malvado ricachón secuestre a Sara para así hacerse con la reliquia y conseguir riquezas infinitas.</info>
+    </regex>
+</item>  
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR orange]Taquilla 1:[/COLOR] [COLOR skyblue] EL RASCACIELOS[/COLOR] </title>
+<link>http://streamcloud.eu/pocgfyygqgeg</link>
+<link>http://streamcloud.eu/vp07dz5tsw8i</link>
+<link>http://streamcloud.eu/12qygnjay57v</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Will Ford es un antiguo líder del Equipo de Rescate de Rehenes del FBI y veterano de los marines que ahora trabaja como asesor de seguridad de los rascacielos. En una misión en China, Ford se encontrará con que el edificio más alto y seguro del mundo de repente se incendia. Mientras encuentra a los responsables del incendio, tendrá que intentar salvar a su familia atrapada dentro del rascacielos. </info> 
+</item>
+
+
+<item>
+<title>[COLOR orange]Taquilla 2:[/COLOR] [COLOR skyblue] [/COLOR] </title>
+<link></link>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+
+<item>
+<title>[COLOR orange]Taquilla 3:[/COLOR] [COLOR skyblue] [/COLOR] </title>
+<link></link>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+
+<item>
+<title>[COLOR orange]Taquilla 4:[/COLOR] [COLOR skyblue] [/COLOR] </title>
+<link></link>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+
+<item>
+<title>[COLOR orange]Taquilla 5:[/COLOR] [COLOR skyblue] [/COLOR] </title>
+<link></link>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR orange]Taquilla :[/COLOR] [COLOR skyblue] [/COLOR] </title>
+<link></link>
+<link></link>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
