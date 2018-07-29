@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR green]paypal.me/SUPER.JHG.MASTERkodi[/COLOR]
-http://paypal.me/SUPER.JHG.MASTERkodi
-#EXTINF:-1,â–? â–‚ â–„ â–… â–†â˜† SPANISH CHANNELS â˜†â–† â–… â–„ â–‚ â–?
+
+#EXTINF:-1,ACTUALIZADO  DIA-29/07/2018
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://
 #EXTINF:-1,ES:LA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://iptvtool.es:9977/live/jf/iptv/28847.ts
