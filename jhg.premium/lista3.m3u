@@ -174,6 +174,171 @@ http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/inde
 #EXTINF:-1 tvg-logo="http://www.8tv.cat/wp-content/uploads/2012/11/Logo-8tv-693x390.png",ESPAÑA:8 TV
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png",M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png",M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png" ,FOX Life Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+ #EXTINF:-1 tvg-logo="http://www.vootar.com/imgs/elementos/1248207222_Canal%20Hollywood.jpg",Hollywood HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+ #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png"-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png",MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn.jpg",AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn.jpg",AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+ #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/861px-Comedy_Central_UK.svg.png",COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png",Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1 tvg-logo="http://s01.s3c.es/imag/_v0/640x300/5/3/4/bein-sports.jpg",beIN Sports ES HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1 tvg-logo="http://latelete.tv/img/beinlaliga.png",beIN La Liga HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png",MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/movistar-accion.png", M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png", M+ Comedia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png", M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png", M+ Xtra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png",FOX Life Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png",FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png",FOX
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12390.ts
+#EXTINF:-1 tvg-logo="http://cdn.foxplaybrasil.com.br/sites/foxplay-br/files/img/foxlife.png?ver=12d26707-7006-4320-9124-1e4afff47aac",FOX Life
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/10868.ts
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/f658898cfb403f6ec063fe8805f28612",Calle 13
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12410.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12418.ts
+#EXTINF:-1 tvg-logo="http://livetvi.com/wp-content/uploads/2016/04/AMC-tv-live-990x558.png",AMC
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12423.ts
+#EXTINF:-1 tvg-logo="http://tvseriesfinale.com/wp-content/uploads/2016/02/syfy11.jpg",SyFy
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12332.ts
+#EXTINF:-1 tvg-logo="http://www.eastwebside.com/wp-content/uploads/2011/11/TCM.1.jpg",TCM
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12329.ts
+#EXTINF:-1 tvg-logo="http://omicrono.elespanol.com/wp-content/uploads/2016/10/dark.jpg",Dark (Solo Terror)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12561.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1280px-Logo_TVE-Internacional.svg.png",LA 1
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12379.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png/revision/latest?cb=20140918184607",LA 2
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12376.ts
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png",Antena 3
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12421.ts
+#EXTINF:-1 tvg-logo="http://shakaran.net/blog/wp-content/uploads/2009/11/cuatro.jpg",Cuatro
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12398.ts
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1024px-Telecinco_2012.svg.png",Telecinco
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12326.ts
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/la_sexta_es_hd.png.4fa7fd7dc0da4de63ddedd3bb7f1415f.png",La Sexta
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12375.ts
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg",Neox
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12478.ts
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png",FDF
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12553.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1200px-Boing.svg.png",Boing
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12488.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781228683857920/2hIDK_eo.jpg",Divinity
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12559.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fhlG8LUjvLI/UO8KCsJa0JI/AAAAAAAACq0/YwUxRRcIoq4/s1600/energy+en+directo.jpg",Energy
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12557.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1191px-Be_Mad_TV.svg.png",Be Mad
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12412.ts
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/efcc6e05c16879f7b1903cec874f640e.jpeg",MEGA
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12370.ts
+#EXTINF:-1 tvg-logo="http://www.antena3.com/clipping/2015/11/10/00114/30.jpg",Atreseries
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12425.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMpB1ufWR0g/VuwigsX1_WI/AAAAAAAAACQ/n2Fy1VyrYSQ9b-tSuTveLCXf4wRpB_HMQ/s1600/-CD4VuPl.png",#0
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12428.ts
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2017/03/movistar-estrenos.jpg",Movistar Estrenos
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12356.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png",Movistar Series
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12353.ts
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/logos/movistar-accion.png",Movistar Accion
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12366.ts
+#EXTINF:-1 tvg-logo="https://movistar.i.lithium.com/t5/image/serverpage/image-id/111649i67B5BCFE25EC8F99/image-size/original?v=v2&px=-1",Movistar Comedia
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12362.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png",Movistar Dcine
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12359.ts
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f2/MovistarXtra.png/revision/latest?cb=20160818141302",Movistar Xtra
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12350.ts
+#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg",Movistar Futbol
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12444.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Movistar_Partidazo.svg/1200px-Movistar_Partidazo.svg.png",Movistar Partidazo (Solo directo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12502.ts
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.OMBUUzDUe0yixngljUbhIwHaE0&pid=15.1&P=0&w=220&h=143",Movistar Formula 1
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12447.ts
+#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2016/04/movistar-motoGP-logo.png",Movistar MotoGP
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12439.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png",Movistar Golf
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12440.ts
+#EXTINF:-1 tvg-logo="http://todotele.com/wp-content/uploads/2017/05/MovistarDeportes1-Euroliga.png",Movistar Deportes 1
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12454.ts
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/5032ba2a87d5dc4471c2552eb324b9a3",Movistar Deportes 2
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12449.ts
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_Q04yn8Yrdw/TmEwYLO8s0I/AAAAAAAAADM/LQgV4vv8jAI/s1600/1281951246_CanalHistoria.jpg",Historia
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12383.ts
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.6eMkRBclkD2epU4sASsNWwHaE3&pid=15.1&P=0&w=234&h=155",Discovery Channel
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12396.ts
+#EXTINF:-1 tvg-logo="http://sire-assets-fox.fichub.com/assets/viajar/images/logo_viajar.png?1484848284",Viajar
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12316.ts
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.wNgjikeL7X-Upc6Nsj7d0gHaEK&pid=15.1&P=0&w=295&h=167",National Geoghraphic
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12340.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-i7tC5rEpFBg/TxO1cajN9GI/AAAAAAAAAMc/ah7nSEXmIpo/s1600/mtv-logo.jpg",MTV
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12344.ts
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.CTm3GPIl1w6GRVLPul34FAHaEK&pid=15.1&P=0&w=299&h=169",VH1
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12535.ts
+#EXTINF:-1 tvg-logo="http://i.blogs.es/d18e49/logocanalodisea/original.jpg",Odisea
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12337.ts
+#EXTINF:-1 tvg-logo="http://images.amcnetworks.com/sundancechannel.com/wp-content/uploads/2016/09/SUNDANCETV-Logo-New-Show-800x450.jpg",Sundance TV *
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12333.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png",DIRECTV SPORTS
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/8337.ts
+#EXTINF:-1 tvg-logo="http://www.television-envivo.com/wp-content/uploads/2016/06/directv-sports-2-300.png",DIRECTV SPORTS 2
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/8329.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",Bein LaLiga
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12471.ts
+#EXTINF:-1 tvg-logo="https://www.comparaiso.es/images/beinlogo-300.png",Bein Sports
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12473.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",Bein LaLiga1 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12525.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",Bein LaLiga2 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12522.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",Bein LaLiga3 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12520.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jVL6ggeFyNg/V6ADm-4HdQI/AAAAAAAAL0w/sFs4FWHbNjgAUFC8iRYX2bqzr11qa41bACK4B/s1600/beinlaliga.png",Bein LaLiga4 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12519.ts
+#EXTINF:-1 tvg-logo="http://tv.directplus.fr/wp-content/uploads/2016/05/barca-tv.jpg",Barça TV
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12475.ts
+#EXTINF:-1 tvg-logo="http://www.plus.es/estaticos/images/canales/svg/multideporte-01.svg",Multideporte 1 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12499.ts
+#EXTINF:-1 tvg-logo="http://www.plus.es/estaticos/images/canales/svg/multideporte-01.svg",Multideporte 2 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12498.ts
+#EXTINF:-1 tvg-logo="http://www.plus.es/estaticos/images/canales/svg/multideporte-01.svg",Multideporte 3 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12497.ts
+#EXTINF:-1 tvg-logo="http://www.plus.es/estaticos/images/canales/svg/multideporte-01.svg",Multideporte 4 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12496.ts
+#EXTINF:-1 tvg-logo="http://www.plus.es/estaticos/images/canales/svg/multideporte-01.svg",Multideporte 5 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12495.ts
+#EXTINF:-1 tvg-logo="http://www.plus.es/estaticos/images/canales/svg/multideporte-01.svg",Multifutbol 1 (solo en vivo)
+http://main.xtrego.com:8080/live/Cesarmanmafe/3V4vqXopoy/12494.ts
+
 
 #EXTINF:-1,------------------------- SPORTS INTERNATIONAL -------------------------
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG.PREMIUM[/COLOR];url=http://wohuogai.com:58000/live/thbvvg.kJh-j/ahGyh765.-kJJh/661.ts
