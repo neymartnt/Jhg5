@@ -1,134 +1,335 @@
 #EXTM3U
 
-
+#EXTINF:-1,ES: #0 HD
+http://212.8.250.12:25461/live/jose123/jose123/20344.m3u8
+#EXTINF:-1,ES: 24 Horas
+http://212.8.250.12:25461/live/jose123/jose123/20340.m3u8
+#EXTINF:-1,ES: A&E
+http://212.8.250.12:25461/live/jose123/jose123/20345.m3u8
+#EXTINF:-1,ES: AMC
+http://212.8.250.12:25461/live/jose123/jose123/20346.m3u8
+#EXTINF:-1,ES: AXN HD
+http://212.8.250.12:25461/live/jose123/jose123/20347.m3u8
+#EXTINF:-1,ES: AXN WHITE HD
+http://212.8.250.12:25461/live/jose123/jose123/20370.m3u8
+#EXTINF:-1,ES: BABY TV
+http://212.8.250.12:25461/live/jose123/jose123/20409.m3u8
+#EXTINF:-1,ES: BARCA TV
+http://212.8.250.12:25461/live/jose123/jose123/20338.m3u8
+#EXTINF:-1,ES: BeiN La Liga
+http://212.8.250.12:25461/live/jose123/jose123/20412.m3u8
+#EXTINF:-1,ES: beIN LA Liga FHD
+http://212.8.250.12:25461/live/jose123/jose123/20407.m3u8
+#EXTINF:-1,ES: beIN Laliga 1 HD Backup
+http://212.8.250.12:25461/live/jose123/jose123/20406.m3u8
+#EXTINF:-1,ES: BeiN Laliga FHD
+http://212.8.250.12:25461/live/jose123/jose123/20411.m3u8
+#EXTINF:-1,ES: Bein Liga HD
+http://212.8.250.12:25461/live/jose123/jose123/20348.m3u8
+#EXTINF:-1,ES: beIN Sport FHD
+http://212.8.250.12:25461/live/jose123/jose123/20410.m3u8
+#EXTINF:-1,ES: Bein Sport HD
+http://212.8.250.12:25461/live/jose123/jose123/20349.m3u8
+#EXTINF:-1,ES: Boing
+http://212.8.250.12:25461/live/jose123/jose123/20350.m3u8
+#EXTINF:-1,ES: CALLE 13 HD
+http://212.8.250.12:25461/live/jose123/jose123/20371.m3u8
+#EXTINF:-1,ES: Canal  ESTRENOS HD
+http://212.8.250.12:25461/live/jose123/jose123/20377.m3u8
+#EXTINF:-1,ES: CANAL COCINA
+http://212.8.250.12:25461/live/jose123/jose123/20351.m3u8
+#EXTINF:-1,ES: Canal M DCINE HD
+http://212.8.250.12:25461/live/jose123/jose123/20374.m3u8
+#EXTINF:-1,ES: Canal De Las Estrellas
+http://212.8.250.12:25461/live/jose123/jose123/20334.m3u8
+#EXTINF:-1,ES: CANAL DECASA
+http://212.8.250.12:25461/live/jose123/jose123/20352.m3u8
+#EXTINF:-1,ES: Canal SERIES HD
+http://212.8.250.12:25461/live/jose123/jose123/20353.m3u8
+#EXTINF:-1,ES: Canal SERIES XTRA HD
+http://212.8.250.12:25461/live/jose123/jose123/20382.m3u8
+#EXTINF:-1,ES: Caza y pesca
+http://212.8.250.12:25461/live/jose123/jose123/20354.m3u8
+#EXTINF:-1,ES: Clan Tve
+http://212.8.250.12:25461/live/jose123/jose123/20355.m3u8
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://212.8.250.12:25461/live/jose123/jose123/20337.m3u8
+#EXTINF:-1,ES: COSMO HD
+http://212.8.250.12:25461/live/jose123/jose123/20356.m3u8
+#EXTINF:-1,ES: Crimen Investigation
+http://212.8.250.12:25461/live/jose123/jose123/20332.m3u8
+#EXTINF:-1,ES: CUATRO HD
+http://212.8.250.12:25461/live/jose123/jose123/20385.m3u8
+#EXTINF:-1,ES: DISCOVERY
+http://212.8.250.12:25461/live/jose123/jose123/20387.m3u8
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://212.8.250.12:25461/live/jose123/jose123/20386.m3u8
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://212.8.250.12:25461/live/jose123/jose123/20388.m3u8
+#EXTINF:-1,ES: DISNEY XD
+http://212.8.250.12:25461/live/jose123/jose123/20390.m3u8
+#EXTINF:-1,ES: DIVINITY
+http://212.8.250.12:25461/live/jose123/jose123/20357.m3u8
+#EXTINF:-1,ES: DMAX
+http://212.8.250.12:25461/live/jose123/jose123/20413.m3u8
+#EXTINF:-1,ES: Energy
+http://212.8.250.12:25461/live/jose123/jose123/20343.m3u8
+#EXTINF:-1,ES: EuroNews
+http://212.8.250.12:25461/live/jose123/jose123/20415.m3u8
+#EXTINF:-1,ES: EUROSPORT 1
+http://212.8.250.12:25461/live/jose123/jose123/20342.m3u8
+#EXTINF:-1,ES: EUROSPORT 2
+http://212.8.250.12:25461/live/jose123/jose123/20341.m3u8
+#EXTINF:-1,ES: FDF
+http://212.8.250.12:25461/live/jose123/jose123/20358.m3u8
+#EXTINF:-1,ES: FOX HD
+http://212.8.250.12:25461/live/jose123/jose123/20391.m3u8
+#EXTINF:-1,ES: GOL Tv
+http://212.8.250.12:25461/live/jose123/jose123/20359.m3u8
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://212.8.250.12:25461/live/jose123/jose123/20394.m3u8
+#EXTINF:-1,ES: IBERALIA
+http://212.8.250.12:25461/live/jose123/jose123/20360.m3u8
+#EXTINF:-1,ES: LA 2 HD
+http://212.8.250.12:25461/live/jose123/jose123/20361.m3u8
+#EXTINF:-1,ES: La Liga BAR HD
+http://212.8.250.12:25461/live/jose123/jose123/20362.m3u8
+#EXTINF:-1,ES: LA SEXTA HD
+http://212.8.250.12:25461/live/jose123/jose123/20396.m3u8
+#EXTINF:-1,ES: M COMEDIA HD
+http://212.8.250.12:25461/live/jose123/jose123/20373.m3u8
+#EXTINF:-1,ES: MEGA
+http://212.8.250.12:25461/live/jose123/jose123/20397.m3u8
+#EXTINF:-1,ES: Movistar Accion HD
+http://212.8.250.12:25461/live/jose123/jose123/20372.m3u8
+#EXTINF:-1,ES: Movistar Futbol
+http://212.8.250.12:25461/live/jose123/jose123/20329.m3u8
+#EXTINF:-1,ES: MOVISTAR MOTOGP
+http://212.8.250.12:25461/live/jose123/jose123/20330.m3u8
+#EXTINF:-1,ES: Movistar Partidazo HD (event only)
+http://212.8.250.12:25461/live/jose123/jose123/20408.m3u8
+#EXTINF:-1,ES: Movistar XTRA HD
+http://212.8.250.12:25461/live/jose123/jose123/20384.m3u8
+#EXTINF:-1,ES: MTV ESPANA
+http://212.8.250.12:25461/live/jose123/jose123/20331.m3u8
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://212.8.250.12:25461/live/jose123/jose123/20398.m3u8
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+http://212.8.250.12:25461/live/jose123/jose123/20399.m3u8
+#EXTINF:-1,ES: NEOX
+http://212.8.250.12:25461/live/jose123/jose123/20363.m3u8
+#EXTINF:-1,ES: NICK Jr
+http://212.8.250.12:25461/live/jose123/jose123/20400.m3u8
+#EXTINF:-1,ES: NICKELODEON HD
+http://212.8.250.12:25461/live/jose123/jose123/20364.m3u8
+#EXTINF:-1,ES: Nonstop People
+http://212.8.250.12:25461/live/jose123/jose123/20336.m3u8
+#EXTINF:-1,ES: NOVA
+http://212.8.250.12:25461/live/jose123/jose123/20365.m3u8
+#EXTINF:-1,ES: Odisea
+http://212.8.250.12:25461/live/jose123/jose123/20414.m3u8
+#EXTINF:-1,ES: PANDA
+http://212.8.250.12:25461/live/jose123/jose123/20366.m3u8
+#EXTINF:-1,ES: Paramount
+http://212.8.250.12:25461/live/jose123/jose123/20333.m3u8
+#EXTINF:-1,ES: Real Madrid Channel
+http://212.8.250.12:25461/live/jose123/jose123/20405.m3u8
+#EXTINF:-1,ES: SYFY
+http://212.8.250.12:25461/live/jose123/jose123/20367.m3u8
+#EXTINF:-1,ES: TCM HD
+http://212.8.250.12:25461/live/jose123/jose123/20401.m3u8
+#EXTINF:-1,ES: TELECINCO HD
+http://212.8.250.12:25461/live/jose123/jose123/20402.m3u8
+#EXTINF:-1,ES: TNT
+http://212.8.250.12:25461/live/jose123/jose123/20368.m3u8
+#EXTINF:-1,ES:ANTENA 3 HD
+http://212.8.250.12:25461/live/jose123/jose123/20369.m3u8
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+http://212.8.250.12:25461/live/jose123/jose123/20375.m3u8
+#EXTINF:-1,ES:Canal  DEPORTES HD
+http://212.8.250.12:25461/live/jose123/jose123/20376.m3u8
+#EXTINF:-1,ES:Canal  FUTBOL HD
+http://212.8.250.12:25461/live/jose123/jose123/20378.m3u8
+#EXTINF:-1,ES:Canal  GOLF HD
+http://212.8.250.12:25461/live/jose123/jose123/20379.m3u8
+#EXTINF:-1,ES:Canal  LIGA 2 HD
+http://212.8.250.12:25461/live/jose123/jose123/20380.m3u8
+#EXTINF:-1,ES:Canal  LIGA HD
+http://212.8.250.12:25461/live/jose123/jose123/20381.m3u8
+#EXTINF:-1,ES:Canal  TOROS HD
+http://212.8.250.12:25461/live/jose123/jose123/20383.m3u8
+#EXTINF:-1,ES:DISNEY JUNIOR
+http://212.8.250.12:25461/live/jose123/jose123/20389.m3u8
+#EXTINF:-1,ES:FOX LIFE HD
+http://212.8.250.12:25461/live/jose123/jose123/20392.m3u8
+#EXTINF:-1,ES:HISTORIA
+http://212.8.250.12:25461/live/jose123/jose123/20393.m3u8
+#EXTINF:-1,ES:LA 1 HD
+http://212.8.250.12:25461/live/jose123/jose123/20395.m3u8
+#EXTINF:-1,ES:TELEDEPORTE HD
+http://212.8.250.12:25461/live/jose123/jose123/20403.m3u8
+#EXTINF:-1,ES:VIAJAR HD
+http://212.8.250.12:25461/live/jose123/jose123/20404.m3u8
+#EXTINF:-1,VIP ES: Bein Sporm3u8 HD ( 1080P )
+http://212.8.250.12:25461/live/jose123/jose123/20335.m3u8
+#EXTINF:-1,ES: Telecinco
+http://212.8.250.12:25461/live/jose123/jose123/21075.m3u8
+#EXTINF:-1,ES: Teledeporte
+http://212.8.250.12:25461/live/jose123/jose123/21074.m3u8
+#EXTINF:-1,ES: Telesur
+http://212.8.250.12:25461/live/jose123/jose123/21073.m3u8
+#EXTINF:-1,ES : MOVISTAR F1 HD
+http://212.8.250.12:25461/live/jose123/jose123/20327.m3u8
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+http://212.8.250.12:25461/live/jose123/jose123/20328.m3u8
+#EXTINF:-1,ES: Taquilla-1
+http://212.8.250.12:25461/live/jose123/jose123/21085.m3u8
+#EXTINF:-1,ES: Taquilla-2
+http://212.8.250.12:25461/live/jose123/jose123/21084.m3u8
+#EXTINF:-1,ES: Taquilla-3
+http://212.8.250.12:25461/live/jose123/jose123/21083.m3u8
+#EXTINF:-1,ES: Taquilla-4
+http://212.8.250.12:25461/live/jose123/jose123/21082.m3u8
+#EXTINF:-1,ES: Taquilla-5
+http://212.8.250.12:25461/live/jose123/jose123/21081.m3u8
+#EXTINF:-1,ES: Taquilla-6
+http://212.8.250.12:25461/live/jose123/jose123/21080.m3u8
+#EXTINF:-1,ES: Taquilla-7
+http://212.8.250.12:25461/live/jose123/jose123/21079.m3u8
+#EXTINF:-1,ES: Taquilla-8
+http://212.8.250.12:25461/live/jose123/jose123/21078.m3u8
+#EXTINF:-1,ES: Taquilla-9
+http://212.8.250.12:25461/live/jose123/jose123/21077.m3u8
+#EXTINF:-1,ES: TCM
+http://212.8.250.12:25461/live/jose123/jose123/21076.m3u8
 #EXTINF:-1,ACTUALIZADO  DIA-29/07/2018
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://
 #EXTINF:-1,ES: AMC HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3637.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3637.m3u8
 #EXTINF:-1,ES: ANDALUCIA TV
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3630.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3630.m3u8
 #EXTINF:-1,ES: ANTENA 3 HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3636.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3636.m3u8
 #EXTINF:-1,ES: Barca TV
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3143.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3143.m3u8
 #EXTINF:-1,ES: Bein La Liga HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3142.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3142.m3u8
 #EXTINF:-1,ES: BEIN SPORTS HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3628.ts
-#EXTINF:-1,ES: BeinSports 1HD LOCAL
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2089.ts
-#EXTINF:-1,ES: BeinSports_2HD LOCAL
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2088.ts
-#EXTINF:-1,ES: BeinSports_3HD LOCAL
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2087.ts
-#EXTINF:-1,ES: BeinSports_4HD LOCAL
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2086.ts
-#EXTINF:-1,ES: BeinSports_5HD LOCAL
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2085.ts
-#EXTINF:-1,ES: BeinSports_6HD LOCAL
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2084.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3628.m3u8
+#EXTINF:-1,ES: BeinSporm3u8 1HD LOCAL
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2089.m3u8
+#EXTINF:-1,ES: BeinSporm3u8_2HD LOCAL
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2088.m3u8
+#EXTINF:-1,ES: BeinSporm3u8_3HD LOCAL
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2087.m3u8
+#EXTINF:-1,ES: BeinSporm3u8_4HD LOCAL
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2086.m3u8
+#EXTINF:-1,ES: BeinSporm3u8_5HD LOCAL
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2085.m3u8
+#EXTINF:-1,ES: BeinSporm3u8_6HD LOCAL
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/2084.m3u8
 #EXTINF:-1,ES: Calle 13 HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3155.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3155.m3u8
 #EXTINF:-1,ES: CANAL  COMEDIA HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3619.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3619.m3u8
 #EXTINF:-1,ES: CANAL  DCINE
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3620.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3620.m3u8
 #EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3622.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3622.m3u8
 #EXTINF:-1,ES: CANAL  LIGA
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3627.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3627.m3u8
 #EXTINF:-1,ES: CANAL DECASA
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3617.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3617.m3u8
 #EXTINF:-1,ES: Caza y Pesca
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3139.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3139.m3u8
 #EXTINF:-1,ES: Comedy Central HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3138.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3138.m3u8
 #EXTINF:-1,ES: CUATRO
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3137.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3137.m3u8
 #EXTINF:-1,ES: Discovery Channel
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3135.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3135.m3u8
 #EXTINF:-1,ES: Disney Channel HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3141.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3141.m3u8
 #EXTINF:-1,ES: Fox HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3134.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3134.m3u8
 #EXTINF:-1,ES: Fox Life HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3133.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3133.m3u8
 #EXTINF:-1,ES: GOL TV
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3624.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3624.m3u8
 #EXTINF:-1,ES: Historia
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3132.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3132.m3u8
 #EXTINF:-1,ES: Hollywood HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3131.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3131.m3u8
 #EXTINF:-1,ES: LA LIGA  HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3629.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3629.m3u8
 #EXTINF:-1,ES: La Sexta HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3130.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3130.m3u8
 #EXTINF:-1,ES: M. ACCION HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3618.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3618.m3u8
 #EXTINF:-1,ES: M. ESTRENOS HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3623.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3623.m3u8
 #EXTINF:-1,ES: M. FUTBOL HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3625.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3625.m3u8
 #EXTINF:-1,ES: M. GOLF HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3626.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3626.m3u8
 #EXTINF:-1,ES: M. SERIES XTRA HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3616.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3616.m3u8
 #EXTINF:-1,ES: Mega HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3129.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3129.m3u8
 #EXTINF:-1,ES: Movistar  Deportes 1 HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3148.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3148.m3u8
 #EXTINF:-1,ES: Movistar  Estrenos HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3153.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3153.m3u8
 #EXTINF:-1,ES: Movistar  Futbol HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3147.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3147.m3u8
 #EXTINF:-1,ES: Movistar Accion HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3154.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3154.m3u8
 #EXTINF:-1,ES: Movistar Cine Espanol
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3149.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3149.m3u8
 #EXTINF:-1,ES: Movistar Comedia HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3152.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3152.m3u8
 #EXTINF:-1,ES: Movistar Dcine HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3136.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3136.m3u8
 #EXTINF:-1,ES: Movistar Moto GP HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3144.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3144.m3u8
 #EXTINF:-1,ES: Movistar Series HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3151.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3151.m3u8
 #EXTINF:-1,ES: Movistar Xtra HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3145.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3145.m3u8
 #EXTINF:-1,ES: National Geo Wild HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3127.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3127.m3u8
 #EXTINF:-1,ES: National Geographic HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3128.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3128.m3u8
 #EXTINF:-1,ES: Neox
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3126.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3126.m3u8
 #EXTINF:-1,ES: Nickelodeon
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3140.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3140.m3u8
 #EXTINF:-1,ES: Nova
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3125.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3125.m3u8
 #EXTINF:-1,ES: Paramount Channel
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3124.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3124.m3u8
 #EXTINF:-1,ES: Real Madrid TV
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3123.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3123.m3u8
 #EXTINF:-1,ES: Taquilla 1
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3122.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3122.m3u8
 #EXTINF:-1,ES: Taquilla 2
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3121.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3121.m3u8
 #EXTINF:-1,ES: Taquilla 3
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3120.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3120.m3u8
 #EXTINF:-1,ES: Taquilla 4
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3119.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3119.m3u8
 #EXTINF:-1,ES: Taquilla 5
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3118.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3118.m3u8
 #EXTINF:-1,ES: TCM HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3635.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3635.m3u8
 #EXTINF:-1,ES: TELECINCO HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3634.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3634.m3u8
 #EXTINF:-1,ES: TNT HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3633.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3633.m3u8
 #EXTINF:-1,ES: TOROS HD
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3632.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3632.m3u8
 #EXTINF:-1,ES: TV GALICIA
-http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3631.ts
+http://daddyiptv.com:8000/live/WPFMsdGr78/k3pTa22TY6/3631.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png",PORTUGAL
@@ -158,27 +359,27 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2018 by SUPER.JHG.MASTER)
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3956.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" group-title="PORTUGAL",SPORT TV 1 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g5/SportTV1.m3u8
+https://sporm3u8bar.pw/lba/123/g5/SportTV1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g7/Sport2PT.m3u8
+https://sporm3u8bar.pw/lba/123/g7/Sport2PT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g7/Sport2PT.m3u8
+http://sporm3u8bar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g7/Sport2PT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/MzI1NDVlYTg5NGQ3YzcxZTRkYjJhZDhiMzUxYmIzNGM=/g7/Sport2PT.m3u8
+http://sporm3u8bar.pw/lba/MzI1NDVlYTg5NGQ3YzcxZTRkYjJhZDhiMzUxYmIzNGM=/g7/Sport2PT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/123/g3/SportTV3.m3u8 
+http://sporm3u8bar.pw/lba/123/g3/SportTV3.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g3/SportTV3.m3u8
+https://sporm3u8bar.pw/lba/123/g3/SportTV3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+http://sporm3u8bar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g4/Sport4PT.m3u8
+https://sporm3u8bar.pw/lba/123/g4/Sport4PT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT.m3u8
+http://sporm3u8bar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/123/g9/SportTV5.m3u8
+http://sporm3u8bar.pw/lba/123/g9/SportTV5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/MzI1NDVlYTg5NGQ3YzcxZTRkYjJhZDhiMzUxYmIzNGM=/g9/SportTV5.m3u8
+http://sporm3u8bar.pw/lba/MzI1NDVlYTg5NGQ3YzcxZTRkYjJhZDhiMzUxYmIzNGM=/g9/SportTV5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2018 by SUPER.JHG.MASTER)
 http://212.8.248.197:8080/live/Majda/Majda/900.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2018 by SUPER.JHG.MASTER)
@@ -498,7 +699,7 @@ http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPORTEINT.png" group-title="BRASIL",ESPORTE INTERATIVO (Copyright © 2018 by SUPER.JHG.MASTER)
 https://l3tk-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_1200.m3u8?dnt=true&access_token=mkn1ejub7yla1mkvrfhvi6l2adxkpvs5zqqlqqyllmac5wmq8ktzykfjahbor3sahzrlnig9b6l&ref=https%3a%2f%2fwww.eiplus.com.br%2fcanal%2f47%2fnautico-x-bahia%2f&es=l3tk-ei-ee-cdn-mdstrm.secure.footprint.net&proto=https&pz=br&hash=0abd35a18c0ee0c957eac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPORTEINT2.png" group-title="BRASIL",ESPORTE INTERATIVO 2 (Copyright © 2018 by SUPER.JHG.MASTER)
-https://l3tk-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8?dnt=true&access_token=e8z1j3se8ze4g3jzgxkblgarm5wt4jti7ja6bomdfurocw3ofv3zceswv5bnpkbvrmj50x3rhu6&ref=https%3a%2f%2fwww.eiplus.com.br%2fcanal%2f46%2froma-x-shakhtar-donetsk%2f&es=l3tk-ei-ee-cdn-mdstrm.secure.footprint.net&proto=https&pz=br&hash=01566973e3ceb23880dcd
+https://l3tk-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8?dnt=true&access_token=e8z1j3se8ze4g3jzgxkblgarm5wt4jti7ja6bomdfurocw3ofv3zceswv5bnpkbvrmj50x3rhu6&ref=https%3a%2f%2fwww.eiplus.com.br%2fcanal%2f46%2froma-x-shakhtar-donem3u8k%2f&es=l3tk-ei-ee-cdn-mdstrm.secure.footprint.net&proto=https&pz=br&hash=01566973e3ceb23880dcd
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="BRASIL",FISH TV (Copyright © 2018 by SUPER.JHG.MASTER)
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4125.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" group-title="BRASIL",FOOD NETWORK (Copyright © 2018 by SUPER.JHG.MASTER)
@@ -634,9 +835,9 @@ http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="ITALIA",VH1 EUROPE (Copyright © 2018 by SUPER.JHG.MASTER)
 http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Supertennis_logo.png" group-title="ITALIA",SUPER TENNIS (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/123/g5/supertennis.m3u8
+http://sporm3u8bar.pw/lba/123/g5/supertennis.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Supertennis_logo.png" group-title="ITALIA",SUPER TENNIS HD (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g5/supertennis.m3u8
+https://sporm3u8bar.pw/lba/123/g5/supertennis.m3u8
 #EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="ITALIA",HISTORY LAB (Copyright © 2018 by SUPER.JHG.MASTER)
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" group-title="ITALIA",DMAX (Copyright © 2018 by SUPER.JHG.MASTER)
@@ -808,13 +1009,13 @@ http://80.229.166.111:9981/stream/channelid/1350188180
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Film4%2B1_logo.svg/1280px-Film4%2B1_logo.svg.png" group-title="INGLATERRA",FILM4 +1 (Copyright © 2018 by SUPER.JHG.MASTER)
 http://80.229.166.111:9981/stream/channelid/648543947
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" group-title="INGLATERRA",SKY SPORTS MAIN EVENT (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g8/SkyMainEvent.m3u8
+https://sporm3u8bar.pw/lba/123/g8/SkyMainEvent.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSFOOTBALL.png" group-title="INGLATERRA",SKY SPORTS FOOTBALL HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
+http://sporm3u8bar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSACTION.png" group-title="INGLATERRA",SKY SPORTS ACTION (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g5/SkyAction.m3u8
+http://sporm3u8bar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g5/SkyAction.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" group-title="INGLATERRA",SKY SPORTS NEWS HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
+http://sporm3u8bar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="INGLATERRA",EUROSPORT 1 HD UK (Copyright © 2018 by SUPER.JHG.MASTER)
 http://v4.ustreamix.com/Eurosport-1.m3u8?token=eurosport_i-1b583b17544a7f96d628c23a604c1c3d
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" group-title="INGLATERRA",MUTV (Copyright © 2018 by SUPER.JHG.MASTER)
@@ -822,17 +1023,17 @@ http://31.132.0.66:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1 (Copyright © 2018 by SUPER.JHG.MASTER)
 http://31.132.0.66:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/123/g2/BTSport1.m3u8
+http://sporm3u8bar.pw/lba/123/g2/BTSport1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" group-title="INGLATERRA",BT SPORT 2 (Copyright © 2018 by SUPER.JHG.MASTER)
 http://31.132.0.66:8000/play/a0b5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" group-title="INGLATERRA",BT SPORT 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/123/g3/BTSport2.m3u8
+http://sporm3u8bar.pw/lba/123/g3/BTSport2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT3.png" group-title="INGLATERRA",BT SPORT 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://163.172.220.115:8080/rAMdannbt/btsp3/index.m3u8
+http://163.172.220.115:8080/rAMdannbt/bm3u8p3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" group-title="INGLATERRA",BT SPORT ESPN (Copyright © 2018 by SUPER.JHG.MASTER)
 http://31.132.0.66:8000/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" group-title="INGLATERRA",BT SPORT ESPN HD (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/123/g6/btsportespn.m3u8
+http://sporm3u8bar.pw/lba/123/g6/bm3u8portespn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX1.png" group-title="INGLATERRA",BT SPORT EXTRA 1 (Copyright © 2018 by SUPER.JHG.MASTER)
 http://31.132.0.66:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX2.png" group-title="INGLATERRA",BT SPORT EXTRA 2 (Copyright © 2018 by SUPER.JHG.MASTER)
@@ -890,18 +1091,18 @@ http://btv-net.mediacdn.ru/TVB8/wfhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" group-title="USA",NATIONAL GEOGRAPHIC WILD (Copyright © 2018 by SUPER.JHG.MASTER)
 http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZJ8xW1t.png" group-title="USA",TSN1 (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g2/TSN1.m3u8
+https://sporm3u8bar.pw/lba/123/g2/TSN1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png" group-title="USA",TSN2 (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g3/TSN2.m3u8
+https://sporm3u8bar.pw/lba/123/g3/TSN2.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png" group-title="USA",TSN3 (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g1/TSN3.m3u8
+https://sporm3u8bar.pw/lba/123/g1/TSN3.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png" group-title="USA",TSN4 (Copyright © 2018 by SUPER.JHG.MASTER)
-https://sportsbar.pw/lba/123/g5/TSN4.m3u8
+https://sporm3u8bar.pw/lba/123/g5/TSN4.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png" group-title="USA",TSN5 (Copyright © 2018 by SUPER.JHG.MASTER)
-http://sportsbar.pw/lba/123/g9/TSN5.m3u8
+http://sporm3u8bar.pw/lba/123/g9/TSN5.m3u8
 #EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Network (National) (Copyright © 2018 by SUPER.JHG.MASTER)
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-SportsnetWorld.svg.png/revision/latest?cb=20111112195204" group-title="USA",SPORTSNET WORLD (Copyright © 2018 by SUPER.JHG.MASTER)
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-Sporm3u8netWorld.svg.png/revision/latest?cb=20111112195204" group-title="USA",SPORTSNET WORLD (Copyright © 2018 by SUPER.JHG.MASTER)
 http://vapi.vaders.tv/play/2670.m3u8?token=eyJ1c2VybmFtZSI6ImZyYW5jb21hYyIsInBhc3N3b3JkIjoia2lsbDJ0aGlzIn0=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
 http://0.0.0.1234
@@ -944,5 +1145,5 @@ http://19553.live.streamtheworld.com/RFM_SC
 #EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="RADIOS",RFM 80 (Copyright © 2018 by SUPER.JHG.MASTER)
 http://19573.live.streamtheworld.com/GR80SRFM_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOTSF.png" group-title="RADIOS",TSF (Copyright © 2018 by SUPER.JHG.MASTER)
-http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+http://m3u8fdirecto.m3u8f.pt/m3u8fdirecto.mp3
 Copyright © 2018 - SUPER.JHG.MASTER
