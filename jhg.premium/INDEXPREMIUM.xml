@@ -48,18 +48,10 @@
 	
 	
 	
-	
-	<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR JHG(SPORTDEVIL) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista3sportdevil.xml</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-	
+
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1* [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.m3u</externallink>
 <thumbnail></thumbnail>
@@ -68,7 +60,7 @@
 
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u</externallink>
 <thumbnail></thumbnail>
@@ -129,7 +121,15 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+	
+	<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR JHG (SPORTDEVIL)en mantenimiento [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista3sportdevil.xml</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+	
 	
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red]  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
