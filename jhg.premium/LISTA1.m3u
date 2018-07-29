@@ -427,154 +427,154 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]S
 
 #EXTINF:-1 lista 2 en mantenimiento
 #EXTINF:-1,ES: #O HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/9114.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/9114.m3u8
 #EXTINF:-1,ES: LA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8036.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8036.m3u8
 #EXTINF:-1,ES: LA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8037.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8037.m3u8
 #EXTINF:-1,ES: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8001.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8001.m3u8
 #EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8017.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8017.m3u8
 #EXTINF:-1,ES: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8018.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8018.m3u8
 #EXTINF:-1,ES: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8066.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8066.m3u8
 #EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8067.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8067.m3u8
 #EXTINF:-1,ES: CLAN  TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8013.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8013.m3u8
 #EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8062.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8062.m3u8
 #EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8595.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8595.m3u8
 #EXTINF:-1,ES: 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7997.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7997.m3u8
 #EXTINF:-1,ES: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8030.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8030.m3u8
 #EXTINF:-1,ES: M. ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8048.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8048.m3u8
 #EXTINF:-1,ES: M. XTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8054.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8054.m3u8
 #EXTINF:-1,ES: M. ACCION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8042.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8042.m3u8
 #EXTINF:-1,ES: M. ACCIÂ©N HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8041.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8041.m3u8
 #EXTINF:-1,ES: M. COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8044.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8044.m3u8
 #EXTINF:-1,ES: M. DCINE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8045.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8045.m3u8
 #EXTINF:-1,ES: M. DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8046.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8046.m3u8
 #EXTINF:-1,ES: M. Cine Espanol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8043.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8043.m3u8
 #EXTINF:-1,ES: HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8033.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8033.m3u8
 #EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8034.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8034.m3u8
 #EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8065.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8065.m3u8
 #EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8069.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8069.m3u8
 #EXTINF:-1,ES: M. SERIESXTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8053.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8053.m3u8
 #EXTINF:-1,ES: FOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8027.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8027.m3u8
 #EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8028.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8028.m3u8
 #EXTINF:-1,ES: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8029.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8029.m3u8
 #EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7998.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7998.m3u8
 #EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7999.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/7999.m3u8
 #EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8000.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8000.m3u8
 #EXTINF:-1,ESP: AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8072.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8072.m3u8
 #EXTINF:-1,ES: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8002.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8002.m3u8
 #EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8064.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8064.m3u8
 #EXTINF:-1,ES: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8008.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8008.m3u8
 #EXTINF:-1,ES: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8014.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8014.m3u8
 #EXTINF:-1,ES: COSMO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8015.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8015.m3u8
 #EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8026.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8026.m3u8
 #EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8023.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8023.m3u8
 #EXTINF:-1,ES: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8024.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8024.m3u8
 #EXTINF:-1,ES: LTC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8071.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8071.m3u8
 #EXTINF:-1,ES: NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8061.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8061.m3u8
 #EXTINF:-1,ES: M. DEP 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8047.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8047.m3u8
 #EXTINF:-1,ES: M. F.TBOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8049.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8049.m3u8
 #EXTINF:-1,ES: M. F.TBOL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8050.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8050.m3u8
 #EXTINF:-1,ES: TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8068.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8068.m3u8
 #EXTINF:-1,ES: BAR.A TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8004.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8004.m3u8
 #EXTINF:-1,ES: BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8005.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8005.m3u8
 #EXTINF:-1,ES: BEIN LALIGA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8006.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8006.m3u8
 #EXTINF:-1,ES: GOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8031.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8031.m3u8
 #EXTINF:-1,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8025.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8025.m3u8
 #EXTINF:-1,ES: Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8594.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8594.m3u8
 #EXTINF:-1,ES: M.FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8055.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8055.m3u8
 #EXTINF:-1,ES: M.FORMULA 1HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8056.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8056.m3u8
 #EXTINF:-1,ES: M. MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8052.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8052.m3u8
 #EXTINF:-1,ES: M.MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8057.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8057.m3u8
 #EXTINF:-1,ES: M. GOLF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8051.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8051.m3u8
 #EXTINF:-1,ES: Movistar Partidazo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/9115.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/9115.m3u8
 #EXTINF:-1,ES: CANAL ODISEA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8011.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8011.m3u8
 #EXTINF:-1,ES: NAT GEOGRAPH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8060.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8060.m3u8
 #EXTINF:-1,ES: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8059.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8059.m3u8
 #EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8019.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8019.m3u8
 #EXTINF:-1,ES: CRIMEN INVES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8016.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8016.m3u8
 #EXTINF:-1,ES: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8032.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8032.m3u8
 #EXTINF:-1,ES: CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8012.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8012.m3u8
 #EXTINF:-1,ES: IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8035.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8035.m3u8
 #EXTINF:-1,ES: VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8070.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8070.m3u8
 #EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8009.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8009.m3u8
 #EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8010.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8010.m3u8
 #EXTINF:-1,ES: MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8058.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8058.m3u8
 #EXTINF:-1,ES: DISNEY CH.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8020.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8020.m3u8
 #EXTINF:-1,ES: DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8021.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8021.m3u8
 #EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8022.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8022.m3u8
 #EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8007.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8007.m3u8
 #EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8003.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://195.154.151.89:8000/live/PROFESSIONAL/PROFESSIONAL1/8003.m3u8
