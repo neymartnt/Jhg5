@@ -1,0 +1,115 @@
+<item>
+
+
+
+<title>[COLOR green]SUPER.JHG.MASTER 4[/COLOR][COLOR red]  SportsDevil-espera 10 sg[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR green][makelist.param1][/COLOR]</title>
+<thumbnail>[makelist.param4]</thumbnail>
+<sportsdevil>[makelist.param2]</sportsdevil>
+<referer>[makelist.param3]</referer>
+]]></listrepeat>
+<expres><![CDATA[canal:"(.*?)" url:"(.*?)" referer:"(.*?)" logo:"(.*?)";]]></expres>
+<page>https://pastebin.com/raw/9JmcwLgT</page>
+</regex>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+canal:"TVE 1 " url:"http://vergol.com/live/tve1.php" referer:"http://vercanalestv.com/tv/nacionales/tve-1.html" logo:"http://vertelevisor.com/logos/tve1.png";
+canal:"TVE 2 " url:"http://telefivegb.com/canales/tdt/tv2/" referer:"http://telefivegb.com/" logo:"http://vertelevisor.com/logos/tve2.png";
+canal:"Antena 3 " url:"http://vergol.com/live1/antena3.php" referer:"http://vertelevisor.com/tv/nacionales/antena-3.html" logo:"http://vertelevisor.com/logos/antena3.png";
+canal:"Cuatro " url:"http://vercanalestv.com/tv/nacionales/cuatro.html" referer="http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/cuatro.png";
+canal:"Tele 5" url:"http://vercanalestv.com/tv/nacionales/telecinco.html" referer:"http://www.vercanalestv.com" logo:"http://vercanalestv.com/logos/telecinco.png";
+canal:"La sexta" url:"http://vercanalestv.com/tv/nacionales/la-sexta.html" referer:"http://www.vercanalestv.com" logo:"http://vercanalestv.com/logos/sexta.png";
+canal:"Teledeporte" url:"http://vercanalestv.com/tv/deportes/teledeporte.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/teledeporte.png";
+canal:"Clan tve" url:"http://cinestrenostv.tv/canales/nacionales/clantv.php" referer:"http://cinestrenostv.tv" logo:"http://latelete.tv/img/clantv.gif";
+canal:"24 Horas" url:"http://vercanalestv.com/tv/nacionales/tve-24h-noticas.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/24h.png";
+canal:"Neox " url:"http://vercanalestv.com/tv/nacionales/neox.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/neox.png";
+canal:"Nova" url:"http://vercanalestv.com/tv/nacionales/nova.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/nova.png";
+canal:"Mega  " url:"http://vercanalestv.com/tv/nacionales/canal-mega.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/mega.png";
+canal:"A3Series  " url:"http://www.vercanalestv.com/tv/nacionales/atreseries.html" referer:"http://www.vercanalestv.com" logo:"http://vercanalestv.com/logos/atreseries.png"
+canal:"FDF  " url:"http://vercanalestv.com/tv/nacionales/fdf.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/fdf.png"
+canal:"Boing  " url:"http://telefivegb.com/canales/animacion/boing" referer:"http://telefivegb.com" logo:"https://lh3.googleusercontent.com/-whp3pu7SCc8/V8tSTU7ML1I/AAAAAAAAAgs/zPP2-eiKg3o1Afkl_WIL81ASF3SoEKUswCEw/w138-h140-p/boing1.png";
+canal:"Divinity  " url:"http://telefivegb.com/canales/series/divinity" referer:"http://telefivegb.com/" logo:"http://vercanalestv.com/logos/divinity.png";
+canal:"Bmad  " url:"http://telefivegb.com/canales/tdt/bemad/" referer:"http://telefivegb.com/" logo:"https://lh3.googleusercontent.com/-GKniqmhXGFM/V8n3sdagEgI/AAAAAAAAAc4/unOieG2MKoEXtCNF-BjGo3giPZKbpktXwCEw/h120/bemad.png";
+canal:"Paramount Channel  " url:"http://www.vercanalestv.com/tv/nacionales/paramount-channel.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/paramount-channel.jpg";
+canal:"Dmax  " url:"http://vercanalestv.com/tv/documentales/discovery-max.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/Discovery_Max.png";
+canal:"Dkiss  " url:"http://vercanalestv.com/tv/nacionales/dkiss.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/dkiss-canal-logo.jpg";
+canal:"Ten  " url:"http://vercanalestv.com/tv/nacionales/ten.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/ten.png";
+canal:"13 tv " url:"http://verplusonline.com/ver-canal-13-tv-online-gratis-en-vivo-por-internet-gratis/" referer:"http://verplusonline.com/" logo:"http://verplusonline.com/wp-content/uploads/2016/10/TV13.png";
+canal:"Disney Channel  " url:"http://telefivegb.com/canales/animacion/disneychannel" referer:"http://telefivegb.com/" logo:"https://lh3.googleusercontent.com/-YILqKHLvgw0/V8tSUMWsI7I/AAAAAAAAAgs/ZsvrWuhhCkcWZdgoRs_ELPfC226P6NLhACEw/h120/disneychannel.png";
+canal:"Tele Madrid  " url:"http://cinestrenostv.tv/canales/autonomicos/telemadrid.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/telemadrid.png";
+canal:"TV3  " url:"http://cinestrenostv.tv/canales/autonomicos/tv3.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/tv3.png";
+canal:"Canal Sur  " url:"http://vercanalestv.com/tv/autonomicas/canal-sur.html" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/andaluciatv.png";
+canal:"Galicia TV  " url:"http://cinestrenostv.tv/canales/autonomicos/galiciatv.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/galiciatv.png";
+canal:"Television Canaria  " url:"http://cinestrenostv.tv/canales/autonomicos/tvcanaria.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/tvcanaria.png";
+canal:"Levante TV  " url:"http://cinestrenostv.tv/canales/autonomicos/levantetv.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/levantetv.png";
+canal:"Marbella  " url:"http://cinestrenostv.tv/canales/autonomicos/marbella.php" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/marbellatv.png";
+canal:"Castilla Leon  " url:"http://cinestrenostv.tv/canales/autonomicos/castillayleon.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/cyl.png";
+canal:"Movistar 0#  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-1.html" referer:"http://vercanalestv.com/" logo:"http://cinestrenostv.tv/img/plus0.png";
+canal:"M+ Estrenos  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/movistar-estrenos.png";
+canal:"M+ Accion  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-accion.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/movistar-accion.png";
+canal:"M+ DCine  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-dcine.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/movistar-dcine.png";
+canal:"M+ Comedia  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-comedia.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/movistar-comedia.png";
+canal:"M+ Dciñe  " url:"http://cinestrenostv.tv/canales/nacionales/plus-dcine-espa%C3%B1ol.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/dcinen.png";
+canal:"M+ Series  " url:"http://vercanalestv.com/tv/nacionales/canal-plus-series.html" referer:"http://cinestrenostv.tv/" logo:"http://vercanalestv.com/logos/m-series.png";
+canal:"M+ Series Xtra  " url:"http://telefivegb.com/canales/series/m_series_xtra" referer:"http://telefivegb.com/" logo:"https://lh3.googleusercontent.com/-SCg_FY3RFdA/V8n3xXZOYEI/AAAAAAAAAc4/HEXBsLxmvXcTeaZB7Wb43kAkTUyA1GJvwCEw/h120/movistar-series-xtra.png";
+canal:"Fox  " url:"http://vercanalestv.com/tv/nacionales/fox.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/fox.png";
+canal:"Fox Lite " url:"http://vercanalestv.com/tv/nacionales/fox-life.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/foxlife.png";
+canal:"Amc Esp  " url:"http://vercanalestv.com/tv/nacionales/amc.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/amc.png";
+canal:"Tnt  " url:"http://vercanalestv.com/tv/nacionales/tnt.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/tnt.png";
+canal:"AxN  " url:"http://vercanalestv.com/tv/nacionales/axn.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/axn.png";
+canal:"AxN White  " url:"http://cinestrenostv.tv/canales/nacionales/axnwhite.php" referer:"http://cinestrenostv.tv" logo:"http://vercanalestv.com/logos/axnwhite.png";
+canal:"Calle 13  " url:"http://vercanalestv.com/tv/nacionales/calle-13.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/calle-13.jpg";
+canal:"syfy  " url:"http://vercanalestv.com/tv/nacionales/syfy.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/syfy.png";
+canal:"Dark  " url:"http://vercanalestv.com/tv/nacionales/canal-dark.html" referer:"http://vercanalestv.com/ logo:"http://vercanalestv.com/logos/logo-dark.jpg";
+canal:"Paramount Channel  " url:"http://www.vercanalestv.com/tv/nacionales/paramount-channel.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/paramount-channel.jpg";
+canal:"Hollywood  " url:"http://vercanalestv.com/tv/nacionales/canal-hollywood.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/canal-hollywood.jpg";
+canal:"Comedy Central  " url:"http://www.vercanalestv.com/tv/nacionales/paramount-comedy.html" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/comedycentral.png";
+canal:"Discovery Channel  " url:"http://vercanalestv.com/tv/documentales/discovery-channel.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/discovery-channel.jpg";
+canal:"CI  " url:"http://vercanalestv.com/tv/documentales/crimen-investigacion.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/ci.png";
+canal:"Caza y Pesca  " url:"http://vercanalestv.com/tv/documentales/caza-y-pesca.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/cazapesca.png";
+canal:"National Geographic  " url:"http://vercanalestv.com/tv/documentales/national-geographic.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/national.png";
+canal:"National Geo Wild  " url:"http://vercanalestv.com/tv/documentales/nat-geo-wild.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/natgeo.png";
+canal:"Historia  " url:"http://vercanalestv.com/tv/documentales/canal-historia.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/Historia.jpg";
+canal:"Odisea " url:"http://vercanalestv.com/tv/documentales/odisea.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/odisea.png";
+canal:"Cocina  " url:"http://vercanalestv.com/tv/nacionales/canal-cocina.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/logo-cocina.jpg";
+canal:"Animal Planet  " url:"http://cinestrenostv.tv/canales/documentales/animalplanet.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/animalplanet.png";
+canal:"Viajar  " url:"http://vercanalestv.com/tv/documentales/viajar.html" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/viajar.png";
+canal:"[La liga123" url:"http://www.vertelevisor.com/ver-canal-laliga-123-tv-online-partidos-de-seguda-division/" referer="http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/laliga123.jpg";
+canal:"M+ Partidazo  " url:"http://vertelevisor.com/tv/deportes/canal-plus-partidazo.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/m-partidazo.png";
+canal:"M+ Partidazo op2  " url:"http://vercanalestv.com/tv/deportes/canal-plus-partidazo.html" referer:"" logo:"http://vercanalestv.com/logos/m-partidazo.png";
+canal:" M+ Futbol  " url:"http://vertelevisor.com/tv/deportes/canal-plus-futbol.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/m-futbol.png";
+canal:" Bein Sport   " url:"http://vertelevisor.com/tv/deportes/beinliga.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/bein-sports.png";
+canal:" Bein Sport la liga  " url:"http://vercanalestv.com/tv/deportes/bein-sports-liga.html" referer:"http://vercanalestv.com/" logo:"http://vercanalestv.com/logos/bein-laliga.jpg";
+canal:" La liga tv  " url:"http://vertelevisor.com/tv/deportes/laligatv.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/laligatv.jpg";
+canal:" Gol tv  " url:"http://vertelevisor.com/tv/deportes/goltv.html" referer:"http://vertelevisor.com/" logo:"http://cinestrenostv.tv/img/gol.png";
+canal:"La liga123" url:"http://www.vertelevisor.com/ver-canal-laliga-123-tv-online-partidos-de-seguda-division/" referer="http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/laliga123.jpg";
+canal:" La liga 123 Multi 1 | Solo eventos " url:"http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html" referer:"http://cinestrenostv.tv/" logo:"http://vfes-images.ott.kaltura.com/c359d7ccfbb647d4892ae9334e815224_302X170.png";
+canal:" La liga 123 Multi 2 | Solo eventos  " url:"http://cinestrenostv.tv/canales/deportes/multiliga2/canal2.html" referer:"http://cinestrenostv.tv/" logo:"http://vfes-images.ott.kaltura.com/80778b15129e4c66b92fd8ce44f017f0_302X170.png";
+canal:" La liga 123 Multi 3 | Solo eventos  " url:"http://cinestrenostv.tv/canales/deportes/multiliga2/canal3.html" referer:"http://cinestrenostv.tv/" logo:"http://vfes-images.ott.kaltura.com/a0ee57ec28204266a95861786fc13522_302X170.png";
+canal:" La liga 123 Multi 4 | Solo eventos  " url:"http://cinestrenostv.tv/canales/deportes/multiliga2/canal4.html" referer:"http://cinestrenostv.tv/" logo:"http://vfes-images.ott.kaltura.com/f89e7d7b05284e8e826e85a75d9783e0_302X170.png";
+canal:" Eurosport  " url:"http://cinestrenostv.tv/canales/deportes/eurosports.php" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/eurosport.png";
+canal:" Eurosport 2  " url:"http://cinestrenostv.tv/canales/deportes/eurosports2.php" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/eurosport2.png";
+canal:" Real Madrid tv" url:"http://cinestrenostv.tv/canales/deportes/realmadridtv.php" referer:"http://cinestrenostv.tv" logo:"http://cinestrenostv.tv/img/realmadrid.png";
+canal:" Barca tv" url:"http://vertelevisor.com/tv/deportes/barca-tv.html" referer:"http://vertelevisor.com/" logo:"http://cinestrenostv.tv/img/barcatv.png";
+canal:" M+ Deportes 1" url:"http://www.vertelevisor.com/ver-canal-plus-deportes-en-directo-gratis-por-internet/" referer:"http://www.vertelevisor.com/" logo:"http://cinestrenostv.tv/img/deportes.png";
+canal:" M+ Deportes 2" url:"http://vertelevisor.com/tv/deportes/canal-plus-deportes-2.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/m-deportes-2.png";
+canal:" F1" url:"http://www.vercanalestv.com/ver-formula-1-en-directo-y-online-gratis/" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/f1.jpeg";
+canal:" Moto GP" url:"http://www.vercanalestv.com/ver-motogp-en-directo-y-online-24h-gratis/" referer:"http://www.vercanalestv.com/" logo:"http://vercanalestv.com/logos/motosgp.png";
+canal:" FOX spots" url:"http://cinestrenostv.tv/canales/deportes/foxsports.php" referer:"http://cinestrenostv.tv/" logo:"http://cinestrenostv.tv/img/foxsports2.png";
+canal:" Sport tv 1" url:"http://vertelevisor.com/tv/portugal/sportv-1.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/Sport-TV1-HD.png";
+canal:" Bein Sport France 1" url:"http://vertelevisor.com/tv/francia/bein-sport-1.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/bein1fr.png";
+canal:" Bein Sport France 2" url:"http://vertelevisor.com/tv/francia/bein-sport-2.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/bein2fr.png";
+canal:" Bein Sport France 3" url:"http://vertelevisor.com/tv/francia/bein-sport-3.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/bein3fr.png";
+canal:" Bein Sport Latino" url:"http://vertelevisor.com/tv/deportes/bein-sport-latino.html" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/beinlatino.png";
+canal:" Box Nation" url:"http://vercanalestv.com/tv/reino-unido/box-nation.html" referer:"http://vertelevisor.com/" logo:"http://vercanalestv.com/logos/boxnation-logo.png"
