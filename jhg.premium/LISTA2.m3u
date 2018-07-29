@@ -2,94 +2,119 @@
 
 
 
-#EXTINF:-1,-----------MOVISTAR JHG FHD -----LISTA 1---------
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/6768..m3u8
-#EXTINF:-1,ES: BEIN SPORT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/6000..m3u8
-#EXTINF:-1,ES: BEIN LA LIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/5999..m3u8
-#EXTINF:-1,ES: EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/755..m3u8
-#EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/6001..m3u8
-#EXTINF:-1,ES: MOVISTAR F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/494..m3u8
-#EXTINF:-1,ES: MOVISTAR FUTBOL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/5997..m3u8
-#EXTINF:-1,ES: MOVISTAR+ DEPORTES 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/288..m3u8
-#EXTINF:-1,ES: MOVISTAR+ DEPORTES 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/289..m3u8
-#EXTINF:-1,ES:MOVISTAR GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/688..m3u8
-#EXTINF:-1,ES: MOVISTAR+ MOTO GP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/513..m3u8
-#EXTINF:-1,ES: MOVISTAR TOROS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/812..m3u8
-#EXTINF:-1,ES: CAZA Y PESCA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/819..m3u8
-#EXTINF:-1,ES: LA LIGA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/5998..m3u8
-#EXTINF:-1,ES: LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/341..m3u8
-#EXTINF:-1,ES: ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/219..m3u8
-#EXTINF:-1,ES: CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/221..m3u8
-#EXTINF:-1,ES: TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/314..m3u8
-#EXTINF:-1,ES: #0 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/325..m3u8
-#EXTINF:-1,ES: MOVISTAR+ ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1527..m3u8
-#EXTINF:-1,ES: MOVISTAR+  COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1526..m3u8
-#EXTINF:-1,ES: MOVISTAR+ DCINE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1525..m3u8
-#EXTINF:-1,ES: MOVISTAR+ ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1523..m3u8
-#EXTINF:-1,ES: MOVISTAR + SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1524..m3u8
-#EXTINF:-1,ES: MOVISTAR+ SERIES XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1528..m3u8
-#EXTINF:-1,ES: MOVISTAR XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1600..m3u8
-#EXTINF:-1,ES: CALLE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/324..m3u8
-#EXTINF:-1,ES: FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/327..m3u8
-#EXTINF:-1,ES: FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/984..m3u8
-#EXTINF:-1,ES: AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/419..m3u8
-#EXTINF:-1,ES: AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/261..m3u8
-#EXTINF:-1,ES: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1541..m3u8
-#EXTINF:-1,ES: TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1380..m3u8
-#EXTINF:-1,ES: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1529..m3u8
-#EXTINF:-1,ES: AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/575..m3u8
-#EXTINF:-1,ES: TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/996..m3u8
-#EXTINF:-1,ES: COSMO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/272..m3u8
-#EXTINF:-1,ES: VIAJAR FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/117..m3u8
-#EXTINF:-1,ES: DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/609..m3u8
-#EXTINF:-1,ES: HISTORIA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/564..m3u8
-#EXTINF:-1,ES: NAT GEO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/510..m3u8
-#EXTINF:-1,ES: NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/1545..m3u8
-#EXTINF:-1,ES: DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/308..m3u8
-#EXTINF:-1,ES: NICKELODEON FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/lescobar/lescobar/470..m3u8
+#EXTINF:-1,-------------- | SPAIN | LISTA 1--------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11042.ts
+#EXTINF:-1,SP | Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17192.ts
+#EXTINF:-1,SP | Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17191.ts
+#EXTINF:-1,SP | Antena Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17190.ts
+#EXTINF:-1,SP | AXN Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17189.ts
+#EXTINF:-1,SP | AXN White Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17188.ts
+#EXTINF:-1,SP | C  ACCIÓN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17187.ts
+#EXTINF:-1,SP | C  COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17186.ts
+#EXTINF:-1,SP | C  DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17185.ts
+#EXTINF:-1,SP | Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17184.ts
+#EXTINF:-1,SP | Canal  Fútbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17183.ts
+#EXTINF:-1,SP | Canal  Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17182.ts
+#EXTINF:-1,SP | Canal  Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17181.ts
+#EXTINF:-1,SP | Canal  Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17180.ts
+#EXTINF:-1,SP | Canal 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17179.ts
+#EXTINF:-1,SP | Canal Decasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17178.ts
+#EXTINF:-1,SP | Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17177.ts
+#EXTINF:-1,SP | Disney Junior Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17176.ts
+#EXTINF:-1,SP | Factoria de Ficcion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17175.ts
+#EXTINF:-1,SP | Fox Life Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17174.ts
+#EXTINF:-1,SP | Fox Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17173.ts
+#EXTINF:-1,SP | Garage TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17172.ts
+#EXTINF:-1,SP | La 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17171.ts
+#EXTINF:-1,SP | La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17170.ts
+#EXTINF:-1,SP | La Sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17169.ts
+#EXTINF:-1,SP | MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17168.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17167.ts
+#EXTINF:-1,SP | NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17166.ts
+#EXTINF:-1,SP | National Geographic Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17165.ts
+#EXTINF:-1,SP | Odisea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17164.ts
+#EXTINF:-1,SP | Sol Música
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17163.ts
+#EXTINF:-1,SP | SyFy Universal Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17162.ts
+#EXTINF:-1,SP | Telecinco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17161.ts
+#EXTINF:-1,SP | TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17160.ts
+#EXTINF:-1,SP | TVE Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/17159.ts
+#EXTINF:-1,SP | Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11034.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11025.ts
+#EXTINF:-1,SP | CANAL  COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11027.ts
+#EXTINF:-1,SP | CANAL  DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11031.ts
+#EXTINF:-1,SP | CANAL  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11023.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11028.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11037.ts
+#EXTINF:-1,SP | CANAL SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11038.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11029.ts
+#EXTINF:-1,SP | CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11036.ts
+#EXTINF:-1,SP | DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11040.ts
+#EXTINF:-1,SP | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11041.ts
+#EXTINF:-1,SP | ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11035.ts
+#EXTINF:-1,SP | MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11033.ts
+#EXTINF:-1,SP | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11022.ts
+#EXTINF:-1,SP | NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11026.ts
+#EXTINF:-1,SP | Taquilla1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11030.ts
+#EXTINF:-1,SP | Taquilla2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11032.ts
+#EXTINF:-1,SP | Taquilla3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11039.ts
+#EXTINF:-1,SP | Taquilla4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11021.ts
+#EXTINF:-1,SP | TVE LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://vismanx1.com:8080/live/kemal01/01kemal/11024.ts
+
 
 
 #EXTINF:-1,------- SUPER JHG PREMIUM -----lista 2----
