@@ -3,1451 +3,821 @@
 
 #EXTINF:-1,ACTUALIZADO  DIA-29/07/2018
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://
-#EXTINF:-1,MOVISTAR ANTENA 3 HD
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
- 
-#EXTINF:-1,MOVISTAR ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
- 
-#EXTINF:-1,MOVISTAR AXN WHITE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
- 
 
-#EXTINF:-1,MOVISTAR Comedia
-http://185.231.160.49/613/1/index.m3u8
- 
-#EXTINF:-1,MOVISTAR COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
- 
-#EXTINF:-1,MOVISTAR DCINE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
- 
- 
-#EXTINF:-1,MOVISTAR FOX
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
- 
-#EXTINF:-1,MOVISTAR FUTBOL
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
- 
-#EXTINF:-1,MOVISTAR GP
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
- 
-#EXTINF:-1,MOVISTAR LA LIGA TV
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
- 
-#EXTINF:-1,MOVISTAR LA LIGA TV
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
- 
-#EXTINF:-1,MOVISTAR MOTO GP
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
- 
-#EXTINF:-1,MOVISTAR Series Xtra
-http://185.231.160.49/600/1/index.m3u8
- 
-#EXTINF:-1,MOVISTAR TELECINCO HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
- 
-#EXTINF:-1,MOVISTAR TODO DEPORTES
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
- 
-#EXTINF:-1,MOVISTAR TRAVEL HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
 
- 
-#EXTINF:-1,BEIN LA LIGA
-http://185.231.160.49/607/1/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
- 
-#EXTINF:-1,BEIN SPORTS
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
 
-
-#EXTINF:-1,MOVISTAR ANTENA 3 HD
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
- 
-#EXTINF:-1,MOVISTAR ANTENA 3 HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
- 
-#EXTINF:-1,MOVISTAR AXN WHITE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
- 
-
- 
-#EXTINF:-1,MOVISTAR Comedia
-http://185.231.160.49/613/1/index.m3u8
- 
-#EXTINF:-1,MOVISTAR COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
- 
-#EXTINF:-1,MOVISTAR DCINE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
- 
- 
-#EXTINF:-1,MOVISTAR FOX
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
- 
-#EXTINF:-1,MOVISTAR FUTBOL
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
- 
-#EXTINF:-1,MOVISTAR GP
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
- 
-#EXTINF:-1,MOVISTAR LA LIGA TV
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
- 
-#EXTINF:-1,MOVISTAR LA LIGA TV
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
- 
-#EXTINF:-1,MOVISTAR MOTO GP
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
- 
-#EXTINF:-1,MOVISTAR Series Xtra
-http://185.231.160.49/600/1/index.m3u8
- 
-#EXTINF:-1,MOVISTAR TELECINCO HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
- 
-#EXTINF:-1,MOVISTAR TODO DEPORTES
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
- 
-#EXTINF:-1,MOVISTAR TRAVEL HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://185.231.160.49/607/1/index.m3u8
- 
-#EXTINF:-1,BEIN LA LIGA
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
- 
-#EXTINF:-1,BEIN SPORTS
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
-
-
-
-#EXTINF:-1,FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Wscv Live
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-
-#EXTINF:-1,Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-
-#EXTINF:-1,AXN
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-#EXTINF:-1,AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-#EXTINF:-1,AMC HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1,FOX LIFE hd
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
-
-#EXTINF:-1,MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
-#EXTINF:-1,MOVISTAR DCINE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-
-#EXTINF:-1, M+ Series Xtra HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1, M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1, M+ Comedia
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1, M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1, M+ Xtra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-
-#EXTINF:-1,Hollywood HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1, FilmBox Premium
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/552/index.m3u8
-
-#EXTINF:-1,FilmBox
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/948/index.m3u8
-#EXTINF:-1, FilmBox Action
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
-#EXTINF:-1,CBS reality
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
-
-
-
-#EXTINF:-1,FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Wscv Live
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-
-#EXTINF:-1,Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1,FOX
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
-#EXTINF:-1,AXN
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-#EXTINF:-1,AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-#EXTINF:-1,AMC HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1,FOX LIFE hd
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
-
-#EXTINF:-1,MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
-#EXTINF:-1,MOVISTAR DCINE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-
-#EXTINF:-1, M+ Series Xtra HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1, M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1, M+ Comedia
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1, M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1, M+ Xtra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-
-#EXTINF:-1, FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1,Hollywood HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-
-#EXTINF:-1, FilmBox Arthouse
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8
-
-#EXTINF:-1,CBS reality
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
-#EXTINF:-1, CBS Action
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/405/index.m3u8
-
-
-#EXTINF:-1,FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Wscv Live
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-
-#EXTINF:-1,Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-
-#EXTINF:-1,AXN
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-#EXTINF:-1,AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-
-#EXTINF:-1,AMC HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
-#EXTINF:-1,FOX LIFE hd
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
-
-#EXTINF:-1,MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
-#EXTINF:-1,MOVISTAR DCINE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
-
-#EXTINF:-1, M+ Series Xtra HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1, M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1, M+ Comedia
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1, M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1, M+ Xtra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-
-#EXTINF:-1, FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1,Hollywood HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-
-#EXTINF:-1, FilmBox Arthouse
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8
-
-
-
-#EXTINF:-1,FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Wscv Live
-http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-
-#EXTINF:-1,Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1,NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1,FOX
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
-#EXTINF:-1,AXN
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-#EXTINF:-1,AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-
-#EXTINF:-1,FOX LIFE hd
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
-
-#EXTINF:-1,MOVISTAR ACCION
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
-
-
-#EXTINF:-1, M+ Series Xtra HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-#EXTINF:-1, M+ Accion HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
-#EXTINF:-1, M+ Comedia
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
-#EXTINF:-1, M+ DCine
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
-#EXTINF:-1, M+ Xtra
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
-
-#EXTINF:-1, FOX Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-#EXTINF:-1,Cosmo Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
-#EXTINF:-1,Hollywood HD
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
-#EXTINF:-1,AXN White Spain
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
-#EXTINF:-1, FilmBox Premium
-#EXTINF:-1,CANAL SUR ANDALUCIA
-http://95.122.50.234:4022//udp/239.0.0.1:8208
-#EXTINF:-1,La 1 HD
-http://95.122.50.234:4022//udp/239.0.0.185:8208
-#EXTINF:-1,La 1
-http://95.122.50.234:4022//udp/239.0.0.76:8208
-#EXTINF:-1,La 2
-http://95.122.50.234:4022//udp/239.0.0.2:8208
-
-#EXTINF:-1,Cuatro HD
-http://95.122.50.234:4022//udp/239.0.0.177:8208
-#EXTINF:-1,Cuatro
-http://95.122.50.234:4022//udp/239.0.0.4:8208
-#EXTINF:-1,Tele 5 HD
-http://95.122.50.234:4022//udp/239.0.0.176:8208
-#EXTINF:-1,Tele 5
-http://95.122.50.234:4022//udp/239.0.0.5:8208
-
-#EXTINF:-1,D KISS
-http://95.122.50.234:4022//udp/239.0.0.6:8208
-#EXTINF:-1,GOL TV
-http://95.122.50.234:4022//udp/239.0.0.7:8208
-
-#EXTINF:-1,Calle 13 HD
-http://95.122.50.234:4022//udp/239.0.5.74:8208
-#EXTINF:-1,CALLE 13
-http://95.122.50.234:4022//udp/239.0.0.13:8208
-#EXTINF:-1,AXN HD
-http://95.122.50.234:4022//udp/239.0.9.131:8208
-#EXTINF:-1,AXN
-http://95.122.50.234:4022//udp/239.0.0.14:8208
-#EXTINF:-1,Cosmopolitan HD
-http://95.122.50.234:4022//udp/239.0.5.71:8208
-
-#EXTINF:-1,HOLLYWOOD
-http://95.122.50.234:4022//udp/239.0.0.16:8208
-#EXTINF:-1,BE MAD NATURE
-http://95.122.50.234:4022//udp/239.0.0.17:8208
-#EXTINF:-1,D MAX
-http://95.122.50.234:4022//udp/239.0.0.32:8208
-
-#EXTINF:-1,FOX LIFE
-http://95.122.50.234:4022//udp/239.0.0.43:8208
-
-#EXTINF:-1,TNT HD
-http://95.122.50.234:4022//udp/239.0.5.87:8208
-#EXTINF:-1,TNT
-
-http://95.122.50.234:4022//udp/239.0.0.48:8208
-
-#EXTINF:-1,LATIEN DAEN CASA LDC
-http://95.122.50.234:4022//udp/239.0.0.98:8208
-#EXTINF:-1,GARAGE TV
-http://95.122.50.234:4022//udp/239.0.0.99:8208
-#EXTINF:-1,NOVA
-http://95.122.50.234:4022//udp/239.0.0.106:8208
-
-
-
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://tvpremiumhd.club/lista-gratuita/london/lp201.ts
-
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://tvpremiumhd.club/lista-gratuita/london/s215.ts
-
-#EXTINF:-1,ESPAÑA 13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-
-#EXTINF:-1,ESPAÑA 8TV CATALUÑA
-http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
-
-#EXTINF:-1,ESPAÑA A3SERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-
-#EXTINF:-1,ESPAÑA A3SERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8?www.tecnotv.info
-
-#EXTINF:-1,ESPAÑA ANDALUCIA TURISMO
-http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
-
-#EXTINF:-1,ESPAÑA ANDORRA TV
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-
-#EXTINF:-1,ESPAÑA ANTENA 3
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
-
-#EXTINF:-1,ESPAÑA ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-
-#EXTINF:-1,ESPAÑA ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-p.m3u8
-
-#EXTINF:-1,ESPAÑA ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-
-#EXTINF:-1,ESPAÑA ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,ESPAÑA ARAGON TV
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-
-#EXTINF:-1,ESPAÑA BETEVE
-http://api-cdn.overon.es/SmilLive/getLiveIOS/playlist.m3u8?stream=btv_stream01
-
-#EXTINF:-1,ESPAÑA BOING
-http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,ESPAÑA CANAL 13
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
-
-#EXTINF:-1,ESPAÑA CANAL 25
-http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
-
-#EXTINF:-1,ESPAÑA CANAL CATALAN 324
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
-
-#EXTINF:-1,ESPAÑA CANAL COSTA TV
-http://stream.canalcostatv.es:1935/live/IKbtqOuj/playlist.m3u8
-
-#EXTINF:-1,ESPAÑA CANAL EXTREMADURA
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
-
-#EXTINF:-1,ESPAÑA CANAL SUR FLAMENCO
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
-
-#EXTINF:-1,ESPAÑA CASTILLA LA MANCHA
-http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8
-
-#EXTINF:-1,ESPAÑA CUATRO
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
-
-#EXTINF:-1,ESPAÑA DIVINITY
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-
-#EXTINF:-1,ESPAÑA ESPERANZA TV
-http://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
-
-#EXTINF:-1,ESPAÑA EXTREMADURA
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-
-#EXTINF:-1,ESPAÑA IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
-
-
-#EXTINF:-1,ESPAÑA LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?www.tecnotv.info
-
-#EXTINF:-1,ESPAÑA LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-#EXTINF:-1,ESPAÑA LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?
-
-#EXTINF:-1,ESPAÑA LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?tecnotv.info?iptv.m3u8
-
-#EXTINF:-1,ESPAÑA LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,ESPAÑA LA SEXTA HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1,ESPAÑA LA XARXA
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
-
-#EXTINF:-1,ESPAÑA LANCELOT TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1,ESPAÑA LANCELOT TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
-#EXTINF:-1,ESPAÑA LEBRIJA
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-
-#EXTINF:-1,ESPAÑA LEVANTE
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
-
-#EXTINF:-1,ESPAÑA LEVANTE
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-
-#EXTINF:-1,ESPAÑA MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
-
-#EXTINF:-1,ESPAÑA MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8
-
-#EXTINF:-1,ESPAÑA MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
-
-#EXTINF:-1,ESPAÑA MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,ESPAÑA MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
-
-#EXTINF:-1,ESPAÑA MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-
-#EXTINF:-1,ESPAÑA MELILLA
-http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8
-
-
-
-
-#EXTINF:-1,ESPAÑA NAVARRA
-http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
-
-
-#EXTINF:-1,ESPAÑA NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-
-#EXTINF:-1,ESPAÑA NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8?www.tecnotv.info
-
-#EXTINF:-1,ESPAÑA NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,ESPAÑA NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,ESPAÑA NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-
-#EXTINF:-1,ESPAÑA NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-
-#EXTINF:-1,ESPAÑA NOVA HD
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-
-#EXTINF:-1,ESPAÑA NOVA HD
-http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_1_av-b.m3u8
-
-#EXTINF:-1,ESPAÑA ONDA CADIZ
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-
-#EXTINF:-1,ESPAÑA REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
-
-
-
-#EXTINF:-1,ESPAÑA REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-
-#EXTINF:-1,ESPAÑA RTV CEUTA
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-
-
-#EXTINF:-1,ESPAÑA TELEVISION ASTURIANA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-
-#EXTINF:-1,ESPAÑA TV CATALANA
-http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
-
-#EXTINF:-1,ESPAÑA TVE 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-
-
-
-
-#EXTINF:-1,MOVISTAR ACCION HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR ANTENA 3
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1,MOVISTAR ANTENA 3HD
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?www.tecnotv.info?sd=10&amp;rebase=on
-
-#EXTINF:-1,MOVISTAR ATRESERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR AXN
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
-
-#EXTINF:-1,MOVISTAR AXN HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
-
-#EXTINF:-1,MOVISTAR AXN WHITE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR BEIN SPORT 2
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
-
-
-#EXTINF:-1,MOVISTAR COMEDIA
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
-
-
-#EXTINF:-1,MOVISTAR COMEDIA HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
-
-
-
-
-#EXTINF:-1,MOVISTAR CUATRO
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
-
-#EXTINF:-1,MOVISTAR CUATRO HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8
-
-#EXTINF:-1,MOVISTAR CUATRO HD
-http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
-
-
-
-
-#EXTINF:-1,MOVISTAR DIVINITY
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
-
-#EXTINF:-1,MOVISTAR DIVINITY
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-
-#EXTINF:-1,MOVISTAR DW
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR DW INTERNACIONAL
-http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8?
-
-#EXTINF:-1,MOVISTAR ESPANA
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR ESTRENOS
-http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9808.ts
-
-#EXTINF:-1,MOVISTAR ESTRENOS
-http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9809.ts
-
-
-
-#EXTINF:-1,MOVISTAR EUROSPORT 2
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
-
-#EXTINF:-1,MOVISTAR EXTRA
-http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9789.ts
-
-
-
-#EXTINF:-1,MOVISTAR EXTREME SPORT
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/47/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR FDF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/PORTUGAL.png",PORTUGAL
+http://fui.me
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://62.28.213.14:9981/stream/channelid/1439506767?ticket=47159E103E3491785E30DE6CCA2C30D78AB62198&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" group-title="PORTUGAL",RTP 1 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sunatv.co:80/live/tarik/123456/2659.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" group-title="PORTUGAL",RTP 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://62.28.213.14:9981/stream/channelid/1580833545?ticket=36678AD4429E9E881C23368C21289DF446A43F18&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI (Copyright © 2018 by SUPER.JHG.MASTER)
+http://62.28.213.14:9981/stream/channelid/1402355728?ticket=C452DCE93575B9231492720EFF86BB9084915952&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",RTP 3 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://62.28.213.14:9981/stream/channelid/1434611461?ticket=96DBF67F95154FA068B1651B8DE68C499C8C7513&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" group-title="PORTUGAL",TVI24 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" group-title="PORTUGAL",CM TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://p05.quest123.top:8088/live/cmtvtvdesporto/playlist.m3u8?id=98747&pk=ea6596833839e507426ed544d3a7802f9f4bcedc2cf0a5526b730a9525846702
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" group-title="PORTUGAL",PORTO CANAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://213.13.26.11:1935/live/portocanal/SUPER.JHG.MASTER.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" group-title="PORTUGAL",SIC RADICAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3956.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" group-title="PORTUGAL",SPORT TV 1 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g5/SportTV1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g7/Sport2PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g7/Sport2PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/MzI1NDVlYTg5NGQ3YzcxZTRkYjJhZDhiMzUxYmIzNGM=/g7/Sport2PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/123/g3/SportTV3.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g3/SportTV3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" group-title="PORTUGAL",SPORT TV 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g4/Sport4PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/123/g9/SportTV5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" group-title="PORTUGAL",SPORT TV 5 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/MzI1NDVlYTg5NGQ3YzcxZTRkYjJhZDhiMzUxYmIzNGM=/g9/SportTV5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://212.8.248.197:8080/live/Majda/Majda/900.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/3944.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sunatv.co:80/live/tarik/123456/2595.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" group-title="PORTUGAL",BENFICA TV HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7039.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="PORTUGAL",EUROSPORT 1 HD PT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://tv.server.xdns.pro:80/live/C2OdTALgoM/6dEw3tJHij/3234.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="PORTUGAL",PFC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4616.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="PORTUGAL",A BOLA TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://212.8.248.197:8080/live/Majda/Majda/910.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" group-title="PORTUGAL",SUPER RTL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/Super_RTL_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="PORTUGAL",VH1 EUROPE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL",DJING CLASSIC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL",DJING HITS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://djing.com/tv/04.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="PORTUGAL",DJING IBIZA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://djing.com/tv/ibiza.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FTV.png" group-title="PORTUGAL",FTV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png" group-title="PORTUGAL",CNN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://217.20.130.63:8888/stream/channelid/1177131141
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" group-title="PORTUGAL",SKY NEWS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1647002771
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="PORTUGAL",CNBC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://217.20.130.63:8888/stream/channelid/1292413580
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" group-title="PORTUGAL",CBSN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="PORTUGAL",RAI NEWS 24 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" group-title="PORTUGAL",TVE 24H (Copyright © 2018 by SUPER.JHG.MASTER)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="PORTUGAL",DW (ENGLISH) (Copyright © 2018 by SUPER.JHG.MASTER)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RUSSIATODAY.png" group-title="PORTUGAL",RUSSIA TODAY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://secure-streams.akamaized.net/rt-uk/index800.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDNEWS.png" group-title="PORTUGAL",RECORD NEWS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w849814207.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png" group-title="PORTUGAL",RTP MADEIRA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://212.8.248.197:8080/live/Majda/Majda/891.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="PORTUGAL",RTP ACORES (Copyright © 2018 by SUPER.JHG.MASTER)
+http://212.8.248.197:8080/live/Majda/Majda/893.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPINT.png" group-title="PORTUGAL",RTP INTERNACIONAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL",CANCAO NOVA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FATIMATV.png" group-title="PORTUGAL",FATIMA TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL",AR TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL",RTP AFRICA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sunatv.co:80/live/tarik/123456/2645.m3u8
+#EXTINF:-1 tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL",TCV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://213.13.26.11:1935/live/rtc_teste/SUPER.JHG.MASTER.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="PORTUGAL",TV GALICIA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSTV.png" group-title="PORTUGAL",KURIAKOS TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://195.22.11.11:1935/ktv/ktv1/SUPER.JHG.MASTER.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSKIDS.png" group-title="PORTUGAL",KURIAKOS KIDS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://c2.manasat.com:1935/kkids/kkids3/SUPER.JHG.MASTER.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSMUSIC.png" group-title="PORTUGAL",KURIAKOS MUSIC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://c2.manasat.com:1935/kmusic/kmusic3/SUPER.JHG.MASTER.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KURIAKOSCINE.png" group-title="PORTUGAL",KURIAKOS CINE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://c2.manasat.com:1935/kcine/kcine3/SUPER.JHG.MASTER.m3u8
+#REF!
+#REF!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAVISION.png" group-title="PORTUGAL",CACAVISION (Copyright © 2018 by SUPER.JHG.MASTER)
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTNET.png" group-title="PORTUGAL",FIGHT NETWORK (Copyright © 2018 by SUPER.JHG.MASTER)
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="PORTUGAL",REAL MADRID TV HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" group-title="PORTUGAL",MUTV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0f0/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" group-title="PORTUGAL",REDE TV! (Copyright © 2018 by SUPER.JHG.MASTER)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BAND.png" group-title="PORTUGAL",BAND (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7631.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL",SBT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w624504744_b396000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL",SBT HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/BRASIL.png",BRASIL
+http://fui.me
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVESCOLA.png" group-title="PORTUGAL",TV ESCOLA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVBRASIL.png" group-title="PORTUGAL",TV BRASIL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3878.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDEBRASIL.png" group-title="PORTUGAL",REDE BRASIL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" group-title="PORTUGAL",RECORD SP (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/5621.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDEVIDA.png" group-title="PORTUGAL",REDE VIDA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3930.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVAPARECIDA.png" group-title="PORTUGAL",APARECIDA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL",CANCAO NOVA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" group-title="PORTUGAL",REDE TV! (Copyright © 2018 by SUPER.JHG.MASTER)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BAND.png" group-title="PORTUGAL",BAND (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7631.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="PORTUGAL",SBT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w624504744_b396000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" group-title="BRASIL",GLOBO RJ (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4101.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" group-title="BRASIL",GLOBO SP (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4098.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVCULTURA.png" group-title="BRASIL",TV CULTURA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALOFF.png" group-title="BRASIL",OFF (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4038.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV.png" group-title="BRASIL",SPORTV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3914.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV2.png" group-title="BRASIL",SPORTV2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3913.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTV3.png" group-title="BRASIL",SPORTV3 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3911.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBONEWS.png" group-title="BRASIL",GLOBO NEWS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4104.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GNT.png" group-title="BRASIL",GNT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4093.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MULTISHOW.png" group-title="BRASIL",MULTISHOW (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4055.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MAISGLOBOSAT.png" group-title="BRASIL",MAIS GLOBOSAT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4068.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" group-title="BRASIL",E! ENTERTAINMENT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4138.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" group-title="BRASIL",TLC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3889.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE1.png" group-title="BRASIL",ARTE 1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4582.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYHOME&HEALTH.png" group-title="BRASIL",DISCOVERY HOME & HEALTH (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4152.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CURTA.png" group-title="BRASIL",CURTA! (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4155.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRUTV.png" group-title="BRASIL",TRUTV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3881.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNBR.png" group-title="BRASIL",ESPN BRASIL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4131.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" group-title="BRASIL",ESPN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4132.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN+.png" group-title="BRASIL",ESPN+ (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/5620.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="BRASIL",FOX LIFE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4120.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS.png" group-title="BRASIL",FOX SPORTS BR (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4116.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS2.png" group-title="BRASIL",FOX SPORTS 2 BR (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4115.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BANDSPORTS.png" group-title="BRASIL",BAND SPORTS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4179.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BANDNEWS.png" group-title="BRASIL",BAND NEWS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4180.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" group-title="BRASIL",NATIONAL GEOGRAPHIC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4048.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" group-title="BRASIL",DISCOVERY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4154.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" group-title="BRASIL",ANIMAL PLANET (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4191.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png" group-title="BRASIL",HISTORIA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4079.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYTURBO.png" group-title="BRASIL",DISCOVERY TURBO (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4147.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png" group-title="BRASIL",DISCOVERY SCIENCE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7633.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCIVILIZATION.png" group-title="BRASIL",DISCOVERY CIVILIZATION (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUTURA.png" group-title="BRASIL",FUTURA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1103215435.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" group-title="BRASIL",NATIONAL GEOGRAPHIC WILD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4050.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/H2.png" group-title="BRASIL",H2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4091.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYKIDS.png" group-title="BRASIL",DISCOVERY KIDS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4150.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1200px-Gloob_logo.svg.png" group-title="BRASIL",GLOOB (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4095.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" group-title="BRASIL",DISNEY CHANNEL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4144.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="BRASIL",NICKELODEON (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4041.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" group-title="BRASIL",CARTOON NETWORK (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4166.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="BRASIL",RETRO CARTOON (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4597.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png" group-title="BRASIL",DISNEY XD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4140.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="BRASIL",DISNEY JUNIOR (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4142.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKJR.png" group-title="BRASIL",NICK JR (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4043.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOOMERANG.png" group-title="BRASIL",BOOMERANG (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4172.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest?cb=20160511061708" group-title="BRASIL",TV RÁ TIM BUM (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4595.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" group-title="BRASIL",BABY TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4184.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BIS.png" group-title="BRASIL",BIS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4175.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5u1u9oO.png?1" group-title="BRASIL",MTV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4057.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/playtv.png" group-title="BRASIL",PLAY TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4034.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MusicBoxBrazilLogo.png" group-title="BRASIL",MUSIC BOX BRASIL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4607.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" group-title="BRASIL",VH1 MEGAHITS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/UNIVERSALCHANNEL.png" group-title="BRASIL",UNIVERSAL CHANNEL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3872.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" group-title="BRASIL",FOX (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4122.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WARNERCHANNEL.png" group-title="BRASIL",WARNER CHANNEL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4618.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSONY.png" group-title="BRASIL",SONY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3918.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FX.png" group-title="BRASIL",FX (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4111.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" group-title="BRASIL",AXN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4186.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/PerfectTBS.svg/200px-PerfectTBS.svg.png" group-title="BRASIL",TBS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3904.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" group-title="BRASIL",COMEDY CENTRAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7629.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png" group-title="BRASIL",A&E (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4194.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="BRASIL",INVESTIGATION DISCOVERY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4075.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="BRASIL",SYFY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3906.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png" group-title="BRASIL",LIFETIME (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4070.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/I_sat.jpg/320px-I_sat.jpg" group-title="BRASIL",I SAT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4072.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNTSERIE.png" group-title="BRASIL",TNT SERIE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3885.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALBRASIL.png" group-title="BRASIL",CANAL BRASIL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4170.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png" group-title="BRASIL",TNT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3887.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEGAPIX.png" group-title="BRASIL",MEGAPIX (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4059.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/1024px-Space_logo_2013.svg.png" group-title="BRASIL",SPACE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3916.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="BRASIL",PRIME BOX BRAZIL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4606.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" group-title="BRASIL",STUDIO UNIVERSAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3908.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" group-title="BRASIL",PARAMOUNT CHANNEL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4036.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240" group-title="BRASIL",TCM (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3902.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="BRASIL",TELECINE PREMIUM (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3893.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d2/Telecine_Action_2005.png/revision/latest?cb=20151109191132" group-title="BRASIL",TELECINE ACTION (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3901.m3u8
+#EXTINF:-1 tvg-logo="https://edhyghellen.files.wordpress.com/2010/10/tctouch.gif" group-title="BRASIL",TELECINE TOUCH (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3891.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="BRASIL",TELECINE FUN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3897.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="BRASIL",TELECINE PIPOCA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3895.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ea/TC_Cult.png" group-title="BRASIL",TELECINE CULT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3899.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HBO.png" group-title="BRASIL",HBO (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4090.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HBO2.png" group-title="BRASIL",HBO2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4089.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HBOPLUS.png" group-title="BRASIL",HBO PLUS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4084.m3u8
+#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="BRASIL",HBO PLUS*E (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4083.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HBOFAMILY.png" group-title="BRASIL",HBO FAMILY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4087.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HBOSIGNATURE.png" group-title="BRASIL",HBO SIGNATURE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4081.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Maxup.png/revision/latest?cb=20160224211516" group-title="BRASIL",MAX UP (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4061.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="BRASIL",MAX (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4066.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="BRASIL",MAX PRIME (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4064.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="BRASIL",MAX PRIME *E (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4063.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALRURAL.png" group-title="BRASIL",CANAL RURAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE CLUBES (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4616.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4032.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE 3 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4031.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE 4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4029.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE 5 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4027.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE 6 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4025.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE 7 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4614.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE 8 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4022.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png" group-title="BRASIL",PREMIERE 9 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4021.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMBATE.png" group-title="BRASIL",COMBATE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7632.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALLSPORTS.png" group-title="BRASIL",ALL SPORTS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPORTEINT.png" group-title="BRASIL",ESPORTE INTERATIVO (Copyright © 2018 by SUPER.JHG.MASTER)
+https://l3tk-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_1200.m3u8?dnt=true&access_token=mkn1ejub7yla1mkvrfhvi6l2adxkpvs5zqqlqqyllmac5wmq8ktzykfjahbor3sahzrlnig9b6l&ref=https%3a%2f%2fwww.eiplus.com.br%2fcanal%2f47%2fnautico-x-bahia%2f&es=l3tk-ei-ee-cdn-mdstrm.secure.footprint.net&proto=https&pz=br&hash=0abd35a18c0ee0c957eac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPORTEINT2.png" group-title="BRASIL",ESPORTE INTERATIVO 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://l3tk-ei-ee-cdn-mdstrm.secure.footprint.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8?dnt=true&access_token=e8z1j3se8ze4g3jzgxkblgarm5wt4jti7ja6bomdfurocw3ofv3zceswv5bnpkbvrmj50x3rhu6&ref=https%3a%2f%2fwww.eiplus.com.br%2fcanal%2f46%2froma-x-shakhtar-donetsk%2f&es=l3tk-ei-ee-cdn-mdstrm.secure.footprint.net&proto=https&pz=br&hash=01566973e3ceb23880dcd
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="BRASIL",FISH TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4125.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" group-title="BRASIL",FOOD NETWORK (Copyright © 2018 by SUPER.JHG.MASTER)
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4124.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ALEMANHA.png",ALEMANHA
+http://fui.me
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DASERST.png" group-title="ALEMANHA",Das Erste (Copyright © 2018 by SUPER.JHG.MASTER)
+http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/index_2692_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ZDFHD.png" group-title="ALEMANHA",ZDF HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/ZDF_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" group-title="ALEMANHA",arte HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/ARTE_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WDR.png" group-title="ALEMANHA",WDR HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HRFERNSEHEN.png" group-title="ALEMANHA",hr (Copyright © 2018 by SUPER.JHG.MASTER)
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/123.png" group-title="ALEMANHA",1-2-3 TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/37HMpTD.png" group-title="ALEMANHA",ORF eins (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/ORF1_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ORF-2-Logo.svg/2000px-ORF-2-Logo.svg.png" group-title="ALEMANHA",ORF 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://orf2.orf.cdn.ors.at/orf2/q6a.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/hires/oo/orf_3_at.png" group-title="ALEMANHA",ORF III (Copyright © 2018 by SUPER.JHG.MASTER)
+http://orf3.orf.cdn.ors.at/orf3/q6a.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TAGESSCHAU24.png" group-title="ALEMANHA",tagesschau24 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="ALEMANHA",DW (Copyright © 2018 by SUPER.JHG.MASTER)
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERRTL.png" group-title="ALEMANHA",Super RTL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/Super_RTL_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIXE.png" group-title="ALEMANHA",Anixe (Copyright © 2018 by SUPER.JHG.MASTER)
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="ALEMANHA",VH1 Europe (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLIZZ.png" group-title="ALEMANHA",bliz (Copyright © 2018 by SUPER.JHG.MASTER)
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ESPANHA.png",ESPANHA
+http://fui.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="ESPANHA",LA 1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://hlsliveamdgl7-lh.akamaihd.net:80/i/hlsdvrlive_1@583042/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="ALEMANHA",LA 1 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1ca_lv3_aosv4_gl7/la1ca_lv3_aosv4_gl7.isml/la1ca_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/3/3f/TVE2_bug.png/revision/latest?cb=20100228173645" group-title="ALEMANHA",LA 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=650000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEMADRID.png" group-title="ESPANHA",TELEMADRID (Copyright © 2018 by SUPER.JHG.MASTER)
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LAOTRA.png" group-title="ESPANHA",LA OTRA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FDF_2012_Large.svg/1200px-FDF_2012_Large.svg.png" group-title="ESPANHA",FDF (Copyright © 2018 by SUPER.JHG.MASTER)
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
-
-#EXTINF:-1,MOVISTAR FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-
-#EXTINF:-1,MOVISTAR FIGHTBOX
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
-
-#EXTINF:-1,MOVISTAR FIGHTBOX
-http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8
-
-#EXTINF:-1,MOVISTAR FILMBOX
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/948/index.m3u8
-
-#EXTINF:-1,MOVISTAR FILMBOX ACTION
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
-
-#EXTINF:-1,MOVISTAR FILMBOX ARTHOUSE
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8
-
-#EXTINF:-1,MOVISTAR FILMBOX PREMIUM
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/552/index.m3u8
-
-
-#EXTINF:-1,MOVISTAR FORMULA 1 HD
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR FOX
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR FOX LIFE
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
-
-#EXTINF:-1,MOVISTAR FOX LIFE
-http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/567/index.m3u8
-
-#EXTINF:-1,MOVISTAR FUTBOL
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-
-
-#EXTINF:-1,MOVISTAR GOLF
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR GOLF HD
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/569/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR HIT TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR LA LIGA
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR MEGA
-http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-b.m3u8
-
-#EXTINF:-1,MOVISTAR MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR MOTO GP
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
-
-#EXTINF:-1,MOVISTAR MOTO GP
-http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9717.ts
-
-
-
-#EXTINF:-1,MOVISTAR NATIONAL GEOGRAPHIC
-http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9693.ts
-
-
-#EXTINF:-1,MOVISTAR NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?
-
-#EXTINF:-1,MOVISTAR NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_2_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR NEOX
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MOVISTAR NEOX HD
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?sd=10&amp;rebase=on
-
-
-#EXTINF:-1,MOVISTAR NON STOP PEOPLE
-http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9687.ts
-
-#EXTINF:-1,MOVISTAR NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR NOVA
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,MOVISTAR NOVA ES
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1,MOVISTAR RAI SPORT
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR SERIES EXTRA
-http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9791.ts
-
-#EXTINF:-1,MOVISTAR SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,MOVISTAR SUNDANCE
-http://iptvdosogro.cloudns.cx:8585/live/hugo.miller@gmail.com/hugo.miller@gmail.com/9686.ts
-
-
-
-#EXTINF:-1,MOVISTAR TELECINCO
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
-
-
-
-#EXTINF:-1,MOVISTAR TODO DEPORTES LATINO
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
-
-
-#EXTINF:-1,MOVISTAR TRAVEL HD
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1,VIAJAR HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/501.ts
-#EXTINF:-1,TOROS TV HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/502.ts
-#EXTINF:-1,TNT HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/503.ts
-#EXTINF:-1,TELEDEPORTE
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/504.ts
-#EXTINF:-1,TELECINCO HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/505.ts
-#EXTINF:-1,TCM HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/507.ts
-#EXTINF:-1,SYFY HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/508.ts
-#EXTINF:-1,SUNDANCE
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/509.ts
-#EXTINF:-1,R. MADRID TV
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/510.ts
-#EXTINF:-1,PARAMOUNT
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/511.ts
-#EXTINF:-1,NOVA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/512.ts
-#EXTINF:-1,NONSTOPEOPLE
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/513.ts
-#EXTINF:-1,NICKELODEONHD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/514.ts
-#EXTINF:-1,NICK JR
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/515.ts
-#EXTINF:-1,NG WILD HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/516.ts
-#EXTINF:-1,NEOX
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/517.ts
-#EXTINF:-1,NAT GEO HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/519.ts
-#EXTINF:-1,MULTIDEPORTE
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/520.ts
-#EXTINF:-1,MTV ESPA¹A
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/521.ts
-#EXTINF:-1,MEZZO LIVE HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/522.ts
-#EXTINF:-1,MEZZO
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/523.ts
-#EXTINF:-1,azoHD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/524.ts
-#EXTINF:-1,HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/525.ts
-#EXTINF:-1,A1HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/526.ts
-#EXTINF:-1,OSHD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/527.ts
-#EXTINF:-1,A HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/528.ts
-#EXTINF:-1,M. XTRA HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/529.ts
-#EXTINF:-1,M. XTRA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/530.ts
-#EXTINF:-1,M. SeriesXtraHD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/531.ts
-#EXTINF:-1,M. SERIES HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/532.ts
-#EXTINF:-1,M. MOTOGP
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/533.ts
-#EXTINF:-1,M. GOLF HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/534.ts
-#EXTINF:-1,M. HD https://www.extinf.com
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/535.ts
-#EXTINF:-1,M. ESTRENOS
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/536.ts
-#EXTINF:-1,M. eSports
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/537.ts
-#EXTINF:-1,M. DEP 2 HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/538.ts
-#EXTINF:-1,M. DEP 1 HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/539.ts
-#EXTINF:-1,M. DCINE HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/540.ts
-#EXTINF:-1,M. COMEDIA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/541.ts
-#EXTINF:-1,M. Cine Espaæol
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/542.ts
-#EXTINF:-1,M. ACCI©N HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/543.ts
-#EXTINF:-1,LTC
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/544.ts
-#EXTINF:-1,LA SEXTA HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/545.ts
-#EXTINF:-1,LA 2
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/546.ts
-#EXTINF:-1,LA 1 HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/547.ts
-#EXTINF:-1,IBERALIA TV
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/548.ts
-#EXTINF:-1,HOLLYWOODHD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/549.ts
-#EXTINF:-1,HISTORIA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/550.ts
-#EXTINF:-1,GOL
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/551.ts
-#EXTINF:-1,FOX NEWS
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/552.ts
-#EXTINF:-1,FOX LIFE HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/553.ts
-#EXTINF:-1,FOX HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/554.ts
-#EXTINF:-1,FDF
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/555.ts
-#EXTINF:-1,EUROSPORT1HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/556.ts
-#EXTINF:-1,EUROSPORT 2
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/557.ts
-#EXTINF:-1,ENERGY
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/558.ts
-#EXTINF:-1,DIVINITY
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/559.ts
-#EXTINF:-1,DISNEY XD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/560.ts
-#EXTINF:-1,DISNEY JR
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/561.ts
-#EXTINF:-1,DISNEY CH HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/562.ts
-#EXTINF:-1,DISCOVERY
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/563.ts
-#EXTINF:-1,CUATRO HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/564.ts
-#EXTINF:-1,CRIMEN INVES
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/565.ts
-#EXTINF:-1,COSMO HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/566.ts
-#EXTINF:-1,COMEDYCENTRALHD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/567.ts
-#EXTINF:-1,CLASSICA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/568.ts
-#EXTINF:-1,CLAN TVE
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/569.ts
-#EXTINF:-1,CAZAyPESCA HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/570.ts
-#EXTINF:-1,CANAL SUR A.
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/571.ts
-#EXTINF:-1,CANAL PANDA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/572.ts
-#EXTINF:-1,CANAL ODISEA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/574.ts
-#EXTINF:-1,CANAL DECASA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/575.ts
-#EXTINF:-1,CANAL COCINA
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/576.ts
-#EXTINF:-1,CALLE 13 HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/577.ts
-#EXTINF:-1,BOING
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/578.ts
-#EXTINF:-1,BARCA TV
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/582.ts
-#EXTINF:-1,BABY TV
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/583.ts
-#EXTINF:-1,AXN WHITE HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/584.ts
-#EXTINF:-1,AXN HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/585.ts
-#EXTINF:-1,ARAGON TV
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/586.ts
-#EXTINF:-1,ANTENA 3 HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/587.ts
-#EXTINF:-1,AMC HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/588.ts
-#EXTINF:-1,A&E
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/589.ts
-#EXTINF:-1,24 HORAS
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/590.ts
-#EXTINF:-1,#0 HD
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/591.ts
-#EXTINF:-1,ALQUILER_1
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/86.ts
-#EXTINF:-1,ALQUILER_2
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/87.ts
-#EXTINF:-1,ALQUILER_3
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/88.ts
-#EXTINF:-1,ALQUILER_4
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/89.ts
-#EXTINF:-1,ALQUILER_5
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/90.ts
-#EXTINF:-1,ALQUILER_6
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/91.ts
-#EXTINF:-1,ALQUILER_7
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/92.ts
-#EXTINF:-1,ALQUILER_8
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/93.ts
-#EXTINF:-1,ALQUILER_9
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/94.ts
-#EXTINF:-1,ALQUILER_10
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/95.ts
-#EXTINF:-1,ALQUILER_11
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/96.ts
-#EXTINF:-1,ALQUILER_12
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/97.ts
-#EXTINF:-1,ALQUILER_13
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/98.ts
-#EXTINF:-1,ALQUILER_14
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/99.ts
-#EXTINF:-1,ALQUILER_15
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/100.ts
-#EXTINF:-1,ALQUILER_16
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/101.ts
-#EXTINF:-1,ALQUILER_17
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/102.ts
-#EXTINF:-1,ALQUILER_18
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/103.ts
-#EXTINF:-1,ALQUILER_19
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/104.ts
-#EXTINF:-1,ALQUILER_20
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/105.ts
-#EXTINF:-1,ALQUILER_21
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/106.ts
-#EXTINF:-1,ALQUILER_22
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/107.ts
-#EXTINF:-1,ALQUILER_23
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/108.ts
-#EXTINF:-1,ALQUILER_24
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/109.ts
-#EXTINF:-1,ALQUILER_25
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/110.ts
-#EXTINF:-1,ALQUILER_26
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/111.ts
-#EXTINF:-1,ALQUILER_27
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/112.ts
-#EXTINF:-1,ALQUILER_28
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/113.ts
-#EXTINF:-1,ALQUILER_29
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/114.ts
-#EXTINF:-1,ALQUILER_30
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/115.ts
-#EXTINF:-1,ALQUILER_31
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/116.ts
-#EXTINF:-1,ALQUILER_32
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/117.ts
-#EXTINF:-1,ALQUILER_33
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/118.ts
-#EXTINF:-1,ALQUILER_34
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/119.ts
-#EXTINF:-1,ALQUILER_35
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/120.ts
-#EXTINF:-1,ALQUILER_36
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/121.ts
-#EXTINF:-1,ALQUILER_37
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/122.ts
-#EXTINF:-1,ALQUILER_38
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/123.ts
-#EXTINF:-1,ALQUILER_39
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/124.ts
-#EXTINF:-1,ALQUILER_40
-http://163.172.52.83:8000/live/4DKuETEuBebaLGR/2d1gtMYBtsmQaAs/125.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la1.png" ,LA 1 HD
-rtp://@239.0.0.185:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/la2.png" ,LA 2 HD
-rtp://@239.0.0.183:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/antena3.png" ,Antena 3 HD
-rtp://@239.0.0.186:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cuatro.png" ,Cuatro HD
-rtp://@239.0.0.177:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/telecinco.png" ,Telecinco HD
-rtp://@239.0.0.176:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/lasexta.png" ,La Sexta HD
-rtp://@239.0.0.187:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tmadrid.png" ,Telemadrid
-rtp://@239.0.0.25:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/0.png" ,#0 HD
-rtp://@239.0.5.187:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17144.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mxtra.png" ,Movistar Xtra
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2715.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17136.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mestrenos.png" ,Movistar Estrenos
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2718.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17134.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdcine.png" ,Movistar DCine
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2719.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17133.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mcomedia.png" ,Movistar Comedia
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2720.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17132.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/maccion.png" ,Movistar Accion
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2688.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17149.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tcm.png" ,TCM
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2726.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/amc.png" ,AMC HD
-rtp://@239.0.9.132:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/pchannel.png" ,Paramount Channel
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/6968.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/hollywood.png" ,Hollywood HD
-rtp://@239.0.5.76:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseries.png" ,Movistar Series HD
-rtp://@239.0.5.250:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mseriesxtra.png" ,Movistar Series Xtra HD
-rtp://@239.0.5.83:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/calle13.png" ,Calle 13 HD
-rtp://@239.0.5.74:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tnt.png" ,TNT HD
-rtp://@239.0.5.87:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axn.png" ,AXN HD
-rtp://@239.0.9.131:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17116.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/axnwhite.png" ,AXN White
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2706.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fox.png" ,Fox HD
-rtp://@239.0.9.134:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/foxlife.png" ,Fox Life HD
-rtp://@239.0.0.165:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17148.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/syfy.png" ,SYFY
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5417.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/comedy.png" ,Comedy Central HD
-rtp://@239.0.0.174:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ande.png" ,AandE
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5414.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/citv.png" ,Crimen + Investigacion
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/6984.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cosmo.png" ,COSMO HD
-rtp://@239.0.5.71:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/sundancetv.png" ,Sundance
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dmax.png" ,DMAX
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17733.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17153.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/viajar.png" ,Viajar
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2722.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17145.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeo.png" ,National Geographic
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2702.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17146.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ngeowild.png" ,Nat Geo Wild
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2701.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/historia.png" ,Historia
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2728.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,DISCOVERY CHANNEL HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2703.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/discovery.png" ,Discovery
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2704.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/odisea.png" ,Odisea
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17734.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/decasa.png" ,Canal Decasa
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5426.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cocina.png" ,Canal Cocina
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5425.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/40tv.png" ,40 TV
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/6720.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mtv.png" ,MTV
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/6985.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mega.png" ,MEGA
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2724.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/neox.png" ,Neox
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5408.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/a3series.png" ,Atreseries FHD
-rtp://@239.0.0.190:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/fdf.png" ,Factoria de Ficcion
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5411.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/divinity.png" ,Divinity
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5410.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/energy.png" ,Energy
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/6696.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/bemad.png" ,BE MAD
-rtp://@239.0.0.182:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/otra.png" ,La Otra
-rtp://@239.0.0.26:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/csur.png" ,Canal Sur Andalucía
-rtp://@239.0.0.1:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/galicia.png" ,Galicia TV Europa
-rtp://@239.0.3.37:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/extremadura.png" ,Canal Extremadura SAT
-rtp://@239.0.0.52:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/tv3.png" ,TV3CAT
-rtp://@239.0.3.36:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/etb.png" ,ETB Sat
-rtp://@239.0.0.60:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/aragon.png" ,Aragón TV Int
-rtp://@239.0.0.81:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nickjr.png" ,NICK JR
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2707.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dxd.png" ,Disney XD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2709.ts
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/guiapc/PLAYDC.png" ,Disney Junior
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2710.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/dchannel.png" ,Disney Channel
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2708.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdisney.png" ,M. Disney
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17471.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/panda.png" ,Canal Panda
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5428.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/nick.png" ,Nickelodeon HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5419.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/clan.png" ,Clan TVE
-rtp://@239.0.0.184:8208
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/boing.png" ,Boing
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5420.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/babytv.png" ,Baby TV
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/9165.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17137.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/3065.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mf1.png" ,Movistar Formula 1
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/3067.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17140.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgp.png" ,Movistar Moto GP
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/3066.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17135.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes1.png" ,Movistar Deportes 1
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2693.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17131.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mdeportes2.png" ,Movistar Deportes 2
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2694.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/8677.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16861.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5423.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16858.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,Bein LaLiga 1 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/8676.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinliga.png" ,LIGA 2 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2691.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR FHD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17129.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2690.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/ligatvbar.png" ,LA LIGA TV BAR HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5424.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/liga123.png" ,LaLiga 123 FHD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17018.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17138.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2692.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mfutbol.png" ,Movistar Futbol
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/3068.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,Movistar Partidazo HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17141.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mpartidazo.png" ,PARTIDAZO HD (event only)
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/8807.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17124.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro1.png" ,Eurosport 1
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/6694.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/euro2.png" ,Eurosport 2
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/6695.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/11776.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/6724.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS  HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16875.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinsports.png" ,beIN SPORTS
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5422.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16877.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max1
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16876.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2 HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16879.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max2
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16878.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max3
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16880.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1 FHD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16860.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN La Liga Max 1
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16859.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2 FHD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16863.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,beIN LaLiga Max 2
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16862.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 3
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16864.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 4
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16865.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 5
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16866.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN LaLiga Max 6
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16867.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BeiN Laliga Max 7
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16868.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 4
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16869.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 5
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16870.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 6
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16871.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 7
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16872.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,Bein Max 8
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/16873.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/iberalia.png" ,Iberalia TV
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5427.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17119.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/cazapesca.png" ,Caza y Pesca
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5413.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/teledeporte.png" ,Teledeporte
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2723.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17113.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/rmadrid.png" ,Real Madrid TV
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/7680.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/gol.png" ,GOL
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/5421.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/xtrm.png" ,XTRM
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17369.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17152.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/toros.png" ,Toros TV
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2717.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf HD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17139.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mgolf.png" ,Movistar Golf
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/2716.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 1 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17489.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 10 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17480.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 2 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17488.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 3 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17487.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 4 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17486.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 5 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17485.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 6 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17484.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 7 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17483.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 8 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17482.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/beinmax.png" ,BEIN SPORT MAX 9 SD
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17481.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 1
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17479.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 2
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17478.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 3
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17477.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 4
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17476.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,Multideporte 5
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17475.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 1
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17474.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 2
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17473.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nanyta/tv/master/logos/mmulti.png" ,MULTIFUTBOOL 3
-http://premium-iptv.link:6969/live/as.usgord.y@gmail.com/3o1fpK9Eet/17472.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ENERGY.png" group-title="ESPANHA",ENERGY (Copyright © 2018 by SUPER.JHG.MASTER)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" group-title="ESPANHA",MOVISTAR COMEDIA HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://88.18.85.7:9981/stream/channelid/789143234
+#EXTINF:-1 tvg-logo="http://www.sundancetvglobal.com/images/logo.png" group-title="ESPANHA",SUNDANCE CHANNEL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://86.82.79.91:9420/play/a00w
+#EXTINF:-1 tvg-logo="http://cinestrenostv.tv/img/13tv.png" group-title="ESPANHA",TRECE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/c2d3b962f9db67dc006f2cb799fafeb7" group-title="ESPANHA",TEN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://185.187.69.99:9981/stream/channelid/1204096301
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="ESPANHA",REAL MADRID TV HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="ESPANHA",EUROSPORT 1 ES (Copyright © 2018 by SUPER.JHG.MASTER)
+http://86.82.79.91:9430/play/a01b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CAZAYPESCA.png" group-title="ESPANHA",CAZA Y PESCA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://86.82.79.91:9430/play/a00j
+#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/17731be322986efacc33a5ada475fb2a" group-title="ESPANHA",IBERALIA (Copyright © 2018 by SUPER.JHG.MASTER)
+https://input2.fractalmedia.es/hls/iberaliatv.m3u8
+#EXTINF:-1 tvg-logo="http://www.dkiss.es/wp-content/uploads/logo-DKISS-blanco-rojo.png" group-title="ESPANHA",DKISS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://185.187.69.99:9981/stream/channelid/2094326707
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png" group-title="ESPANHA",DIVINITY (Copyright © 2018 by SUPER.JHG.MASTER)
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png" group-title="ESPANHA",BE MAD (Copyright © 2018 by SUPER.JHG.MASTER)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png" group-title="ESPANHA",EL GARAGE TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png" group-title="ESPANHA",BOING (Copyright © 2018 by SUPER.JHG.MASTER)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="ESPANHA",VH1 EUROPE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVE24H.png" group-title="ESPANHA",TVE 24H (Copyright © 2018 by SUPER.JHG.MASTER)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="ESPANHA",TV GALICIA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="ESPANHA",RUSSIA TODAY ESPAÑOL (Copyright © 2018 by SUPER.JHG.MASTER)
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="ESPANHA",DW LATINO (Copyright © 2018 by SUPER.JHG.MASTER)
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="ESPANHA",TELESUR (Copyright © 2018 by SUPER.JHG.MASTER)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALSURANDALUCIA.png" group-title="ESPANHA",CANAL SUR ANDALUCIA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/FRANCA.png",FRANCA
+http://fui.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Small_logo_GONG_black.png" group-title="FRANCA",GONG (Copyright © 2018 by SUPER.JHG.MASTER)
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJHITS.png" group-title="FRANCA",NRJ HITS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NRJHITS.png" group-title="FRANCA",NRJ HITS HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="FRANCA",VH1 EUROPE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BFMBUSINESS.png" group-title="FRANCA",BFM BUSINESS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" group-title="FRANCA",SKY NEWS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1647002771
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/ITALIA.png",ITALIA
+http://fui.me
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE5.png" group-title="ITALIA",CANALE 5 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png" group-title="ITALIA",ITALIA1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA2.png" group-title="ITALIA",ITALIA2 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA7.png" group-title="ITALIA",LA 7 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA5.png" group-title="ITALIA",LA 5 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA5.png" group-title="ITALIA",LA 5 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/IRIS.png" group-title="ITALIA",IRIS (Copyright © 2018 by SUPER.JHG.MASTER)
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOPCRIME.png" group-title="ITALIA",TOPCRIME (Copyright © 2018 by SUPER.JHG.MASTER)
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAI4.png" group-title="ITALIA",RAI 4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png" group-title="ITALIA",MEDIASET EXTRA (Copyright © 2018 by SUPER.JHG.MASTER)
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o4ca5xo.png" group-title="ITALIA",SKY TG24 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAINEWS24.png" group-title="ITALIA",RAI NEWS 24 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="ITALIA",VH1 EUROPE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Supertennis_logo.png" group-title="ITALIA",SUPER TENNIS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/123/g5/supertennis.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/db/Supertennis_logo.png" group-title="ITALIA",SUPER TENNIS HD (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g5/supertennis.m3u8
+#EXTINF:-1 tvg-logo="http://hl.museostorico.it/sites/default/files/logo.png" group-title="ITALIA",HISTORY LAB (Copyright © 2018 by SUPER.JHG.MASTER)
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" group-title="ITALIA",DMAX (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/INGLATERRA.png",INGLATERRA
+http://fui.me
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC1.png" group-title="INGLATERRA",BBC ONE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://62.210.99.158:80/live?channelId=2&uid=5216&deviceMac=00:1a:79:3c:c9:73
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC1.png" group-title="ITALIA",BBC ONE HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1697739602
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC2.png" group-title="ITALIA",BBC TWO (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1177105991
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC2.png" group-title="0",BBC TWO HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/365042498
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV.png" group-title="INGLATERRA",ITV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/415593063
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV.png" group-title="INGLATERRA",ITV HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1782915588
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV+1.png" group-title="INGLATERRA",ITV +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1810214901
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" group-title="INGLATERRA",CHANNEL 4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1868763895
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" group-title="INGLATERRA",CHANNEL 4 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1436233215
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4+1.png" group-title="INGLATERRA",CHANNEL 4 +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/2018947862
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL5UK.png" group-title="INGLATERRA",CHANNEL 5 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1049634921
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL5UK.png" group-title="INGLATERRA",CHANNEL 5 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/36165149
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL5+1UK.png" group-title="INGLATERRA",CHANNEL 5 +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/869246503
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" group-title="INGLATERRA",E4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1401002629
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" group-title="INGLATERRA",E4 +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1660523200
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" group-title="INGLATERRA",BBC FOUR (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1803859813
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" group-title="INGLATERRA",BBC FOUR HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" group-title="INGLATERRA",ITV 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1230715909
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" group-title="INGLATERRA",ITV 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://185.59.221.136:9981/stream/channelid/2139720971
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2+1.png" group-title="INGLATERRA",ITV 2 +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/134226549
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" group-title="INGLATERRA",ITV 3 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1567601792
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" group-title="INGLATERRA",ITV 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a08u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3+1.png" group-title="INGLATERRA",ITV 3 +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1116099466
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" group-title="INGLATERRA",ITV 4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1995846956
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" group-title="INGLATERRA",ITV 4 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a08v/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITVBE.png" group-title="INGLATERRA",ITVBe (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/547384092
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/Pick2013.png/revision/latest?cb=20131004183440" group-title="INGLATERRA",PICK (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/2073693378
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALIBI.png" group-title="INGLATERRA",alibi (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/2093/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAVE.png" group-title="INGLATERRA",DAVE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1416931628
+#EXTINF:-1 tvg-logo="http://i.imgur.com/te6XRf8.png" group-title="INGLATERRA",DRAMA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1285589575
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/996px-Really_logo.svg.png" group-title="INGLATERRA",REALLY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1132781022
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="INGLATERRA",SYFY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="INGLATERRA",SYFY +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHALLENGE.png" group-title="INGLATERRA",CHALLENGE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/2090186805
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4SEVEN.png" group-title="INGLATERRA",4Seven (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1304216678
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/More4_logo.svg/932px-More4_logo.svg.png" group-title="INGLATERRA",More4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/369445699
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png" group-title="INGLATERRA",CBS Reality (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/427148982
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d6/Horrorchannel.svg/revision/latest/scale-to-width-down/300?cb=20141218120714" group-title="INGLATERRA",HORROR CHANNEL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/660849194
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/5STAR.png" group-title="INGLATERRA",5STAR (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1669151601
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/5USA.png" group-title="INGLATERRA",5 USA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/2037928882
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" group-title="INGLATERRA",E! (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0g7/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b7/Real_Lives.png/revision/latest?cb=20150615111708" group-title="INGLATERRA",Real Lives (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" group-title="INGLATERRA",TLC +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09h/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="INGLATERRA",INVESTIGATION DISCOVERY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a099/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/86/Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png/200px-Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="INGLATERRA",INVESTIGATION DISCOVERY +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" group-title="INGLATERRA",Quest (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/862488806
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png" group-title="INGLATERRA",TRUE ENTERTAINMENT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/446316734
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSACTION.png" group-title="INGLATERRA",CBS Action (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/831707109
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSDRAMA.png" group-title="INGLATERRA",CBS Drama (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1558357645
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRUTV.png" group-title="INGLATERRA",truTV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/2064218420
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" group-title="INGLATERRA",DMAX (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09c/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" group-title="INGLATERRA",DMAX +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" group-title="INGLATERRA",YESTERDAY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/833039933
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Eden_logo.png" group-title="INGLATERRA",EDEN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Eden_logo.png" group-title="INGLATERRA",EDEN +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0al/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" group-title="INGLATERRA",DISCOVERY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" group-title="INGLATERRA",ANIMAL PLANET (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09m/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png" group-title="INGLATERRA",DISCOVERY SCIENCE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png" group-title="INGLATERRA",DISCOVERY SCIENCE +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0ei/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYTURBO.png" group-title="INGLATERRA",DISCOVERY TURBO (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYHISTORY.png" group-title="INGLATERRA",DISCOVERY HISTORY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYHISTORY.png" group-title="INGLATERRA",DISCOVERY HISTORY +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0em/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" group-title="INGLATERRA",NAT GEO WILD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0ez/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" group-title="INGLATERRA",NATIONAL GEOGRAPHIC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0ex/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" group-title="INGLATERRA",NATIONAL GEOGRAPHIC +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" group-title="INGLATERRA",HISTORY (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0et/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" group-title="INGLATERRA",HISTORY +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/H2.png" group-title="INGLATERRA",H2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0f2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1280px-C%26I_logo.svg.png" group-title="INGLATERRA",CRIME + INVESTIGATION (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0eu/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYHOME&HEALTH.png" group-title="INGLATERRA",DISCOVERY HOME & HEALTH (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1223597287
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYHOME&HEALTH.png" group-title="INGLATERRA",DISCOVERY HOME & HEALTH +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHED.png" group-title="INGLATERRA",DISCOVERY SHED (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a09g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" group-title="INGLATERRA",FOOD NETWORK (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1627794550
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" group-title="INGLATERRA",TRAVEL CHANNEL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1642218060
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="INGLATERRA",VH1 EUROPE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://81.200.50.4/hls/VH1_nejtv_portable_low.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4MUSIC.png" group-title="INGLATERRA",4Music (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1984520568
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/1200px-Kiss_Network_logo.svg.png" group-title="INGLATERRA",KISS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1436269344
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest?cb=20151209165240" group-title="INGLATERRA",TCM +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SONYMOVIECHANNEL.png" group-title="INGLATERRA",SONY MOVIE CHANNEL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1219174926
+#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/movies4men.png" group-title="INGLATERRA",Movies4Men (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1242808557
+#EXTINF:-1 tvg-logo="https://geekboy95.files.wordpress.com/2014/01/film4-logo.jpg" group-title="INGLATERRA",FILM4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1350188180
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Film4%2B1_logo.svg/1280px-Film4%2B1_logo.svg.png" group-title="INGLATERRA",FILM4 +1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/648543947
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" group-title="INGLATERRA",SKY SPORTS MAIN EVENT (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g8/SkyMainEvent.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSFOOTBALL.png" group-title="INGLATERRA",SKY SPORTS FOOTBALL HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g10/SkyFootball.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSACTION.png" group-title="INGLATERRA",SKY SPORTS ACTION (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g5/SkyAction.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" group-title="INGLATERRA",SKY SPORTS NEWS HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g8/SkyMainEvent.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" group-title="INGLATERRA",EUROSPORT 1 HD UK (Copyright © 2018 by SUPER.JHG.MASTER)
+http://v4.ustreamix.com/Eurosport-1.m3u8?token=eurosport_i-1b583b17544a7f96d628c23a604c1c3d
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" group-title="INGLATERRA",MUTV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0f0/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT1.png" group-title="INGLATERRA",BT SPORT 1 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/123/g2/BTSport1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" group-title="INGLATERRA",BT SPORT 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT2.png" group-title="INGLATERRA",BT SPORT 2 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/123/g3/BTSport2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BT3.png" group-title="INGLATERRA",BT SPORT 3 HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://163.172.220.115:8080/rAMdannbt/btsp3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" group-title="INGLATERRA",BT SPORT ESPN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTESPN.png" group-title="INGLATERRA",BT SPORT ESPN HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/123/g6/btsportespn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX1.png" group-title="INGLATERRA",BT SPORT EXTRA 1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0e6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX2.png" group-title="INGLATERRA",BT SPORT EXTRA 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX3.png" group-title="INGLATERRA",BT SPORT EXTRA 3 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX4.png" group-title="INGLATERRA",BT SPORT EXTRA 4 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX5.png" group-title="INGLATERRA",BT SPORT EXTRA 5 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BTX6.png" group-title="INGLATERRA",BT SPORT EXTRA 6 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ATTHERACES.png" group-title="INGLATERRA",AT THE RACES (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" group-title="INGLATERRA",MOTORSPORT.TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0gf/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOXNATION.png" group-title="INGLATERRA",BOXNATION (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png" group-title="INGLATERRA",BBC NEWS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1671601514
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYNEWS.png" group-title="INGLATERRA",SKY NEWS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1647002771
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCPARL.png" group-title="INGLATERRA",BBC PARLIAMENT (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/396884238
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png" group-title="INGLATERRA",RTE ONE (Copyright © 2018 by SUPER.JHG.MASTER)
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" group-title="INGLATERRA",RTE TWO (Copyright © 2018 by SUPER.JHG.MASTER)
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBBC.png" group-title="INGLATERRA",CBBC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1123129054
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBBC.png" group-title="INGLATERRA",CBBC HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1610367477
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBEEBIES.png" group-title="INGLATERRA",Cbeebies (Copyright © 2018 by SUPER.JHG.MASTER)
+http://80.229.166.111:9981/stream/channelid/1169913814
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png" group-title="INGLATERRA",Cbeebies HD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://31.132.0.66:8000/play/a092/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" group-title="INGLATERRA",BABY TV (Copyright © 2018 by SUPER.JHG.MASTER)
+http://62.210.93.43:80/live?channelId=90&uid=5216&deviceMac=00:1a:79:3c:c9:73
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/USA.png",USA
+http://fui.me
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MSNBC.png" group-title="INGLATERRA",MSNBC (Copyright © 2018 by SUPER.JHG.MASTER)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="USA",BLOOMBERG (Copyright © 2018 by SUPER.JHG.MASTER)
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" group-title="USA",CBSN (Copyright © 2018 by SUPER.JHG.MASTER)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="USA",WGN 9 NEWS CHICAGO (Copyright © 2018 by SUPER.JHG.MASTER)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DW.png" group-title="USA",DW (Copyright © 2018 by SUPER.JHG.MASTER)
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="USA",RT AMERICA (Copyright © 2018 by SUPER.JHG.MASTER)
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/20/WORLD_FASHION.jpg/revision/latest?cb=20150316180940" group-title="USA",WORLD FASHION (Copyright © 2018 by SUPER.JHG.MASTER)
+http://btv-net.mediacdn.ru/TVB8/wfhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" group-title="USA",NATIONAL GEOGRAPHIC WILD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/index.m3u8?token=b04f6e1d3917019e1ca2559684a5aad5673f376e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZJ8xW1t.png" group-title="USA",TSN1 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g2/TSN1.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/l1NJsdM.png" group-title="USA",TSN2 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g3/TSN2.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BsMyeWs.png" group-title="USA",TSN3 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g1/TSN3.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rMjGqgH.png" group-title="USA",TSN4 (Copyright © 2018 by SUPER.JHG.MASTER)
+https://sportsbar.pw/lba/123/g5/TSN4.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QldQfqY.png" group-title="USA",TSN5 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://sportsbar.pw/lba/123/g9/TSN5.m3u8
+#EXTINF:-1 tvg-logo="http://mech.utah.edu/files/2011/12/Pac-12UtahPrimaryUse_RGBweb.png" group-title="USA",PAC 12 Network (National) (Copyright © 2018 by SUPER.JHG.MASTER)
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/8f/250px-SportsnetWorld.svg.png/revision/latest?cb=20111112195204" group-title="USA",SPORTSNET WORLD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://vapi.vaders.tv/play/2670.m3u8?token=eyJ1c2VybmFtZSI6ImZyYW5jb21hYyIsInBhc3N3b3JkIjoia2lsbDJ0aGlzIn0=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/RADIOS.png",RADIOS
+http://0.0.0.1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIO94FM.png" group-title="RADIOS",94FM (Copyright © 2018 by SUPER.JHG.MASTER)
+http://195.8.58.150:35022/stream/1/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOAMALIA.png" group-title="RADIOS",AMALIA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://stream.radio.com.pt:9496/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOANTENA1.png" group-title="RADIOS",ANTENA 1 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOANTENA2.png" group-title="RADIOS",ANTENA 2 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/44/Log%C3%B3tipo_da_r%C3%A1dio_Cidade.png" group-title="RADIOS",CIDADE FM (Copyright © 2018 by SUPER.JHG.MASTER)
+http://mcrwowza2.mcr.iol.pt/cidadefm/apple.sdp/chunklist_w1928988836.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png" group-title="RADIOS",HIPER FM (Copyright © 2018 by SUPER.JHG.MASTER)
+http://195.23.85.126:9500/stream/1/
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/marginal.jpg" group-title="RADIOS",MARGINAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://centova.radios.pt:8499/stream/1/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOMEGAHITS.png" group-title="RADIOS",MEGA HITS (Copyright © 2018 by SUPER.JHG.MASTER)
+http://19553.live.streamtheworld.com/MEGA_HITS_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOSTALGIA.png" group-title="RADIOS",NOSTALGIA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://centova.radios.PT 8435/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVAERA.png" group-title="RADIOS",NOVA ERA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://centova.radios.pt:9478/stream/1/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOORBITAL.png" group-title="RADIOS",ORBITAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://195.23.85.126:8401/stream/1/
+#EXTINF:-1 tvg-logo="http://www.radioplacard.pt/files/32/781.png" group-title="RADIOS",PLACARD (Copyright © 2018 by SUPER.JHG.MASTER)
+http://213.239.218.99:7098/;?1475760096281.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORADAR.png" group-title="RADIOS",RADAR (Copyright © 2018 by SUPER.JHG.MASTER)
+http://centova.radios.pt:8497/stream/1/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOCOMERCIAL.png" group-title="RADIOS",RADIO COMERCIAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://mcrscast.mcr.iol.pt/comercial.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png" group-title="RADIOS",RADIO FESTIVAL (Copyright © 2018 by SUPER.JHG.MASTER)
+http://centova.radios.pt:9520/stream/1/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIONOVA.png" group-title="RADIOS",RADIO NOVA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://centova.radios.pt:9528/stream/1/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOONDAVIVA.png" group-title="RADIOS",RADIO ONDA VIVA (Copyright © 2018 by SUPER.JHG.MASTER)
+http://centova.radios.pt:9524/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORFM.png" group-title="RADIOS",RFM (Copyright © 2018 by SUPER.JHG.MASTER)
+http://19553.live.streamtheworld.com/RFM_SC
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2008/09/logo80RFMPlayer.png" group-title="RADIOS",RFM 80 (Copyright © 2018 by SUPER.JHG.MASTER)
+http://19573.live.streamtheworld.com/GR80SRFM_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOTSF.png" group-title="RADIOS",TSF (Copyright © 2018 by SUPER.JHG.MASTER)
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+Copyright © 2018 - SUPER.JHG.MASTER
