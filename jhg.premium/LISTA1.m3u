@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR green]paypal.me/SUPER.JHG.MASTERkodi[/COLOR]
-paypal.me/SUPER.JHG.MASTERkodi
 #EXTINF:-1,ES: #0 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/carmelo/1234/20344.m3u8
 #EXTINF:-1,ES: 24 Horas
