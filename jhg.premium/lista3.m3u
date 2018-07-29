@@ -1,149 +1,344 @@
 #EXTM3U
 
-#EXTINF:-1,--LISTA MOVISTAR 3---SPAIN-----
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/135943.m3u8
-#EXTINF:-1,(ES) LA 1 HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14476.m3u8
-#EXTINF:-1,(ES) LA 2
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14475.m3u8
-#EXTINF:-1,(ES) Antena 3 HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14478.m3u8
-#EXTINF:-1,(ES) Cuatro HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14473.m3u8
-#EXTINF:-1,(ES) Extremadura TV
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14456.m3u8
-#EXTINF:-1,(ES) FDF
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14425.m3u8
-#EXTINF:-1,(ES) Fox
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14427.m3u8
-#EXTINF:-1,(ES) Fox HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14428.m3u8
-#EXTINF:-1,(ES) Fox Life HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14426.m3u8
-#EXTINF:-1,(ES) Galicia TV
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14455.m3u8
-#EXTINF:-1,(ES) Syfy HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14424.m3u8
-#EXTINF:-1,(ES) TCM
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14423.m3u8
-#EXTINF:-1,(ES) Telecinco HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14472.m3u8
-#EXTINF:-1,(ES) A&E
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14443.m3u8
-#EXTINF:-1,(ES) AMC
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14433.m3u8
-#EXTINF:-1,(ES) AMC ESP audio
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14432.m3u8
-#EXTINF:-1,(ES) AXN HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14431.m3u8
-#EXTINF:-1,(ES) AXN White HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14430.m3u8
-#EXTINF:-1,(ES) Boing
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14450.m3u8
-#EXTINF:-1,(ES) Canal Cocina
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14459.m3u8
-#EXTINF:-1,(ES) Caza y Pesca HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14442.m3u8
-#EXTINF:-1,(ES) Comedy Central
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14467.m3u8
-#EXTINF:-1,(ES) Comedy Central HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14468.m3u8
-#EXTINF:-1,(ES) Cosmo HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14466.m3u8
-#EXTINF:-1,(ES) Crimen   Investigacion
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14441.m3u8
-#EXTINF:-1,(ES) Discovery Channel
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14440.m3u8
-#EXTINF:-1,(ES) Disney Channel HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14449.m3u8
-#EXTINF:-1,(ES) Disney Junior
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14448.m3u8
-#EXTINF:-1,(ES) Neox
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14446.m3u8
-#EXTINF:-1,(ES) Nick JR
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14444.m3u8
-#EXTINF:-1,(ES) Nickelodeon HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14445.m3u8
-#EXTINF:-1,(ES) Disney XD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14447.m3u8
-#EXTINF:-1,(ES) 24 Horas
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14469.m3u8
-#EXTINF:-1,(ES) CANAL TOROS
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/13908.m3u8
-#EXTINF:-1,(ES) Barca TV
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14399.m3u8
-#EXTINF:-1,(ES) Bein Sports HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14412.m3u8
-#EXTINF:-1,(ES) Bein Sports La Liga HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14411.m3u8
-#EXTINF:-1,(ES) Energy
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14462.m3u8
-#EXTINF:-1,(ES) Eurosport 1 HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14410.m3u8
-#EXTINF:-1,(ES) Gol
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14409.m3u8
-#EXTINF:-1,(ES) Historia
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14439.m3u8
-#EXTINF:-1,(ES) Mega
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14461.m3u8
-#EXTINF:-1,(ES) Canal Hollywood HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/136459.m3u8
-#EXTINF:-1,(ES) Movistar Action
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14414.m3u8
-#EXTINF:-1,(ES) Movistar Action HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14421.m3u8
-#EXTINF:-1,(ES) Movistar Comedia HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14420.m3u8
-#EXTINF:-1,(ES) Movistar DCine HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14419.m3u8
-#EXTINF:-1,(ES) Movistar Deportes 1 HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14407.m3u8
-#EXTINF:-1,(ES) Movistar Estrenos
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14413.m3u8
-#EXTINF:-1,(ES) Movistar Estrenos HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14418.m3u8
-#EXTINF:-1,(ES) Movistar F1 HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14405.m3u8
-#EXTINF:-1,(ES) Movistar Futbol
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14408.m3u8
-#EXTINF:-1,(ES) Movistar Golf
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14402.m3u8
-#EXTINF:-1,(ES) Movistar Golf HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14403.m3u8
-#EXTINF:-1,(ES) Movistar MotoGP HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14404.m3u8
-#EXTINF:-1,(ES) Movistar Series HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14417.m3u8
-#EXTINF:-1,(ES) Movistar Series Xtra HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14416.m3u8
-#EXTINF:-1,(ES) Movistar Xtra HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14415.m3u8
-#EXTINF:-1,(ES) National Geographic HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14438.m3u8
-#EXTINF:-1,(ES) Non Stop People
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14436.m3u8
-#EXTINF:-1,(ES) Nova
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14460.m3u8
-#EXTINF:-1,(ES) Odisea
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14435.m3u8
-#EXTINF:-1,(ES) Real Madrid TV
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14398.m3u8
-#EXTINF:-1,(ES) TNT
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14422.m3u8
-#EXTINF:-1,(ES) Viajar HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14434.m3u8
-#EXTINF:-1,(ES) Toros TV HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/14400.m3u8
-#EXTINF:-1,(ES) #0 HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/135848.m3u8
-#EXTINF:-1,(ES) CALLE 13 HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/133322.m3u8
-#EXTINF:-1,(ES) LA LIGA TV BAR HD
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/133296.m3u8
-#EXTINF:-1,(ES) CANAL 24 HORAS
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/136458.m3u8
-#EXTINF:-1,(ES) TVE INTERNACIONAL EUROPA
-http://ip.sltv.be:8000/live/TU5llCtOVl/Cm9yPVendL/140026.m3u8
+#EXTINF:-1,ACTUALIZADO  DIA-29/07/2018
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://
+#EXTINF:-1,LA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4613.m3u8
+#EXTINF:-1,La 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5107.m3u8
+#EXTINF:-1,LA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5.m3u8
+#EXTINF:-1,La 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/7491.m3u8
+#EXTINF:-1,24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/10.m3u8
+#EXTINF:-1,Antena 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6.m3u8
+#EXTINF:-1,Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5108.m3u8
+#EXTINF:-1,Cuatro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/7.m3u8
+#EXTINF:-1,Cuatro HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4816.m3u8
+#EXTINF:-1,Telecinco
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4615.m3u8
+#EXTINF:-1,Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5109.m3u8
+#EXTINF:-1,DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/32.m3u8
+#EXTINF:-1,DKISS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6317.m3u8
+#EXTINF:-1,TEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4451.m3u8
+#EXTINF:-1,BE MAD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4682.m3u8
+#EXTINF:-1,MEGA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1838.m3u8
+#EXTINF:-1,DMAX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6316.m3u8
+#EXTINF:-1,ENERGY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/31.m3u8
+#EXTINF:-1,FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/29.m3u8
+#EXTINF:-1,13TV ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6304.m3u8
+#EXTINF:-1,A3Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/974.m3u8
+#EXTINF:-1,NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/19.m3u8
+#EXTINF:-1,Neox
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/853.m3u8
+#EXTINF:-1,Neox HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6609.m3u8
+#EXTINF:-1,Telemadrid HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/7492.m3u8
+#EXTINF:-1,---------- Cine ----------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6834.m3u8
+#EXTINF:-1,Movistar Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5097.m3u8
+#EXTINF:-1,Movistar Estrenos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2110.m3u8
+#EXTINF:-1,Movistar Acción
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2111.m3u8
+#EXTINF:-1,Movistar Acción HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5127.m3u8
+#EXTINF:-1,Movistar Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2112.m3u8
+#EXTINF:-1,Movistar Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5126.m3u8
+#EXTINF:-1,Movistar DCine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2113.m3u8
+#EXTINF:-1,Movistar DCine HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5128.m3u8
+#EXTINF:-1,Movistar Cine Español
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/38.m3u8
+#EXTINF:-1,Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1021.m3u8
+#EXTINF:-1,Movistar Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6356.m3u8
+#EXTINF:-1,Hollywood
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4685.m3u8
+#EXTINF:-1,Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6352.m3u8
+#EXTINF:-1,MoNoLatino
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6615.m3u8
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/14.m3u8
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6315.m3u8
+#EXTINF:-1,TNT ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/12.m3u8
+#EXTINF:-1,TNT HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5104.m3u8
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/18.m3u8
+#EXTINF:-1,DE PELICULA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5167.m3u8
+#EXTINF:-1,---------- Entretenimiento ----------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6899.m3u8
+#EXTINF:-1,#0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/42.m3u8
+#EXTINF:-1,#0 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5103.m3u8
+#EXTINF:-1,Movistar Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/57.m3u8
+#EXTINF:-1,Movistar Series HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6354.m3u8
+#EXTINF:-1,Movistar Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/56.m3u8
+#EXTINF:-1,M. Series xtra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6353.m3u8
+#EXTINF:-1,FOX ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4361.m3u8
+#EXTINF:-1,Fox HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5111.m3u8
+#EXTINF:-1,FOX Life
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/632.m3u8
+#EXTINF:-1,FOX Life HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6312.m3u8
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/70.m3u8
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5105.m3u8
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1827.m3u8
+#EXTINF:-1,AXN HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5136.m3u8
+#EXTINF:-1,AXN White ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/69.m3u8
+#EXTINF:-1,AXN White HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5137.m3u8
+#EXTINF:-1,DARK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4362.m3u8
+#EXTINF:-1,XTRM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4452.m3u8
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/16.m3u8
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6355.m3u8
+#EXTINF:-1,CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/53.m3u8
+#EXTINF:-1,CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5106.m3u8
+#EXTINF:-1,COMEDY CENTRAL ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/41.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1028.m3u8
+#EXTINF:-1,COSMOPOLITAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/40.m3u8
+#EXTINF:-1,COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6351.m3u8
+#EXTINF:-1,Toros TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/55.m3u8
+#EXTINF:-1,Toros TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4809.m3u8
+#EXTINF:-1,NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/20.m3u8
+#EXTINF:-1,Telenovelas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5168.m3u8
+#EXTINF:-1,ONDA CADIZ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1555.m3u8
+#EXTINF:-1,CANAL SUR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/45.m3u8
+#EXTINF:-1,---------- Deportes ----------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6900.m3u8
+#EXTINF:-1,Eventos Deportivos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6486.m3u8
+#EXTINF:-1,Movistar Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/61.m3u8
+#EXTINF:-1,Eventos Deportivos 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6582.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6319.m3u8
+#EXTINF:-1,Movistar Deportes 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/37.m3u8
+#EXTINF:-1,Movistar Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6320.m3u8
+#EXTINF:-1,Movistar Futbol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2249.m3u8
+#EXTINF:-1,Movistar Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4932.m3u8
+#EXTINF:-1,Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/13.m3u8
+#EXTINF:-1,Movistar Partidazo SOLO EN EMISION*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5098.m3u8
+#EXTINF:-1,Movistar Partidazo HD SOLO EN EMISION*
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/613.m3u8
+#EXTINF:-1,LaLiga TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/25.m3u8
+#EXTINF:-1,LaLiga TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4806.m3u8
+#EXTINF:-1,beIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/65.m3u8
+#EXTINF:-1,beIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4811.m3u8
+#EXTINF:-1,BeIn Sports LaLiga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/66.m3u8
+#EXTINF:-1,BeIn Sports LaLiga HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4808.m3u8
+#EXTINF:-1,BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/67.m3u8
+#EXTINF:-1,GOL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/28.m3u8
+#EXTINF:-1,Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6358.m3u8
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/30.m3u8
+#EXTINF:-1,EUROSPORT  2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1801.m3u8
+#EXTINF:-1,Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1373.m3u8
+#EXTINF:-1,Movistar Fórmula 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4807.m3u8
+#EXTINF:-1,M.MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2106.m3u8
+#EXTINF:-1,Movistar Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4810.m3u8
+#EXTINF:-1,Movistar Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/58.m3u8
+#EXTINF:-1,MOVISTAR GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6318.m3u8
+#EXTINF:-1,LaLiga 1|2|3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5099.m3u8
+#EXTINF:-1,LaLiga 1|2|3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5153.m3u8
+#EXTINF:-1,LaLiga 123 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6364.m3u8
+#EXTINF:-1,Bein Sports Ñ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/3317.m3u8
+#EXTINF:-1,Realmadrid TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4689.m3u8
+#EXTINF:-1,BOX NATION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1266.m3u8
+#EXTINF:-1,BOX NATION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5798.m3u8
+#EXTINF:-1,Sport TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4460.m3u8
+#EXTINF:-1,Sport TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4461.m3u8
+#EXTINF:-1,Sport TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4462.m3u8
+#EXTINF:-1,TYC SPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5169.m3u8
+#EXTINF:-1,UFC Network
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5962.m3u8
+#EXTINF:-1,Fight Sport
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5975.m3u8
+#EXTINF:-1,Fox Sports Sur
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6191.m3u8
+#EXTINF:-1,ESPN Sur
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6192.m3u8
+#EXTINF:-1,7RM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1,WWE 24/7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6204.m3u8
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6525.m3u8
+#EXTINF:-1,SFRSport1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6300.m3u8
+#EXTINF:-1,SFRSport2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6301.m3u8
+#EXTINF:-1,SFRSport3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6302.m3u8
+#EXTINF:-1,SFRSport5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6303.m3u8
+#EXTINF:-1,---------- Cultura ----------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6901.m3u8
+#EXTINF:-1,CANAL ODISEA ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/49.m3u8
+#EXTINF:-1,Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1027.m3u8
+#EXTINF:-1,Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6359.m3u8
+#EXTINF:-1,NAT GEO WILD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4454.m3u8
+#EXTINF:-1,Nat Geo Wild HD ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/5102.m3u8
+#EXTINF:-1,Discovery Channel España
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/36.m3u8
+#EXTINF:-1,Crimen e Investigacion
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/39.m3u8
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/27.m3u8
+#EXTINF:-1,CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/44.m3u8
+#EXTINF:-1,DCASA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6314.m3u8
+#EXTINF:-1,IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/634.m3u8
+#EXTINF:-1,VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/11.m3u8
+#EXTINF:-1,Viajar HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6360.m3u8
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/71.m3u8
+#EXTINF:-1,CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/51.m3u8
+#EXTINF:-1,---------- Música ----------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6902.m3u8
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/24.m3u8
+#EXTINF:-1,HIT TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTINF:-1,nrj Hits
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/2255.m3u8
+#EXTINF:-1,SOL MUSICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4458.m3u8
+#EXTINF:-1,Mezzo Live HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/1836.m3u8
+#EXTINF:-1,Classica TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4681.m3u8
+#EXTINF:-1,Telemusica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4805.m3u8
+#EXTINF:-1,SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/4759.m3u8
+#EXTINF:-1,TELEHIT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6206.m3u8
+#EXTINF:-1,---------- Infantiles ----------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6903.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/35.m3u8
+#EXTINF:-1,DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/33.m3u8
+#EXTINF:-1,DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/34.m3u8
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/68.m3u8
+#EXTINF:-1,BOING
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/64.m3u8
+#EXTINF:-1,CLAN TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/7507.m3u8
+#EXTINF:-1,NICK JR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/973.m3u8
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/47.m3u8
+#EXTINF:-1,Nickelodeon ES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/971.m3u8
+#EXTINF:-1,Movistar Disney
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://regnummi.mibox.live:980/live/Jesus/Jesus/6307.m3u8
+
 
 
 
