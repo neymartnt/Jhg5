@@ -4,186 +4,193 @@
 #EXTINF:-1,ACTUALIZANDO  
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://
  (Copyright © 2018 by SUPER.JHG.MASTER)
-#EXTINF:-1,ES: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20344.m3u8
-#EXTINF:-1,ES: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20340.m3u8
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20345.m3u8
-#EXTINF:-1,ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20346.m3u8
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20347.m3u8
-#EXTINF:-1,ES: AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20370.m3u8
-#EXTINF:-1,ES: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20409.m3u8
-#EXTINF:-1,ES: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20338.m3u8
-#EXTINF:-1,ES: BeiN La Liga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20412.m3u8
-#EXTINF:-1,ES: beIN LA Liga FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20407.m3u8
-#EXTINF:-1,ES: beIN Laliga 1 HD Backup
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20406.m3u8
-#EXTINF:-1,ES: BeiN Laliga FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20411.m3u8
-#EXTINF:-1,ES: Bein Liga HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20348.m3u8
-#EXTINF:-1,ES: beIN Sport FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20410.m3u8
-#EXTINF:-1,ES: Bein Sport HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20349.m3u8
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20350.m3u8
-#EXTINF:-1,ES: CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20371.m3u8
-#EXTINF:-1,ES: Canal  ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20377.m3u8
-#EXTINF:-1,ES: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20351.m3u8
-#EXTINF:-1,ES: Canal M DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20374.m3u8
-#EXTINF:-1,ES: Canal De Las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20334.m3u8
-#EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20352.m3u8
-#EXTINF:-1,ES: Canal SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20353.m3u8
-#EXTINF:-1,ES: Canal SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20382.m3u8
-#EXTINF:-1,ES: Caza y pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20354.m3u8
-#EXTINF:-1,ES: Clan Tve
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20355.m3u8
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20337.m3u8
-#EXTINF:-1,ES: COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20356.m3u8
-#EXTINF:-1,ES: Crimen Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20332.m3u8
-#EXTINF:-1,ES: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20385.m3u8
-#EXTINF:-1,ES: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20387.m3u8
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20386.m3u8
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20388.m3u8
-#EXTINF:-1,ES: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20390.m3u8
-#EXTINF:-1,ES: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20357.m3u8
-#EXTINF:-1,ES: DMAX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20413.m3u8
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20343.m3u8
-#EXTINF:-1,ES: EuroNews
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20415.m3u8
-#EXTINF:-1,ES: EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20342.m3u8
-#EXTINF:-1,ES: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20341.m3u8
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20358.m3u8
-#EXTINF:-1,ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20391.m3u8
-#EXTINF:-1,ES: GOL Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20359.m3u8
-#EXTINF:-1,ES: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20394.m3u8
-#EXTINF:-1,ES: IBERALIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20360.m3u8
-#EXTINF:-1,ES: LA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20361.m3u8
-#EXTINF:-1,ES: La Liga BAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20362.m3u8
-#EXTINF:-1,ES: M COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20373.m3u8
-#EXTINF:-1,ES: MEGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20397.m3u8
-#EXTINF:-1,ES: Movistar Accion HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20372.m3u8
-#EXTINF:-1,ES: Movistar Futbol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20329.m3u8
-#EXTINF:-1,ES: MOVISTAR MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20330.m3u8
-#EXTINF:-1,ES: Movistar Partidazo HD (event only)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20408.m3u8
-#EXTINF:-1,ES: Movistar XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20384.m3u8
-#EXTINF:-1,ES: MTV ESPANA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20331.m3u8
-#EXTINF:-1,ES: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20398.m3u8
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20399.m3u8
-#EXTINF:-1,ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20363.m3u8
-#EXTINF:-1,ES: NICK Jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20400.m3u8
-#EXTINF:-1,ES: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20364.m3u8
-#EXTINF:-1,ES: Nonstop People
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20336.m3u8
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20365.m3u8
-#EXTINF:-1,ES: Odisea
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20414.m3u8
-#EXTINF:-1,ES: PANDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20366.m3u8
-#EXTINF:-1,ES: Paramount
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20333.m3u8
-#EXTINF:-1,ES: Real Madrid Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20405.m3u8
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20367.m3u8
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20401.m3u8
-#EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20402.m3u8
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20368.m3u8
-#EXTINF:-1,ES:ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20369.m3u8
-#EXTINF:-1,ES:Canal  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20375.m3u8
-#EXTINF:-1,ES:Canal  DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20376.m3u8
-#EXTINF:-1,ES:Canal  FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20378.m3u8
-#EXTINF:-1,ES:Canal  GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20379.m3u8
-#EXTINF:-1,ES:Canal  LIGA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20380.m3u8
-#EXTINF:-1,ES:Canal  LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20381.m3u8
-#EXTINF:-1,ES:Canal  TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20383.m3u8
-#EXTINF:-1,ES:DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20389.m3u8
-#EXTINF:-1,ES:FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20392.m3u8
-#EXTINF:-1,ES:HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20393.m3u8
-#EXTINF:-1,ES:LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20395.m3u8
-#EXTINF:-1,ES:TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20403.m3u8
-#EXTINF:-1,ES:VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20404.m3u8
-#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20335.m3u8
-#EXTINF:-1,ES: Telecinco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/21075.m3u8
-#EXTINF:-1,ES: Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/21074.m3u8
-#EXTINF:-1,ES: Telesur
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/21073.m3u8
-#EXTINF:-1,ES : MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20327.m3u8
-#EXTINF:-1,ES : MOVISTAR FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/20328.m3u8
-#EXTINF:-1,ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://212.8.250.12:25461/live/mohamed/1234/21076.m3u8
+
+EXTINF:-1,ES:LA 1
+http://54.37.255.204:9977/live/jf/iptv/28847.ts
+EXTINF:-1,ES:LA 1 FHD
+http://54.37.255.204:9977/live/jf/iptv/28846.ts
+EXTINF:-1,ES:LA 2
+http://54.37.255.204:9977/live/jf/iptv/28845.ts
+EXTINF:-1,ES:La 2 FHD
+http://54.37.255.204:9977/live/jf/iptv/28844.ts
+EXTINF:-1,ES:ANTENA 3
+http://54.37.255.204:9977/live/jf/iptv/28843.ts
+EXTINF:-1,ES:ANTENA 3 FHD
+http://54.37.255.204:9977/live/jf/iptv/28842.ts
+EXTINF:-1,ES:CUATRO
+http://54.37.255.204:9977/live/jf/iptv/28841.ts
+EXTINF:-1,ES:CUATRO FHD
+http://54.37.255.204:9977/live/jf/iptv/28840.ts
+EXTINF:-1,ES:TELECINCO
+http://54.37.255.204:9977/live/jf/iptv/28839.ts
+EXTINF:-1,ES:TELECINCO FHD
+http://54.37.255.204:9977/live/jf/iptv/28838.ts
+EXTINF:-1,ES:LA SXTA
+http://54.37.255.204:9977/live/jf/iptv/28837.ts
+EXTINF:-1,ES:CLAN
+http://54.37.255.204:9977/live/jf/iptv/28765.ts
+EXTINF:-1,ES:CLAN HD
+http://54.37.255.204:9977/live/jf/iptv/28638.ts
+EXTINF:-1,ES:24 HORAS
+http://54.37.255.204:9977/live/jf/iptv/28739.ts
+EXTINF:-1,ES:NEOX
+http://54.37.255.204:9977/live/jf/iptv/28803.ts
+EXTINF:-1,ES:TELEDEPORTE
+http://54.37.255.204:9977/live/jf/iptv/28678.ts
+EXTINF:-1,ES:TELEMADRID FHD
+http://54.37.255.204:9977/live/jf/iptv/28715.ts
+EXTINF:-1,ES:FOX
+http://54.37.255.204:9977/live/jf/iptv/28826.ts
+EXTINF:-1,ES:FOX HD
+http://54.37.255.204:9977/live/jf/iptv/28825.ts
+EXTINF:-1,ES:FOX FHD
+http://54.37.255.204:9977/live/jf/iptv/28824.ts
+EXTINF:-1,ES:FOX LIFE
+http://54.37.255.204:9977/live/jf/iptv/28823.ts
+EXTINF:-1,ES:FOX LIVE HD
+http://54.37.255.204:9977/live/jf/iptv/28822.ts
+EXTINF:-1,ES:FOX LIFE FHD
+http://54.37.255.204:9977/live/jf/iptv/28821.ts
+EXTINF:-1,ES:AXN
+http://54.37.255.204:9977/live/jf/iptv/28835.ts
+EXTINF:-1,ES:AXN HD
+http://54.37.255.204:9977/live/jf/iptv/28834.ts
+EXTINF:-1,ES:AXN  WHITE
+http://54.37.255.204:9977/live/jf/iptv/28832.ts
+EXTINF:-1,ES:AXN  WHITE FHD
+http://54.37.255.204:9977/live/jf/iptv/28830.ts
+EXTINF:-1,ES:AXN  WHITE HD
+http://54.37.255.204:9977/live/jf/iptv/28831.ts
+EXTINF:-1,ES:AXN FULL HD
+http://54.37.255.204:9977/live/jf/iptv/28833.ts
+EXTINF:-1,ES:TCM FHD
+http://54.37.255.204:9977/live/jf/iptv/28807.ts
+EXTINF:-1,ES:TNT FHD
+http://54.37.255.204:9977/live/jf/iptv/28819.ts
+EXTINF:-1,ES:CALLE 13 FHD
+http://54.37.255.204:9977/live/jf/iptv/28815.ts
+EXTINF:-1,ES: HOLLYWOOD FHD
+http://54.37.255.204:9977/live/jf/iptv/28817.ts
+EXTINF:-1,ES:A3SERIES
+http://54.37.255.204:9977/live/jf/iptv/28804.ts
+EXTINF:-1,ES:SYFY FHD
+http://54.37.255.204:9977/live/jf/iptv/28813.ts
+EXTINF:-1,ES:CAZA Y PESCA HD
+http://54.37.255.204:9977/live/jf/iptv/28749.ts
+EXTINF:-1,ES:NAT GEO  WILD
+http://54.37.255.204:9977/live/jf/iptv/28757.ts
+EXTINF:-1,ES:NAT GEO
+http://54.37.255.204:9977/live/jf/iptv/28759.ts
+EXTINF:-1,ES:NAT GEO FULLHD
+http://54.37.255.204:9977/live/jf/iptv/28760.ts
+EXTINF:-1,ES:NAT GEO WILD FHD
+http://54.37.255.204:9977/live/jf/iptv/28758.ts
+EXTINF:-1,ES:VIAJAR FULLHD
+http://54.37.255.204:9977/live/jf/iptv/28751.ts
+EXTINF:-1,ES:BARCA TV
+http://54.37.255.204:9977/live/jf/iptv/28772.ts
+EXTINF:-1,ES:REAL MADRID TV
+http://54.37.255.204:9977/live/jf/iptv/28679.ts
+EXTINF:-1,ES:TELEDEPORTE FHD
+http://54.37.255.204:9977/live/jf/iptv/28677.ts
+EXTINF:-1,ES:LIGATV FULL HD
+http://54.37.255.204:9977/live/jf/iptv/28694.ts
+EXTINF:-1,ES:LAFTV BAR 1
+http://54.37.255.204:9977/live/jf/iptv/28695.ts
+EXTINF:-1,ES:Liga 123 SD
+http://54.37.255.204:9977/live/jf/iptv/28693.ts
+EXTINF:-1,ES:LIGATV SD
+http://54.37.255.204:9977/live/jf/iptv/28639.ts
+EXTINF:-1,ES:GOL TV
+http://54.37.255.204:9977/live/jf/iptv/28692.ts
+EXTINF:-1,ES:13 TV
+http://54.37.255.204:9977/live/jf/iptv/28724.ts
+EXTINF:-1,ES:24H
+http://54.37.255.204:9977/live/jf/iptv/28723.ts
+EXTINF:-1,ES:3/24
+http://54.37.255.204:9977/live/jf/iptv/28729.ts
+EXTINF:-1,ES:7RM
+http://54.37.255.204:9977/live/jf/iptv/28722.ts
+EXTINF:-1,ES:8Tv
+http://54.37.255.204:9977/live/jf/iptv/28738.ts
+EXTINF:-1,ES:A&E
+http://54.37.255.204:9977/live/jf/iptv/28754.ts
+EXTINF:-1,ES:AMC
+http://54.37.255.204:9977/live/jf/iptv/28829.ts
+EXTINF:-1,ES:AMC FHD
+http://54.37.255.204:9977/live/jf/iptv/28827.ts
+EXTINF:-1,ES:AMC HD
+http://54.37.255.204:9977/live/jf/iptv/28828.ts
+EXTINF:-1,ES:ANDALUCIA TV
+http://54.37.255.204:9977/live/jf/iptv/28737.ts
+EXTINF:-1,ES:ARAGON TV
+http://54.37.255.204:9977/live/jf/iptv/28736.ts
+EXTINF:-1,ES:BE MAD FHD
+http://54.37.255.204:9977/live/jf/iptv/28742.ts
+EXTINF:-1,ES:BLAZE
+http://54.37.255.204:9977/live/jf/iptv/28725.ts
+EXTINF:-1,ES:CALLE 13
+http://54.37.255.204:9977/live/jf/iptv/28816.ts
+EXTINF:-1,ES:CANAL ORBE21
+http://54.37.255.204:9977/live/jf/iptv/28726.ts
+EXTINF:-1,ES:CANAL SUR FHD
+http://54.37.255.204:9977/live/jf/iptv/28721.ts
+EXTINF:-1,ES:CAZA  Y PESCA
+http://54.37.255.204:9977/live/jf/iptv/28750.ts
+EXTINF:-1,ES:CI
+http://54.37.255.204:9977/live/jf/iptv/28753.ts
+EXTINF:-1,ES:CMM HD
+http://54.37.255.204:9977/live/jf/iptv/28720.ts
+EXTINF:-1,ES:COCINA
+http://54.37.255.204:9977/live/jf/iptv/28746.ts
+EXTINF:-1,ES:COMEDY  CENTRAL
+http://54.37.255.204:9977/live/jf/iptv/28810.ts
+EXTINF:-1,ES:COMEDY CENTRAL HD
+http://54.37.255.204:9977/live/jf/iptv/28809.ts
+EXTINF:-1,ES:COSMOPOLITAN  FHD
+http://54.37.255.204:9977/live/jf/iptv/28811.ts
+EXTINF:-1,ES:COSMOS
+http://54.37.255.204:9977/live/jf/iptv/28812.ts
+EXTINF:-1,ES:DARK
+http://54.37.255.204:9977/live/jf/iptv/28797.ts
+EXTINF:-1,ES:DECASA
+http://54.37.255.204:9977/live/jf/iptv/28745.ts
+EXTINF:-1,ES:DISCOVERY  CHANNEL
+http://54.37.255.204:9977/live/jf/iptv/28748.ts
+EXTINF:-1,ES:DIVINITY
+http://54.37.255.204:9977/live/jf/iptv/28805.ts
+EXTINF:-1,ES:DKISS
+http://54.37.255.204:9977/live/jf/iptv/28735.ts
+EXTINF:-1,ES:DMAX
+http://54.37.255.204:9977/live/jf/iptv/28741.ts
+EXTINF:-1,ES:ENERGY
+http://54.37.255.204:9977/live/jf/iptv/28799.ts
+EXTINF:-1,ES:ESPORT 3
+http://54.37.255.204:9977/live/jf/iptv/28637.ts
+EXTINF:-1,ES:ESPORTS
+http://54.37.255.204:9977/live/jf/iptv/28640.ts
+EXTINF:-1,ES:ETB 1
+http://54.37.255.204:9977/live/jf/iptv/28719.ts
+EXTINF:-1,ES:SOL Music
+http://54.37.255.204:9977/live/jf/iptv/28734.ts
+EXTINF:-1,ES:SOMOS
+http://54.37.255.204:9977/live/jf/iptv/28795.ts
+EXTINF:-1,ES:SUNDANCE
+http://54.37.255.204:9977/live/jf/iptv/28733.ts
+EXTINF:-1,ES:Super 3
+http://54.37.255.204:9977/live/jf/iptv/28728.ts
+EXTINF:-1,ES:SYFY
+http://54.37.255.204:9977/live/jf/iptv/28814.ts
+EXTINF:-1,ES:TCM
+http://54.37.255.204:9977/live/jf/iptv/28806.ts
+EXTINF:-1,ES:TEN
+http://54.37.255.204:9977/live/jf/iptv/28740.ts
+EXTINF:-1,ES:TNT
+http://54.37.255.204:9977/live/jf/iptv/28820.ts
+EXTINF:-1,ES:TV 13
+http://54.37.255.204:9977/live/jf/iptv/28801.ts
+EXTINF:-1,ES:TV 3
+http://54.37.255.204:9977/live/jf/iptv/28727.ts
+EXTINF:-1,ES:Viajar
+http://54.37.255.204:9977/live/jf/iptv/28752.ts
 
