@@ -4,14 +4,15 @@
 
 
 		#EXTINF:-1,ES:MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://147.135.128.132:8000/live/marccelo2018/marccelo2018/367.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/marccelo2018/marccelo2018/367.m3u8
 		#EXTINF:-1,ES:MOVISTAR FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://147.135.128.132:8000/live/marccelo2018/marccelo2018/284.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/marccelo2018/marccelo2018/284.m3u8
 		#EXTINF:-1,ES: BEIN LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://147.135.128.132:8000/live/marccelo2018/marccelo2018/3752.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/marccelo2018/marccelo2018/3752.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=
 
-
-
+http://iptv.wtf:25461/live/zbrvnvhj/X03xrY5gj0/4393.m3u8
 
 #EXTINF:-1,ES:x4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]SUPER.JHG.MASTER[/COLOR];url=http://iptvtool.es:9977/live/jf/iptv/28697.m3u8
