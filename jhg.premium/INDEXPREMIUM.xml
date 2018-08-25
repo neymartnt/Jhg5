@@ -56,13 +56,13 @@
 
 
 <item>
-<title>[COLOR black]•[/COLOR][COLOR white]  [B]AGENDA ARENAVISION[/B][/COLOR] [COLOR lightslategray] [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR white]  [B]AGENDA ARENAVISION[/B][/COLOR] [COLOR gold] [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 
-<title>$pyFunction:'[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]'.replace('>','Canal ')</title>
+<title>$pyFunction:'[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR gold][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]'.replace('>','Canal ')</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHG+[makelist.param5]+Arenavision</link>
 			<regex>
 			<name>hash</name>
@@ -98,7 +98,7 @@
 
 
 <item>
-<title>[COLOR yellow] _**_  [/COLOR][COLOR white]  [B]FUTBOL[/B][/COLOR] [COLOR lightslategray](Elige tu Liga) [/COLOR]</title>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR white]  [B]FUTBOL[/B][/COLOR] [COLOR gold](Elige tu Liga) [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -161,7 +161,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR black]•[/COLOR][COLOR white]  [B]DEPORTE[/B][/COLOR] [COLOR lightslategray](categorias) [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR white]  [B]DEPORTE[/B][/COLOR] [COLOR gold](categorias) [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 
 <link>$doregex[makelist3]</link>
 
@@ -178,7 +178,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
-<title>$pyFunction:'[COLOR lightslategray][makelist2.param2] [COLOR white][makelist2.param3] [COLOR white] [B][makelist2.param5][/B] [/COLOR][/COLOR][/COLOR]'.replace('\/','-')</title>
+<title>$pyFunction:'[COLOR gold][makelist2.param2] [COLOR white][makelist2.param3] [COLOR white] [B][makelist2.param5][/B] [/COLOR][/COLOR][/COLOR]'.replace('\/','-')</title>
 <link>$doregex[makelist]</link>
 ]]></listrepeat>
 <expres>"id":"(.*?)","fecha":"(.*?)","hora":"(.*?)","categoria":"(.*?)","titulo":"(.*?)"</expres>
