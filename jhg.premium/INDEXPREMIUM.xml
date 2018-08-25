@@ -44,10 +44,40 @@
  </item>
 	
 
+ <item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR  red]  TikiTaka 01 [/COLOR] [COLOR  yellow] _**_  [/COLOR]</title>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0&amp;Referer=http://static.castto.me/embedlivesrvjs.php?channel=1820780381&vw=720&vh=420</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[source src="([^"]+)]]></expres>
+<page>http://static.castto.me/embedlivesrvjs.php?channel=$doregex[getid]&amp;vw=720&amp;vh=420</page>
+<referer>http://estadionline.ml/canal1.php</referer>
+</regex>
+<regex>
+<name>getid</name>
+<expres><![CDATA[fid="([^"]+)]]></expres>
+<page>http://estadionline.ml/canal1.php</page>
+<referer>http://estadionline.ml/canal1.php</referer>
+</regex>
+<thumbnail></thumbnail></item>
 
-
-
-
+ <item> 
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR  red]  TikiTaka 02 [/COLOR] [COLOR  yellow] _**_  [/COLOR]</title>
+<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0&amp;Referer=http://static.castto.me/embedlivesrvjs.php?channel=354661332&vw=720&vh=420</link>
+<regex>
+<name>url</name>
+<expres><![CDATA[source src="([^"]+)]]></expres>
+<page>http://static.castto.me/embedlivesrvjs.php?channel=$doregex[getid]&amp;vw=720&amp;vh=420</page>
+<referer>http://estadionline.ml/canal1.php</referer>
+</regex>
+<regex>
+<name>getid</name>
+<expres><![CDATA[fid="([^"]+)]]></expres>
+<page>http://estadionline.ml/canal2.php</page>
+<referer>http://estadionline.ml/canal2.php</referer>
+</regex>
+<thumbnail></thumbnail></item>
+	
 
 
 
