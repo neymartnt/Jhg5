@@ -45,51 +45,7 @@
 	
 
 
-<item>
-<title>[COLOR white][B][  ][/B][/COLOR]  [COLOR lightblue][B]BUSCAR CANAL ACESTREAM[/B] [/COLOR][COLOR white] [/COLOR] </title>
-<link>$doregex[lista]</link>
 
-<regex>
-<name>lista</name>
-  <listrepeat><![CDATA[
-         
-		 <title>[lista.param2]</title>
-        <link>plugin://program.plexus/?url=[lista.param1]&amp;mode=1&amp;name=BlackAddon+[lista.param2]</link>
-		<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestream.png</thumbnail>
-		]]></listrepeat>
-<expres><![CDATA[acestream:\/\/(.*?)">(.*?)<]]><expres>
-<page>https://acestreamsearch.com/en/index.php</page>
-<rawpost>cn=$doregex[search]</rawpost>
-<referer>https://acestreamsearch.com/en/index.php</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-
-<regex>
-<name>search</name>
-<expres><![CDATA[#$pyFunction
-import xbmc
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    dialog = xbmcgui.Dialog()
-    d = dialog.input('Buscar  Canal: ejemplo: Sky Sports', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
-    return d
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
-</item>
-
-
-
-
-
-[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]
 
 
 
@@ -107,7 +63,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
 
 <title>$pyFunction:'[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]'.replace('>','Canal ')</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=BlackGhost+[makelist.param5]+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHG+[makelist.param5]+Arenavision</link>
 			<regex>
 			<name>hash</name>
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -121,7 +77,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<page></page>
 			</regex>
 
-			<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
+			<thumbnail></thumbnail>
 
 ]]></listrepeat>
 <expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,52}"(>[0-9]+)]]></expres>
@@ -130,7 +86,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <referer>http://cdn.arenavision.biz</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 	
 	
@@ -239,7 +195,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
 
 <title> [COLOR white] [B][makelist2.param5][/B] [/COLOR] [I] Canal  [makelist.param1]  idioma:[makelist.param3] [/I]</title>
-<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=BlackAddon</link>
+<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=JHG</link>
 </item>
 ]]></listrepeat>
 <expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
@@ -247,7 +203,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 
 
-<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 	
 	 <item>
