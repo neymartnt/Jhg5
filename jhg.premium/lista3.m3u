@@ -3,9 +3,8 @@
 	
 	
 	
-	#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/JHGkodi[/COLOR]
-paypal.me/JHGkodi
-#EXTINF:-1,â–¿ â–‚ â–„ â–… â–†â˜† SPANISH CHANNELS â˜†â–† â–… â–„ â–‚ â–¿
+	
+#EXTINF:-1, SPANISH CHANNELS 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://
 #EXTINF:-1,ES:LA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28847.ts
