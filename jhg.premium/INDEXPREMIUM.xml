@@ -54,7 +54,6 @@
 
 
 
-
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR white]  [B]AGENDA ARENAVISION[/B][/COLOR] [COLOR gold] [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 <link>$doregex[makelist]</link>
