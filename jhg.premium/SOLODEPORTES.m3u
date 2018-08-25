@@ -17,8 +17,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PR
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://iptv.wtf:25461/live/zbrvnvhj/X03xrY5gj0/4066.m3u8
 #EXTINF:-1,ES:LA LIGA 123
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://iptv.wtf:25461/live/zbrvnvhj/X03xrY5gj0/4065.m3u8
-#EXTINF:-1,ES:
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=
+#EXTINF:-1,ES:FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://iptv.wtf:25461/live/zbrvnvhj/X03xrY5gj0/4382.m3u8
 #EXTINF:-1,ES:
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=
 #EXTINF:-1,ES:
