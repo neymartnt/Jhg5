@@ -5,5 +5,10 @@
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://iptv.wtf:25461/live/zbrvnvhj/X03xrY5gj0/4382.m3u8
 #EXTINF:-1,ES:FORMULA 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://iptv.wtf:25461/live/zbrvnvhj/X03xrY5gj0/4382.m3u8
+
+#EXTINF:-1,ES:FORMULA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1595.ts
 #EXTINF:-1,ES:MOTOGP
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://147.135.128.132:8000/live/marccelo2018/marccelo2018/367.m3u8
+#EXTINF:-1,ES:MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1594.ts
