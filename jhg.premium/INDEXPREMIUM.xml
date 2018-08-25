@@ -61,6 +61,7 @@
 </regex>
 <thumbnail></thumbnail></item>
 
+
  <item> 
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR  red]  TikiTaka 02 [/COLOR] [COLOR  yellow] _**_  [/COLOR]</title>
 <link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0&amp;Referer=http://static.castto.me/embedlivesrvjs.php?channel=354661332&vw=720&vh=420</link>
