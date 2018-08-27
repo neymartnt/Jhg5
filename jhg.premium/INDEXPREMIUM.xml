@@ -256,7 +256,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1 (en mantenimiento)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.m3u</externallink>
 <thumbnail></thumbnail>
@@ -264,7 +264,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2(en mantenimiento) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u</externallink>
 <thumbnail></thumbnail>
