@@ -427,7 +427,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JH
 
 
 
-#EXTINF:-1,===== Spain ===lista 2==
+#EXTINF:-1,[COLOR  yellow]===== Spain ===lista 2==[/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG.PREMIUM[/COLOR];url=http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/1197.m3u8
 
 
