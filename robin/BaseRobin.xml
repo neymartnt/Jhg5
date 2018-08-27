@@ -2,6 +2,59 @@
 
 
 
+
+
+<item>
+<title>[B]Multicanal[/B] TikiTaka 01 [I] ** [/I]</title>
+<link>$doregex[ip2]</link>
+
+<regex>
+<name>ip2</name>
+<expres>$pyFunction:'$doregex[ip]'.replace(""", "").replace(",", "")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>ip</name>
+<expres>return\(\[(.*?)\]</expres>
+<page>http://www.vlive.pw/embed.php?live=lacasadeltikitaka&amp;vw=720&amp;vh=420</page>
+<referer>http://lacasadeltikitaka.club/directo/canal1.php</referer>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+</regex>
+	
+<thumbnail></thumbnail>
+</item>
+	
+
+  <item>
+<title>[B]Multicanal[/B] TikiTaka 02 [I]  [/I]</title>
+<link>http://$doregex[Igor_Rangel_IP]/loadbalance/63895542913919338661/playlist.m3u8$doregex[Igor_Rangel_AuthSign]|User-Agent=iPhone</link>
+<regex>
+<name>Igor_Rangel_IP</name>
+<expres>location:http://(.*)/loadbalance</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+<noredirect>true</noredirect>
+<includeheaders></includeheaders>
+</regex>
+<regex>
+<name>Igor_Rangel_AuthSign</name>
+<expres>m3u8(.*)</expres>
+<page>$doregex[Igor_Rangel_Page]</page>
+</regex>
+
+<regex>
+<name>Igor_Rangel_Page</name>
+<expres>"(.*m3u8.*?)"</expres>
+<page>http://pxstream.tv/embed/vtb3rb1wbx70/</page>
+<referer>http://lacasadeltikitaka.club</referer>
+</regex>
+<thumbnail></thumbnail></item>
+
+
+
+
+
+
 <item>
 <title>[COLOR white][B][  ][/B][/COLOR]  [COLOR lightblue][B]BUSCAR CANAL ACESTREAM[/B] [/COLOR][COLOR white] [/COLOR] </title>
 <link>$doregex[lista]</link>
@@ -518,6 +571,8 @@ item>
  item>
 <title>[COLOR lime]• [/COLOR][COLOR cyan] Programas Tv[/COLOR]</title>
 <thumbnail></thumbnail>
+
+
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 <link></link>
 /item>
