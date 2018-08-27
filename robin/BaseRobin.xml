@@ -61,7 +61,171 @@
 <externallink>https://pastebin.com/raw/3LuvMJbp</externallink>
 </item>
 
+<item>
+<title>[COLOR lightblue][B]* Peliculas Estrenos [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.dibujosparapintar.com/archivos/peliculas_logo.png</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://pastebin.com/raw/Kuad1pYp</externallink>
+</item>
 
+<item>
+<title>[COLOR lightblue][B]* Peliculas Buenas cris 2018 [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.mtvnsouthservices.com/gsp/international/paramountchannel.es/microsites/microsite-final-batalla-2/img/common/logo-batalla.png</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://pastebin.com/raw/NKTWpj7E</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lightblue][B]* Peliculas 2018 y mas[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://img.revistablue.com/wp-content/uploads/2015/09/26143932/cine01.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://pastebin.com/raw/FZ4wr6sz</externallink>
+</item>
+
+<item>
+<title>[COLOR lightblue][B]* Peliculas 2016 Para Abajo[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://static-2.ivoox.com/canales/5/1/6/7/7621470747615_XXL.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://pastebin.com/raw/uEHTQ0QQ</externallink>
+</item>
+
+<item>
+<title>[COLOR lightblue][B]* Peliculas Retro[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://thediaphragm.files.wordpress.com/2013/11/logo-cine.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN%20FILMES%20480p</externallink>
+</item>
+
+<item>
+<title>[COLOR lightblue][B]* Peliculas Diskoskomico [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.cuacarraquear.com/wp-content/uploads/2014/05/80s-movies-collage-party.gif</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/MAIN%20PELIS%20DISKOKOSMICO</externallink>
+</item>
+
+<item>
+  <title>[COLOR lightblue][B]* Coleccion de Peliculas HD 1 [/B][/COLOR]</title>  
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://legionworldtv.com/goldentv/images/icon.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jml/peliculas-25581/list,1,13</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jml/peliculas-25581/list,1,13</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
+</regex>
+<regex>
+<name>cookie</name>
+<expres><expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>__RequestVerificationToken=$doregex[logtok]&amp;UserName=Angeline69&amp;Password=angel1314</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>logtok</name>
+<expres>Token.+?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/<referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://legionworldtv.com/goldentv/images/icon.png</thumbnail>
+  </item>
+
+  <item>
+    <title>[COLOR lightblue][B]* Coleccion de Peliculas HD 2 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://legionworldtv.com/goldentv/images/icon.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/oscaraday/l-dvd-22897/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/oscaraday/l-dvd-22897/list,1,4</referer>
+<cookieJar>$doregex[cookie]</cookieJar>
+</regex>
+<regex>
+<name>cookie</name>
+<expres><expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>__RequestVerificationToken=$doregex[logtok]&amp;UserName=Angeline69&amp;Password=angel1314</rawpost>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>logtok</name>
+<expres>Token.+?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/Account/Login</page>
+<referer>http://diskokosmiko.mx/<referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://legionworldtv.com/goldentv/images/icon.png</thumbnail>
+  </item> 
+ 
+ <item>
+<title>[COLOR lightblue][B]* Peliculas 1 COLECCION  [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.kinja-img.com/gawker-media/image/upload/s--VIBrv7lz--/c_scale,f_auto,fl_progressive,q_80,w_800/1482808632960286019.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/PELICULAS%201</externallink>
+</item>
+
+<item>
+<title>[COLOR lightblue][B]* Peliculas por Actor [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://mouse.latercera.com/wp-content/uploads/2017/06/posters.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-5KKAIlZFo4E/Wv9Rf8ETOqI/AAAAAAAAAE8/Hj9gGF88Fp8ywis8Dn5B3km55MZkydfJwCLcBGAs/s1600/LOGO%2BCRIS.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Mity2018/Addons/master/PELIS%20POR%20AUTOR</externallink>
+</item>
 
 <item>
 <title>[COLOR white][B][  ][/B][/COLOR]  [COLOR lightblue][B]BUSCAR CANAL ACESTREAM[/B] [/COLOR][COLOR white] [/COLOR] </title>
