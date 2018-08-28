@@ -324,9 +324,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red]   [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red]  Canales PEQUES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/peques.m3u</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
