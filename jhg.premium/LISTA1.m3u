@@ -7,6 +7,296 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://
  (Copyright © 2018 by SUPER.JHG.MASTER)
 
+ 
+ #EXTINF:-1,===== Spain =====
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1197.m3u8
+#EXTINF:-1,ES: LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3364.m3u8
+#EXTINF:-1,ES: LA 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/622.m3u8
+#EXTINF:-1,ES: ANTENA3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3383.m3u8
+#EXTINF:-1,ES: CUATRO  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3391.m3u8
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3384.m3u8
+#EXTINF:-1,ES: #O HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2401.m3u8
+#EXTINF:-1,ES: TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3374.m3u8
+#EXTINF:-1,ES: Bein Sport HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6491.m3u8
+#EXTINF:-1,ES: Bein Liga HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2409.m3u8
+#EXTINF:-1,ES: La Liga BAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7180.m3u8
+#EXTINF:-1,ES: beIN LaLIga 1 (event only)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7181.m3u8
+#EXTINF:-1,ES: beIN LaLIga 2 (event only)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7182.m3u8
+#EXTINF:-1,ES: beIN LaLIga 3 (event only)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7183.m3u8
+#EXTINF:-1,ES: M. Partidazo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8200.m3u8
+#EXTINF:-1,ES: M. Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2408.m3u8
+#EXTINF:-1,ES: M. Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2407.m3u8
+#EXTINF:-1,ES: M. DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3372.m3u8
+#EXTINF:-1,ES: M.Golf  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3373.m3u8
+#EXTINF:-1,ES: TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6816.m3u8
+#EXTINF:-1,ES: MoviStar F1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2570.m3u8
+#EXTINF:-1,ES: Movistar GP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2836.m3u8
+#EXTINF:-1,ES: M. Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2405.m3u8
+#EXTINF:-1,ES: GOL T HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12640.m3u8
+#EXTINF:-1,ES: M.  XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3388.m3u8
+#EXTINF:-1,ES: M. Dcine HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2404.m3u8
+#EXTINF:-1,ES: M. Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2403.m3u8
+#EXTINF:-1,ES: M. Accion HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2402.m3u8
+#EXTINF:-1,ES: M.  SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2406.m3u8
+#EXTINF:-1,ES: M. SERIES Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3365.m3u8
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3367.m3u8
+#EXTINF:-1,ES: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6815.m3u8
+#EXTINF:-1,ES: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3369.m3u8
+#EXTINF:-1,ES: COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3387.m3u8
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3386.m3u8
+#EXTINF:-1,ES: CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3368.m3u8
+#EXTINF:-1,ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3385.m3u8
+#EXTINF:-1,ES: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3366.m3u8
+#EXTINF:-1,ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3371.m3u8
+#EXTINF:-1,ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6814.m3u8
+#EXTINF:-1,ES: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6817.m3u8
+#EXTINF:-1,ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3370.m3u8
+#EXTINF:-1,ES: VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3390.m3u8
+#EXTINF:-1,ES: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3389.m3u8
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3375.m3u8
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3376.m3u8
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3382.m3u8
+#EXTINF:-1,ES: CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8206.m3u8
+#EXTINF:-1,ES: EUROSPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8204.m3u8
+#EXTINF:-1,ES: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8208.m3u8
+#EXTINF:-1,ES: MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8205.m3u8
+#EXTINF:-1,ES: #0
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/635.m3u8
+#EXTINF:-1,ES: 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2630.m3u8
+#EXTINF:-1,ES: 3/24
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1441.m3u8
+#EXTINF:-1,ES: 8TV Madrid
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1090.m3u8
+#EXTINF:-1,ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2643.m3u8
+#EXTINF:-1,ES: A3 Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12630.m3u8
+#EXTINF:-1,ES: AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2638.m3u8
+#EXTINF:-1,ES: Andalucia TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1440.m3u8
+#EXTINF:-1,ES: Antena3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1097.m3u8
+#EXTINF:-1,ES: Aragon
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8211.m3u8
+#EXTINF:-1,ES: Axn Spain
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/641.m3u8
+#EXTINF:-1,ES: Axn White Spain
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/640.m3u8
+#EXTINF:-1,ES: Barca tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/639.m3u8
+#EXTINF:-1,ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2211.m3u8
+#EXTINF:-1,ES: C&I
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8209.m3u8
+#EXTINF:-1,ES: Calle 13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1096.m3u8
+#EXTINF:-1,ES: Canal  Accion
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/638.m3u8
+#EXTINF:-1,ES: Canal  Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/637.m3u8
+#EXTINF:-1,ES: Canal  Deportes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/636.m3u8
+#EXTINF:-1,ES: Canal Coccina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1103.m3u8
+#EXTINF:-1,ES: Canal Decasa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2632.m3u8
+#EXTINF:-1,ES: Canal Deportes2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1085.m3u8
+#EXTINF:-1,ES: Canal Estrenos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1094.m3u8
+#EXTINF:-1,ES: XTRM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8210.m3u8
+#EXTINF:-1,ES: Canal Futbol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/656.m3u8
+#EXTINF:-1,ES: Canal Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1086.m3u8
+#EXTINF:-1,ES: Canal Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1093.m3u8
+#EXTINF:-1,ES: Canal Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1095.m3u8
+#EXTINF:-1,ES: Canal Torros
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1092.m3u8
+#EXTINF:-1,ES: Canal Xtra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1091.m3u8
+#EXTINF:-1,ES: Caza y pesca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1102.m3u8
+#EXTINF:-1,ES: Clan Tve
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1100.m3u8
+#EXTINF:-1,ES: Classica
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2637.m3u8
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2633.m3u8
+#EXTINF:-1,ES: Dcine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/634.m3u8
+#EXTINF:-1,ES: Disney Channel Spain
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/633.m3u8
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12631.m3u8
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12632.m3u8
+#EXTINF:-1,ES: DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2218.m3u8
+#EXTINF:-1,ES: DKiss
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12633.m3u8
+#EXTINF:-1,ES: Dmax
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2641.m3u8
+#EXTINF:-1,ES: DW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12634.m3u8
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1099.m3u8
+#EXTINF:-1,ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1098.m3u8
+#EXTINF:-1,ES: Fox
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/631.m3u8
+#EXTINF:-1,ES: GOL T
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1084.m3u8
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/630.m3u8
+#EXTINF:-1,ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/629.m3u8
+#EXTINF:-1,ES: Iberlia TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2629.m3u8
+#EXTINF:-1,ES: LA 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/623.m3u8
+#EXTINF:-1,ES: Levante TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2640.m3u8
+#EXTINF:-1,ES: Mega HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2217.m3u8
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1087.m3u8
+#EXTINF:-1,ES: Movistar GP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1088.m3u8
+#EXTINF:-1,ES: MTV Spana
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2213.m3u8
+#EXTINF:-1,ES: Multideporte
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12629.m3u8
+#EXTINF:-1,ES: Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1101.m3u8
+#EXTINF:-1,ES: Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/626.m3u8
+#EXTINF:-1,ES: National Geo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/625.m3u8
+#EXTINF:-1,ES: NEOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2216.m3u8
+#EXTINF:-1,ES: Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12635.m3u8
+#EXTINF:-1,ES: NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8207.m3u8
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2214.m3u8
+#EXTINF:-1,ES: Odisea
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2631.m3u8
+#EXTINF:-1,ES: Onda Azul
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12636.m3u8
+#EXTINF:-1,ES: Ondaluz Sierra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12637.m3u8
+#EXTINF:-1,ES: Paramount
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2642.m3u8
+#EXTINF:-1,ES: RealMadrid TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/632.m3u8
+#EXTINF:-1,ES: La Liga 123 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12638.m3u8
+#EXTINF:-1,ES: M. Dcine Ñ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17207.m3u8
+#EXTINF:-1,ES: RTVC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17206.m3u8
+#EXTINF:-1,ES: Sevilla FC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12628.m3u8
+#EXTINF:-1,ES: Sundance TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12641.m3u8
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2639.m3u8
+#EXTINF:-1,ES: Telecinco
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/624.m3u8
+#EXTINF:-1,ES: Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1089.m3u8
+#EXTINF:-1,ES: Ten
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12639.m3u8
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2634.m3u8
+#EXTINF:-1,ES: Orbe 21
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2215.m3u8
+#EXTINF:-1,ES: TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1429.m3u8
+#EXTINF:-1,ES: TV3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2210.m3u8
+#EXTINF:-1,ES: Alquiler 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12642.m3u8
+#EXTINF:-1,ES: Alquiler 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12644.m3u8
+#EXTINF:-1,ES: Alquiler 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12645.m3u8
+#EXTINF:-1,ES: Alquiler 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12646.m3u8
+#EXTINF:-1,ES: Alquiler 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12647.m3u8
+#EXTINF:-1,ES: Alquiler 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12648.m3u8
+#EXTINF:-1,ES: Alquiler 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12649.m3u8
+#EXTINF:-1,ES: Alquiler 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12650.m3u8
+#EXTINF:-1,ES: Alquiler 9
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12651.m3u8
+#EXTINF:-1,ES: Alquiler 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12643.m3u8
+
+ 
+ 
+ 
+ 
 #EXTINF:-1,LA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28847.ts
 #EXTINF:-1,LA 1 
