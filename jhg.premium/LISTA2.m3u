@@ -48,35 +48,35 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28815.ts
 #EXTINF:-1,[COLOR yellow] HOLLYWOOD FHD [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28817.ts
-#EXTINF:-1,[COLOR yellow]A3SERIES
+#EXTINF:-1,[COLOR yellow]A3SERIES  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28804.ts
-#EXTINF:-1,[COLOR yellow]SYFY FHD
+#EXTINF:-1,[COLOR yellow]SYFY FHD [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28813.ts
-#EXTINF:-1,[COLOR yellow]MOVISTAR 0# FHD
+#EXTINF:-1,[COLOR yellow]MOVISTAR 0# FHD  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28791.ts
-#EXTINF:-1,[COLOR yellow]MOVISTAR 0# HD
+#EXTINF:-1,[COLOR yellow]MOVISTAR 0# HD  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28792.ts
-#EXTINF:-1,[COLOR yellow]MOVISTAR  ACCION
+#EXTINF:-1,[COLOR yellow]MOVISTAR  ACCION  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28787.ts
-#EXTINF:-1,[COLOR yellow]MOVISTAR ACCION FHD
+#EXTINF:-1,[COLOR yellow]MOVISTAR ACCION FHD  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28786.ts
-#EXTINF:-1,[COLOR yellow]MOVISTAR COMEDIA
+#EXTINF:-1,[COLOR yellow]MOVISTAR COMEDIA  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28785.ts
-#EXTINF:-1,MOVISTAR COMEDIA FHD
+#EXTINF:-1,[COLOR yellow]MOVISTAR COMEDIA FHD  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28784.ts
-#EXTINF:-1,MOVISTAR DCINE  Ã‘
+#EXTINF:-1,[COLOR yellow]MOVISTAR DCINE   [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28781.ts
-#EXTINF:-1,MOVISTAR DCINE
+#EXTINF:-1,[COLOR yellow]MOVISTAR DCINE [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28783.ts
-#EXTINF:-1,MOVISTAR DCINE FHD
+#EXTINF:-1,[COLOR yellow]MOVISTAR DCINE FHD  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28782.ts
-#EXTINF:-1,MOVISTAR ESTRENOS
+#EXTINF:-1,[COLOR yellow]MOVISTAR ESTRENOS  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28789.ts
-#EXTINF:-1,MOVISTAR ESTRENOS FHD
+#EXTINF:-1,[COLOR yellow]MOVISTAR ESTRENOS FHD  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28788.ts
-#EXTINF:-1,MOVISTAR SERIES FHD
+#EXTINF:-1,[COLOR yellow]MOVISTAR SERIES FHD  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28777.ts
-#EXTINF:-1,MOVISTAR SERIES XTRA FHD
+#EXTINF:-1,[COLOR yellow]MOVISTAR SERIES XTRA FHD  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28775.ts
 #EXTINF:-1,MOVISTAR XTRA FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28779.ts
