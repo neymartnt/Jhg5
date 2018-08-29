@@ -240,7 +240,7 @@
     <regex>
     <name>info</name>
     <listrepeat><![CDATA[
-    <title>Rocky [info.param2]</title>
+    <title> LAS VENGADORAS[info.param2]</title>
     <link>$doregex[enlace]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -266,7 +266,7 @@
     <regex>
     <name>info</name>
     <listrepeat><![CDATA[
-    <title>Rocky [info.param2]</title>
+    <title>Operación Huracán [info.param2]</title>
     <link>$doregex[enlace]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -293,7 +293,7 @@
     <regex>
     <name>info</name>
     <listrepeat><![CDATA[
-    <title>Rocky [info.param2]</title>
+    <title>JUNGLA 3 [info.param2]</title>
     <link>$doregex[enlace]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
