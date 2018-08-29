@@ -6,87 +6,20 @@
 #EXTINF:-1, [COLOR  yellow] LISTA 1 [/COLOR]ACTUALIZADA!! 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://
  (Copyright © 2018 by SUPER.JHG.MASTER)
-#EXTINF:-1,Sp- Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8957.ts
-#EXTINF:-1,Sp- Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8955.ts
-#EXTINF:-1,Sp- Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8954.ts
-#EXTINF:-1,Sp- Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8953.ts
-#EXTINF:-1,Sp- Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8952.ts
-#EXTINF:-1,Sp- Taquilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8951.ts
-#EXTINF:-1,Es- BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];url=http://m-iptv.net:6204/live/Erbil/Erbil/10013.ts
-
-#EXTINF:-1,Es- BEIN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10012.ts
-#EXTINF:-1,Es- BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10011.ts
-#EXTINF:-1,Es- CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10010.ts
-#EXTINF:-1,Es- CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10009.ts
-#EXTINF:-1,Es- CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10008.ts
-#EXTINF:-1,Es- CANAL ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10007.ts
-#EXTINF:-1,Es- CAZA Y PESCA
-http://m-iptv.net:6204/live/Erbil/Erbil/10006.ts
-#EXTINF:-1,Es- CLAN TVE
-http://m-iptv.net:6204/live/Erbil/Erbil/10005.ts
-#EXTINF:-1,Es- COMEDY CENTRAL
-http://m-iptv.net:6204/live/Erbil/Erbil/10004.ts
-#EXTINF:-1,Es- COSMO
-http://m-iptv.net:6204/live/Erbil/Erbil/10003.ts
-#EXTINF:-1,Es- CUATRO
-http://m-iptv.net:6204/live/Erbil/Erbil/10001.ts
-#EXTINF:-1,Es- DISCOVERY
-http://m-iptv.net:6204/live/Erbil/Erbil/10000.ts
-#EXTINF:-1,Es- DISNEY CHANNEL HD
-http://m-iptv.net:6204/live/Erbil/Erbil/9999.ts
-#EXTINF:-1,Es- DISNEY JR
-http://m-iptv.net:6204/live/Erbil/Erbil/9998.ts
-#EXTINF:-1,Es- DISNEY XD
-http://m-iptv.net:6204/live/Erbil/Erbil/9997.ts
-#EXTINF:-1,Es- DIVINITY
-http://m-iptv.net:6204/live/Erbil/Erbil/9996.ts
-#EXTINF:-1,Es- ENERGY
-http://m-iptv.net:6204/live/Erbil/Erbil/9995.ts
-#EXTINF:-1,Es- EUROSPORT 1
-http://m-iptv.net:6204/live/Erbil/Erbil/9994.ts
-#EXTINF:-1,Es- EUROSPORT 2
-http://m-iptv.net:6204/live/Erbil/Erbil/9993.ts
-#EXTINF:-1,Es- FOX
-http://m-iptv.net:6204/live/Erbil/Erbil/9992.ts
-#EXTINF:-1,Es- FOX LIFE
-http://m-iptv.net:6204/live/Erbil/Erbil/9991.ts
-#EXTINF:-1,Es- GOL TV
-http://m-iptv.net:6204/live/Erbil/Erbil/9990.ts
-#EXTINF:-1,Es- HISTORIA
-http://m-iptv.net:6204/live/Erbil/Erbil/9989.ts
-#EXTINF:-1,Es- HOLLYWOOD
-http://m-iptv.net:6204/live/Erbil/Erbil/9988.ts
-#EXTINF:-1,Es- LA 1
-http://m-iptv.net:6204/live/Erbil/Erbil/9986.ts
-#EXTINF:-1,Es- LA 2
-http://m-iptv.net:6204/live/Erbil/Erbil/9985.ts
-#EXTINF:-1,Es- LA SEXTA
-http://m-iptv.net:6204/live/Erbil/Erbil/9984.ts
-#EXTINF:-1,Es- LALIGA TV BAR
-http://m-iptv.net:6204/live/Erbil/Erbil/9983.ts
-#EXTINF:-1,Es- M.ACCION
-http://m-iptv.net:6204/live/Erbil/Erbil/9982.ts
-#EXTINF:-1,Es- M.CINE ESPANOL
-http://m-iptv.net:6204/live/Erbil/Erbil/9981.ts
-#EXTINF:-1,Es- M.COMEDIA
-http://m-iptv.net:6204/live/Erbil/Erbil/9980.ts
-#EXTINF:-1,Es- M.DCINE
-http://m-iptv.net:6204/live/Erbil/Erbil/9979.ts
-#EXTINF:-1,Es- M.DEP 1
-http://m-iptv.net:6204/live/Erbil/Erbil/9978.ts
+#EXTINF:-1,ES:LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28847.ts
+#EXTINF:-1,ES:LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28846.ts
+#EXTINF:-1,ES:LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28845.ts
+#EXTINF:-1,ES:La 2 FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28844.ts
+#EXTINF:-1,ES:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28843.ts
+#EXTINF:-1,ES:ANTENA 3 FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28842.ts
+#EXTINF:-1,ES:CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28841.m3u8
  
 #EXTINF:-1, [COLOR  yellow] LISTA 2 [/COLOR]ACTUALIZADA!! 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://
