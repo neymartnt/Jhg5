@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1,ES:LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28847.ts
+#EXTINF:-1,ES:MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://m-iptv.net:6204/live/Erbil/Erbil/9972.ts
 #EXTINF:-1,ES:LA 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28846.ts
 #EXTINF:-1,ES:LA 2
