@@ -22,17 +22,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];url=http://m-iptv.net:6204/live/Erbil/Erbil/10013.ts
 
 #EXTINF:-1,Es- BEIN SPORTS
-http://m-iptv.net:6204/live/Erbil/Erbil/10012.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10012.ts
 #EXTINF:-1,Es- BOING
-http://m-iptv.net:6204/live/Erbil/Erbil/10011.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10011.ts
 #EXTINF:-1,Es- CALLE 13
-http://m-iptv.net:6204/live/Erbil/Erbil/10010.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10010.ts
 #EXTINF:-1,Es- CANAL COCINA
-http://m-iptv.net:6204/live/Erbil/Erbil/10009.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10009.ts
 #EXTINF:-1,Es- CANAL DECASA
-http://m-iptv.net:6204/live/Erbil/Erbil/10008.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10008.ts
 #EXTINF:-1,Es- CANAL ODISEA
-http://m-iptv.net:6204/live/Erbil/Erbil/10007.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10007.ts
 #EXTINF:-1,Es- CAZA Y PESCA
 http://m-iptv.net:6204/live/Erbil/Erbil/10006.ts
 #EXTINF:-1,Es- CLAN TVE
