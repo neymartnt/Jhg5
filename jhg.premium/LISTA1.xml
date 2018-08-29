@@ -35,16 +35,16 @@
 <link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/Erbil/Erbil/9980.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
 </item>
 <item>
-<title> </title>
-<link>plugin://plugin.video.f4mTester/?&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+<title> F1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/Erbil/Erbil/9975.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
 </item>
 <item>
 <title> </title>
-<link>plugin://plugin.video.f4mTester/?&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+<link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
 </item>
 <item>
 <title> </title>
-<link>plugin://plugin.video.f4mTester/?&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+<link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
 </item>
 
 #EXTINF:-1,Es- LALIGA TV BAR
