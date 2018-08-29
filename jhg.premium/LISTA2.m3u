@@ -1,438 +1,438 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR yellow]ES:LA 1 [/COLOR]
+#EXTINF:-1,[COLOR yellow]LA 1 [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109803.ts
 #EXTINF:-1,[COLOR yellow]LA 2[/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109801.ts
-#EXTINF:-1,[COLOR yellow]La 2 FHD[/COLOR]
+#EXTINF:-1,[COLOR yellow]La 2 FHD [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109800.ts
-#EXTINF:-1,[COLOR yellow]ANTENA 3[/COLOR]
+#EXTINF:-1,[COLOR yellow]ANTENA 3 [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109799.ts
-#EXTINF:-1,ES:ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28842.ts
-#EXTINF:-1,ES:CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28841.ts
-#EXTINF:-1,ES:CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28840.ts
-#EXTINF:-1,ES:TELECINCO
+#EXTINF:-1,[COLOR yellow]ANTENA 3 FHD [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109798.ts
+#EXTINF:-1,[COLOR yellow]CUATRO [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109797.ts
+#EXTINF:-1,[COLOR yellow]CUATRO FHD [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109796.ts
+#EXTINF:-1,[COLOR yellow]TELECINCO [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28839.ts
-#EXTINF:-1,ES:TELECINCO FHD
+#EXTINF:-1,[COLOR yellow]TELECINCO FHD [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28838.ts
-#EXTINF:-1,ES:CLAN
+#EXTINF:-1,[COLOR yellow]CLAN [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28765.ts
-#EXTINF:-1,ES:CLAN HD
+#EXTINF:-1,CLAN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28638.ts
-#EXTINF:-1,ES:24 HORAS
+#EXTINF:-1,24 HORAS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28739.ts
-#EXTINF:-1,ES:NEOX
+#EXTINF:-1,NEOX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28803.ts
-#EXTINF:-1,ES:TELEDEPORTE
+#EXTINF:-1,TELEDEPORTE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28678.ts
-#EXTINF:-1,ES:TELEMADRID FHD
+#EXTINF:-1,TELEMADRID FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28715.ts
-#EXTINF:-1,ES:FOX
+#EXTINF:-1,FOX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28826.ts
-#EXTINF:-1,ES:FOX HD
+#EXTINF:-1,FOX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28825.ts
-#EXTINF:-1,ES:FOX FHD
+#EXTINF:-1,FOX FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28824.ts
-#EXTINF:-1,ES:FOX LIFE
+#EXTINF:-1,FOX LIFE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28823.ts
-#EXTINF:-1,ES:FOX LIVE HD
+#EXTINF:-1,FOX LIVE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28822.ts
-#EXTINF:-1,ES:FOX LIFE FHD
+#EXTINF:-1,FOX LIFE FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28821.ts
-#EXTINF:-1,ES:AXN
+#EXTINF:-1,AXN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28835.ts
-#EXTINF:-1,ES:AXN HD
+#EXTINF:-1,AXN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28834.ts
-#EXTINF:-1,ES:AXN  WHITE
+#EXTINF:-1,AXN  WHITE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28832.ts
-#EXTINF:-1,ES:AXN  WHITE FHD
+#EXTINF:-1,AXN  WHITE FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28830.ts
-#EXTINF:-1,ES:AXN  WHITE HD
+#EXTINF:-1,AXN  WHITE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28831.ts
-#EXTINF:-1,ES:AXN FULL HD
+#EXTINF:-1,AXN FULL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28833.ts
-#EXTINF:-1,ES:TCM FHD
+#EXTINF:-1,TCM FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28807.ts
-#EXTINF:-1,ES:TNT FHD
+#EXTINF:-1,TNT FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28819.ts
-#EXTINF:-1,ES:CALLE 13 FHD
+#EXTINF:-1,CALLE 13 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28815.ts
-#EXTINF:-1,ES: HOLLYWOOD FHD
+#EXTINF:-1, HOLLYWOOD FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28817.ts
-#EXTINF:-1,ES:A3SERIES
+#EXTINF:-1,A3SERIES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28804.ts
-#EXTINF:-1,ES:SYFY FHD
+#EXTINF:-1,SYFY FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28813.ts
-#EXTINF:-1,ES:MOVISTAR 0# FHD
+#EXTINF:-1,MOVISTAR 0# FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28791.ts
-#EXTINF:-1,ES:MOVISTAR 0# HD
+#EXTINF:-1,MOVISTAR 0# HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28792.ts
-#EXTINF:-1,ES:MOVISTAR  ACCION
+#EXTINF:-1,MOVISTAR  ACCION
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28787.ts
-#EXTINF:-1,ES:MOVISTAR ACCION FHD
+#EXTINF:-1,MOVISTAR ACCION FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28786.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA
+#EXTINF:-1,MOVISTAR COMEDIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28785.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA FHD
+#EXTINF:-1,MOVISTAR COMEDIA FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28784.ts
-#EXTINF:-1,ES:MOVISTAR DCINE  Ã‘
+#EXTINF:-1,MOVISTAR DCINE  Ã‘
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28781.ts
-#EXTINF:-1,ES:MOVISTAR DCINE
+#EXTINF:-1,MOVISTAR DCINE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28783.ts
-#EXTINF:-1,ES:MOVISTAR DCINE FHD
+#EXTINF:-1,MOVISTAR DCINE FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28782.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS
+#EXTINF:-1,MOVISTAR ESTRENOS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28789.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
+#EXTINF:-1,MOVISTAR ESTRENOS FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28788.ts
-#EXTINF:-1,ES:MOVISTAR SERIES FHD
+#EXTINF:-1,MOVISTAR SERIES FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28777.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
+#EXTINF:-1,MOVISTAR SERIES XTRA FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28775.ts
-#EXTINF:-1,ES:MOVISTAR XTRA FHD
+#EXTINF:-1,MOVISTAR XTRA FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28779.ts
-#EXTINF:-1,ES:CAZA Y PESCA HD
+#EXTINF:-1,CAZA Y PESCA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28749.ts
-#EXTINF:-1,ES:NAT GEO  WILD
+#EXTINF:-1,NAT GEO  WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28757.ts
-#EXTINF:-1,ES:NAT GEO
+#EXTINF:-1,NAT GEO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28759.ts
-#EXTINF:-1,ES:NAT GEO FULLHD
+#EXTINF:-1,NAT GEO FULLHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28760.ts
-#EXTINF:-1,ES:NAT GEO WILD FHD
+#EXTINF:-1,NAT GEO WILD FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28758.ts
-#EXTINF:-1,ES:VIAJAR FULLHD
+#EXTINF:-1,VIAJAR FULLHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28751.ts
-#EXTINF:-1,ES:BARCA TV
+#EXTINF:-1,BARCA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28772.ts
-#EXTINF:-1,ES:REAL MADRID TV
+#EXTINF:-1,REAL MADRID TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28679.ts
-#EXTINF:-1,ES:TELEDEPORTE FHD
+#EXTINF:-1,TELEDEPORTE FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28677.ts
-#EXTINF:-1,ES:LIGATV FULL HD
+#EXTINF:-1,LIGATV FULL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28694.ts
-#EXTINF:-1,ES:LAFTV BAR 1
+#EXTINF:-1,LAFTV BAR 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28695.ts
-#EXTINF:-1,ES:Liga 123 SD
+#EXTINF:-1,Liga 123 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28693.ts
-#EXTINF:-1,ES:LIGATV SD
+#EXTINF:-1,LIGATV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28639.ts
-#EXTINF:-1,ES:GOL TV
+#EXTINF:-1,GOL TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28692.ts
-#EXTINF:-1,ES:BEIN LALIGA FHD
+#EXTINF:-1,BEIN LALIGA FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28699.ts
-#EXTINF:-1,ES:BEIN SPORT ESPAÃ‘A FHD
+#EXTINF:-1,BEIN SPORT ESPAÃ‘A FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28696.ts
 #EXTINF:-1,LIGA DE CAMPEONES HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28697.ts
-#EXTINF:-1,ES:MOVISTAR FUTBOL HD
+#EXTINF:-1,MOVISTAR FUTBOL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28702.ts
-#EXTINF:-1,ES:PARTIDAZOS HD
+#EXTINF:-1,PARTIDAZOS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28711.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE 1 FHD
+#EXTINF:-1,MOVISTAR DEPORTE 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28708.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE 2 FHD
+#EXTINF:-1,MOVISTAR DEPORTE 2 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28705.ts
-#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
+#EXTINF:-1,MOVISTAR  DEPORTE 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28707.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
+#EXTINF:-1,MOVISTAR DEPORTE 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28706.ts
-#EXTINF:-1,ES:MOVISTAR  DEPORTE
+#EXTINF:-1,MOVISTAR  DEPORTE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28710.ts
-#EXTINF:-1,ES:MOVISTAR DEPORTE HD
+#EXTINF:-1,MOVISTAR DEPORTE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28709.ts
-#EXTINF:-1,ES:MOVISTAR ESPORTS
+#EXTINF:-1,MOVISTAR ESPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28730.ts
-#EXTINF:-1,ES:MOVISTAR  F1
+#EXTINF:-1,MOVISTAR  F1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28691.ts
-#EXTINF:-1,ES:MOVISTAR F1 HD
+#EXTINF:-1,MOVISTAR F1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28690.ts
-#EXTINF:-1,ES:MOVISTAR F1 FHD
+#EXTINF:-1,MOVISTAR F1 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28689.ts
-#EXTINF:-1,ES:MOVISTAR FUTBOLL FHD
+#EXTINF:-1,MOVISTAR FUTBOLL FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28701.ts
-#EXTINF:-1,ES:MOVISTAR GOLF FHD
+#EXTINF:-1,MOVISTAR GOLF FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28684.ts
-#EXTINF:-1,ES:MOVISTAR  MOTO GP
+#EXTINF:-1,MOVISTAR  MOTO GP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28688.ts
-#EXTINF:-1,ES:MOVISTAR MOTO GP HD
+#EXTINF:-1,MOVISTAR MOTO GP HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28687.ts
-#EXTINF:-1,ES:MOVISTAR MOTO GP FHD
+#EXTINF:-1,MOVISTAR MOTO GP FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28686.ts
-#EXTINF:-1,ES:BEIN LALIGA 1 HD
+#EXTINF:-1,BEIN LALIGA 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28675.ts
-#EXTINF:-1,ES:BEIN LALIGA 1
+#EXTINF:-1,BEIN LALIGA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28676.ts
-#EXTINF:-1,ES:BEIN LALIGA 2 HD
+#EXTINF:-1,BEIN LALIGA 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28673.ts
-#EXTINF:-1,ES:BEIN  LALIGA 2
+#EXTINF:-1,BEIN  LALIGA 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28674.ts
-#EXTINF:-1,ES:BEIN LALIGA
+#EXTINF:-1,BEIN LALIGA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28700.ts
-#EXTINF:-1,ES:BEIN LALIGA 6
+#EXTINF:-1,BEIN LALIGA 6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28669.ts
-#EXTINF:-1,ES:BEIN LALIGA 7
+#EXTINF:-1,BEIN LALIGA 7
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28668.ts
-#EXTINF:-1,ES:BEIN LALIGA 8
+#EXTINF:-1,BEIN LALIGA 8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28667.ts
-#EXTINF:-1,ES:BEIN MAX 1 HD
+#EXTINF:-1,BEIN MAX 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28666.ts
-#EXTINF:-1,ES:BEIN MAX 2 HD
+#EXTINF:-1,BEIN MAX 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28664.ts
-#EXTINF:-1,ES:Bein Spor.ts MAX 1  EspaÃ±a
+#EXTINF:-1,Bein Spor.ts MAX 1  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28665.ts
-#EXTINF:-1,ES:Bein Spor.ts MAX 2  EspaÃ±a
+#EXTINF:-1,Bein Spor.ts MAX 2  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28663.ts
-#EXTINF:-1,ES:Bein Spor.ts MAX 3  EspaÃ±a
+#EXTINF:-1,Bein Spor.ts MAX 3  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28662.ts
-#EXTINF:-1,ES:Bein Spor.ts MAX 4  EspaÃ±a
+#EXTINF:-1,Bein Spor.ts MAX 4  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28661.ts
-#EXTINF:-1,ES:Bein Spor.ts MAX 5  EspaÃ±a
+#EXTINF:-1,Bein Spor.ts MAX 5  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28660.ts
-#EXTINF:-1,ES:Bein Spor.ts MAX 6  EspaÃ±a
+#EXTINF:-1,Bein Spor.ts MAX 6  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28659.ts
-#EXTINF:-1,ES:Bein Spor.ts MAX 7  EspaÃ±a
+#EXTINF:-1,Bein Spor.ts MAX 7  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28658.ts
-#EXTINF:-1,ES:Bein Spor.ts MAX 8 ESPAÃ‘A
+#EXTINF:-1,Bein Spor.ts MAX 8 ESPAÃ‘A
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28657.ts
-#EXTINF:-1,ES: BEIN  LALIGA 3
+#EXTINF:-1, BEIN  LALIGA 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28672.ts
-#EXTINF:-1,ES: BEIN  LALIGA 4
+#EXTINF:-1, BEIN  LALIGA 4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28671.ts
-#EXTINF:-1,ES: BEIN LALIGA 5
+#EXTINF:-1, BEIN LALIGA 5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28670.ts
-#EXTINF:-1,ES:Bein Sport ESPAÃ‘A
+#EXTINF:-1,Bein Sport ESPAÃ‘A
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28698.ts
-#EXTINF:-1,ES:MULTI DEPORTE  2
+#EXTINF:-1,MULTI DEPORTE  2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28655.ts
-#EXTINF:-1,ES:MULTI FUTBOL
+#EXTINF:-1,MULTI FUTBOL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28649.ts
-#EXTINF:-1,ES:MULTIDEPORTE
+#EXTINF:-1,MULTIDEPORTE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28704.ts
-#EXTINF:-1,ES:MULTIDEPORTE  1
+#EXTINF:-1,MULTIDEPORTE  1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28656.ts
-#EXTINF:-1,ES:MULTIDEPORTE  3
+#EXTINF:-1,MULTIDEPORTE  3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28654.ts
-#EXTINF:-1,ES:MULTIDEPORTE  4
+#EXTINF:-1,MULTIDEPORTE  4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28653.ts
-#EXTINF:-1,ES:MULTIDEPORTE  5
+#EXTINF:-1,MULTIDEPORTE  5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28652.ts
-#EXTINF:-1,ES:MULTIDEPORTE  6
+#EXTINF:-1,MULTIDEPORTE  6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28651.ts
-#EXTINF:-1,ES:MULTIDEPORTE  7
+#EXTINF:-1,MULTIDEPORTE  7
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28650.ts
-#EXTINF:-1,ES:MULTIFUTBOL  1
+#EXTINF:-1,MULTIFUTBOL  1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28648.ts
-#EXTINF:-1,ES:MULTIFUTBOL  2
+#EXTINF:-1,MULTIFUTBOL  2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28647.ts
-#EXTINF:-1,ES:MULTIFUTBOL  3
+#EXTINF:-1,MULTIFUTBOL  3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28646.ts
-#EXTINF:-1,ES:MULTIFUTBOL  4
+#EXTINF:-1,MULTIFUTBOL  4
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28645.ts
-#EXTINF:-1,ES:MULTIFUTBOL  5
+#EXTINF:-1,MULTIFUTBOL  5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28644.ts
-#EXTINF:-1,ES:MULTIFUTBOL  6
+#EXTINF:-1,MULTIFUTBOL  6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28643.ts
-#EXTINF:-1,ES:MULTIFUTBOL  7
+#EXTINF:-1,MULTIFUTBOL  7
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28642.ts
-#EXTINF:-1,ES:MULTIFUTBOL  8
+#EXTINF:-1,MULTIFUTBOL  8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28641.ts
-#EXTINF:-1,ES:EUROSPORT 1 HD
+#EXTINF:-1,EUROSPORT 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28682.ts
-#EXTINF:-1,ES:Eurosport  2
+#EXTINF:-1,Eurosport  2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28681.ts
-#EXTINF:-1,ES:EUROSPORT  ES
+#EXTINF:-1,EUROSPORT  ES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28683.ts
-#EXTINF:-1,ES: BOING
+#EXTINF:-1, BOING
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28770.ts
-#EXTINF:-1,ES:NICK JR
+#EXTINF:-1,NICK JR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28761.ts
-#EXTINF:-1,ES:NICKELODEON
+#EXTINF:-1,NICKELODEON
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28762.ts
-#EXTINF:-1,ES:NICKELODEON HD
+#EXTINF:-1,NICKELODEON HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28763.ts
-#EXTINF:-1,ES:DISNEY  JUNIOR
+#EXTINF:-1,DISNEY  JUNIOR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28768.ts
-#EXTINF:-1,ES:DISNEY  XD
+#EXTINF:-1,DISNEY  XD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28769.ts
-#EXTINF:-1,ES:DISNEY CHANNEL
+#EXTINF:-1,DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28766.ts
-#EXTINF:-1,ES:DISNEY CHANNEL HD
+#EXTINF:-1,DISNEY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28767.ts
-#EXTINF:-1,ES:BABY  TV
+#EXTINF:-1,BABY  TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28764.ts
-#EXTINF:-1,ES:PANDA
+#EXTINF:-1,PANDA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28771.ts
-#EXTINF:-1,ES: NOVA
+#EXTINF:-1, NOVA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28802.ts
-#EXTINF:-1,ES:13 TV
+#EXTINF:-1,13 TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28724.ts
-#EXTINF:-1,ES:24H
+#EXTINF:-1,24H
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28723.ts
-#EXTINF:-1,ES:3/24
+#EXTINF:-1,3/24
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28729.ts
-#EXTINF:-1,ES:7RM
+#EXTINF:-1,7RM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28722.ts
-#EXTINF:-1,ES:8Tv
+#EXTINF:-1,8Tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28738.ts
-#EXTINF:-1,ES:A&E
+#EXTINF:-1,A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28754.ts
-#EXTINF:-1,ES:AMC
+#EXTINF:-1,AMC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28829.ts
-#EXTINF:-1,ES:AMC FHD
+#EXTINF:-1,AMC FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28827.ts
-#EXTINF:-1,ES:AMC HD
+#EXTINF:-1,AMC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28828.ts
-#EXTINF:-1,ES:ANDALUCIA TV
+#EXTINF:-1,ANDALUCIA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28737.ts
-#EXTINF:-1,ES:ARAGON TV
+#EXTINF:-1,ARAGON TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28736.ts
-#EXTINF:-1,ES:BE MAD FHD
+#EXTINF:-1,BE MAD FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28742.ts
-#EXTINF:-1,ES:BLAZE
+#EXTINF:-1,BLAZE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28725.ts
-#EXTINF:-1,ES:CALLE 13
+#EXTINF:-1,CALLE 13
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28816.ts
-#EXTINF:-1,ES:CANAL ORBE21
+#EXTINF:-1,CANAL ORBE21
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28726.ts
-#EXTINF:-1,ES:CANAL SUR FHD
+#EXTINF:-1,CANAL SUR FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28721.ts
-#EXTINF:-1,ES:CAZA  Y PESCA
+#EXTINF:-1,CAZA  Y PESCA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28750.ts
-#EXTINF:-1,ES:CI
+#EXTINF:-1,CI
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28753.ts
-#EXTINF:-1,ES:CMM HD
+#EXTINF:-1,CMM HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28720.ts
-#EXTINF:-1,ES:COCINA
+#EXTINF:-1,COCINA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28746.ts
-#EXTINF:-1,ES:COMEDY  CENTRAL
+#EXTINF:-1,COMEDY  CENTRAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28810.ts
-#EXTINF:-1,ES:COMEDY CENTRAL HD
+#EXTINF:-1,COMEDY CENTRAL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28809.ts
-#EXTINF:-1,ES:COSMOPOLITAN  FHD
+#EXTINF:-1,COSMOPOLITAN  FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28811.ts
-#EXTINF:-1,ES:COSMOS
+#EXTINF:-1,COSMOS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28812.ts
-#EXTINF:-1,ES:DARK
+#EXTINF:-1,DARK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28797.ts
-#EXTINF:-1,ES:DECASA
+#EXTINF:-1,DECASA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28745.ts
-#EXTINF:-1,ES:DISCOVERY  CHANNEL
+#EXTINF:-1,DISCOVERY  CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28748.ts
-#EXTINF:-1,ES:DIVINITY
+#EXTINF:-1,DIVINITY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28805.ts
-#EXTINF:-1,ES:DKISS
+#EXTINF:-1,DKISS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28735.ts
-#EXTINF:-1,ES:DMAX
+#EXTINF:-1,DMAX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28741.ts
-#EXTINF:-1,ES:ENERGY
+#EXTINF:-1,ENERGY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28799.ts
-#EXTINF:-1,ES:ESPORT 3
+#EXTINF:-1,ESPORT 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28637.ts
-#EXTINF:-1,ES:ESPORTS
+#EXTINF:-1,ESPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28640.ts
-#EXTINF:-1,ES:ETB 1
+#EXTINF:-1,ETB 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28719.ts
-#EXTINF:-1,ES:EXTREMADURA TV
+#EXTINF:-1,EXTREMADURA TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28718.ts
-#EXTINF:-1,ES:Extreme EMEA
+#EXTINF:-1,Extreme EMEA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28636.ts
-#EXTINF:-1,ES:FDF
+#EXTINF:-1,FDF
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28800.ts
-#EXTINF:-1,ES:HISTORIA
+#EXTINF:-1,HISTORIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28756.ts
-#EXTINF:-1,ES:HISTORIA HD
+#EXTINF:-1,HISTORIA HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28755.ts
-#EXTINF:-1,ES:HIT TV
+#EXTINF:-1,HIT TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28743.ts
-#EXTINF:-1,ES:HOLLYWOOD
+#EXTINF:-1,HOLLYWOOD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28818.ts
-#EXTINF:-1,ES:Iberalia
+#EXTINF:-1,Iberalia
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28680.ts
-#EXTINF:-1,ES:INTERECONOMIA
+#EXTINF:-1,INTERECONOMIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28717.ts
-#EXTINF:-1,ES:LA OTRA
+#EXTINF:-1,LA OTRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28716.ts
-#EXTINF:-1,ES:MEGA
+#EXTINF:-1,MEGA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28798.ts
-#EXTINF:-1,ES:MEZZO LIVE
+#EXTINF:-1,MEZZO LIVE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28732.ts
-#EXTINF:-1,ES:MEZZO LIVE FULL HD
+#EXTINF:-1,MEZZO LIVE FULL HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28731.ts
-#EXTINF:-1,ES:MOVISTAR  0#
+#EXTINF:-1,MOVISTAR  0#
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28793.ts
-#EXTINF:-1,ES:MOVISTAR  DISNEY
+#EXTINF:-1,MOVISTAR  DISNEY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28790.ts
-#EXTINF:-1,ES:MOVISTAR  FUTBOL
+#EXTINF:-1,MOVISTAR  FUTBOL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28703.ts
-#EXTINF:-1,ES:MOVISTAR  TOROS TV
+#EXTINF:-1,MOVISTAR  TOROS TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28774.ts
-#EXTINF:-1,ES:MOVISTAR FAMA
+#EXTINF:-1,MOVISTAR FAMA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28794.ts
-#EXTINF:-1,ES:MOVISTAR GOLF
+#EXTINF:-1,MOVISTAR GOLF
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28685.ts
-#EXTINF:-1,ES:MOVISTAR SERIES
+#EXTINF:-1,MOVISTAR SERIES
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28778.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA
+#EXTINF:-1,MOVISTAR SERIES XTRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28776.ts
-#EXTINF:-1,ES:MOVISTAR TOROS HD
+#EXTINF:-1,MOVISTAR TOROS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28773.ts
-#EXTINF:-1,ES:MOVISTAR XTRA
+#EXTINF:-1,MOVISTAR XTRA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28780.ts
-#EXTINF:-1,ES:MTV
+#EXTINF:-1,MTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28744.ts
-#EXTINF:-1,ES:ODISEA
+#EXTINF:-1,ODISEA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28747.ts
-#EXTINF:-1,ES:PARAMOUNT CHANNEL
+#EXTINF:-1,PARAMOUNT CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28808.ts
-#EXTINF:-1,ES:Partidazo 720p
+#EXTINF:-1,Partidazo 720p
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28712.ts
-#EXTINF:-1,ES:PARTIDAZOS
+#EXTINF:-1,PARTIDAZOS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28713.ts
-#EXTINF:-1,ES:SOL Music
+#EXTINF:-1,SOL Music
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28734.ts
-#EXTINF:-1,ES:SOMOS
+#EXTINF:-1,SOMOS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28795.ts
-#EXTINF:-1,ES:SUNDANCE
+#EXTINF:-1,SUNDANCE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28733.ts
-#EXTINF:-1,ES:Super 3
+#EXTINF:-1,Super 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28728.ts
-#EXTINF:-1,ES:SYFY
+#EXTINF:-1,SYFY
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28814.ts
-#EXTINF:-1,ES:TCM
+#EXTINF:-1,TCM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28806.ts
-#EXTINF:-1,ES:TEN
+#EXTINF:-1,TEN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28740.ts
-#EXTINF:-1,ES:TNT
+#EXTINF:-1,TNT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28820.ts
-#EXTINF:-1,ES:TV 13
+#EXTINF:-1,TV 13
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28801.ts
-#EXTINF:-1,ES:TV 3
+#EXTINF:-1,TV 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28727.ts
-#EXTINF:-1,ES:Viajar
+#EXTINF:-1,Viajar
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28752.ts
-#EXTINF:-1,ES:XTRM
+#EXTINF:-1,XTRM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28796.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES 1 EspaÃ±a
+#EXTINF:-1,LIGA DE CAMPEONES 1 EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36512.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES 1 HD
+#EXTINF:-1,LIGA DE CAMPEONES 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36513.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES 2  EspaÃ±a
+#EXTINF:-1,LIGA DE CAMPEONES 2  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36510.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES 3  EspaÃ±a
+#EXTINF:-1,LIGA DE CAMPEONES 3  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36509.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES 5  EspaÃ±a
+#EXTINF:-1,LIGA DE CAMPEONES 5  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36507.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES 6  EspaÃ±a
+#EXTINF:-1,LIGA DE CAMPEONES 6  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36506.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES 7  EspaÃ±a
+#EXTINF:-1,LIGA DE CAMPEONES 7  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36505.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES 8 ESPAÃ‘A
+#EXTINF:-1,LIGA DE CAMPEONES 8 ESPAÃ‘A
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36504.ts
-#EXTINF:-1,ES:LIGA DE CAMPEONES4  EspaÃ±a
+#EXTINF:-1,LIGA DE CAMPEONES4  EspaÃ±a
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/36508.ts
 
 
