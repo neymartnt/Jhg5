@@ -161,8 +161,10 @@
     </regex>
 </item>
 
+
+
 	<item>
- <title>ROCKY BALBOA </title>
+ <title>ROCKY BALBOA 2</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -176,7 +178,7 @@
     <fanart></fanart>
     ]]></listrepeat>
     <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page></page>
+    <page>https://www.rapidvideo.com/embed/FTXTD807PW</page>
     </regex>
     <regex>
     <name>enlace</name>
