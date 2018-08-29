@@ -34,20 +34,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109791.ts
 #EXTINF:-1,[COLOR yellow]AXN  WHITE [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109789.ts
-#EXTINF:-1,[COLOR yellow]AXN  WHITE FHD [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109788.ts
-#EXTINF:-1,[COLOR yellow]AXN  WHITE HD [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28831.ts
-#EXTINF:-1,[COLOR yellow]AXN FULL HD [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28833.ts
-#EXTINF:-1,[COLOR yellow]TCM FHD [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28807.ts
-#EXTINF:-1,[COLOR yellow]TNT FHD [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28819.ts
-#EXTINF:-1,[COLOR yellow]CALLE 13 FHD [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28815.ts
+#EXTINF:-1,[COLOR yellow]CALLE 13 [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109777.ts
 #EXTINF:-1,[COLOR yellow] HOLLYWOOD FHD [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28817.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109779.ts
 #EXTINF:-1,[COLOR yellow]A3SERIES  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28804.ts
 #EXTINF:-1,[COLOR yellow]SYFY FHD [/COLOR]
