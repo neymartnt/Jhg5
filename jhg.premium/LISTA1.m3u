@@ -19,7 +19,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 #EXTINF:-1,Sp- Taquilla 6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8951.m3u8
 #EXTINF:-1,Es- BEIN LALIGA
-http://m-iptv.net:6204/live/Erbil/Erbil/10013.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG2[/COLOR];url=http://m-iptv.net:6204/live/Erbil/Erbil/10013.m3u8
+
 #EXTINF:-1,Es- BEIN SPORTS
 http://m-iptv.net:6204/live/Erbil/Erbil/10012.m3u8
 #EXTINF:-1,Es- BOING
