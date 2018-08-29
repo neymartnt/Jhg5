@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+
+
+
+
+
 #EXTINF:-1,ES:LA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/Rivera/Rivera/28847.ts
 #EXTINF:-1,ES:LA 1 FHD
@@ -1032,3 +1038,125 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/3790.ts
 #EXTINF:-1,ES: Divinity
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.189.187.55:8000/live/Fadil/skype/4109.ts
+
+ 
+#EXTINF:-1,cinestrenostv
+http://cdn.sitenow.me/live/cinestrenostvgh17_bfo6ov9/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,tve1
+http://cdn.sitenow.me/live/tve1_b0bqgib/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,nova2
+http://cdn.sitenow.me/live/nova2_acolsfq/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,divinity
+http://cdn.sitenow.me/live/diniiiii_9fil4ag/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,A3Series
+http://cdn.sitenow.me/live/A3Series_11zwyox/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,bemad
+http://cdn.sitenow.me/live/bemad_azhj93f/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,energy
+http://cdn.sitenow.me/live/energy_azhls60/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,COSMO
+http://cdn.sitenow.me/live/COSMO_bpyu6of/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,ten
+http://cdn.sitenow.me/live/ten_azj987s/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,fdfhd
+http://cdn.sitenow.me/live/fdfhd_xrewtt/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,neox
+http://cdn.sitenow.me/live/neox_alwkw2n/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,mega
+http://cdn.sitenow.me/live/megatdt_9o35160/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,mtv
+http://cdn.sitenow.me/live/mtv_bijdrwm/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,fox
+http://cdn.sitenow.me/live/fox_alwk17k/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,tnt
+http://cdn.sitenow.me/live/tnt_alwl3qm/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,axn
+http://cdn.sitenow.me/live/axn_alwla94/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,syfy
+http://cdn.sitenow.me/live/syfy_aw3eq7m/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,dark
+http://cdn.sitenow.me/live/dark_bniikxc/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,paramount
+http://cdn.sitenow.me/live/paramount_b2betoz/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,comedycentral
+http://cdn.sitenow.me/live/comedycentral_bqkjft1/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,Hollywood
+http://cdn.sitenow.me/live/Hollywood_1672y33/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,discovery
+http://cdn.sitenow.me/live/discoverydino_9dm3fgv/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,discovery max
+http://cdn.sitenow.me/live/dismax_9c7n25t/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,national geographic
+http://cdn.sitenow.me/live/national_alwka53/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,nate geo wild
+http://cdn.sitenow.me/live/natgeowill_azu3urx/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,historia
+http://cdn.sitenow.me/live/historia_9dm8skt/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,crimen investigation
+http://cdn.sitenow.me/live/CI_b0ejsje/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,A&E
+http://cdn.sitenow.me/live/AE_13mz39m/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1, REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,BEINSPORTFR1HD
+http://cdn.sitenow.me/live/tvb122/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,BEINSPORTFR2HD
+http://cdn.sitenow.me/live/tvb123/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,BEINSPORTFR3HD
+http://cdn.sitenow.me/live/tvb124/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,CANAL+SPORT1
+http://cdn.sitenow.me/live/tvb125/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,NFL
+http://cdn.sitenow.me/live/tvb131/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,SKY SPORT3
+http://cdn.sitenow.me/live/tvb132/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,SKY SPORT5
+http://cdn.sitenow.me/live/tvb134/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,SKYSPORTHD1
+http://cdn.sitenow.me/live/tvb129/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,BEIN Ñ SPORT
+http://cdn.sitenow.me/live/bein_alwkqfq/playlist.m3u8|Referer=http://www.dinostream.pw/|user-agent=Mozilla/5.0
+#EXTINF:-1,BT SPORT 1HD
+http://cdn.sitenow.me/live/tvb136/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,BOX NATION
+http://cdn.sitenow.me/live/tvb139/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,PLUS 0
+http://cdn.sitenow.me/live/plus0_b0xk990/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,NBA
+http://cdn.sitenow.me/live/deportes_bijr3le/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,EUROSPORT 2
+http://cdn.sitenow.me/live/eurosport2_bijr9eh/media-u7khsbfx7_1165.ts
+#EXTINF:-1,teledeporte
+http://cdn.sitenow.me/live/teledeporte_aw3kx97/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,REALMADRIDTV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,barcatv
+http://cdn.sitenow.me/live/barcatv_aw3h4aq/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,foxsparhd
+http://latino-webtv.ml:8880/gx/tv-foxsparhd/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS ESPAÑA
+http://cdn.sitenow.me/live/bein_alwkqfq/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,BEIN SPORTS LA LIGA
+http://cdn.sitenow.me/live/ligarincon_a539aod/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR PARTIDAZO
+http://cdn.sitenow.me/live/partidazo_bb1r7mx/playlist.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES1
+http://cdn.sitenow.me/live/deportes_bijr3le/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR DEPORTES2
+http://cdn.sitenow.me/live/movideportes2_bqbw8ob/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR GOLF
+http://cdn.sitenow.me/live/golf_asn535f/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR MOTOGP
+http://cdn.sitenow.me/live/tvb117/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR FORMULA1
+http://cdn.sitenow.me/live/tvb116/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://cdn.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR ACCION
+http://cdn.sitenow.me/live/accion_bitzwzh/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR DCINE
+http://cdn.sitenow.me/live/dcine_bijdglp/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR COMEDIA
+http://cdn.sitenow.me/live/comedia_bijdn79/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
+#EXTINF:-1,MOVISTAR SERIES
+http://cdn.sitenow.me/live/series_aw3d82v/playlist.m3u8|Referer=http://www.ponlatv.com/|user-agent=Mozilla/5.0
