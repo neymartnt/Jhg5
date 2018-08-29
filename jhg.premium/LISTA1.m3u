@@ -13,7 +13,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 #EXTINF:-1,ES:LA 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28845.ts
 #EXTINF:-1,ES:La 2 FHD
-http://54.37.255.204:9977/live/Rivera/Rivera/28844.ts
+http://54.37.255.204:9977/live/Rivera/Rivera/28844.m3u8
 #EXTINF:-1,ES:ANTENA 3
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28843.ts
 #EXTINF:-1,ES:ANTENA 3 FHD
