@@ -293,7 +293,7 @@
     <regex>
     <name>info</name>
     <listrepeat><![CDATA[
-    <title>Rocky [info.param2]</title>
+    <title>JUNGLA DE CRISTAL 2 [info.param2]</title>
     <link>$doregex[enlace]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -346,7 +346,7 @@
     <regex>
     <name>info</name>
     <listrepeat><![CDATA[
-    <title>Rocky [info.param2]</title>
+    <title>JUNGLA DE CRISTAL 4 [info.param2]</title>
     <link>$doregex[enlace]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -363,6 +363,58 @@
     </regex>
 </item>
 
+
+<item>
+ <title>[COLOR yellow]  El origen del planeta de los simios [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>El origen [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FT7VUYSMQ7</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+<item>
+ <title>[COLOR yellow]  Transporter 3 [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Transporter 3 [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page></page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
 
 <item>
  <title>[COLOR yellow]   [/COLOR]</title>
