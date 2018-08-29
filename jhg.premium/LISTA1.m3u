@@ -7,17 +7,17 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://
  (Copyright © 2018 by SUPER.JHG.MASTER)
 #EXTINF:-1,Sp- Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/8957.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8957.ts
 #EXTINF:-1,Sp- Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/8955.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8955.ts
 #EXTINF:-1,Sp- Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/8954.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8954.ts
 #EXTINF:-1,Sp- Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/8953.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8953.ts
 #EXTINF:-1,Sp- Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/8952.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8952.ts
 #EXTINF:-1,Sp- Taquilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/8951.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/8951.ts
 
  
 #EXTINF:-1, [COLOR  yellow] LISTA 2 [/COLOR]ACTUALIZADA!! 
@@ -27,18 +27,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]SU
 
 #EXTM3U
 #EXTINF:-1,Es- #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/10021.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10021.ts
 #EXTINF:-1,Es- 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/10020.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10020.ts
 #EXTINF:-1,Es- A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/10019.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10019.ts
 #EXTINF:-1,Es- AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/10018.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10018.ts
 #EXTINF:-1,Es- ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/10017.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10017.ts
 #EXTINF:-1,Es- AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/10016.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10016.ts
 #EXTINF:-1,Es- AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/10015.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10015.ts
 #EXTINF:-1,Es- BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR]http://m-iptv.net:6204/live/Erbil/Erbil/10014.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10014.ts
