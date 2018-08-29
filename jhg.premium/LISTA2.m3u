@@ -39,13 +39,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]J
 #EXTINF:-1,[COLOR yellow] HOLLYWOOD FHD [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109779.ts
 #EXTINF:-1,[COLOR yellow]A3SERIES  [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28804.ts
-#EXTINF:-1,[COLOR yellow]SYFY FHD [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28813.ts
-#EXTINF:-1,[COLOR yellow]MOVISTAR 0# FHD  [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://5.135.137.41:8000/live/mohamed1/mohamed/109765.ts
+#EXTINF:-1,[COLOR yellow]SYFY  [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://m-iptv.net:6204/live/zawa/zawa/9958.ts
+#EXTINF:-1,[COLOR yellow]MOVISTAR 0#   [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28791.ts
-#EXTINF:-1,[COLOR yellow]MOVISTAR 0# HD  [/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28792.ts
+#EXTINF:-1,[COLOR red]MOVISTAR 0# HD  [/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://m-iptv.net:6204/live/zawa/zawa/10021.ts
 #EXTINF:-1,[COLOR yellow]MOVISTAR  ACCION  [/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptvtool.es:9977/live/CAMI/CAMI/28787.ts
 #EXTINF:-1,[COLOR yellow]MOVISTAR ACCION FHD  [/COLOR]
