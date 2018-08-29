@@ -1172,9 +1172,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG
 #EXTINF:-1,TCM 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28807.ts
 #EXTINF:-1,TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28806.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28807.ts
 #EXTINF:-1,TNT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28819.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28807.ts
 #EXTINF:-1,TNT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/28820.ts
 #EXTINF:-1,CALLE 13 
