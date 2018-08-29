@@ -24,15 +24,15 @@
 </item>
 <item>
 <title>LA LIGA </title>
-<link>plugin://plugin.video.f4mTester/?http://m-iptv.net:6204/live/Erbil/Erbil/9983.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/Erbil/Erbil/9983.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
 </item>
 <item>
 <title>MOVISTAR  ACCION </title>
-<link>plugin://plugin.video.f4mTester/?http://m-iptv.net:6204/live/Erbil/Erbil/9982.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/Erbil/Erbil/9982.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
 </item>
 <item>
 <title>MOVISTAR COMEDIA </title>
-<link>plugin://plugin.video.f4mTester/?http://m-iptv.net:6204/live/Erbil/Erbil/9980.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+<link>plugin://plugin.video.f4mTester/?url=http://m-iptv.net:6204/live/Erbil/Erbil/9980.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
 </item>
 <item>
 <title> </title>
