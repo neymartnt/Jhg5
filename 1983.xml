@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+		
+<item>
+ <title>Transformers: El último caballero</title>
+ <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
+ <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
+ <genre>Acción, Aventuras, Ciencia ficción</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Transformers: El último caballero [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
+    <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FKTL5ZGTCH</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra</info>
+    </regex>
+</item>  
+  
+
+<item>
+ <title>Alien: Covenant</title>
+ <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
+ <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg/<fanart>
+ <genre>Ciencia ficción, Terror, Extraterrestres</genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Alien: Covenant [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
+    <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg</fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/v/FLRQNLM27W</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date>2017</date>
+    <info>Rumbo a un remoto planeta al otro lado de la galaxia, la tripulación de la nave colonial Covenant descubre lo que creen que es un paraíso inexplorado, pero resulta tratarse de un mundo oscuro y hostil </info>
+    </regex>
+</item>
+
+
+<item>
+ <title>ROCKY BALBOA prueba 1</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Rocky [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FTXVL4SLL6</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+
+<item>
+ <title>ROCKY BALBOA</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Rocky [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/e/FTXVHT4ZVE</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
