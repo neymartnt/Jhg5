@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+	
 
 
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] 2018 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+	
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] SAGAS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+		
+		[COLOR yellow]      [/COLOR]
 		
 <item>
- <title>Transformers: El último caballero</title>
+ <title>	[COLOR yellow] Transformers: El último caballero [/COLOR]</title>
  <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
  <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
  <genre>Acción, Aventuras, Ciencia ficción</genre>
@@ -31,7 +67,7 @@
   
 
 <item>
- <title>Alien: Covenant</title>
+ <title>	[COLOR yellow] Alien: Covenant [/COLOR]</title>
  <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
  <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg/<fanart>
  <genre>Ciencia ficción, Terror, Extraterrestres</genre>
@@ -57,37 +93,12 @@
 </item>
 
 
-	<item>
- <title>ROCKY BALBOA 2</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>Rocky [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FTXTD807PW</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
 
 
 
 
 <item>
- <title>ROCKY BALBOA</title>
+ <title>[COLOR yellow]  ROCKY BALBOA [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -114,7 +125,7 @@
 
 	
 <item>
- <title>ROCKY BALBOA 2</title>
+ <title>[COLOR yellow]  ROCKY BALBOA 2 [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -140,7 +151,7 @@
 </item>
 	
 	<item>
- <title>ROCKY BALBOA 3</title>
+ <title>[COLOR yellow]  ROCKY BALBOA 3 [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -166,7 +177,7 @@
 </item>
 
 	<item>
- <title>ROCKY BALBOA 4</title>
+ <title>[COLOR yellow]  ROCKY BALBOA 4 [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -192,7 +203,7 @@
 </item>
 
 <item>
- <title>ROCKY BALBOA 5</title>
+ <title>[COLOR yellow]  ROCKY BALBOA 5 [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -221,7 +232,7 @@
 
 
 <item>
- <title>LAS VENGADORAS</title>
+ <title>[COLOR yellow]  LAS VENGADORAS [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -247,7 +258,7 @@
 </item>
 
 <item>
- <title>Operación Huracán </title>
+ <title>[COLOR yellow]  Operación Huracán [/COLOR] </title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -273,7 +284,7 @@
 </item>
 
 <item>
- <title></title>
+ <title>[COLOR yellow]   [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -299,7 +310,33 @@
 </item>
 
 <item>
- <title></title>
+ <title>[COLOR yellow]   [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Rocky [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page></page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+<item>
+ <title>[COLOR yellow]   [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
