@@ -19,7 +19,55 @@
 <link>plugin://plugin.video.f4mTester/?url=http://54.37.255.204:9977/live/Rivera/Rivera/28845.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2</link>
 </item>
 <item>
-<title>ES:UO </title>
-<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/Ramzi/Ramzi/2517.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NI IDEA </link>
+<title>ES: </title>
+<link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/Ramzi/Ramzi/2517.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+</item>
+<item>
+<title>ES:MOVISTAR 0# HD </title>
+<link>plugin://plugin.video.f4mTester/?http://54.37.255.204:9977/live/Rivera/Rivera/28792.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+</item>
+<item>
+<title>MOVISTAR  ACCION </title>
+<link>plugin://plugin.video.f4mTester/?http://54.37.255.204:9977/live/Rivera/Rivera/28787.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+</item>
+<item>
+<title>MOVISTAR COMEDIA </title>
+<link>plugin://plugin.video.f4mTester/?http://54.37.255.204:9977/live/Rivera/Rivera/28785.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+</item>
+<item>
+<title> </title>
+<link>plugin://plugin.video.f4mTester/?&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+</item>
+<item>
+<title> </title>
+<link>plugin://plugin.video.f4mTester/?&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
+</item>
+<item>
+<title> </title>
+<link>plugin://plugin.video.f4mTester/?&amp;streamtype=TSDOWNLOADER&amp;name=ES:  </link>
 </item>
 
+#EXTINF:-1,ES:MOVISTAR  ACCION
+http://54.37.255.204:9977/live/Rivera/Rivera/28787.ts
+#EXTINF:-1,ES:MOVISTAR ACCION FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28786.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA
+http://54.37.255.204:9977/live/Rivera/Rivera/28785.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28784.ts
+#EXTINF:-1,ES:MOVISTAR DCINE  Ñ
+http://54.37.255.204:9977/live/Rivera/Rivera/28781.ts
+#EXTINF:-1,ES:MOVISTAR DCINE
+http://54.37.255.204:9977/live/Rivera/Rivera/28783.ts
+#EXTINF:-1,ES:MOVISTAR DCINE FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28782.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS
+http://54.37.255.204:9977/live/Rivera/Rivera/28789.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28788.ts
+#EXTINF:-1,ES:MOVISTAR SERIES FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28777.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28775.ts
+#EXTINF:-1,ES:MOVISTAR XTRA FHD
+http://54.37.255.204:9977/live/Rivera/Rivera/28779.ts
