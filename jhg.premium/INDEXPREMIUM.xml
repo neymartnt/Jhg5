@@ -266,7 +266,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR white] MOVISTAR 5 no tocar!!!! [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR white] MOVISTAR 5 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista5.m3u</externallink>
 <thumbnail></thumbnail>
@@ -275,7 +275,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2(FUNCONA) ([/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2 ([/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u</externallink>
 <thumbnail></thumbnail>
@@ -315,7 +315,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR white] MOVISTAR 5  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista5.m3u</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
