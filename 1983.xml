@@ -391,7 +391,7 @@
 </item>
 
 <item>
- <title>[COLOR yellow]  Transporter 3 [/COLOR]</title>
+ <title>[COLOR yellow]  Transporter 2 [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -399,13 +399,13 @@
     <regex>
     <name>info</name>
     <listrepeat><![CDATA[
-    <title>Transporter 3 [info.param2]</title>
+    <title>Transporter 2 [info.param2]</title>
     <link>$doregex[enlace]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
     ]]></listrepeat>
     <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page></page>
+    <page>https://www.rapidvideo.com/embed/FTDJLOFYOG</page>
     </regex>
     <regex>
     <name>enlace</name>
