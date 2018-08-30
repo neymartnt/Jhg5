@@ -2,9 +2,21 @@
 
 	
 
+	
+	
+	
+	
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red]CINE (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/CINEBASE.xml</externallink>
+<thumbnail>https://i.imgur.com/sdbpcu1.jpg</thumbnail>
+<fanart>https://i.imgur.com/sdbpcu1.jpg</fanart>
+</item>
+
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] 2018 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] 2018 HD [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -14,19 +26,20 @@
 	
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] SAGAS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] SAGAS HD [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/2sH1Ktr.jpg</thumbnail>
+<fanart>https://i.imgur.com/2sH1Ktr.jpg</fanart>
 </item>
 
+
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] ESTRENOS (LATINO)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/WOU3Mn3.jpg</thumbnail>
+<fanart>https://i.imgur.com/WOU3Mn3.jpg</fanart>
 </item>
 
 <item>
@@ -37,7 +50,33 @@
 <fanart></fanart>
 </item>
 		
-		[COLOR yellow]      [/COLOR]
+	
+		
+		
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+
+<item>
+<title>[COLOR lime] [/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<info></info> 
+</item>
+
+		
 		
 <item>
  <title>	[COLOR yellow] Transformers: El último caballero [/COLOR]</title>
