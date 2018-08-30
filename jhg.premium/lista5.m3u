@@ -1,505 +1,527 @@
 #EXTM3U
 
 	
-	
-#EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="http://logosiptv.ultraiptv.cl/sharp0.png" group-title="España",ES: #0
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: #0 SD" tvg-logo="http://logosiptv.ultraiptv.cl/sharp0.png" group-title="España",ES: #0 SD
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: 24H" tvg-logo="" group-title="España",ES: 24H
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: 3/24 CAT" tvg-logo="" group-title="España",ES: 3/24 CAT
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: 33 CAT" tvg-logo="" group-title="España",ES: 33 CAT
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4301.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: 7 TV Murcia" tvg-logo="" group-title="España",ES: 7 TV Murcia
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: A3series HD" tvg-logo="" group-title="España",ES: A3series HD
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: AE" tvg-logo="http://logosiptv.ultraiptv.cl/espana/aye_espana.jpg" group-title="España",ES: AE
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="España",ES: Andalucia TV
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/antena3_espana.jpg" group-title="España",ES: Antena 3 SD
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 FULL HD ()" tvg-logo="" group-title="España",Antena 3 FULL HD ()
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/11254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Aragon TV" tvg-logo="" group-title="España",ES: Aragon TV
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/axn_espana.jpg" group-title="España",ES: AXN SD
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White SD" tvg-logo="http://logosiptv.ultraiptv.cl/espana/axn_white_espana.jpg" group-title="España",ES: AXN White SD
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Baby TV" tvg-logo="http://logosiptv.ultraiptv.cl/babytv.png" group-title="España",ES: Baby TV
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV" tvg-logo="http://logosiptv.ultraiptv.cl/barca_tv.jpg" group-title="España",ES: Barca TV
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4398.m3u8
-	#EXTINF:-1,ES:_BEIN LA LIGA TV 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/7409.m3u8
-
-#EXTINF:-1,ES:_BEIN MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/7406.m3u8
-#EXTINF:-1,ES:_BEIN MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/7405.m3u8
-#EXTINF:-1,ES_FHD:BEIN SPORT SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/654.m3u8
-#EXTINF:-1,ES_FHD:CANAL DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/653.m3u8
-#EXTINF:-1,ES_FHD:CANAL DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/652.m3u8
-#EXTINF:-1,ES_FHD:CANAL FUTBAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/651.m3u8
-#EXTINF:-1,ES_FHD:LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/650.m3u8
-#EXTINF:-1,ES_FHD:TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/649.m3u8
-#EXTINF:-1,ES:_Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/378.m3u8
-#EXTINF:-1,ES:_AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/377.m3u8
-#EXTINF:-1,ES:_AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/376.m3u8
-#EXTINF:-1,ES:_Azteca Honduras
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/375.m3u8
-#EXTINF:-1,ES:_Azteca Noticias
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/374.m3u8
-#EXTINF:-1,ES:_Azteca Trece
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/373.m3u8
-#EXTINF:-1,ES:_Baby TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/372.m3u8
-#EXTINF:-1,ES:_Bein LaLiga
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/371.m3u8
-#EXTINF:-1,ES:_Bein Sportpana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/370.m3u8
-#EXTINF:-1,ES:_bein SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/369.m3u8
-#EXTINF:-1,ES:_bein SPORTS LA LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/368.m3u8
-#EXTINF:-1,ES:_BOING
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/367.m3u8
-#EXTINF:-1,ES:_Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/366.m3u8
-#EXTINF:-1,ES:_Canal  Deportes 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/365.m3u8
-#EXTINF:-1,ES:_Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/364.m3u8
-#EXTINF:-1,ES:_Canal DeCasa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/363.m3u8
-#EXTINF:-1,ES:_Canal Deportes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/362.m3u8
-#EXTINF:-1,ES:_Canal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/361.m3u8
-#EXTINF:-1,ES:_Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/360.m3u8
-#EXTINF:-1,ES:_Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/359.m3u8
-#EXTINF:-1,ES:_Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/358.m3u8
-#EXTINF:-1,ES:_Crimen y Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/357.m3u8
-#EXTINF:-1,ES:_Crimen y InvSPtigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/356.m3u8
-#EXTINF:-1,ES:_Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/355.m3u8
-#EXTINF:-1,ES:_Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/354.m3u8
-#EXTINF:-1,ES:_Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/353.m3u8
-#EXTINF:-1,ES:_Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/352.m3u8
-#EXTINF:-1,ES:_Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/351.m3u8
-#EXTINF:-1,ES:_EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/350.m3u8
-#EXTINF:-1,ES:_FOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/349.m3u8
-#EXTINF:-1,ES:_FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/348.m3u8
-#EXTINF:-1,ES:_FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/347.m3u8
-#EXTINF:-1,ES:_FOX Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/346.m3u8
-#EXTINF:-1,ES:_GOL TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/345.m3u8
-#EXTINF:-1,ES:_Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/344.m3u8
-#EXTINF:-1,ES:_Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/343.m3u8
-#EXTINF:-1,ES:_Hollywood SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/342.m3u8
-#EXTINF:-1,ES:_LA LIGA 1|2|3 TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/341.m3u8
-#EXTINF:-1,ES:_LA LIGA TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/340.m3u8
-#EXTINF:-1,ES:_M DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/338.m3u8
-#EXTINF:-1,ES:_M DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/337.m3u8
-#EXTINF:-1,ES:_M FORMULA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/336.m3u8
-#EXTINF:-1,ES:_M FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/335.m3u8
-#EXTINF:-1,ES:_M GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/334.m3u8
-#EXTINF:-1,ES:_M MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/333.m3u8
-#EXTINF:-1,ES:_M PARTIDAZO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/332.m3u8
-#EXTINF:-1,ES:_Mega
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/331.m3u8
-#EXTINF:-1,ES:_MoviSPtar Portrada
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/330.m3u8
-#EXTINF:-1,ES:_MoviSPtar SeriSP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/329.m3u8
-#EXTINF:-1,ES:_Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/328.m3u8
-#EXTINF:-1,ES:_Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/327.m3u8
-#EXTINF:-1,ES:_Movistar DCine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/326.m3u8
-#EXTINF:-1,ES:_Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/325.m3u8
-#EXTINF:-1,ES:_Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/324.m3u8
-#EXTINF:-1,ES:_Movistar MotoGP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/323.m3u8
-#EXTINF:-1,ES:_Movistar Portrada
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/322.m3u8
-#EXTINF:-1,ES:_Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/321.m3u8
-#EXTINF:-1,ES:_Movistar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/320.m3u8
-#EXTINF:-1,ES:_Movistar SeriSP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/319.m3u8
-#EXTINF:-1,ES:_Movistar SeriSP Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/318.m3u8
-#EXTINF:-1,ES:_Movistar Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/317.m3u8
-#EXTINF:-1,ES:_Movistartrenos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/316.m3u8
-#EXTINF:-1,ES:_MTV espana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/315.m3u8
-#EXTINF:-1,ES:_MTVpana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/314.m3u8
-#EXTINF:-1,ES:_N Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/313.m3u8
-#EXTINF:-1,ES:_Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/312.m3u8
-#EXTINF:-1,ES:_National Geographic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/311.m3u8
-#EXTINF:-1,ES:_Neox TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/310.m3u8
-#EXTINF:-1,ES:_Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/309.m3u8
-#EXTINF:-1,ES:_Nova
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/308.m3u8
-#EXTINF:-1,ES:_Odisea TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/307.m3u8
-#EXTINF:-1,ES:_Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/306.m3u8
-#EXTINF:-1,ES:_Proyecto 40
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/305.m3u8
-#EXTINF:-1,ES:_REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/304.m3u8
-#EXTINF:-1,ES:_RTVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/303.m3u8
-#EXTINF:-1,ES:_Sevilla Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/302.m3u8
-#EXTINF:-1,ES:_SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/301.m3u8
-#EXTINF:-1,ES:_Telecinco
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/290.m3u8
-#EXTINF:-1,ES:_Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/289.m3u8
-#EXTINF:-1,ES:_Telemadrid
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/288.m3u8
-#EXTINF:-1,ES:_Telesur
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/287.m3u8
-#EXTINF:-1,ES:_Televisa HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/286.m3u8
-#EXTINF:-1,ES:_TelSPur
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/285.m3u8
-#EXTINF:-1,ES:_TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/284.m3u8
-#EXTINF:-1,ES:_Toros Tv
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/283.m3u8
-#EXTINF:-1,ES:_TV3 Catalynia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/282.m3u8
-#EXTINF:-1,ES:_TVE Clan
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/281.m3u8
-#EXTINF:-1,ES:_TVE LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/280.m3u8
-#EXTINF:-1,ES:_TVE LA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/279.m3u8
-#EXTINF:-1,ES:_Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/278.m3u8
-#EXTINF:-1,ES...#0 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10465.m3u8
-#EXTINF:-1,ES...24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10464.m3u8
-#EXTINF:-1,ES...A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10463.m3u8
-#EXTINF:-1,ES...A3 SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10462.m3u8
-#EXTINF:-1,ES...ALQ XXHARD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10461.m3u8
-#EXTINF:-1,ES...ALQUILER 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10460.m3u8
-#EXTINF:-1,ES...ALQUILER 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10459.m3u8
-#EXTINF:-1,ES...ALQUILER 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10458.m3u8
-#EXTINF:-1,ES...ALQUILER 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10457.m3u8
-#EXTINF:-1,ES...ALQUILER 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10456.m3u8
-#EXTINF:-1,ES...ALQUILER 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10455.m3u8
-#EXTINF:-1,ES...ALQUILER 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10454.m3u8
-#EXTINF:-1,ES...ALQUILER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10453.m3u8
-#EXTINF:-1,ES...ALQUILER X
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10452.m3u8
-#EXTINF:-1,ES...ALQUILER XX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10451.m3u8
-#EXTINF:-1,ES...ALQUILER XY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10450.m3u8
-#EXTINF:-1,ES...AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10449.m3u8
-#EXTINF:-1,ES...ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10448.m3u8
-#EXTINF:-1,ES...ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10447.m3u8
-#EXTINF:-1,ES...AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10446.m3u8
-#EXTINF:-1,ES...AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10445.m3u8
-#EXTINF:-1,ES...BABY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10444.m3u8
-#EXTINF:-1,ES...BAR.A TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10443.m3u8
-#EXTINF:-1,ES...BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10442.m3u8
-#EXTINF:-1,ES...BEIN MAX 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10441.m3u8
-#EXTINF:-1,ES...BEIN MAX 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10440.m3u8
-#EXTINF:-1,ES...BEIN MAX 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10439.m3u8
-#EXTINF:-1,ES...BEIN MAX 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10438.m3u8
-#EXTINF:-1,ES...BEIN MAX 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10437.m3u8
-#EXTINF:-1,ES...BEIN MAX 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10436.m3u8
-#EXTINF:-1,ES...BEIN MAX 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10435.m3u8
-#EXTINF:-1,ES...BEIN MAX 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10434.m3u8
-#EXTINF:-1,ES...BEIN SPORT SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10433.m3u8
-#EXTINF:-1,ES...BEIN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10432.m3u8
-#EXTINF:-1,ES...BEINLALIGA1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10431.m3u8
-#EXTINF:-1,ES...BEINLALIGA2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10430.m3u8
-#EXTINF:-1,ES...BEINLALIGA3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10429.m3u8
-#EXTINF:-1,ES...BEINLALIGA4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10428.m3u8
-#EXTINF:-1,ES...BEINLALIGA5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10427.m3u8
-#EXTINF:-1,ES...BEINLALIGA6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10426.m3u8
-#EXTINF:-1,ES...BEINLALIGA7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10425.m3u8
-#EXTINF:-1,ES...BEINLALIGA8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10424.m3u8
-#EXTINF:-1,ES...BOING
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10423.m3u8
-#EXTINF:-1,ES...CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10422.m3u8
-#EXTINF:-1,ES...CANAL ORBE 21
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10421.m3u8
-#EXTINF:-1,ES...CANAL ORBE21
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10420.m3u8
-#EXTINF:-1,ES...CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10419.m3u8
-#EXTINF:-1,ES...CANAL SUR A.
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10418.m3u8
-#EXTINF:-1,ES...CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10417.m3u8
-#EXTINF:-1,ES...CAZAyPESCA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10416.m3u8
-#EXTINF:-1,ES...CLAN  TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10415.m3u8
-#EXTINF:-1,ES...CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10414.m3u8
-#EXTINF:-1,ES...COCINA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10413.m3u8
-#EXTINF:-1,ES...COMEDYCENTRALHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10412.m3u8
-#EXTINF:-1,ES...COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10411.m3u8
-#EXTINF:-1,ES...CRIMEN INVES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10410.m3u8
-#EXTINF:-1,ES...CUATRO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10409.m3u8
-#EXTINF:-1,ES...CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10408.m3u8
-#EXTINF:-1,ES...DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10407.m3u8
-#EXTINF:-1,ES...DISNEY CH HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10406.m3u8
-#EXTINF:-1,ES...DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10405.m3u8
-#EXTINF:-1,ES...DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10404.m3u8
-#EXTINF:-1,ES...DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10403.m3u8
-#EXTINF:-1,ES...ENERGY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10402.m3u8
-#EXTINF:-1,ES...EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10401.m3u8
-#EXTINF:-1,ES...EUROSPORT1HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10400.m3u8
-#EXTINF:-1,ES...F1 Formula1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10399.m3u8
-#EXTINF:-1,ES...FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10398.m3u8
-#EXTINF:-1,ES...FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10397.m3u8
-#EXTINF:-1,ES...FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10396.m3u8
-#EXTINF:-1,ES...FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10395.m3u8
-#EXTINF:-1,ES...GLAMOUR FM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10394.m3u8
-#EXTINF:-1,ES...GOL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10393.m3u8
-#EXTINF:-1,ES...HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10392.m3u8
-#EXTINF:-1,ES...HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10391.m3u8
-#EXTINF:-1,ES...HOLLYWOODHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10390.m3u8
-#EXTINF:-1,ES...LA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10389.m3u8
-#EXTINF:-1,ES...LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10388.m3u8
-#EXTINF:-1,ES...LA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10387.m3u8
-#EXTINF:-1,ES...LA1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10384.m3u8
-#EXTINF:-1,ES...LA2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10383.m3u8
-#EXTINF:-1,ES...LALIGATV BAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10382.m3u8
-#EXTINF:-1,ES...LALIGATVBAR1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10381.m3u8
-#EXTINF:-1,ES...M. ACCI©N HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10380.m3u8
-#EXTINF:-1,ES...M. Cine Espaæol
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10379.m3u8
-#EXTINF:-1,ES...M. DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10378.m3u8
-#EXTINF:-1,ES...M. DEP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10377.m3u8
-#EXTINF:-1,ES...M. DISNEY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10376.m3u8
-#EXTINF:-1,ES...M. F.TBOL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10375.m3u8
-#EXTINF:-1,ES...M. GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10374.m3u8
-#EXTINF:-1,ES...M. MOTOGP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10373.m3u8
-#EXTINF:-1,ES...M. SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10372.m3u8
-#EXTINF:-1,ES...M. SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10371.m3u8
-#EXTINF:-1,ES...M. SeriesXtraHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10370.m3u8
-#EXTINF:-1,ES...M. XTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10369.m3u8
-#EXTINF:-1,ES...M.COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10368.m3u8
-#EXTINF:-1,ES...M.FORMULA1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10367.m3u8
-#EXTINF:-1,ES...M.FORMULA1HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10366.m3u8
-#EXTINF:-1,ES...M.MOTOGPHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10365.m3u8
-#EXTINF:-1,ES...M.Partidazo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10364.m3u8
-#EXTINF:-1,ES...M.PartidazoHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10363.m3u8
-#EXTINF:-1,ES...MEZZO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10362.m3u8
-#EXTINF:-1,ES...MEZZO LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10361.m3u8
-#EXTINF:-1,ES...MTV ESPA¹A
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10360.m3u8
-#EXTINF:-1,ES...MULTIDEP.1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10358.m3u8
-#EXTINF:-1,ES...MULTIDEP.2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10357.m3u8
-#EXTINF:-1,ES...MULTIDEP.3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10356.m3u8
-#EXTINF:-1,ES...MULTIDEP.4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10355.m3u8
-#EXTINF:-1,ES...MULTIDEP.5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10354.m3u8
-#EXTINF:-1,ES...MULTIDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10353.m3u8
-#EXTINF:-1,ES...MULTIFUT. 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10352.m3u8
-#EXTINF:-1,ES...MULTIFUT. 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10351.m3u8
-#EXTINF:-1,ES...MULTIFUT. 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10350.m3u8
-#EXTINF:-1,ES...MULTIFUT. 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10349.m3u8
-#EXTINF:-1,ES...NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10348.m3u8
-#EXTINF:-1,ES...NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10347.m3u8
-#EXTINF:-1,ES...NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10346.m3u8
-#EXTINF:-1,ES...NG WILD HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10345.m3u8
-#EXTINF:-1,ES...NICK JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10344.m3u8
-#EXTINF:-1,ES...NICKELODEONHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10343.m3u8
-#EXTINF:-1,ES...NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10342.m3u8
-#EXTINF:-1,ES...NONSTOPEOPLE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10341.m3u8
-#EXTINF:-1,ES...NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10340.m3u8
-#EXTINF:-1,ES...SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10339.m3u8
-#EXTINF:-1,ES...TCM HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10328.m3u8
-#EXTINF:-1,ES...TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10327.m3u8
-#EXTINF:-1,ES...TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10326.m3u8
-#EXTINF:-1,ES...TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10325.m3u8
-#EXTINF:-1,ES...TELEDEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10324.m3u8
-#EXTINF:-1,ES...TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10323.m3u8
-#EXTINF:-1,ES...TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10322.m3u8
-#EXTINF:-1,ES...TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10321.m3u8
-#EXTINF:-1,ES...TOROS TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10320.m3u8
-#EXTINF:-1,ES...TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10319.m3u8
-#EXTINF:-1,ES...VH1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://spy-iptv.com:25461/live/308HD/69qBgyetir/10318.m3u8
+#EXTINF:0,#0 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9411.ts
+#EXTINF:0,#0 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12734.ts
+#EXTINF:0,A&E ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5474.ts
+#EXTINF:0,AMC ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9438.ts
+#EXTINF:0,AMC HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12733.ts
+#EXTINF:0,Atreseries HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18382.ts
+#EXTINF:0,AXN ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5471.ts
+#EXTINF:0,AXN HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12731.ts
+#EXTINF:0,AXN White ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5470.ts
+#EXTINF:0,AXN White HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12730.ts
+#EXTINF:0,Animal Planet ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11606.ts
+#EXTINF:0,Antena 3 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5472.ts
+#EXTINF:0,Antena 3 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12732.ts
+#EXTINF:0,Aragón TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9409.ts
+#EXTINF:0,Baby TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9427.ts
+#EXTINF:0,Barca TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5466.ts
+#EXTINF:0,Boing ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9429.ts
+#EXTINF:0,Blaze España ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/21523.ts
+#EXTINF:0,Calle 13 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5469.ts
+#EXTINF:0,Calle 13 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12728.ts
+#EXTINF:0,Canal 24 Horas ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9410.ts
+#EXTINF:0,Canal Cocina ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5456.ts
+#EXTINF:0,Decasa ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5460.ts
+#EXTINF:0,Canal Panda ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9418.ts
+#EXTINF:0,Canal Sur Andalucia ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5467.ts
+#EXTINF:0,Caza y Pesca ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9426.ts
+#EXTINF:0,Caza y Pesca HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/13659.ts
+#EXTINF:0,Clan TVE ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9428.ts
+#EXTINF:0,Comedy Central ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9420.ts
+#EXTINF:0,Comedy Central HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12711.ts
+#EXTINF:0,Cosmopolitan TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5473.ts
+#EXTINF:0,Cosmopolitan TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12710.ts
+#EXTINF:0,Crimen + Investigación ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9433.ts
+#EXTINF:0,Cuatro ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5464.ts
+#EXTINF:0,Cuatro HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12709.ts
+#EXTINF:0,Discovery Channel ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5448.ts
+#EXTINF:0,Disney Channel ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5446.ts
+#EXTINF:0,Disney Channel HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12708.ts
+#EXTINF:0,Disney Junior ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9431.ts
+#EXTINF:0,Disney XD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9430.ts
+#EXTINF:0,Divinity ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9442.ts
+#EXTINF:0,Energy ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9440.ts
+#EXTINF:0,Eurosport 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5410.ts
+#EXTINF:0,Eurosport 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12707.ts
+#EXTINF:0,Factoria de Ficción ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9434.ts
+#EXTINF:0,FOX ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5442.ts
+#EXTINF:0,FOX HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/13661.ts
+#EXTINF:0,FOX Life ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5439.ts
+#EXTINF:0,FOX News ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9443.ts
+#EXTINF:0,FOX Life HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12706.ts
+#EXTINF:0,Gol ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9416.ts
+#EXTINF:0,Historia ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9425.ts
+#EXTINF:0,Canal Hollywood ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5428.ts
+#EXTINF:0,Canal Hollywood HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12705.ts
+#EXTINF:0,Iberalia TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9408.ts
+#EXTINF:0,TVE La 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9404.ts
+#EXTINF:0,TVE La 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12704.ts
+#EXTINF:0,TVE La 2 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9405.ts
+#EXTINF:0,La Sexta ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9406.ts
+#EXTINF:0,La Sexta HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12703.ts
+#EXTINF:0,LaLiga TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5457.ts
+#EXTINF:0,LaLiga TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12718.ts
+#EXTINF:0,LaLiga 123 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18232.ts
+#EXTINF:0,MTV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9448.ts
+#EXTINF:0,Mega HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16262.ts
+#EXTINF:0,Mezzo Live HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12702.ts
+#EXTINF:0,Movistar Acción ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5463.ts
+#EXTINF:0,Movistar Acción HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12727.ts
+#EXTINF:0,Movistar Cine Ñ ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5411.ts
+#EXTINF:0,Movistar Comedia ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5462.ts
+#EXTINF:0,Movistar Comedia HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12726.ts
+#EXTINF:0,Movistar DCine ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5461.ts
+#EXTINF:0,Movistar DCine HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12725.ts
+#EXTINF:0,Movistar Deportes 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5465.ts
+#EXTINF:0,Movistar Deportes 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12723.ts
+#EXTINF:0,Movistar Deportes 2 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9419.ts
+#EXTINF:0,Movistar Deportes 2 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12724.ts
+#EXTINF:0,Movistar ESports ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19150.ts
+#EXTINF:0,Movistar Estrenos ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9415.ts
+#EXTINF:0,Movistar Estrenos HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12722.ts
+#EXTINF:0,Movistar Fama 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19958.ts
+#EXTINF:0,Movistar Formula 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5445.ts
+#EXTINF:0,Movistar Formula 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12701.ts
+#EXTINF:0,Movistar Fútbol ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5459.ts
+#EXTINF:0,Movistar Fútbol HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12721.ts
+#EXTINF:0,Movistar Golf ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5458.ts
+#EXTINF:0,Movistar Golf HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12720.ts
+#EXTINF:0,Movistar Moto GP ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5436.ts
+#EXTINF:0,Movistar Moto GP HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12700.ts
+#EXTINF:0,Movistar Partidazo ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5447.ts
+#EXTINF:0,Movistar Partidazo HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12716.ts
+#EXTINF:0,Movistar Partidazo 4K ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/22849.ts
+#EXTINF:0,Movistar Series ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9413.ts
+#EXTINF:0,Movistar Series HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/13664.ts
+#EXTINF:0,Movistar Series Xtra ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9414.ts
+#EXTINF:0,Movistar Series Xtra HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12714.ts
+#EXTINF:0,Movistar Xtra ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9412.ts
+#EXTINF:0,Movistar Xtra HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12712.ts
+#EXTINF:0,National Geographic HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9441.ts
+#EXTINF:0,National Geographic Wild ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5476.ts
+#EXTINF:0,National Geographic Wild HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12698.ts
+#EXTINF:0,National Geographic ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5455.ts
+#EXTINF:0,Neox ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9421.ts
+#EXTINF:0,Nick Jr. ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14247.ts
+#EXTINF:0,Nickelodeon ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14248.ts
+#EXTINF:0,Nickelodeon HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12697.ts
+#EXTINF:0,Nova ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9422.ts
+#EXTINF:0,Odisea ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9417.ts
+#EXTINF:0,Paramount Channel ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9446.ts
+#EXTINF:0,Real Madrid TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5420.ts
+#EXTINF:0,Syfy ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5417.ts
+#EXTINF:0,Sundance ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/20431.ts
+#EXTINF:0,Syfy HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12696.ts
+#EXTINF:0,TCM ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9445.ts
+#EXTINF:0,TCM HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12695.ts
+#EXTINF:0,TNT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9423.ts
+#EXTINF:0,TNT HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12693.ts
+#EXTINF:0,TV3 Cat ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9436.ts
+#EXTINF:0,Taquilla 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15615.ts
+#EXTINF:0,Taquilla 2 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15616.ts
+#EXTINF:0,Taquilla 3 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15617.ts
+#EXTINF:0,Taquilla 4 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15618.ts
+#EXTINF:0,Taquilla 5 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15619.ts
+#EXTINF:0,Taquilla 6 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15620.ts
+#EXTINF:0,Telecinco ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5415.ts
+#EXTINF:0,Telecinco HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12694.ts
+#EXTINF:0,Teledeporte ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5414.ts
+#EXTINF:0,Toros TV ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5437.ts
+#EXTINF:0,Toros TV HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12713.ts
+#EXTINF:0,TVE Internacional Europa ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/20212.ts
+#EXTINF:0,Viajar ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9424.ts
+#EXTINF:0,Viajar HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12717.ts
+#EXTINF:0,Caçavision HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9492.ts
+#EXTINF:0,Galicia TV Europa ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9473.ts
+#EXTINF:0,Eurosport 2 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16844.ts
+#EXTINF:0,Be Mad FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/22973.ts
+#EXTINF:0,CNN en Español ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/22977.ts
+#EXTINF:0,Movistar Liga de Campeones FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/23282.ts
+#EXTINF:0,Teledeporte FHD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/23441.ts
+#EXTINF:0,
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16515.ts
+#EXTINF:0,SVT1 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11529.ts
+#EXTINF:0,SVT1 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18631.ts
+#EXTINF:0,SVT1 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15553.ts
+#EXTINF:0,SVT2 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11530.ts
+#EXTINF:0,SVT2 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18630.ts
+#EXTINF:0,SVT2 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15515.ts
+#EXTINF:0,SVTB/SVT24 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16577.ts
+#EXTINF:0,SVTB/SVT24 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18629.ts
+#EXTINF:0,SVTB/SVT24 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16578.ts
+#EXTINF:0,TV3 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12065.ts
+#EXTINF:0,TV3 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11531.ts
+#EXTINF:0,TV3 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15560.ts
+#EXTINF:0,TV4 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11532.ts
+#EXTINF:0,TV4 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18627.ts
+#EXTINF:0,TV4 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14429.ts
+#EXTINF:0,TV4 Guld SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11543.ts
+#EXTINF:0,Kanal 5 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11533.ts
+#EXTINF:0,Kanal 5 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14442.ts
+#EXTINF:0,Kanal 5 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11562.ts
+#EXTINF:0,TV6 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11534.ts
+#EXTINF:0,TV6 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15542.ts
+#EXTINF:0,Sjuan SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11535.ts
+#EXTINF:0,TV8 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11536.ts
+#EXTINF:0,TV8 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/21914.ts
+#EXTINF:0,Kanal 9 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11537.ts
+#EXTINF:0,Kanal 9 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18624.ts
+#EXTINF:0,Kanal 9 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11617.ts
+#EXTINF:0,TV 10 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11538.ts
+#EXTINF:0,TV10 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/21915.ts
+#EXTINF:0,Kanal 11 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11539.ts
+#EXTINF:0,Kanal 11 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18623.ts
+#EXTINF:0,Kanal 11 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15498.ts
+#EXTINF:0,TV12 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11540.ts
+#EXTINF:0,TV12 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18626.ts
+#EXTINF:0,TV12 FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15527.ts
+#EXTINF:0,Sjuan HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/20421.ts
+#EXTINF:0,Barnsånger SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18672.ts
+#EXTINF:0,Boomerang SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11550.ts
+#EXTINF:0,Cartoon Network SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11551.ts
+#EXTINF:0,Disney Channel SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11549.ts
+#EXTINF:0,Disney Junior SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11548.ts
+#EXTINF:0,Disney XD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11547.ts
+#EXTINF:0,Nick Jr. SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12364.ts
+#EXTINF:0,Nickelodeon SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12077.ts
+#EXTINF:0,Nickelodeon HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15559.ts
+#EXTINF:0,Nicktoons SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18673.ts
+#EXTINF:0,Animal Planet HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15551.ts
+#EXTINF:0,BBC Earth HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14456.ts
+#EXTINF:0,BBC Brit HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19633.ts
+#EXTINF:0,Discovery HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14451.ts
+#EXTINF:0,Discovery Channel SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11580.ts
+#EXTINF:0,Discovery Channel HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18622.ts
+#EXTINF:0,Discovery Channel FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15495.ts
+#EXTINF:0,Discovery Science SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11618.ts
+#EXTINF:0,Discovery World SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11619.ts
+#EXTINF:0,Investigation Discovery SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15497.ts
+#EXTINF:0,H2 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/17808.ts
+#EXTINF:0,History HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14446.ts
+#EXTINF:0,Kunskapskanalen SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11579.ts
+#EXTINF:0,National Geographic HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14666.ts
+#EXTINF:0,National Geographic Wild SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11578.ts
+#EXTINF:0,TLC HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14430.ts
+#EXTINF:0,TLC FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15503.ts
+#EXTINF:0,Travel Channel HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14428.ts
+#EXTINF:0,TV4 Fakta SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11544.ts
+#EXTINF:0,Viasat Explore SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12360.ts
+#EXTINF:0,Viasat History SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12283.ts
+#EXTINF:0,Comedy Central SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15543.ts
+#EXTINF:0,E! SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12079.ts
+#EXTINF:0,FOX SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15555.ts
+#EXTINF:0,MTV SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14668.ts
+#EXTINF:0,VH1 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18670.ts
+#EXTINF:0,C More Hits HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19806.ts
+#EXTINF:0,C More Hits FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11559.ts
+#EXTINF:0,C More First HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19805.ts
+#EXTINF:0,C More First FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11558.ts
+#EXTINF:0,C More Series HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19808.ts
+#EXTINF:0,C More Series FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11561.ts
+#EXTINF:0,C More Stars HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19807.ts
+#EXTINF:0,C More Stars FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15556.ts
+#EXTINF:0,SF-Kanalen SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11565.ts
+#EXTINF:0,TV4 Film SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11541.ts
+#EXTINF:0,Viasat Film Hits HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19809.ts
+#EXTINF:0,Viasat Film Action SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19810.ts
+#EXTINF:0,Viasat Film Action HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11554.ts
+#EXTINF:0,Viasat Film Premiere SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11553.ts
+#EXTINF:0,Viasat Film Premiere HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19811.ts
+#EXTINF:0,Viasat Series SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11555.ts
+#EXTINF:0,Viasat Series HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/20026.ts
+#EXTINF:0,Viasat Film Family SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11552.ts
+#EXTINF:0,ATG Live SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18324.ts
+#EXTINF:0,Sportkanalen FHD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18930.ts
+#EXTINF:0,TNT SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/21154.ts
+#EXTINF:0,C More Fotboll SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11571.ts
+#EXTINF:0,C More Fotboll HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14455.ts
+#EXTINF:0,C More Golf SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19476.ts
+#EXTINF:0,C More Hockey HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14454.ts
+#EXTINF:0,C More Hockey HD [Backup] SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15552.ts
+#EXTINF:0,C More Live HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15530.ts
+#EXTINF:0,C More Live 2 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15531.ts
+#EXTINF:0,C More Live 3 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11610.ts
+#EXTINF:0,C More Live 3 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15532.ts
+#EXTINF:0,C More Live 4 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11609.ts
+#EXTINF:0,C More Live 4 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15533.ts
+#EXTINF:0,C More Sport SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11570.ts
+#EXTINF:0,C More Sport HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14453.ts
+#EXTINF:0,Eurosport 1 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11564.ts
+#EXTINF:0,Eurosport 1 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15535.ts
+#EXTINF:0,Eurosport 2 SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14450.ts
+#EXTINF:0,Eurosport 2 HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15534.ts
+#EXTINF:0,TV3 Sport SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14445.ts
+#EXTINF:0,Viasat Fotboll HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11567.ts
+#EXTINF:0,Viasat Fotboll HD [Backup] SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14420.ts
+#EXTINF:0,Viasat Golf HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11574.ts
+#EXTINF:0,Viasat Hockey HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11568.ts
+#EXTINF:0,Viasat Motor SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11569.ts
+#EXTINF:0,Viasat Motor HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18228.ts
+#EXTINF:0,Viasat Sport SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11566.ts
+#EXTINF:0,Viasat Sport HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14416.ts
+#EXTINF:0,Viasat Sport Premium SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11581.ts
+#EXTINF:0,Viasat Sport Premium HD SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18226.ts
+#EXTINF:0,Viasat Nature / Playboy SE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14663.ts
