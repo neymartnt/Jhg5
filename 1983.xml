@@ -488,6 +488,87 @@
 </item>
 
 <item>
+ <title>[COLOR yellow]  BRIGHT [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>BRIGHT [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FNTO6STMYQ</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+
+<item>
+ <title>[COLOR yellow] El Mecanico  [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>El Mecanico  [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FNMA9MAZ5X</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+
+<item>
+ <title>[COLOR yellow] Jumanji: Bienvenidos a la jungla  [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Jumanji: Bienvenidos a la jungla [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FP71ACNEC4</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+
+<item>
  <title>[COLOR yellow]   [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
