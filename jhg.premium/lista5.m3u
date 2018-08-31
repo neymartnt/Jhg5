@@ -1,527 +1,438 @@
 #EXTM3U
 
-	
-#EXTINF:0,#0 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9411.ts
-#EXTINF:0,#0 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12734.ts
-#EXTINF:0,A&E ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5474.ts
-#EXTINF:0,AMC ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9438.ts
-#EXTINF:0,AMC HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12733.ts
-#EXTINF:0,Atreseries HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18382.ts
-#EXTINF:0,AXN ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5471.ts
-#EXTINF:0,AXN HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12731.ts
-#EXTINF:0,AXN White ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5470.ts
-#EXTINF:0,AXN White HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12730.ts
-#EXTINF:0,Animal Planet ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11606.ts
-#EXTINF:0,Antena 3 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5472.ts
-#EXTINF:0,Antena 3 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12732.ts
-#EXTINF:0,Aragón TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9409.ts
-#EXTINF:0,Baby TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9427.ts
-#EXTINF:0,Barca TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5466.ts
-#EXTINF:0,Boing ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9429.ts
-#EXTINF:0,Blaze España ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/21523.ts
-#EXTINF:0,Calle 13 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5469.ts
-#EXTINF:0,Calle 13 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12728.ts
-#EXTINF:0,Canal 24 Horas ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9410.ts
-#EXTINF:0,Canal Cocina ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5456.ts
-#EXTINF:0,Decasa ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5460.ts
-#EXTINF:0,Canal Panda ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9418.ts
-#EXTINF:0,Canal Sur Andalucia ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5467.ts
-#EXTINF:0,Caza y Pesca ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9426.ts
-#EXTINF:0,Caza y Pesca HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/13659.ts
-#EXTINF:0,Clan TVE ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9428.ts
-#EXTINF:0,Comedy Central ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9420.ts
-#EXTINF:0,Comedy Central HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12711.ts
-#EXTINF:0,Cosmopolitan TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5473.ts
-#EXTINF:0,Cosmopolitan TV HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12710.ts
-#EXTINF:0,Crimen + Investigación ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9433.ts
-#EXTINF:0,Cuatro ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5464.ts
-#EXTINF:0,Cuatro HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12709.ts
-#EXTINF:0,Discovery Channel ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5448.ts
-#EXTINF:0,Disney Channel ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5446.ts
-#EXTINF:0,Disney Channel HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12708.ts
-#EXTINF:0,Disney Junior ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9431.ts
-#EXTINF:0,Disney XD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9430.ts
-#EXTINF:0,Divinity ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9442.ts
-#EXTINF:0,Energy ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9440.ts
-#EXTINF:0,Eurosport 1 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5410.ts
-#EXTINF:0,Eurosport 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12707.ts
-#EXTINF:0,Factoria de Ficción ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9434.ts
-#EXTINF:0,FOX ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5442.ts
-#EXTINF:0,FOX HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/13661.ts
-#EXTINF:0,FOX Life ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5439.ts
-#EXTINF:0,FOX News ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9443.ts
-#EXTINF:0,FOX Life HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12706.ts
-#EXTINF:0,Gol ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9416.ts
-#EXTINF:0,Historia ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9425.ts
-#EXTINF:0,Canal Hollywood ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5428.ts
-#EXTINF:0,Canal Hollywood HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12705.ts
-#EXTINF:0,Iberalia TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9408.ts
-#EXTINF:0,TVE La 1 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9404.ts
-#EXTINF:0,TVE La 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12704.ts
-#EXTINF:0,TVE La 2 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9405.ts
-#EXTINF:0,La Sexta ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9406.ts
-#EXTINF:0,La Sexta HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12703.ts
-#EXTINF:0,LaLiga TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5457.ts
-#EXTINF:0,LaLiga TV HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12718.ts
-#EXTINF:0,LaLiga 123 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18232.ts
-#EXTINF:0,MTV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9448.ts
-#EXTINF:0,Mega HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16262.ts
-#EXTINF:0,Mezzo Live HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12702.ts
-#EXTINF:0,Movistar Acción ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5463.ts
-#EXTINF:0,Movistar Acción HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12727.ts
-#EXTINF:0,Movistar Cine Ñ ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5411.ts
-#EXTINF:0,Movistar Comedia ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5462.ts
-#EXTINF:0,Movistar Comedia HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12726.ts
-#EXTINF:0,Movistar DCine ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5461.ts
-#EXTINF:0,Movistar DCine HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12725.ts
-#EXTINF:0,Movistar Deportes 1 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5465.ts
-#EXTINF:0,Movistar Deportes 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12723.ts
-#EXTINF:0,Movistar Deportes 2 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9419.ts
-#EXTINF:0,Movistar Deportes 2 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12724.ts
-#EXTINF:0,Movistar ESports ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19150.ts
-#EXTINF:0,Movistar Estrenos ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9415.ts
-#EXTINF:0,Movistar Estrenos HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12722.ts
-#EXTINF:0,Movistar Fama 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19958.ts
-#EXTINF:0,Movistar Formula 1 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5445.ts
-#EXTINF:0,Movistar Formula 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12701.ts
-#EXTINF:0,Movistar Fútbol ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5459.ts
-#EXTINF:0,Movistar Fútbol HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12721.ts
-#EXTINF:0,Movistar Golf ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5458.ts
-#EXTINF:0,Movistar Golf HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12720.ts
-#EXTINF:0,Movistar Moto GP ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5436.ts
-#EXTINF:0,Movistar Moto GP HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12700.ts
-#EXTINF:0,Movistar Partidazo ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5447.ts
-#EXTINF:0,Movistar Partidazo HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12716.ts
-#EXTINF:0,Movistar Partidazo 4K ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/22849.ts
-#EXTINF:0,Movistar Series ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9413.ts
-#EXTINF:0,Movistar Series HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/13664.ts
-#EXTINF:0,Movistar Series Xtra ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9414.ts
-#EXTINF:0,Movistar Series Xtra HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12714.ts
-#EXTINF:0,Movistar Xtra ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9412.ts
-#EXTINF:0,Movistar Xtra HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12712.ts
-#EXTINF:0,National Geographic HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9441.ts
-#EXTINF:0,National Geographic Wild ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5476.ts
-#EXTINF:0,National Geographic Wild HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12698.ts
-#EXTINF:0,National Geographic ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5455.ts
-#EXTINF:0,Neox ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9421.ts
-#EXTINF:0,Nick Jr. ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14247.ts
-#EXTINF:0,Nickelodeon ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14248.ts
-#EXTINF:0,Nickelodeon HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12697.ts
-#EXTINF:0,Nova ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9422.ts
-#EXTINF:0,Odisea ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9417.ts
-#EXTINF:0,Paramount Channel ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9446.ts
-#EXTINF:0,Real Madrid TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5420.ts
-#EXTINF:0,Syfy ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5417.ts
-#EXTINF:0,Sundance ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/20431.ts
-#EXTINF:0,Syfy HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12696.ts
-#EXTINF:0,TCM ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9445.ts
-#EXTINF:0,TCM HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12695.ts
-#EXTINF:0,TNT ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9423.ts
-#EXTINF:0,TNT HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12693.ts
-#EXTINF:0,TV3 Cat ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9436.ts
-#EXTINF:0,Taquilla 1 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15615.ts
-#EXTINF:0,Taquilla 2 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15616.ts
-#EXTINF:0,Taquilla 3 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15617.ts
-#EXTINF:0,Taquilla 4 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15618.ts
-#EXTINF:0,Taquilla 5 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15619.ts
-#EXTINF:0,Taquilla 6 HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15620.ts
-#EXTINF:0,Telecinco ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5415.ts
-#EXTINF:0,Telecinco HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12694.ts
-#EXTINF:0,Teledeporte ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5414.ts
-#EXTINF:0,Toros TV ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/5437.ts
-#EXTINF:0,Toros TV HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12713.ts
-#EXTINF:0,TVE Internacional Europa ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/20212.ts
-#EXTINF:0,Viajar ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9424.ts
-#EXTINF:0,Viajar HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12717.ts
-#EXTINF:0,Caçavision HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9492.ts
-#EXTINF:0,Galicia TV Europa ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/9473.ts
-#EXTINF:0,Eurosport 2 ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16844.ts
-#EXTINF:0,Be Mad FHD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/22973.ts
-#EXTINF:0,CNN en Español ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/22977.ts
-#EXTINF:0,Movistar Liga de Campeones FHD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/23282.ts
-#EXTINF:0,Teledeporte FHD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/23441.ts
-#EXTINF:0,
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16515.ts
-#EXTINF:0,SVT1 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11529.ts
-#EXTINF:0,SVT1 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18631.ts
-#EXTINF:0,SVT1 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15553.ts
-#EXTINF:0,SVT2 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11530.ts
-#EXTINF:0,SVT2 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18630.ts
-#EXTINF:0,SVT2 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15515.ts
-#EXTINF:0,SVTB/SVT24 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16577.ts
-#EXTINF:0,SVTB/SVT24 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18629.ts
-#EXTINF:0,SVTB/SVT24 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/16578.ts
-#EXTINF:0,TV3 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12065.ts
-#EXTINF:0,TV3 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11531.ts
-#EXTINF:0,TV3 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15560.ts
-#EXTINF:0,TV4 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11532.ts
-#EXTINF:0,TV4 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18627.ts
-#EXTINF:0,TV4 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14429.ts
-#EXTINF:0,TV4 Guld SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11543.ts
-#EXTINF:0,Kanal 5 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11533.ts
-#EXTINF:0,Kanal 5 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14442.ts
-#EXTINF:0,Kanal 5 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11562.ts
-#EXTINF:0,TV6 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11534.ts
-#EXTINF:0,TV6 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15542.ts
-#EXTINF:0,Sjuan SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11535.ts
-#EXTINF:0,TV8 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11536.ts
-#EXTINF:0,TV8 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/21914.ts
-#EXTINF:0,Kanal 9 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11537.ts
-#EXTINF:0,Kanal 9 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18624.ts
-#EXTINF:0,Kanal 9 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11617.ts
-#EXTINF:0,TV 10 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11538.ts
-#EXTINF:0,TV10 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/21915.ts
-#EXTINF:0,Kanal 11 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11539.ts
-#EXTINF:0,Kanal 11 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18623.ts
-#EXTINF:0,Kanal 11 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15498.ts
-#EXTINF:0,TV12 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11540.ts
-#EXTINF:0,TV12 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18626.ts
-#EXTINF:0,TV12 FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15527.ts
-#EXTINF:0,Sjuan HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/20421.ts
-#EXTINF:0,Barnsånger SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18672.ts
-#EXTINF:0,Boomerang SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11550.ts
-#EXTINF:0,Cartoon Network SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11551.ts
-#EXTINF:0,Disney Channel SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11549.ts
-#EXTINF:0,Disney Junior SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11548.ts
-#EXTINF:0,Disney XD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11547.ts
-#EXTINF:0,Nick Jr. SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12364.ts
-#EXTINF:0,Nickelodeon SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12077.ts
-#EXTINF:0,Nickelodeon HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15559.ts
-#EXTINF:0,Nicktoons SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18673.ts
-#EXTINF:0,Animal Planet HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15551.ts
-#EXTINF:0,BBC Earth HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14456.ts
-#EXTINF:0,BBC Brit HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19633.ts
-#EXTINF:0,Discovery HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14451.ts
-#EXTINF:0,Discovery Channel SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11580.ts
-#EXTINF:0,Discovery Channel HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18622.ts
-#EXTINF:0,Discovery Channel FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15495.ts
-#EXTINF:0,Discovery Science SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11618.ts
-#EXTINF:0,Discovery World SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11619.ts
-#EXTINF:0,Investigation Discovery SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15497.ts
-#EXTINF:0,H2 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/17808.ts
-#EXTINF:0,History HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14446.ts
-#EXTINF:0,Kunskapskanalen SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11579.ts
-#EXTINF:0,National Geographic HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14666.ts
-#EXTINF:0,National Geographic Wild SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11578.ts
-#EXTINF:0,TLC HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14430.ts
-#EXTINF:0,TLC FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15503.ts
-#EXTINF:0,Travel Channel HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14428.ts
-#EXTINF:0,TV4 Fakta SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11544.ts
-#EXTINF:0,Viasat Explore SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12360.ts
-#EXTINF:0,Viasat History SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12283.ts
-#EXTINF:0,Comedy Central SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15543.ts
-#EXTINF:0,E! SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/12079.ts
-#EXTINF:0,FOX SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15555.ts
-#EXTINF:0,MTV SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14668.ts
-#EXTINF:0,VH1 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18670.ts
-#EXTINF:0,C More Hits HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19806.ts
-#EXTINF:0,C More Hits FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11559.ts
-#EXTINF:0,C More First HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19805.ts
-#EXTINF:0,C More First FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11558.ts
-#EXTINF:0,C More Series HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19808.ts
-#EXTINF:0,C More Series FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11561.ts
-#EXTINF:0,C More Stars HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19807.ts
-#EXTINF:0,C More Stars FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15556.ts
-#EXTINF:0,SF-Kanalen SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11565.ts
-#EXTINF:0,TV4 Film SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11541.ts
-#EXTINF:0,Viasat Film Hits HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19809.ts
-#EXTINF:0,Viasat Film Action SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19810.ts
-#EXTINF:0,Viasat Film Action HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11554.ts
-#EXTINF:0,Viasat Film Premiere SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11553.ts
-#EXTINF:0,Viasat Film Premiere HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19811.ts
-#EXTINF:0,Viasat Series SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11555.ts
-#EXTINF:0,Viasat Series HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/20026.ts
-#EXTINF:0,Viasat Film Family SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11552.ts
-#EXTINF:0,ATG Live SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18324.ts
-#EXTINF:0,Sportkanalen FHD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18930.ts
-#EXTINF:0,TNT SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/21154.ts
-#EXTINF:0,C More Fotboll SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11571.ts
-#EXTINF:0,C More Fotboll HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14455.ts
-#EXTINF:0,C More Golf SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/19476.ts
-#EXTINF:0,C More Hockey HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14454.ts
-#EXTINF:0,C More Hockey HD [Backup] SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15552.ts
-#EXTINF:0,C More Live HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15530.ts
-#EXTINF:0,C More Live 2 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15531.ts
-#EXTINF:0,C More Live 3 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11610.ts
-#EXTINF:0,C More Live 3 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15532.ts
-#EXTINF:0,C More Live 4 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11609.ts
-#EXTINF:0,C More Live 4 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15533.ts
-#EXTINF:0,C More Sport SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11570.ts
-#EXTINF:0,C More Sport HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14453.ts
-#EXTINF:0,Eurosport 1 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11564.ts
-#EXTINF:0,Eurosport 1 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15535.ts
-#EXTINF:0,Eurosport 2 SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14450.ts
-#EXTINF:0,Eurosport 2 HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/15534.ts
-#EXTINF:0,TV3 Sport SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14445.ts
-#EXTINF:0,Viasat Fotboll HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11567.ts
-#EXTINF:0,Viasat Fotboll HD [Backup] SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14420.ts
-#EXTINF:0,Viasat Golf HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11574.ts
-#EXTINF:0,Viasat Hockey HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11568.ts
-#EXTINF:0,Viasat Motor SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11569.ts
-#EXTINF:0,Viasat Motor HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18228.ts
-#EXTINF:0,Viasat Sport SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11566.ts
-#EXTINF:0,Viasat Sport HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14416.ts
-#EXTINF:0,Viasat Sport Premium SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/11581.ts
-#EXTINF:0,Viasat Sport Premium HD SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/18226.ts
-#EXTINF:0,Viasat Nature / Playboy SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]JHG[/COLOR];url=http://mag.clientportal.link:80/live/s54180/fVWVTg450/14663.ts
+#EXTINF:-1,ES:LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28847.ts
+#EXTINF:-1,ES:LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28846.ts
+#EXTINF:-1,ES:LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28845.ts
+#EXTINF:-1,ES:La 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28844.ts
+#EXTINF:-1,ES:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28843.ts
+#EXTINF:-1,ES:ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28842.ts
+#EXTINF:-1,ES:CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28841.ts
+#EXTINF:-1,ES:CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28840.ts
+#EXTINF:-1,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28839.ts
+#EXTINF:-1,ES:TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28838.ts
+#EXTINF:-1,ES:CLAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28765.ts
+#EXTINF:-1,ES:CLAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28638.ts
+#EXTINF:-1,ES:24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28739.ts
+#EXTINF:-1,ES:NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28803.ts
+#EXTINF:-1,ES:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28678.ts
+#EXTINF:-1,ES:TELEMADRID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28715.ts
+#EXTINF:-1,ES:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28826.ts
+#EXTINF:-1,ES:FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28825.ts
+#EXTINF:-1,ES:FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28824.ts
+#EXTINF:-1,ES:FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28823.ts
+#EXTINF:-1,ES:FOX LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28822.ts
+#EXTINF:-1,ES:FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28821.ts
+#EXTINF:-1,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28835.ts
+#EXTINF:-1,ES:AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28834.ts
+#EXTINF:-1,ES:AXN  WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28832.ts
+#EXTINF:-1,ES:AXN  WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28830.ts
+#EXTINF:-1,ES:AXN  WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28831.ts
+#EXTINF:-1,ES:AXN FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28833.ts
+#EXTINF:-1,ES:TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28807.ts
+#EXTINF:-1,ES:TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28819.ts
+#EXTINF:-1,ES:CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28815.ts
+#EXTINF:-1,ES: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28817.ts
+#EXTINF:-1,ES:A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28804.ts
+#EXTINF:-1,ES:SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28813.ts
+#EXTINF:-1,ES:MOVISTAR 0# FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28791.ts
+#EXTINF:-1,ES:MOVISTAR 0# HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28792.ts
+#EXTINF:-1,ES:MOVISTAR  ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28787.ts
+#EXTINF:-1,ES:MOVISTAR ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28786.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28785.ts
+#EXTINF:-1,ES:MOVISTAR COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28784.ts
+#EXTINF:-1,ES:MOVISTAR DCINE  Ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28781.ts
+#EXTINF:-1,ES:MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28783.ts
+#EXTINF:-1,ES:MOVISTAR DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28782.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28789.ts
+#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28788.ts
+#EXTINF:-1,ES:MOVISTAR SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28777.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28775.ts
+#EXTINF:-1,ES:MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28779.ts
+#EXTINF:-1,ES:CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28749.ts
+#EXTINF:-1,ES:NAT GEO  WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28757.ts
+#EXTINF:-1,ES:NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28759.ts
+#EXTINF:-1,ES:NAT GEO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28760.ts
+#EXTINF:-1,ES:NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28758.ts
+#EXTINF:-1,ES:VIAJAR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28751.ts
+#EXTINF:-1,ES:BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28772.ts
+#EXTINF:-1,ES:REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28679.ts
+#EXTINF:-1,ES:TELEDEPORTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28677.ts
+#EXTINF:-1,ES:LIGATV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28694.ts
+#EXTINF:-1,ES:LAFTV BAR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28695.ts
+#EXTINF:-1,ES:Liga 123 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28693.ts
+#EXTINF:-1,ES:LIGATV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28639.ts
+#EXTINF:-1,ES:GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28692.ts
+#EXTINF:-1,ES:BEIN LALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28699.ts
+#EXTINF:-1,ES:BEIN SPORT ESPAÑA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28696.ts
+#EXTINF:-1,LIGA DE CAMPEONES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28697.ts
+#EXTINF:-1,ES:MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28702.ts
+#EXTINF:-1,ES:PARTIDAZOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28711.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28708.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28705.ts
+#EXTINF:-1,ES:MOVISTAR  DEPORTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28707.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28706.ts
+#EXTINF:-1,ES:MOVISTAR  DEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28710.ts
+#EXTINF:-1,ES:MOVISTAR DEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28709.ts
+#EXTINF:-1,ES:MOVISTAR ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28730.ts
+#EXTINF:-1,ES:MOVISTAR  F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28691.ts
+#EXTINF:-1,ES:MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28690.ts
+#EXTINF:-1,ES:MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28689.ts
+#EXTINF:-1,ES:MOVISTAR FUTBOLL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28701.ts
+#EXTINF:-1,ES:MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28684.ts
+#EXTINF:-1,ES:MOVISTAR  MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28688.ts
+#EXTINF:-1,ES:MOVISTAR MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28687.ts
+#EXTINF:-1,ES:MOVISTAR MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28686.ts
+#EXTINF:-1,ES:BEIN LALIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28675.ts
+#EXTINF:-1,ES:BEIN LALIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28676.ts
+#EXTINF:-1,ES:BEIN LALIGA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28673.ts
+#EXTINF:-1,ES:BEIN  LALIGA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28674.ts
+#EXTINF:-1,ES:BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28700.ts
+#EXTINF:-1,ES:BEIN LALIGA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28669.ts
+#EXTINF:-1,ES:BEIN LALIGA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28668.ts
+#EXTINF:-1,ES:BEIN LALIGA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28667.ts
+#EXTINF:-1,ES:BEIN MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28666.ts
+#EXTINF:-1,ES:BEIN MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28664.ts
+#EXTINF:-1,ES:Bein Sports MAX 1  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28665.ts
+#EXTINF:-1,ES:Bein Sports MAX 2  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28663.ts
+#EXTINF:-1,ES:Bein Sports MAX 3  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28662.ts
+#EXTINF:-1,ES:Bein Sports MAX 4  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28661.ts
+#EXTINF:-1,ES:Bein Sports MAX 5  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28660.ts
+#EXTINF:-1,ES:Bein Sports MAX 6  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28659.ts
+#EXTINF:-1,ES:Bein Sports MAX 7  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28658.ts
+#EXTINF:-1,ES:Bein Sports MAX 8 ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28657.ts
+#EXTINF:-1,ES: BEIN  LALIGA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28672.ts
+#EXTINF:-1,ES: BEIN  LALIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28671.ts
+#EXTINF:-1,ES: BEIN LALIGA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28670.ts
+#EXTINF:-1,ES:Bein Sport ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28698.ts
+#EXTINF:-1,ES:MULTI DEPORTE  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28655.ts
+#EXTINF:-1,ES:MULTI FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28649.ts
+#EXTINF:-1,ES:MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28704.ts
+#EXTINF:-1,ES:MULTIDEPORTE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28656.ts
+#EXTINF:-1,ES:MULTIDEPORTE  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28654.ts
+#EXTINF:-1,ES:MULTIDEPORTE  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28653.ts
+#EXTINF:-1,ES:MULTIDEPORTE  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28652.ts
+#EXTINF:-1,ES:MULTIDEPORTE  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28651.ts
+#EXTINF:-1,ES:MULTIDEPORTE  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28650.ts
+#EXTINF:-1,ES:MULTIFUTBOL  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28648.ts
+#EXTINF:-1,ES:MULTIFUTBOL  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28647.ts
+#EXTINF:-1,ES:MULTIFUTBOL  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28646.ts
+#EXTINF:-1,ES:MULTIFUTBOL  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28645.ts
+#EXTINF:-1,ES:MULTIFUTBOL  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28644.ts
+#EXTINF:-1,ES:MULTIFUTBOL  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28643.ts
+#EXTINF:-1,ES:MULTIFUTBOL  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28642.ts
+#EXTINF:-1,ES:MULTIFUTBOL  8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28641.ts
+#EXTINF:-1,ES:EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28682.ts
+#EXTINF:-1,ES:Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28681.ts
+#EXTINF:-1,ES:EUROSPORT  ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28683.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28770.ts
+#EXTINF:-1,ES:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28761.ts
+#EXTINF:-1,ES:NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28762.ts
+#EXTINF:-1,ES:NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28763.ts
+#EXTINF:-1,ES:DISNEY  JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28768.ts
+#EXTINF:-1,ES:DISNEY  XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28769.ts
+#EXTINF:-1,ES:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28766.ts
+#EXTINF:-1,ES:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28767.ts
+#EXTINF:-1,ES:BABY  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28764.ts
+#EXTINF:-1,ES:PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28771.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28802.ts
+#EXTINF:-1,ES:13 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28724.ts
+#EXTINF:-1,ES:24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28723.ts
+#EXTINF:-1,ES:3/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28729.ts
+#EXTINF:-1,ES:7RM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28722.ts
+#EXTINF:-1,ES:8Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28738.ts
+#EXTINF:-1,ES:A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28754.ts
+#EXTINF:-1,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28829.ts
+#EXTINF:-1,ES:AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28827.ts
+#EXTINF:-1,ES:AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28828.ts
+#EXTINF:-1,ES:ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28737.ts
+#EXTINF:-1,ES:ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28736.ts
+#EXTINF:-1,ES:BE MAD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28742.ts
+#EXTINF:-1,ES:BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28725.ts
+#EXTINF:-1,ES:CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28816.ts
+#EXTINF:-1,ES:CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28726.ts
+#EXTINF:-1,ES:CANAL SUR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28721.ts
+#EXTINF:-1,ES:CAZA  Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28750.ts
+#EXTINF:-1,ES:CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28753.ts
+#EXTINF:-1,ES:CMM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28720.ts
+#EXTINF:-1,ES:COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28746.ts
+#EXTINF:-1,ES:COMEDY  CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28810.ts
+#EXTINF:-1,ES:COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28809.ts
+#EXTINF:-1,ES:COSMOPOLITAN  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28811.ts
+#EXTINF:-1,ES:COSMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28812.ts
+#EXTINF:-1,ES:DARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28797.ts
+#EXTINF:-1,ES:DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28745.ts
+#EXTINF:-1,ES:DISCOVERY  CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28748.ts
+#EXTINF:-1,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28805.ts
+#EXTINF:-1,ES:DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28735.ts
+#EXTINF:-1,ES:DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28741.ts
+#EXTINF:-1,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28799.ts
+#EXTINF:-1,ES:ESPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28637.ts
+#EXTINF:-1,ES:ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28640.ts
+#EXTINF:-1,ES:ETB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28719.ts
+#EXTINF:-1,ES:EXTREMADURA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28718.ts
+#EXTINF:-1,ES:Extreme EMEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28636.ts
+#EXTINF:-1,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28800.ts
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28756.ts
+#EXTINF:-1,ES:HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28755.ts
+#EXTINF:-1,ES:HIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28743.ts
+#EXTINF:-1,ES:HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28818.ts
+#EXTINF:-1,ES:Iberalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28680.ts
+#EXTINF:-1,ES:INTERECONOMIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28717.ts
+#EXTINF:-1,ES:LA OTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28716.ts
+#EXTINF:-1,ES:MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28798.ts
+#EXTINF:-1,ES:MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28732.ts
+#EXTINF:-1,ES:MEZZO LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28731.ts
+#EXTINF:-1,ES:MOVISTAR  0#
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28793.ts
+#EXTINF:-1,ES:MOVISTAR  DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28790.ts
+#EXTINF:-1,ES:MOVISTAR  FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28703.ts
+#EXTINF:-1,ES:MOVISTAR  TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28774.ts
+#EXTINF:-1,ES:MOVISTAR FAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28794.ts
+#EXTINF:-1,ES:MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28685.ts
+#EXTINF:-1,ES:MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28778.ts
+#EXTINF:-1,ES:MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28776.ts
+#EXTINF:-1,ES:MOVISTAR TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28773.ts
+#EXTINF:-1,ES:MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28780.ts
+#EXTINF:-1,ES:MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28744.ts
+#EXTINF:-1,ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28747.ts
+#EXTINF:-1,ES:PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28808.ts
+#EXTINF:-1,ES:Partidazo 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28712.ts
+#EXTINF:-1,ES:PARTIDAZOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28713.ts
+#EXTINF:-1,ES:SOL Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28734.ts
+#EXTINF:-1,ES:SOMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28795.ts
+#EXTINF:-1,ES:SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28733.ts
+#EXTINF:-1,ES:Super 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28728.ts
+#EXTINF:-1,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28814.ts
+#EXTINF:-1,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28806.ts
+#EXTINF:-1,ES:TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28740.ts
+#EXTINF:-1,ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28820.ts
+#EXTINF:-1,ES:TV 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28801.ts
+#EXTINF:-1,ES:TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28727.ts
+#EXTINF:-1,ES:Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28752.ts
+#EXTINF:-1,ES:XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28796.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES 1 España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36512.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36513.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES 2  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36510.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES 3  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36509.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES 5  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36507.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES 6  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36506.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES 7  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36505.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES 8 ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36504.ts
+#EXTINF:-1,ES:LIGA DE CAMPEONES4  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/36508.ts
