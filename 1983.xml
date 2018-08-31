@@ -18,7 +18,7 @@
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] 2018 HD [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/ESTRENOS.xml</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -34,13 +34,6 @@
 </item>
 
 
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] ESTRENOS (LATINO)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink></externallink>
-<thumbnail>https://i.imgur.com/WOU3Mn3.jpg</thumbnail>
-<fanart>https://i.imgur.com/WOU3Mn3.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
@@ -83,196 +76,10 @@
 <info></info> 
 </item>
 		
-<item>
- <title>	[COLOR yellow] TRANSFORMERS: El último caballero [/COLOR]</title>
- <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
- <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
- <genre>Acción, Aventuras, Ciencia ficción</genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>Transformers: El último caballero [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail>https://s20.postimg.org/bgsyg804d/icono_tranformer_caballero.png</thumbnail>
-    <fanart>https://s20.postimg.org/wdp6krvjh/fondo_transforme.jpg</fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/v/FKTL5ZGTCH</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date>2017</date>
-    <info>Dos especies en guerra: una de carne y hueso, la otra de metal. El Último Caballero rompe con el mito original de la franquicia de Transformers y redefine lo que significa ser un héroe. Humanos y Transformers están en guerra</info>
-    </regex>
-</item>  
-  
-
-<item>
- <title>	[COLOR yellow] ALIEN: Covenant [/COLOR]</title>
- <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
- <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg/<fanart>
- <genre>Ciencia ficción, Terror, Extraterrestres</genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>Alien: Covenant [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail>https://s20.postimg.org/bzpd52qt9/icono_alienco.png</thumbnail>
-    <fanart>https://s20.postimg.org/6bj2e5zbh/fondo_alien.jpg</fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/v/FLRQNLM27W</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date>2017</date>
-    <info>Rumbo a un remoto planeta al otro lado de la galaxia, la tripulación de la nave colonial Covenant descubre lo que creen que es un paraíso inexplorado, pero resulta tratarse de un mundo oscuro y hostil </info>
-    </regex>
-</item>
 
 
 
 
-
-
-
-<item>
- <title>[COLOR yellow]  LAS VENGADORAS [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title> LAS VENGADORAS[info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FSBTRIWR34</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
-
-<item>
- <title>[COLOR yellow]  Operación Huracán [/COLOR] </title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>Operación Huracán [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FSH3G7QEEJ</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
-
-
-<item>
- <title>[COLOR yellow] JUNGLA DE CRISTAL 2  [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>JUNGLA DE CRISTAL 2 [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FTKTKXMU8J</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
-
-<item>
- <title>[COLOR yellow] JUNGLA DE CRISTAL 3  [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>JUNGLA 3 [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FTLER8HYQI</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
-
-
-<item>
- <title>[COLOR yellow] JUNGLA DE CRISTAL 4  [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>JUNGLA DE CRISTAL 4 [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FTKU65S7SI</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
 
 
 <item>
@@ -327,138 +134,7 @@
     </regex>
 </item>
 
-<item>
- <title>[COLOR yellow] RAMPAGE  [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>RAMPAGE  [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FSI3QSFJA4</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
 
-<item>
- <title>[COLOR yellow]  BRIGHT [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>BRIGHT [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FNTO6STMYQ</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
-
-
-<item>
- <title>[COLOR yellow] El Mecanico  [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>El Mecanico  [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FNMA9MAZ5X</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
-
-
-<item>
- <title>[COLOR yellow] Jumanji: Bienvenidos a la jungla  [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title>Jumanji: Bienvenidos a la jungla [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/embed/FP71ACNEC4</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
-
-
-<item>
- <title>[COLOR yellow]  TADEO JONES 2 [/COLOR]</title>
- <thumbnail></thumbnail>
- <fanart><fanart>
- <genre></genre>
-    <link>$doregex[info]</link>
-    <regex>
-    <name>info</name>
-    <listrepeat><![CDATA[
-    <title> tadeo jones 2 [info.param2]</title>
-    <link>$doregex[enlace]</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    ]]></listrepeat>
-    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://www.rapidvideo.com/v/FPW14ODJZG</page>
-    </regex>
-    <regex>
-    <name>enlace</name>
-    <expres>source.*?"(.*?)"</expres>
-    <page>[info.param1]</page>
-    <date></date>
-    <info> </info>
-    </regex>
-</item>
 
 
 <item>
@@ -514,13 +190,7 @@ https://www.rapidvideo.com/embed/FQJOC2VRUV
     </regex>
 </item>
   
-  
-<item>
-<title>[COLOR yellow] _**_  [/COLOR][COLOR  skyblue] ** [/COLOR][COLOR yellow]  _**_ [/COLOR]</title>
-<urlsolve>https://powvideo.cc/3eai4nkfwxni</urlsolve>
-<thumbnail><thumbnail>
-<info></info> 
-</item>
+
   
 <item>
 <title> Mercenarios 2</title>
@@ -533,8 +203,10 @@ https://www.rapidvideo.com/embed/FQJOC2VRUV
 </item>  
 
 
+
+
 <item>
- <title>[COLOR yellow] los mercenarios 3  [/COLOR]</title>
+ <title>[COLOR yellow]   [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -542,13 +214,93 @@ https://www.rapidvideo.com/embed/FQJOC2VRUV
     <regex>
     <name>info</name>
     <listrepeat><![CDATA[
-    <title> los mercenarios 3 [info.param2]</title>
+    <title>Rocky [info.param2]</title>
     <link>$doregex[enlace]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
     ]]></listrepeat>
     <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page>https://streamplay.to/5qckjzaxcmf2</page>
+    <page></page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+
+<item>
+ <title>[COLOR yellow]   [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Rocky [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page></page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+<item>
+ <title>[COLOR yellow]   [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Rocky [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page></page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+
+<item>
+ <title>[COLOR yellow]   [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>Rocky [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page></page>
     </regex>
     <regex>
     <name>enlace</name>
