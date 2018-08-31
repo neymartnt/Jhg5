@@ -55,23 +55,27 @@
 
 
 
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] CINE [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/CINEBASE.xml</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 		
 		<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] PELICULAS e(OFF)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] PELICULAS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/1983.xml</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
+<fanart>https://i.imgur.com/JK14obf.jpg</fanart>
 </item>
 
 
+  
+<item>
+<title>xXx: Reactivated</title>
+<urlsolve>https://streamango.com/f/kqebefleqrrdnsoq/n</urlsolve>
+<thumbnail>https://s20.postimg.org/wb69o3ci5/icono_xxxreac.png</thumbnail>
+<fanart>https://s20.postimg.org/4b263v6hp/fondo_xxx.jpg</fanart>
+<genre>Aventura, Accion, Suspense</genre> 
+<info>La película gira en torno al regreso de Xander Cage, a quien todos creían muerto. Cage, alias xXx (Triple X), es un rebelde amante de los deportes extremos que adora romper las leyes y que por ello acaba siendo atrapado por las autoridades de EE.UU.</info> 
+<date>2017</date>
+</item>  
+  
 		
 	<!------
 	
