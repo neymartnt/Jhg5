@@ -6,40 +6,156 @@
 #EXTINF:-1, [COLOR  yellow] LISTA 1 [/COLOR]ACTUALIZADA!! 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://
  (Copyright © 2018 by SUPER.JHG.MASTER)
-#EXTINF:-1,ES:LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28847.ts
-#EXTINF:-1,ES:LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28846.ts
-#EXTINF:-1,ES:LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28845.ts
-#EXTINF:-1,ES:La 2 FHD
-http://54.37.255.204:9977/live/Rivera/Rivera/28844.m3u8
-#EXTINF:-1,ES:ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28843.ts
-#EXTINF:-1,ES:ANTENA 3 FHD
-http://54.37.255.204:9977/live/Rivera/Rivera/28842.ts
-#EXTINF:-1,ES:CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://54.37.255.204:9977/live/Rivera/Rivera/28841.m3u8
- 
-#EXTINF:-1, [COLOR  yellow] LISTA 2 [/COLOR]ACTUALIZADA!! 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]SUPER.JHG.MASTER[/COLOR];url=http://
- (Copyright © 2018 by SUPER.JHG.MASTER)
- plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://54.37.255.204:9977/live/Jesus11/Jesus11/28847.ts
 
-#EXTM3U
-#EXTINF:-1,Es- #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10021.ts
-#EXTINF:-1,Es- 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10020.ts
-#EXTINF:-1,Es- A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10019.ts
-#EXTINF:-1,Es- AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10018.ts
-#EXTINF:-1,Es- ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10017.ts
-#EXTINF:-1,Es- AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10016.ts
-#EXTINF:-1,Es- AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10015.ts
-#EXTINF:-1,Es- BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];http://m-iptv.net:6204/live/Erbil/Erbil/10014.ts
+ 
+ 
+ #EXTINF:-1 tvg-id="" tvg-name="------- Spanish ---------" tvg-logo="" group-title="",------- Spanish ---------
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 1" tvg-logo="" group-title="Spanish",ES: Taquilla 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 2" tvg-logo="" group-title="Spanish",ES: Taquilla 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 3" tvg-logo="" group-title="Spanish",ES: Taquilla 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 4" tvg-logo="" group-title="Spanish",ES: Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 5" tvg-logo="" group-title="Spanish",ES: Taquilla 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 6" tvg-logo="" group-title="Spanish",ES: Taquilla 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 7" tvg-logo="" group-title="Spanish",ES: Taquilla 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 8" tvg-logo="" group-title="Spanish",ES: Taquilla 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 9" tvg-logo="" group-title="Spanish",ES: Taquilla 9
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 10" tvg-logo="" group-title="Spanish",ES: Taquilla 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Liga" tvg-logo="" group-title="Spanish",ES: Canal+ Liga
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Deportes HD" tvg-logo="" group-title="Spanish",ES: Canal+ Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Deportes 2 HD" tvg-logo="" group-title="Spanish",ES: Canal+ Deportes 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Futpol" tvg-logo="" group-title="Spanish",ES: Canal+ Futpol
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Golf" tvg-logo="" group-title="Spanish",ES: Canal+ Golf
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ HD" tvg-logo="" group-title="Spanish",ES: Canal+ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Accion" tvg-logo="" group-title="Spanish",ES: Canal+ Accion
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Dcine" tvg-logo="" group-title="Spanish",ES: Canal+ Dcine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Comedia" tvg-logo="" group-title="Spanish",ES: Canal+ Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Estrenos HD" tvg-logo="" group-title="Spanish",ES: Canal+ Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ de las Estrellas" tvg-logo="" group-title="Spanish",ES: Canal+ de las Estrellas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Series" tvg-logo="" group-title="Spanish",ES: Canal+ Series
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Serie Xtra" tvg-logo="" group-title="Spanish",ES: Canal+ Serie Xtra
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Cuatro" tvg-logo="" group-title="Spanish",ES: Canal+ Cuatro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Cine" tvg-logo="" group-title="Spanish",ES: Canal+ Cine
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Cocina" tvg-logo="" group-title="Spanish",ES: Canal+ Cocina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ AXN HD" tvg-logo="" group-title="Spanish",ES: Canal+ AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Toros" tvg-logo="" group-title="Spanish",ES: Canal+ Toros
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cine latino" tvg-logo="" group-title="Spanish",ES: Cine latino
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Nova" tvg-logo="" group-title="Spanish",ES: Canal+ Nova
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Fox HD" tvg-logo="" group-title="Spanish",ES: Canal+ Fox HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal T HD" tvg-logo="" group-title="Spanish",ES: Canal T HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sony" tvg-logo="" group-title="Spanish",ES: Canal Sony
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Divinity" tvg-logo="" group-title="Spanish",ES: Canal+ Divinity
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 Horas" tvg-logo="" group-title="Spanish",ES: 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bein Sport ES HD" tvg-logo="" group-title="Spanish",ES: Bein Sport ES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Real Madrid" tvg-logo="" group-title="Spanish",ES: Real Madrid
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca TV" tvg-logo="" group-title="Spanish",ES: Barca TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movis Star Moto Gp" tvg-logo="" group-title="Spanish",ES: Movis Star Moto Gp
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movi Star F1" tvg-logo="" group-title="Spanish",ES: Movi Star F1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Comedy Central" tvg-logo="" group-title="Spanish",ES: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVP Mochis" tvg-logo="" group-title="Spanish",ES: TVP Mochis
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Clan TVE" tvg-logo="" group-title="Spanish",ES: Clan TVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1" tvg-logo="" group-title="Spanish",ES: La 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 2" tvg-logo="" group-title="Spanish",ES: La 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: La  Sexta HD" tvg-logo="" group-title="Spanish",ES: La  Sexta HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Warner HD" tvg-logo="" group-title="Spanish",ES: Warner HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="" group-title="Spanish",ES: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3" tvg-logo="" group-title="Spanish",ES: TV3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="" group-title="Spanish",ES: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="" group-title="Spanish",ES: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL Tv" tvg-logo="" group-title="Spanish",ES: GOL Tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Boing" tvg-logo="" group-title="Spanish",ES: Boing
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmo HD" tvg-logo="" group-title="Spanish",ES: Cosmo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/2587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: News DW" tvg-logo="" group-title="Spanish",ES: News DW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD" tvg-logo="" group-title="Spanish",ES: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: 324 Entertainment" tvg-logo="" group-title="Spanish",ES: 324 Entertainment
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Fox Life" tvg-logo="" group-title="Spanish",ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood" tvg-logo="" group-title="Spanish",ES: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Axn White HD" tvg-logo="" group-title="Spanish",ES: Axn White HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: History" tvg-logo="" group-title="Spanish",ES: History
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Concert Channel" tvg-logo="" group-title="Spanish",ES: Concert Channel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Anime" tvg-logo="" group-title="Spanish",ES: Anime
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: A&E" tvg-logo="" group-title="Spanish",ES: A&E
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="" group-title="Spanish",ES: FDF
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza Y Pesca" tvg-logo="" group-title="Spanish",ES: Caza Y Pesca
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar" tvg-logo="" group-title="Spanish",ES: Viajar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Teleticino" tvg-logo="" group-title="Spanish",ES: Teleticino
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic" tvg-logo="" group-title="Spanish",ES: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic Wild" tvg-logo="" group-title="Spanish",ES: National Geographic Wild
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Chaneel" tvg-logo="" group-title="Spanish",ES: Disney Chaneel
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: Disney XD" tvg-logo="" group-title="Spanish",ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="" group-title="Spanish",ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVN Chile HD" tvg-logo="" group-title="Spanish",ES: TVN Chile HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR green]JHG[/COLOR];url=http://e2.iudtv.org:8080/live/190f4ph79h0r02yx/1903h6mgi4cqcg30z/1006.m3u8
