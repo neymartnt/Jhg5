@@ -257,23 +257,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1 NO TOCAR!!!!! [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.xml</externallink>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.m3u</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 	
 	
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR white] MOVISTAR 5 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista5.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-	
+		
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2 ([/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
@@ -282,6 +274,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 	
+
+
 
 
 <item>
@@ -302,16 +296,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 4 (DEPORTES) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/SOLODEPORTES.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR white] MOVISTAR 5  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
@@ -319,6 +303,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 6(DEPORTES) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/SOLODEPORTES.m3u</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
  
 
