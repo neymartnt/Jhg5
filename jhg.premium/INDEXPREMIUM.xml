@@ -237,7 +237,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 	
 	 <item>
-        <title>[COLOR red]          LISTA AUTOACTUALIZABLE  MOVISTAR 1        [/COLOR]</title>
+        <title>[COLOR red]          LISTA AUTOACTUALIZABLE  MOVISTAR        [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>http://xml.autoiptv.net/normal.php?c=SP</externallink>
         <thumbnail></thumbnail>
