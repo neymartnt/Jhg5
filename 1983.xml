@@ -650,7 +650,7 @@ https://www.rapidvideo.com/embed/FQJOC2VRUV
 
 
 <item>
- <title>[COLOR yellow]   [/COLOR]</title>
+ <title>[COLOR yellow] los mercenarios 3  [/COLOR]</title>
  <thumbnail></thumbnail>
  <fanart><fanart>
  <genre></genre>
@@ -658,13 +658,13 @@ https://www.rapidvideo.com/embed/FQJOC2VRUV
     <regex>
     <name>info</name>
     <listrepeat><![CDATA[
-    <title>Rocky [info.param2]</title>
+    <title> los mercenarios 3 [info.param2]</title>
     <link>$doregex[enlace]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
     ]]></listrepeat>
     <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
-    <page></page>
+    <page>https://streamplay.to/5qckjzaxcmf2</page>
     </regex>
     <regex>
     <name>enlace</name>
