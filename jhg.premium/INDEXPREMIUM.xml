@@ -244,7 +244,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <fanart></fanart>
 </item>
 	
+  
 
+	<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] TDT OFF [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
+<fanart>http://www.symcober.com/wp-content/uploads/2015/06/TDT.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/TDT2.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] AUTONOMICAS [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<thumbnail>https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/72/23/c3/7223c36b-c93b-daf9-9563-dee000a53e1c/source/256x256bb.jpg</thumbnail>
+<fanart>http://www.symcober.com/wp-content/uploads/2015/06/TDT.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/AUTONOMICAS.xml</externallink>
+</item>
+	
 	
 <item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MUNDIAL F1 Y MOTOGP [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
@@ -267,7 +285,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	
 		
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2 ([/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u</externallink>
 <thumbnail></thumbnail>
@@ -279,7 +297,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 3 (FUNCIONA)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 3 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista3.m3u</externallink>
 <thumbnail></thumbnail>
@@ -288,7 +306,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 4 (FUNCIONA[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 4 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/Lista4.m3u</externallink>
 <thumbnail></thumbnail>
@@ -296,17 +314,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR white] MOVISTAR 5  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista5.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 6(DEPORTES) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 6(DEPORTES) off [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/SOLODEPORTES.m3u</externallink>
 <thumbnail></thumbnail>
@@ -314,7 +325,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
- 
+ 	
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red]  Canales PEQUES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/peques.m3u</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+	
+
 
  
 
@@ -338,15 +358,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
   
  
 
-	
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red]  Canales PEQUES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/peques.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-	
 
 	
 <item>

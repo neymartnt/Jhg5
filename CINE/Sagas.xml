@@ -2,6 +2,85 @@
 
 
 
+<item>
+ <title>[COLOR yellow] JUNGLA DE CRISTAL 2  [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>JUNGLA DE CRISTAL 2 [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FTKTKXMU8J</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+<item>
+ <title>[COLOR yellow] JUNGLA DE CRISTAL 3  [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>JUNGLA 3 [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FTLER8HYQI</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
+
+<item>
+ <title>[COLOR yellow] JUNGLA DE CRISTAL 4  [/COLOR]</title>
+ <thumbnail></thumbnail>
+ <fanart><fanart>
+ <genre></genre>
+    <link>$doregex[info]</link>
+    <regex>
+    <name>info</name>
+    <listrepeat><![CDATA[
+    <title>JUNGLA DE CRISTAL 4 [info.param2]</title>
+    <link>$doregex[enlace]</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    ]]></listrepeat>
+    <expres>a href="(.*?=(.*?))"\.*.*\n.*div style="w</expres>
+    <page>https://www.rapidvideo.com/embed/FTKU65S7SI</page>
+    </regex>
+    <regex>
+    <name>enlace</name>
+    <expres>source.*?"(.*?)"</expres>
+    <page>[info.param1]</page>
+    <date></date>
+    <info> </info>
+    </regex>
+</item>
+
 
 <item>
  <title>[COLOR yellow]  ROCKY BALBOA [/COLOR]</title>
