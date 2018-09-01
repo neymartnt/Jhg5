@@ -5,7 +5,7 @@
 
 	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR red][/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR deepskyblue][/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 <thumbnail>https://i.imgur.com/Vj6tXUY.jpg</thumbnail>
@@ -19,7 +19,7 @@
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] JHG(Ordenado por AÑOS)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] JHG(Ordenado por AÑOS)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/A%C3%91OS.xml</externallink>
 <thumbnail></thumbnail>
@@ -31,7 +31,7 @@
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] ESTRENOS (En Cine) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] ESTRENOS (En Cine) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/ESTRENOS.xml</externallink>
 <thumbnail></thumbnail>
@@ -41,7 +41,7 @@
 	
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] SAGAS HD [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] SAGAS HD [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/Sagas.xml</externallink>
 <thumbnail>https://i.imgur.com/2sH1Ktr.jpg</thumbnail>
@@ -52,7 +52,7 @@
 		
 
  <item>
-<title>[COLOR red] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
+<title>[COLOR yellow] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine/</jsonrpc>
 <thumbnail>http://s3-us-west-2.amazonaws.com/argemundoapp/sites/hurlingham/images/commerces/162/1450183731-2013-03-16_08-24-56_videoclub.jpg</thumbnail>
@@ -63,7 +63,7 @@
 		
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] Zona Vip)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] Zona Vip[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 <thumbnail></thumbnail>
@@ -89,7 +89,7 @@
 
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] CINE (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] CINE (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/CINEBASE.xml</externallink>
 <thumbnail>https://i.imgur.com/sdbpcu1.jpg</thumbnail>
@@ -99,7 +99,7 @@
 			
 			
 		<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] CINE JHG.MASTER [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] CINE JHG.MASTER [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/1983.xml</externallink>
 <thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
@@ -108,7 +108,7 @@
 
 
 <item>
-<title> [COLOR red] * [/COLOR] [COLOR lime] ESTRENOS* [/COLOR][COLOR red] * [/COLOR]</title>
+<title> [COLOR deepskyblue] * [/COLOR] [COLOR lime] ESTRENOS* [/COLOR][COLOR deepskyblue] * [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/d4QKjct.jpg</thumbnail>
 <fanart>https://i.imgur.com/d4QKjct.jpg</fanart>
@@ -116,7 +116,7 @@
 </item>
 
 <item>
-<title> [COLOR red] * [/COLOR] [COLOR lime] 2017 [/COLOR][COLOR red] * [/COLOR]</title>
+<title> [COLOR deepskyblue] * [/COLOR] [COLOR lime] 2017 [/COLOR][COLOR deepskyblue] * [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/ENnBAoX.jpg</thumbnail>
 <fanart>https://i.imgur.com/ENnBAoX.jpg</fanart>
@@ -126,7 +126,7 @@
 
 
 <item>
-<title> [COLOR red] * [/COLOR] [COLOR lime] 2016 [/COLOR][COLOR red] * [/COLOR]</title>
+<title> [COLOR deepskyblue] * [/COLOR] [COLOR lime] 2016 [/COLOR][COLOR deepskyblue] * [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/591KL0T.jpg</thumbnail>
 <fanart>https://i.imgur.com/591KL0T.jpg</fanart>
@@ -135,7 +135,7 @@
 
 
 <item>
-<title> [COLOR red] * [/COLOR] [COLOR lime] 2015 [/COLOR][COLOR red] * [/COLOR]</title>
+<title> [COLOR deepskyblue] * [/COLOR] [COLOR lime] 2015 [/COLOR][COLOR deepskyblue] * [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/2fMOjO4.jpg</thumbnail>
 <fanart>https://i.imgur.com/2fMOjO4.jpg</fanart>
@@ -145,7 +145,7 @@
 
 
 <item>
-<title> [COLOR red] * [/COLOR] [COLOR lime] 2014 [/COLOR][COLOR red] * [/COLOR]</title>
+<title> [COLOR deepskyblue] * [/COLOR] [COLOR lime] 2014 [/COLOR][COLOR deepskyblue] * [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/CCPBUbA.jpg</thumbnail>
 <fanart>https://i.imgur.com/CCPBUbA.jpg</fanart>
@@ -154,7 +154,7 @@
 
 
 <item>
-<title> [COLOR red] * [/COLOR] [COLOR lime] 2013 [/COLOR][COLOR red] * [/COLOR]</title>
+<title> [COLOR deepskyblue] * [/COLOR] [COLOR lime] 2013 [/COLOR][COLOR deepskyblue] * [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -164,7 +164,7 @@
 	
 	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] CREADO POR JHG.MASTER [/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR deepskyblue] CREADO POR JHG.MASTER [/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 <thumbnail>https://i.imgur.com/Vj6tXUY.jpg</thumbnail>
@@ -183,7 +183,7 @@
 		
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] Z SPORTS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] Z SPORTS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/Zsports/zsportindex.xml</externallink>
 <thumbnail>https://i.imgur.com/V0OSbfK.jpg</thumbnail>
@@ -218,7 +218,7 @@
 
 
  <item>
-<title>[COLOR red] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
+<title>[COLOR deepskyblue] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine/</jsonrpc>
 <thumbnail>http://s3-us-west-2.amazonaws.com/argemundoapp/sites/hurlingham/images/commerces/162/1450183731-2013-03-16_08-24-56_videoclub.jpg</thumbnail>
@@ -309,7 +309,7 @@
 	
 	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] CREADO POR JHG.MASTER [/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR deepskyblue] CREADO POR JHG.MASTER [/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 <thumbnail>https://i.imgur.com/Vj6tXUY.jpg</thumbnail>
@@ -328,7 +328,7 @@
 			https://raw.githubusercontent.com/neymartnt/Jhg5/master/M.xml	
 	
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] Z SPORTS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] Z SPORTS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/Zsports/zsportindex.xml</externallink>
 <thumbnail>https://i.imgur.com/V0OSbfK.jpg</thumbnail>
@@ -363,7 +363,7 @@
 
 
  <item>
-<title>[COLOR red] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
+<title>[COLOR deepskyblue] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.cine/</jsonrpc>
 <thumbnail>http://s3-us-west-2.amazonaws.com/argemundoapp/sites/hurlingham/images/commerces/162/1450183731-2013-03-16_08-24-56_videoclub.jpg</thumbnail>
@@ -445,7 +445,7 @@
 	
 
 <item>
-<title>[COLOR yellow]_**_  [/COLOR][COLOR red] Television Premium  Online Sportdevil [COLOR white][ES][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR deepskyblue] Television Premium  Online Sportdevil [COLOR white][ES][/COLOR][COLOR yellow]_**_  [/COLOR]</title>
 <parentalblock>true</parentalblock>
 <link>$doregex[makelist]</link>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
@@ -485,7 +485,7 @@
 
 
 <item>
-<title>[COLOR red]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR  gold] PREMIUM   [/COLOR][COLOR red]  _**_[/COLOR]</title>
+<title>[COLOR deepskyblue]_**_  [/COLOR][COLOR  skyblue] ZONA [/COLOR][COLOR  gold] PREMIUM   [/COLOR][COLOR deepskyblue]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/ua2fWAv.jpg</thumbnail>
 <fanart>https://i.imgur.com/ua2fWAv.jpg<fanart>
@@ -496,7 +496,7 @@
 
 	
 <item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TV MAGELLAN [/COLOR][COLOR  red] NUEVO [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] TV MAGELLAN [/COLOR][COLOR  deepskyblue] NUEVO [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -577,7 +577,7 @@
  
  
 <item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DOCUMENTALES [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<title>[COLOR  deepskyblue]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] DOCUMENTALES [/COLOR][COLOR  deepskyblue]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -646,7 +646,7 @@
 
  
 <item>
-	<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+	<title>[COLOR  deepskyblue]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] CAMARAS DEL MUNDO [/COLOR][COLOR  deepskyblue]_**_ [/COLOR]</title>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 	<link>ignoreme</link>
@@ -654,7 +654,7 @@
 </item>
  
 <item> 
-<title>[COLOR  red]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS [/COLOR][COLOR  red]_**_ [/COLOR]</title>
+<title>[COLOR  deepskyblue]_**_  [/COLOR][COLOR skyblue] ZONA [/COLOR][COLOR orange] RADIOS [/COLOR][COLOR  deepskyblue]_**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
