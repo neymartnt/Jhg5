@@ -5,7 +5,7 @@
 
 	
 	<item>
-<title>[COLOR  yellow]_**_  [/COLOR][COLOR red] BUENOS DIAS FAMILIA!!!!! [/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow]_**_  [/COLOR][COLOR red][/COLOR][COLOR orange] **  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink></externallink>
 <thumbnail>https://i.imgur.com/Vj6tXUY.jpg</thumbnail>
@@ -18,7 +18,77 @@
 
 
 
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] JHG(AÑOS)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/A%C3%91OS.xml</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] ESTRENOS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/ESTRENOS.xml</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+	
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] SAGAS HD [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/Sagas.xml</externallink>
+<thumbnail>https://i.imgur.com/2sH1Ktr.jpg</thumbnail>
+<fanart>https://i.imgur.com/2sH1Ktr.jpg</fanart>
+</item>
 		
+		
+		
+
+ <item>
+<title>[COLOR red] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.cine/</jsonrpc>
+<thumbnail>http://s3-us-west-2.amazonaws.com/argemundoapp/sites/hurlingham/images/commerces/162/1450183731-2013-03-16_08-24-56_videoclub.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 
+
+		
+		
+		
+		
+	<!------
+			
+			
+	
+ 
+<item>
+<title>[COLOR  yellow] ** [/COLOR][COLOR white] **PELICULAS (AÑOS)** [/COLOR][COLOR  yellow] ** [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogInBlbGlzZm94IiwgCiAgICAiY2hhbm5lbCI6ICJwZWxpc2ZveCIsIAogICAgImNvbnRleHQiOiBbXSwgCiAgICAiZmFuYXJ0IjogIiIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAibGFuZ3VhZ2UiOiBbCiAgICAgICAgImxhdCIKICAgIF0sIAogICAgInRodW1ibmFpbCI6ICJodHRwczovL3MxNC5wb3N0aW1nLm9yZy9jNDNldGMxbHQvcGVsaXNmb3gucG5nIiwgCiAgICAidGl0bGUiOiAicGVsaXNmb3giLCAKICAgICJ0b3RhbEl0ZW1zIjogMCwgCiAgICAidmlld21vZGUiOiAibGlzdCIKfQ%3d%3d</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>		
+		
+
+	
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] CINE (AÑOS) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/CINEBASE.xml</externallink>
+<thumbnail>https://i.imgur.com/sdbpcu1.jpg</thumbnail>
+<fanart>https://i.imgur.com/sdbpcu1.jpg</fanart>
+</item>	
+			
+			
+			
 		<item>
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] CINE JHG.MASTER [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
@@ -27,21 +97,6 @@
 <fanart>https://i.imgur.com/JK14obf.jpg</fanart>
 </item>
 
-
-  
-<item>
-<title>xXx: Reactivated</title>
-<urlsolve>https://streamango.com/f/kqebefleqrrdnsoq/n</urlsolve>
-<thumbnail>https://s20.postimg.org/wb69o3ci5/icono_xxxreac.png</thumbnail>
-<fanart>https://s20.postimg.org/4b263v6hp/fondo_xxx.jpg</fanart>
-<genre>Aventura, Accion, Suspense</genre> 
-<info>La película gira en torno al regreso de Xander Cage, a quien todos creían muerto. Cage, alias xXx (Triple X), es un rebelde amante de los deportes extremos que adora romper las leyes y que por ello acaba siendo atrapado por las autoridades de EE.UU.</info> 
-<date>2017</date>
-</item>  
-  
-		
-	<!------
-	
 
 <item>
 <title> [COLOR red] * [/COLOR] [COLOR lime] ESTRENOS* [/COLOR][COLOR red] * [/COLOR]</title>
