@@ -19,7 +19,7 @@
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] JHG(AÑOS)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] JHG(Ordenado por AÑOS)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/A%C3%91OS.xml</externallink>
 <thumbnail></thumbnail>
@@ -31,7 +31,7 @@
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] ESTRENOS [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] ESTRENOS (En Cine) [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/ESTRENOS.xml</externallink>
 <thumbnail></thumbnail>
@@ -61,6 +61,15 @@
  
 
 		
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] Zona Vip)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 		
 		
 		
