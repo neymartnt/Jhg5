@@ -19,7 +19,7 @@
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] JHG(Ordenado por AÑOS)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR deepskyblue] JHG  (Ordenado por AÑOS)[/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/A%C3%91OS.xml</externallink>
 <thumbnail></thumbnail>
@@ -51,14 +51,6 @@
 		
 		
 
- <item>
-<title>[COLOR yellow] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.cine/</jsonrpc>
-<thumbnail>http://s3-us-west-2.amazonaws.com/argemundoapp/sites/hurlingham/images/commerces/162/1450183731-2013-03-16_08-24-56_videoclub.jpg</thumbnail>
-<fanart></fanart>
-</item>
- 
 
 		
 
@@ -85,7 +77,15 @@
 		
 	<!------
 			
-			
+		
+ <item>
+<title>[COLOR yellow] [/COLOR][COLOR deepskyblue]**ADDON CINE[/COLOR][COLOR orange] EL VIDEOCLUB [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.cine/</jsonrpc>
+<thumbnail>http://s3-us-west-2.amazonaws.com/argemundoapp/sites/hurlingham/images/commerces/162/1450183731-2013-03-16_08-24-56_videoclub.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ 	
 	
  
 <item>
