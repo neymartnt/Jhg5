@@ -38,7 +38,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
    ret = dialog.select('Seleciona un Servidor ', ['Servidor 1', 'Servidor 2', 'Servidor 3', 'Servidor 4', 'Servidor 5', 'Servidor 6', 'Servidor 7', 'Servidor 8'])
-   lists = ['https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.m3u', 'https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u', 'https://raw.githubusercontent.com/MrTvGratis/Jhg5/master/jhg.premium/lista3.m3u', 'https://raw.githubusercontent.com/MrTvGratis/Jhg5/master/jhg.premium/Lista4.m3u', 'http://bit.ly/2Nasnfq', 'http://bit.ly/2otnOyR', 'http://bit.ly/2LMIZFx', 'http://bit.ly/2ouYRDc']
+   lists = ['https://raw.githubusercontent.com/neymartnt/Jhg5/master/CINE/2018.xml', 'https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u', 'https://raw.githubusercontent.com/MrTvGratis/Jhg5/master/jhg.premium/lista3.m3u', 'https://raw.githubusercontent.com/MrTvGratis/Jhg5/master/jhg.premium/Lista4.m3u', 'http://bit.ly/2Nasnfq', 'http://bit.ly/2otnOyR', 'http://bit.ly/2LMIZFx', 'http://bit.ly/2ouYRDc']
    return lists[ret]
 ]]></expres>
 <page></page>
