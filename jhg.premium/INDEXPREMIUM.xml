@@ -44,40 +44,6 @@
  </item>
 	
 
- <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR  red]  TikiTaka 01 [/COLOR] [COLOR  yellow] _**_  [/COLOR]</title>
-<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0&amp;Referer=http://static.castto.me/embedlivesrvjs.php?channel=1820780381&vw=720&vh=420</link>
-<regex>
-<name>url</name>
-<expres><![CDATA[source src="([^"]+)]]></expres>
-<page>http://static.castto.me/embedlivesrvjs.php?channel=$doregex[getid]&amp;vw=720&amp;vh=420</page>
-<referer>http://estadionline.ml/canal1.php</referer>
-</regex>
-<regex>
-<name>getid</name>
-<expres><![CDATA[fid="([^"]+)]]></expres>
-<page>http://estadionline.ml/canal1.php</page>
-<referer>http://estadionline.ml/canal1.php</referer>
-</regex>
-<thumbnail></thumbnail></item>
-
-
- <item> 
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR  red]  TikiTaka 02 [/COLOR] [COLOR  yellow] _**_  [/COLOR]</title>
-<link>$doregex[url]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0&amp;Referer=http://static.castto.me/embedlivesrvjs.php?channel=354661332&vw=720&vh=420</link>
-<regex>
-<name>url</name>
-<expres><![CDATA[source src="([^"]+)]]></expres>
-<page>http://static.castto.me/embedlivesrvjs.php?channel=$doregex[getid]&amp;vw=720&amp;vh=420</page>
-<referer>http://estadionline.ml/canal1.php</referer>
-</regex>
-<regex>
-<name>getid</name>
-<expres><![CDATA[fid="([^"]+)]]></expres>
-<page>http://estadionline.ml/canal2.php</page>
-<referer>http://estadionline.ml/canal2.php</referer>
-</regex>
-<thumbnail></thumbnail></item>
 	
 
 
@@ -107,7 +73,7 @@
 			<page></page>
 			</regex>
 
-			<thumbnail></thumbnail>
+			<thumbnail>https://i.imgur.com/0Ff84GM.jpg</thumbnail>
 
 ]]></listrepeat>
 <expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,52}"(>[0-9]+)]]></expres>
@@ -116,7 +82,7 @@
 <referer>http://cdn.arenavision.biz</referer>
 <setcookie>beget=begetok</setcookie>
  </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/0Ff84GM.jpg</thumbnail>
 </item>
 	
 	
@@ -148,8 +114,8 @@
 			<page></page>
 			</regex>
 
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/GuB2cHy.jpg</thumbnail>
+<fanart>https://i.imgur.com/GuB2cHy.jpg</fanart>
 
 </item>
 ]]></listrepeat>
@@ -233,15 +199,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 
 
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/PmUvfHc.jpg</thumbnail>
 </item>
 	
 	 <item>
         <title>[COLOR red]          LISTA AUTOACTUALIZABLE  MOVISTAR        [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>http://xml.autoiptv.net/normal.php?c=SP</externallink>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
+        <thumbnail>https://i.imgur.com/bHGVK2G.jpg</thumbnail>
+        <fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
 </item>
 	
   
@@ -347,15 +313,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
- 
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR white] MOVISTAR DEPORTES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink></externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
+
  
 <item>
 <title>[COLOR yellow] _**_  [/COLOR][COLOR white] ADDONS DE *DEPORTES*  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
