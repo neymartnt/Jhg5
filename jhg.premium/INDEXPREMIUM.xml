@@ -278,8 +278,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
 </item>
 	
 	
@@ -288,8 +288,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
+<fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
 </item>
 	
 
@@ -300,8 +300,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 3 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista3.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/WGtmKdJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/WGtmKdJ.jpg</fanart>
 </item>
 
 
@@ -309,8 +309,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 4 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/Lista4.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/D0QhWPM.jpg</thumbnail>
+<fanart>https://i.imgur.com/D0QhWPM.jpg</fanart>
 </item>
 
 
@@ -318,8 +318,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 5 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista5.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/7gcpVay.jpg</thumbnail>
+<fanart>https://i.imgur.com/7gcpVay.jpg</fanart>
 </item>
 
 
