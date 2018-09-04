@@ -2,139 +2,498 @@
 #EXTINF:-1,-------------- | SPAIN | LISTA 3-----------
 	
 	
-	#EXTINF:-1,2400 ES: #0 Familiar
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/646.m3u8
-#EXTINF:-1,2220 ES: 24 Horas News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/640.m3u8
-#EXTINF:-1,2401 ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/647.m3u8
-#EXTINF:-1,2402 ES: AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/648.m3u8
-#EXTINF:-1,2103 ES: Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/625.m3u8
-#EXTINF:-1,2403 ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/649.m3u8
-#EXTINF:-1,2404 ES: AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/650.m3u8
-#EXTINF:-1,2500 ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/676.m3u8
-#EXTINF:-1,2231 ES: Hola TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/678.m3u8
-#EXTINF:-1,2501 ES: Movi Liga de Campeones
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/677.m3u8
-#EXTINF:-1,2200 ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/631.m3u8
-#EXTINF:-1,2405 ES: Calle 13
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/651.m3u8
-#EXTINF:-1,2300 ES: Canal Action Pelis
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/641.m3u8
-#EXTINF:-1,2407 ES: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/653.m3u8
-#EXTINF:-1,2301 ES: Canal Comedia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/642.m3u8
-#EXTINF:-1,2302 ES: Canal DCine
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/643.m3u8
-#EXTINF:-1,2303 ES: Canal Estrenos
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/644.m3u8
-#EXTINF:-1,2406 ES: Canal Series
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/652.m3u8
-#EXTINF:-1,2503 ES: Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/681.m3u8
-#EXTINF:-1,2201 ES: Clan Tve
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/632.m3u8
-#EXTINF:-1,2408 ES: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/654.m3u8
-#EXTINF:-1,2423 ES: Cosmo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/669.m3u8
-#EXTINF:-1,2409 ES: Crimen Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/655.m3u8
-#EXTINF:-1,2104 ES: Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/626.m3u8
-#EXTINF:-1,2410 ES: De Casa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/656.m3u8
-#EXTINF:-1,2505 ES: Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/683.m3u8
-#EXTINF:-1,2504 ES: Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/682.m3u8
-#EXTINF:-1,2411 ES: Discovery Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/657.m3u8
-#EXTINF:-1,2202 ES: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/633.m3u8
-#EXTINF:-1,2203 ES: Disney Jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/634.m3u8
-#EXTINF:-1,2204 ES: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/635.m3u8
-#EXTINF:-1,2412 ES: Divinity
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/658.m3u8
-#EXTINF:-1,2413 ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/659.m3u8
-#EXTINF:-1,2508 ES: Euro Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/684.m3u8
-#EXTINF:-1,2509 ES: Euro Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/685.m3u8
-#EXTINF:-1,2416 ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/662.m3u8
-#EXTINF:-1,2414 ES: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/660.m3u8
-#EXTINF:-1,2415 ES: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/661.m3u8
-#EXTINF:-1,2518 ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/688.m3u8
-#EXTINF:-1,2511 ES: Golf HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/687.m3u8
-#EXTINF:-1,2417 ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/663.m3u8
-#EXTINF:-1,2515 ES: Iberalia Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/691.m3u8
-#EXTINF:-1,2101 ES: La 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/623.m3u8
-#EXTINF:-1,2102 ES: la 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/624.m3u8
-#EXTINF:-1,2422 ES: Odisea
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/690.m3u8
-#EXTINF:-1,2418 ES: Mega
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/664.m3u8
-#EXTINF:-1,2230 ES: Be Mad
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/692.m3u8
-#EXTINF:-1,2517 ES: Movistar Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/693.m3u8
-#EXTINF:-1,0053 ES: Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/694.m3u8
-#EXTINF:-1,2210 ES: MTV Espana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/639.m3u8
-#EXTINF:-1,2420 ES: Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/666.m3u8
-#EXTINF:-1,2419 ES: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/665.m3u8
-#EXTINF:-1,2421 ES: NEOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/667.m3u8
-#EXTINF:-1,2206 ES: Nick JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/637.m3u8
-#EXTINF:-1,2205 ES: Nickelodeon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/636.m3u8
-#EXTINF:-1,0059 ES: Toros HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/668.m3u8
-#EXTINF:-1,2107 ES: Nova HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/629.m3u8
-#EXTINF:-1,2207 ES: Panda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/638.m3u8
-#EXTINF:-1,2424 ES: Paramount
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/670.m3u8
-#EXTINF:-1,2425 ES: Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/671.m3u8
-#EXTINF:-1,2426 ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/672.m3u8
-#EXTINF:-1,2304 ES: TCM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/645.m3u8
-#EXTINF:-1,2519 ES: Tele Deporte HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/695.m3u8
-#EXTINF:-1,2105 ES: Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/627.m3u8
-#EXTINF:-1,2427 ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/673.m3u8
-#EXTINF:-1,2108 ES: TVE HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/630.m3u8
-#EXTINF:-1,2428 ES: Viajar HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/674.m3u8
-#EXTINF:-1,2429 ES: XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR gold]JHG[/COLOR];url=http://185.66.143.240:25461/live/michael/michael/675.m3u8
+
+#EXTINF:0,ES:LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37103.ts
+#EXTINF:0,ES:LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37102.ts
+#EXTINF:0,ES:LA 1 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37104.ts
+#EXTINF:0,ES:LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37100.ts
+#EXTINF:0,ES:La 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37099.ts
+#EXTINF:0,ES:LA 2 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37101.ts
+#EXTINF:0,ES:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37097.ts
+#EXTINF:0,ES:ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37096.ts
+#EXTINF:0,ES:ANTENA 3 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37098.ts
+#EXTINF:0,ES:LA CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37094.ts
+#EXTINF:0,ES:LA CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37093.ts
+#EXTINF:0,ES:CUATRO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37095.ts
+#EXTINF:0,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37091.ts
+#EXTINF:0,ES:TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37090.ts
+#EXTINF:0,ES:TELECINCO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37092.ts
+#EXTINF:0,ES:LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37088.ts
+#EXTINF:0,ES:LA SEXTA  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37087.ts
+#EXTINF:0,ES:LA SEXTA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37089.ts
+#EXTINF:0,ES:MOVISTAR  0#
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37046.ts
+#EXTINF:0,ES:MOVISTAR  ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37037.ts
+#EXTINF:0,ES:MOVISTAR  DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37043.ts
+#EXTINF:0,ES:MOVISTAR 0# FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37044.ts
+#EXTINF:0,ES:MOVISTAR 0# HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37045.ts
+#EXTINF:0,ES:MOVISTAR ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37035.ts
+#EXTINF:0,ES:MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37036.ts
+#EXTINF:0,ES:MOVISTAR ACCION PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37038.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37033.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37032.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37034.ts
+#EXTINF:0,ES:MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37031.ts
+#EXTINF:0,ES:MOVISTAR DCINE  Ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37029.ts
+#EXTINF:0,ES:MOVISTAR DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37030.ts
+#EXTINF:0,ES:MOVISTAR ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36971.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37041.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37039.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37040.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS PARA MOVILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37042.ts
+#EXTINF:0,ES:MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37025.ts
+#EXTINF:0,ES:MOVISTAR SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37024.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37022.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37019.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37023.ts
+#EXTINF:0,ES:MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37028.ts
+#EXTINF:0,ES:MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37027.ts
+#EXTINF:0,ES:MOVISTR SERIES PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37026.ts
+#EXTINF:0,ES:MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36987.ts
+#EXTINF:0,ES:NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37002.ts
+#EXTINF:0,ES:NAT GEO  WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37000.ts
+#EXTINF:0,ES:NAT GEO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37003.ts
+#EXTINF:0,ES:NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37001.ts
+#EXTINF:0,ES:NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37055.ts
+#EXTINF:0,ES:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37004.ts
+#EXTINF:0,ES:NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37005.ts
+#EXTINF:0,ES:NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37006.ts
+#EXTINF:0,ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36989.ts
+#EXTINF:0,ES:PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37018.ts
+#EXTINF:0,ES:PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37061.ts
+#EXTINF:0,ES:SOL Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36974.ts
+#EXTINF:0,ES:SOMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37047.ts
+#EXTINF:0,ES:SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36976.ts
+#EXTINF:0,ES:SUNDANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36975.ts
+#EXTINF:0,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37067.ts
+#EXTINF:0,ES:SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37066.ts
+#EXTINF:0,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37059.ts
+#EXTINF:0,ES:TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37058.ts
+#EXTINF:0,ES:TCM PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37060.ts
+#EXTINF:0,ES:TELEMADRID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36960.ts
+#EXTINF:0,ES:TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36982.ts
+#EXTINF:0,ES:TEN PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36983.ts
+#EXTINF:0,ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37073.ts
+#EXTINF:0,ES:TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37072.ts
+#EXTINF:0,ES:TV 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37053.ts
+#EXTINF:0,ES:Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36996.ts
+#EXTINF:0,ES:VIAJAR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36995.ts
+#EXTINF:0,ES:XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37048.ts
+#EXTINF:0,ES: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37070.ts
+#EXTINF:0,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37016.ts
+#EXTINF:0,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37054.ts
+#EXTINF:0,ES:13 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36968.ts
+#EXTINF:0,ES:24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36981.ts
+#EXTINF:0,ES:7RM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36967.ts
+#EXTINF:0,ES:8Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36980.ts
+#EXTINF:0,ES:A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37056.ts
+#EXTINF:0,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37080.ts
+#EXTINF:0,ES:AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37079.ts
+#EXTINF:0,ES:AMC PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37081.ts
+#EXTINF:0,ES:ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36979.ts
+#EXTINF:0,ES:ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36978.ts
+#EXTINF:0,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37085.ts
+#EXTINF:0,ES:AXN  WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37083.ts
+#EXTINF:0,ES:AXN  WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37082.ts
+#EXTINF:0,ES:AXN FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37084.ts
+#EXTINF:0,ES:AXN PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37086.ts
+#EXTINF:0,ES:BABY  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37007.ts
+#EXTINF:0,ES:BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37020.ts
+#EXTINF:0,ES:BARCATV PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37021.ts
+#EXTINF:0,ES:BE MAD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36985.ts
+#EXTINF:0,ES:BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36969.ts
+#EXTINF:0,ES:BOING PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37017.ts
+#EXTINF:0,ES:CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37069.ts
+#EXTINF:0,ES:CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37068.ts
+#EXTINF:0,ES:CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36970.ts
+#EXTINF:0,ES:CANAL SUR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36966.ts
+#EXTINF:0,ES:CAZA  Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36994.ts
+#EXTINF:0,ES:CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36993.ts
+#EXTINF:0,ES:CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36997.ts
+#EXTINF:0,ES:CI PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36999.ts
+#EXTINF:0,ES:CLAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37009.ts
+#EXTINF:0,ES:CLAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37008.ts
+#EXTINF:0,ES:CMM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36965.ts
+#EXTINF:0,ES:COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36991.ts
+#EXTINF:0,ES:COCINA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36990.ts
+#EXTINF:0,ES:COMEDY  CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37063.ts
+#EXTINF:0,ES:COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37062.ts
+#EXTINF:0,ES:COMEDY CENTRAL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36998.ts
+#EXTINF:0,ES:COSMOPOLITAN  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37064.ts
+#EXTINF:0,ES:COSMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37065.ts
+#EXTINF:0,ES:DARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37049.ts
+#EXTINF:0,ES:DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36988.ts
+#EXTINF:0,ES:DISCOVERY  CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36992.ts
+#EXTINF:0,ES:DISNEY  JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37013.ts
+#EXTINF:0,ES:DISNEY  XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37014.ts
+#EXTINF:0,ES:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37011.ts
+#EXTINF:0,ES:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37010.ts
+#EXTINF:0,ES:DISNEY CHANNEL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37012.ts
+#EXTINF:0,ES:DISNEY XD PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37015.ts
+#EXTINF:0,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37057.ts
+#EXTINF:0,ES:DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36977.ts
+#EXTINF:0,ES:DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36984.ts
+#EXTINF:0,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37051.ts
+#EXTINF:0,ES:ETB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36964.ts
+#EXTINF:0,ES:EXTREMADURA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36963.ts
+#EXTINF:0,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37052.ts
+#EXTINF:0,ES:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37077.ts
+#EXTINF:0,ES:FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37076.ts
+#EXTINF:0,ES:FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37075.ts
+#EXTINF:0,ES:FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37074.ts
+#EXTINF:0,ES:FOX PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37078.ts
+#EXTINF:0,ES:HIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36986.ts
+#EXTINF:0,ES:HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37071.ts
+#EXTINF:0,ES:INTERECONOMIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36961.ts
+#EXTINF:0,ES:LA OTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36962.ts
+#EXTINF:0,ES:MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37050.ts
+#EXTINF:0,ES:MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36973.ts
+#EXTINF:0,ES:MEZZO LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/36972.ts
+#EXTINF:0,▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://
+#EXTINF:0,ES SP:BEIN LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37189.ts
+#EXTINF:0,ES SP:BEIN LALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37188.ts
+#EXTINF:0,ES SP:BEIN LALIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37147.ts
+#EXTINF:0,ES SP:BEIN LALIGA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37145.ts
+#EXTINF:0,ES SP:LA LIGATV BAR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37149.ts
+#EXTINF:0,ES SP:Partidazo HD ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37206.ts
+#EXTINF:0,ES SP: BEIN  LALIGA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37144.ts
+#EXTINF:0,ES SP: BEIN  LALIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37143.ts
+#EXTINF:0,ES SP: BEIN LALIGA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37142.ts
+#EXTINF:0,ES SP:AXN WAHIT PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37111.ts
+#EXTINF:0,ES SP:BEIN  LALIGA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37146.ts
+#EXTINF:0,ES SP:BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37190.ts
+#EXTINF:0,ES SP:BEIN LALIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37148.ts
+#EXTINF:0,ES SP:BEIN LALIGA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37141.ts
+#EXTINF:0,ES SP:BEIN LALIGA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37140.ts
+#EXTINF:0,ES SP:BEIN LALIGA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37139.ts
+#EXTINF:0,ES SP:BEIN LALIGA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37191.ts
+#EXTINF:0,ES SP:CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37110.ts
+#EXTINF:0,ES SP:ESPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37113.ts
+#EXTINF:0,ES SP:Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37154.ts
+#EXTINF:0,ES SP:EUROSPORT  ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37157.ts
+#EXTINF:0,ES SP:EUROSPORT 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37156.ts
+#EXTINF:0,ES SP:EUROSPORT 2 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37155.ts
+#EXTINF:0,ES SP:Extreme EMEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37112.ts
+#EXTINF:0,ES SP:FOX LIFE PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37109.ts
+#EXTINF:0,ES SP:GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37173.ts
+#EXTINF:0,ES SP:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37160.ts
+#EXTINF:0,ES SP:HISTORIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37159.ts
+#EXTINF:0,ES SP:HOLLYWOOD PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37108.ts
+#EXTINF:0,ES SP:Iberalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37153.ts
+#EXTINF:0,ES SP:LIGA 123 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37177.ts
+#EXTINF:0,ES SP:LIGA 123 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37178.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37176.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37175.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37174.ts
+#EXTINF:0,ES SP:LIGA 123 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37179.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37187.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37136.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37186.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 1 España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37137.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37138.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 2  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37135.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 3  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37134.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 5  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37132.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 6  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37131.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 7  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37130.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 8 ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37129.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37185.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES4  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37133.ts
+#EXTINF:0,ES SP:LIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37182.ts
+#EXTINF:0,ES SP:LIGA TV PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37184.ts
+#EXTINF:0,ES SP:LIGA123 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37180.ts
+#EXTINF:0,ES SP:LIGATV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37181.ts
+#EXTINF:0,ES SP:LIGATV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37183.ts
+#EXTINF:0,ES SP:MOVISTAR  DEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37203.ts
+#EXTINF:0,ES SP:MOVISTAR  DEPORTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37199.ts
+#EXTINF:0,ES SP:MOVISTAR  FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37194.ts
+#EXTINF:0,ES SP:MOVISTAR  GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37161.ts
+#EXTINF:0,ES SP:MOVISTAR  MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37167.ts
+#EXTINF:0,ES SP:MOVISTAR  TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37163.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37201.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37198.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE DOS PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37200.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37202.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE UNO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37204.ts
+#EXTINF:0,ES SP:MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37169.ts
+#EXTINF:0,ES SP:MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37170.ts
+#EXTINF:0,ES SP:MOVISTAR FORMULA 1 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37172.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37193.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37195.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOLL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37192.ts
+#EXTINF:0,ES SP:MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37158.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37165.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37166.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO PG PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37168.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZO PARA MOVILES ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37208.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZOS ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37207.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZOS FULLHD ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37205.ts
+#EXTINF:0,ES SP:MOVISTAR TORO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37164.ts
+#EXTINF:0,ES SP:MOVISTAR TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37162.ts
+#EXTINF:0,ES SP:MOVISTAR XTRA PARA MOVIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37107.ts
+#EXTINF:0,ES SP:MULTI DEPORTE  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37127.ts
+#EXTINF:0,ES SP:MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37196.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37128.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37126.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37125.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37124.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37123.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37122.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37121.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37120.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37119.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37118.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37117.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37116.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37115.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37114.ts
+#EXTINF:0,ES SP:REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37152.ts
+#EXTINF:0,ES SP:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37151.ts
+#EXTINF:0,ES SP:TELEDEPORTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37150.ts
+#EXTINF:0,ES SP:TNT PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37106.ts
