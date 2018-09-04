@@ -292,11 +292,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 6(DEPORTES) off [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] CANALES DEPORTES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/SOLODEPORTES.m3u</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/EKck8Ut.jpg</thumbnail>
+<fanart>https://i.imgur.com/EKck8Ut.jpg</fanart>
 </item>
 
 
