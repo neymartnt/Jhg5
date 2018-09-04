@@ -25,6 +25,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+  
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] ROKY [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona un Servidor ', ['Servidor 1', 'Servidor 2', 'Servidor 3', 'Servidor 4', 'Servidor 5', 'Servidor 6', 'Servidor 7', 'Servidor 8'])
+   lists = ['https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.m3u', 'https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u', 'http://bit.ly/2MEGP03', 'http://bit.ly/2MJglKE', 'http://bit.ly/2Nasnfq', 'http://bit.ly/2otnOyR', 'http://bit.ly/2LMIZFx', 'http://bit.ly/2ouYRDc']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/nYNBCrt.jpg</thumbnail>
+<fanart>https://i.imgur.com/nYNBCrt.jpg</fanart>
+</item>
+
 
 
 
