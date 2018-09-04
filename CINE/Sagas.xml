@@ -3,6 +3,28 @@
 
 
 
+ 
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] FAST & FURIOUS [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona un Servidor ', ['FAST & FURIOUS 1', 'FAST & FURIOUS  2', 'FAST & FURIOUS  3', 'FAST & FURIOUS  4', 'FAST & FURIOUS 5', 'FAST & FURIOUS  6', 'FAST & FURIOUS  7', 'FAST & FURIOUS  8'])
+   lists = ['http://streamcloud.eu/3qbqujthgldm', 'http://streamcloud.eu/u6axkbv3w6os', 'http://streamcloud.eu/eztxr28giao4', 'http://streamcloud.eu/p3c81nagu6ei', 'http://streamcloud.eu/4623qwtw0fle', 'http://streamcloud.eu/vnezffp2vl34', 'https://streamango.com/embed/fqemqcqklqcrntsd', 'https://streamango.com/embed/rsoblqaromosksmk']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/the_fast_and_the_furious-493327751-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/the_fast_and_the_furious-493327751-large.jpg</fanart>
+</item>
+
 
 
 
