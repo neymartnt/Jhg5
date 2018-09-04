@@ -2,105 +2,497 @@
 
 
 
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3637.ts
-#EXTINF:-1,ES: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3630.ts
-#EXTINF:-1,ES: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3636.ts
-#EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3143.ts
-#EXTINF:-1,ES: Bein La Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3142.ts
-#EXTINF:-1,ES: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3628.ts
-#EXTINF:-1,ES: Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3155.ts
-#EXTINF:-1,ES: CANAL  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3619.ts
-#EXTINF:-1,ES: CANAL  DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3620.ts
-#EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3622.ts
-#EXTINF:-1,ES: CANAL  LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3627.ts
-#EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3617.ts
-#EXTINF:-1,ES: Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3139.ts
-#EXTINF:-1,ES: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3138.ts
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3137.ts
-#EXTINF:-1,ES: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3135.ts
-#EXTINF:-1,ES: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3141.ts
-#EXTINF:-1,ES: Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3134.ts
-#EXTINF:-1,ES: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3133.ts
-#EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3624.ts
-#EXTINF:-1,ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3132.ts
-#EXTINF:-1,ES: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3131.ts
-#EXTINF:-1,ES: LA LIGA  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3629.ts
-#EXTINF:-1,ES: M. ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3618.ts
-#EXTINF:-1,ES: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3623.ts
-#EXTINF:-1,ES: M. FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3625.ts
-#EXTINF:-1,ES: M. GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3626.ts
-#EXTINF:-1,ES: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3616.ts
-#EXTINF:-1,ES: Mega HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3129.ts
-#EXTINF:-1,ES: Movistar  Deportes 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3148.ts
-#EXTINF:-1,ES: Movistar  Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3153.ts
-#EXTINF:-1,ES: Movistar  Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3147.ts
-#EXTINF:-1,ES: Movistar Accion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3154.ts
-#EXTINF:-1,ES: Movistar Cine Espanol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3149.ts
-#EXTINF:-1,ES: Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3152.ts
-#EXTINF:-1,ES: Movistar Dcine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3136.ts
-#EXTINF:-1,ES: Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3144.ts
-#EXTINF:-1,ES: Movistar Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3151.ts
-#EXTINF:-1,ES: Movistar Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3145.ts
-#EXTINF:-1,ES: National Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3127.ts
-#EXTINF:-1,ES: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3128.ts
-#EXTINF:-1,ES: Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3126.ts
-#EXTINF:-1,ES: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3140.ts
-#EXTINF:-1,ES: Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3125.ts
-#EXTINF:-1,ES: Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3124.ts
-#EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3123.ts
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3635.ts
-#EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3634.ts
-#EXTINF:-1,ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3633.ts
-#EXTINF:-1,ES: TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3632.ts
-#EXTINF:-1,ES: TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3631.ts
+#EXTINF:0,ES:LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37103.ts
+#EXTINF:0,ES:LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37102.ts
+#EXTINF:0,ES:LA 1 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37104.ts
+#EXTINF:0,ES:LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37100.ts
+#EXTINF:0,ES:La 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37099.ts
+#EXTINF:0,ES:LA 2 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37101.ts
+#EXTINF:0,ES:ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37097.ts
+#EXTINF:0,ES:ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37096.ts
+#EXTINF:0,ES:ANTENA 3 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37098.ts
+#EXTINF:0,ES:LA CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37094.ts
+#EXTINF:0,ES:LA CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37093.ts
+#EXTINF:0,ES:CUATRO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37095.ts
+#EXTINF:0,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37091.ts
+#EXTINF:0,ES:TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37090.ts
+#EXTINF:0,ES:TELECINCO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37092.ts
+#EXTINF:0,ES:LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37088.ts
+#EXTINF:0,ES:LA SEXTA  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37087.ts
+#EXTINF:0,ES:LA SEXTA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37089.ts
+#EXTINF:0,ES:MOVISTAR  0#
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37046.ts
+#EXTINF:0,ES:MOVISTAR  ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37037.ts
+#EXTINF:0,ES:MOVISTAR  DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37043.ts
+#EXTINF:0,ES:MOVISTAR 0# FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37044.ts
+#EXTINF:0,ES:MOVISTAR 0# HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37045.ts
+#EXTINF:0,ES:MOVISTAR ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37035.ts
+#EXTINF:0,ES:MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37036.ts
+#EXTINF:0,ES:MOVISTAR ACCION PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37038.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37033.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37032.ts
+#EXTINF:0,ES:MOVISTAR COMEDIA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37034.ts
+#EXTINF:0,ES:MOVISTAR DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37031.ts
+#EXTINF:0,ES:MOVISTAR DCINE  Ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37029.ts
+#EXTINF:0,ES:MOVISTAR DCINE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37030.ts
+#EXTINF:0,ES:MOVISTAR ESPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36971.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37041.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37039.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37040.ts
+#EXTINF:0,ES:MOVISTAR ESTRENOS PARA MOVILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37042.ts
+#EXTINF:0,ES:MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37025.ts
+#EXTINF:0,ES:MOVISTAR SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37024.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37022.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37019.ts
+#EXTINF:0,ES:MOVISTAR SERIES XTRA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37023.ts
+#EXTINF:0,ES:MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37028.ts
+#EXTINF:0,ES:MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37027.ts
+#EXTINF:0,ES:MOVISTR SERIES PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37026.ts
+#EXTINF:0,ES:MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36987.ts
+#EXTINF:0,ES:NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37002.ts
+#EXTINF:0,ES:NAT GEO  WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37000.ts
+#EXTINF:0,ES:NAT GEO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37003.ts
+#EXTINF:0,ES:NAT GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37001.ts
+#EXTINF:0,ES:NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37055.ts
+#EXTINF:0,ES:NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37004.ts
+#EXTINF:0,ES:NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37005.ts
+#EXTINF:0,ES:NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37006.ts
+#EXTINF:0,ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36989.ts
+#EXTINF:0,ES:PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37018.ts
+#EXTINF:0,ES:PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37061.ts
+#EXTINF:0,ES:SOL Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36974.ts
+#EXTINF:0,ES:SOMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37047.ts
+#EXTINF:0,ES:SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36976.ts
+#EXTINF:0,ES:SUNDANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36975.ts
+#EXTINF:0,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37067.ts
+#EXTINF:0,ES:SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37066.ts
+#EXTINF:0,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37059.ts
+#EXTINF:0,ES:TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37058.ts
+#EXTINF:0,ES:TCM PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37060.ts
+#EXTINF:0,ES:TELEMADRID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36960.ts
+#EXTINF:0,ES:TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36982.ts
+#EXTINF:0,ES:TEN PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36983.ts
+#EXTINF:0,ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37073.ts
+#EXTINF:0,ES:TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37072.ts
+#EXTINF:0,ES:TV 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37053.ts
+#EXTINF:0,ES:Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36996.ts
+#EXTINF:0,ES:VIAJAR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36995.ts
+#EXTINF:0,ES:XTRM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37048.ts
+#EXTINF:0,ES: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37070.ts
+#EXTINF:0,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37016.ts
+#EXTINF:0,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37054.ts
+#EXTINF:0,ES:13 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36968.ts
+#EXTINF:0,ES:24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36981.ts
+#EXTINF:0,ES:7RM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36967.ts
+#EXTINF:0,ES:8Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36980.ts
+#EXTINF:0,ES:A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37056.ts
+#EXTINF:0,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37080.ts
+#EXTINF:0,ES:AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37079.ts
+#EXTINF:0,ES:AMC PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37081.ts
+#EXTINF:0,ES:ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36979.ts
+#EXTINF:0,ES:ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36978.ts
+#EXTINF:0,ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37085.ts
+#EXTINF:0,ES:AXN  WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37083.ts
+#EXTINF:0,ES:AXN  WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37082.ts
+#EXTINF:0,ES:AXN FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37084.ts
+#EXTINF:0,ES:AXN PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37086.ts
+#EXTINF:0,ES:BABY  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37007.ts
+#EXTINF:0,ES:BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37020.ts
+#EXTINF:0,ES:BARCATV PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37021.ts
+#EXTINF:0,ES:BE MAD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36985.ts
+#EXTINF:0,ES:BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36969.ts
+#EXTINF:0,ES:BOING PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37017.ts
+#EXTINF:0,ES:CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37069.ts
+#EXTINF:0,ES:CALLE 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37068.ts
+#EXTINF:0,ES:CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36970.ts
+#EXTINF:0,ES:CANAL SUR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36966.ts
+#EXTINF:0,ES:CAZA  Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36994.ts
+#EXTINF:0,ES:CAZA Y PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36993.ts
+#EXTINF:0,ES:CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36997.ts
+#EXTINF:0,ES:CI PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36999.ts
+#EXTINF:0,ES:CLAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37009.ts
+#EXTINF:0,ES:CLAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37008.ts
+#EXTINF:0,ES:CMM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36965.ts
+#EXTINF:0,ES:COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36991.ts
+#EXTINF:0,ES:COCINA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36990.ts
+#EXTINF:0,ES:COMEDY  CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37063.ts
+#EXTINF:0,ES:COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37062.ts
+#EXTINF:0,ES:COMEDY CENTRAL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36998.ts
+#EXTINF:0,ES:COSMOPOLITAN  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37064.ts
+#EXTINF:0,ES:COSMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37065.ts
+#EXTINF:0,ES:DARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37049.ts
+#EXTINF:0,ES:DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36988.ts
+#EXTINF:0,ES:DISCOVERY  CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36992.ts
+#EXTINF:0,ES:DISNEY  JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37013.ts
+#EXTINF:0,ES:DISNEY  XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37014.ts
+#EXTINF:0,ES:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37011.ts
+#EXTINF:0,ES:DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37010.ts
+#EXTINF:0,ES:DISNEY CHANNEL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37012.ts
+#EXTINF:0,ES:DISNEY XD PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37015.ts
+#EXTINF:0,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37057.ts
+#EXTINF:0,ES:DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36977.ts
+#EXTINF:0,ES:DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36984.ts
+#EXTINF:0,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37051.ts
+#EXTINF:0,ES:ETB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36964.ts
+#EXTINF:0,ES:EXTREMADURA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36963.ts
+#EXTINF:0,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37052.ts
+#EXTINF:0,ES:FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37077.ts
+#EXTINF:0,ES:FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37076.ts
+#EXTINF:0,ES:FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37075.ts
+#EXTINF:0,ES:FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37074.ts
+#EXTINF:0,ES:FOX PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37078.ts
+#EXTINF:0,ES:HIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36986.ts
+#EXTINF:0,ES:HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37071.ts
+#EXTINF:0,ES:INTERECONOMIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36961.ts
+#EXTINF:0,ES:LA OTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36962.ts
+#EXTINF:0,ES:MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37050.ts
+#EXTINF:0,ES:MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36973.ts
+#EXTINF:0,ES:MEZZO LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/36972.ts
+#EXTINF:0,▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://
+#EXTINF:0,ES SP:BEIN LALIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37189.ts
+#EXTINF:0,ES SP:BEIN LALIGA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37188.ts
+#EXTINF:0,ES SP:BEIN LALIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37147.ts
+#EXTINF:0,ES SP:BEIN LALIGA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37145.ts
+#EXTINF:0,ES SP:LA LIGATV BAR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37149.ts
+#EXTINF:0,ES SP:Partidazo HD ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37206.ts
+#EXTINF:0,ES SP: BEIN  LALIGA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37144.ts
+#EXTINF:0,ES SP: BEIN  LALIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37143.ts
+#EXTINF:0,ES SP: BEIN LALIGA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37142.ts
+#EXTINF:0,ES SP:AXN WAHIT PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37111.ts
+#EXTINF:0,ES SP:BEIN  LALIGA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37146.ts
+#EXTINF:0,ES SP:BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37190.ts
+#EXTINF:0,ES SP:BEIN LALIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37148.ts
+#EXTINF:0,ES SP:BEIN LALIGA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37141.ts
+#EXTINF:0,ES SP:BEIN LALIGA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37140.ts
+#EXTINF:0,ES SP:BEIN LALIGA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37139.ts
+#EXTINF:0,ES SP:BEIN LALIGA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37191.ts
+#EXTINF:0,ES SP:CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37110.ts
+#EXTINF:0,ES SP:ESPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37113.ts
+#EXTINF:0,ES SP:Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37154.ts
+#EXTINF:0,ES SP:EUROSPORT  ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37157.ts
+#EXTINF:0,ES SP:EUROSPORT 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37156.ts
+#EXTINF:0,ES SP:EUROSPORT 2 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37155.ts
+#EXTINF:0,ES SP:Extreme EMEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37112.ts
+#EXTINF:0,ES SP:FOX LIFE PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37109.ts
+#EXTINF:0,ES SP:GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37173.ts
+#EXTINF:0,ES SP:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37160.ts
+#EXTINF:0,ES SP:HISTORIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37159.ts
+#EXTINF:0,ES SP:HOLLYWOOD PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37108.ts
+#EXTINF:0,ES SP:Iberalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37153.ts
+#EXTINF:0,ES SP:LIGA 123 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37177.ts
+#EXTINF:0,ES SP:LIGA 123 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37178.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37176.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37175.ts
+#EXTINF:0,ES SP:LIGA 123 MULTI 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37174.ts
+#EXTINF:0,ES SP:LIGA 123 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37179.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37187.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37136.ts
+#EXTINF:0,ES SP:LIGA CAMPEONES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37186.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 1 España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37137.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37138.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 2  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37135.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 3  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37134.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 5  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37132.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 6  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37131.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 7  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37130.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES 8 ESPAÑA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37129.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37185.ts
+#EXTINF:0,ES SP:LIGA DE CAMPEONES4  España
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37133.ts
+#EXTINF:0,ES SP:LIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37182.ts
+#EXTINF:0,ES SP:LIGA TV PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37184.ts
+#EXTINF:0,ES SP:LIGA123 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37180.ts
+#EXTINF:0,ES SP:LIGATV FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37181.ts
+#EXTINF:0,ES SP:LIGATV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37183.ts
+#EXTINF:0,ES SP:MOVISTAR  DEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37203.ts
+#EXTINF:0,ES SP:MOVISTAR  DEPORTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37199.ts
+#EXTINF:0,ES SP:MOVISTAR  FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37194.ts
+#EXTINF:0,ES SP:MOVISTAR  GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37161.ts
+#EXTINF:0,ES SP:MOVISTAR  MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37167.ts
+#EXTINF:0,ES SP:MOVISTAR  TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37163.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37201.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37198.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE DOS PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37200.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37202.ts
+#EXTINF:0,ES SP:MOVISTAR DEPORTE UNO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37204.ts
+#EXTINF:0,ES SP:MOVISTAR F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37169.ts
+#EXTINF:0,ES SP:MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37170.ts
+#EXTINF:0,ES SP:MOVISTAR FORMULA 1 PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37172.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37193.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOL PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37195.ts
+#EXTINF:0,ES SP:MOVISTAR FUTBOLL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37192.ts
+#EXTINF:0,ES SP:MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37158.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO GP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37165.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37166.ts
+#EXTINF:0,ES SP:MOVISTAR MOTO PG PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37168.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZO PARA MOVILES ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37208.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZOS ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37207.ts
+#EXTINF:0,ES SP:MOVISTAR PARTIDAZOS FULLHD ( SOLO EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37205.ts
+#EXTINF:0,ES SP:MOVISTAR TORO PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37164.ts
+#EXTINF:0,ES SP:MOVISTAR TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37162.ts
+#EXTINF:0,ES SP:MOVISTAR XTRA PARA MOVIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37107.ts
+#EXTINF:0,ES SP:MULTI DEPORTE  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37127.ts
+#EXTINF:0,ES SP:MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37196.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37128.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37126.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37125.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37124.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37123.ts
+#EXTINF:0,ES SP:MULTIDEPORTE  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37122.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37121.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37120.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37119.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37118.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37117.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37116.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37115.ts
+#EXTINF:0,ES SP:MULTIFUTBOL  8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37114.ts
+#EXTINF:0,ES SP:REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37152.ts
+#EXTINF:0,ES SP:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37151.ts
+#EXTINF:0,ES SP:TELEDEPORTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37150.ts
+#EXTINF:0,ES SP:TNT PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/Rivera/Rivera/37106.ts
