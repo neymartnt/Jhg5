@@ -29,6 +29,73 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR white][B]+ Canales +[/B][/COLOR]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona un Servidor ', ['Servidor 1', 'Servidor 2', 'Servidor 3', 'Servidor 4', 'Servidor 5', 'Servidor 6', 'Servidor 7', 'Servidor 8'])
+   lists = ['http://bit.ly/2wvJX49', 'http://bit.ly/2wAyfo6', 'http://bit.ly/2wuRobF', 'http://bit.ly/2Poyomb', 'http://bit.ly/2PtCjOV', 'http://bit.ly/2NGHs5s', 'http://bit.ly/2LNTVT9', 'http://bit.ly/2LNNrUm']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]+ Canales Deportes[/B][/COLOR]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona un Servidor ', ['Servidor 1', 'Servidor 2', 'Servidor 3', 'Servidor 4', 'Servidor 5', 'Servidor 6', 'Servidor 7', 'Servidor 8'])
+   lists = ['http://bit.ly/2ME65mQ', 'http://bit.ly/2wvsMzE', 'http://bit.ly/2oqqhtR', 'http://bit.ly/2oryYEg', 'http://bit.ly/2MFliEd', 'http://bit.ly/2LNPtDY', 'http://bit.ly/2C9fdLC', 'http://bit.ly/2PoGwTK']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]+ Taquillas[/B][/COLOR]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona un Servidor ', ['Servidor 1', 'Servidor 2', 'Servidor 3', 'Servidor 4', 'Servidor 5', 'Servidor 6', 'Servidor 7', 'Servidor 8'])
+   lists = ['http://bit.ly/2C4CpKQ', 'http://bit.ly/2LJXDNF', 'http://bit.ly/2Poiubs', 'http://bit.ly/2NBBHWQ', 'http://bit.ly/2PX9dIt', 'http://bit.ly/2N7wBoh', 'http://bit.ly/2NEBySk', 'http://bit.ly/2wwEPf6']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
 
 
 
