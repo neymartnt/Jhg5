@@ -46,6 +46,27 @@
 
 	
 
+  
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] ROKY [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona un Servidor ', ['MOVISTAR 1', 'MOVISTAR 2', 'MOVISTAR 3', 'MOVISTAR 4'])
+   lists = ['https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.m3u', 'https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u', 'https://raw.githubusercontent.com/MrTvGratis/Jhg5/master/jhg.premium/lista3.m3u', 'https://raw.githubusercontent.com/MrTvGratis/Jhg5/master/jhg.premium/Lista4.m3u']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/bHGVK2G.jpg</thumbnail>
+<fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
+</item>
 
 
 
