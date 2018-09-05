@@ -73,7 +73,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] ROKY II [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] ROKY IIH [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
