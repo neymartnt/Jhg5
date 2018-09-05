@@ -71,6 +71,26 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] ROKY II [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona un Servidor ', ['MOTOR', 'DEPORTES', 'VARIADOS, ])
+   lists = ['https://bit.ly/2PHwWvr', 'https://bit.ly/2NQqYYN', 'https://bit.ly/2LXIad2']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
