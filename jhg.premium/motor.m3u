@@ -1,0 +1,51 @@
+#EXTM3U
+
+
+#EXTINF:0,Movistar Formula 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/RogLon/c44zlk36/5445.ts
+#EXTINF:0,Movistar Formula 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/RogLon/c44zlk36/12701.ts
+#EXTINF:0,Movistar Moto GP ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/RogLon/c44zlk36/5436.ts
+#EXTINF:0,Movistar Moto GP HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/RogLon/c44zlk36/12700.ts
+#EXTINF:0,Movistar Formula 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/dJWpS2v422/YNgaZf538/5445.ts
+#EXTINF:0,Movistar Formula 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/dJWpS2v422/YNgaZf538/12701.ts
+#EXTINF:0,Movistar Moto GP ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/dJWpS2v422/YNgaZf538/5436.ts
+#EXTINF:0,Movistar Moto GP HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/dJWpS2v422/YNgaZf538/12700.ts
+#EXTINF:0,Movistar Formula 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/Qaz4oI219/dCnm7756/5445.ts
+#EXTINF:0,Movistar Formula 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/Qaz4oI219/dCnm7756/12701.ts
+#EXTINF:0,Movistar Moto GP ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/Qaz4oI219/dCnm7756/5436.ts
+#EXTINF:0,Movistar Moto GP HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/Qaz4oI219/dCnm7756/12700.ts
+#EXTINF:0,Movistar Formula 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/vesi62/T67xUM42/5445.ts
+#EXTINF:0,Movistar Formula 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/vesi62/T67xUM42/12701.ts
+#EXTINF:0,Movistar Moto GP ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/vesi62/T67xUM42/5436.ts
+#EXTINF:0,Movistar Moto GP HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/vesi62/T67xUM42/12700.ts
+#EXTINF:0,MOVISTAR FORMULA 1 FHD #
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://tvplaymundo.com:59000/live/rCaMrpfCuO/PskwsJIYaQ/5346.ts
+#EXTINF:0,MOVISTAR FORMULA 1 SD #
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://tvplaymundo.com:59000/live/rCaMrpfCuO/PskwsJIYaQ/5347.ts
+#EXTINF:0,MOVISTAR MOTOGP FHD #
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://tvplaymundo.com:59000/live/rCaMrpfCuO/PskwsJIYaQ/5343.ts
+#EXTINF:0,MOVISTAR MOTOGP SD #
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://tvplaymundo.com:59000/live/rCaMrpfCuO/PskwsJIYaQ/5344.ts
+#EXTINF:0,Movistar Moto GP ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/vesi62/T67xUM42/5436.ts
+#EXTINF:0,Movistar Moto GP HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/vesi62/T67xUM42/12700.ts
+#EXTINF:0,Movistar Formula 1 ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/vesi62/T67xUM42/5445.ts
+#EXTINF:0,Movistar Formula 1 HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR red]Mongolia[/COLOR];url=http://mag.clientportal.link:80/live/vesi62/T67xUM42/12701.ts
