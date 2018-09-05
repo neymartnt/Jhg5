@@ -83,7 +83,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Seleciona un Servidor ', ['MOTOR', 'DEPORTES', 'VARIADOS, ])
+   ret = dialog.select('Seleciona un Servidor ', ['MOTOR', 'DEPORTES', 'VARIADOS'])
    lists = ['https://bit.ly/2PHwWvr', 'https://bit.ly/2NQqYYN', 'https://bit.ly/2LXIad2']
    return lists[ret]
 ]]></expres>
@@ -92,6 +92,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
 
 
 
