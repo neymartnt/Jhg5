@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-  
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] FAST & FURIOUS [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
-
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('Seleciona un Servidor ', ['FAST & FURIOUS 1', 'FAST & FURIOUS 2', 'Servidor 3', 'Servidor 4', 'Servidor 5', 'Servidor 6', 'Servidor 7', 'Servidor 8'])
-   lists = ['https://bit.ly/2M2g14q', 'https://bit.ly/2MOsm1t', 'http://bit.ly/2MEGP03', 'http://bit.ly/2MJglKE', 'http://bit.ly/2Nasnfq', 'http://bit.ly/2otnOyR', 'http://bit.ly/2LMIZFx', 'http://bit.ly/2ouYRDc']
-   return lists[ret]
-]]></expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 
