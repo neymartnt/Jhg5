@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.consumoteca.com/wp-content/uploads/Logo-de-PayPal.jpg",[COLOR lime]paypal.me/JHGkodi[/COLOR]
-paypal.me/JHGkodi
+
 #EXTINF:0,ES:LA 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/CAMI/CAMI/37103.ts
 #EXTINF:0,ES:LA 1 FHD
