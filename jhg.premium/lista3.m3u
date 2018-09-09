@@ -1,124 +1,693 @@
 #EXTM3U
 #EXTINF:-1,-------------- | SPAIN | LISTA 3-----------
 	
-	
 
 
-#EXTINF:-1 tvg-name="La1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/51679_la1.jpg" group-title="{BOUQUET_NAME}",La1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/536.ts
-#EXTINF:-1 tvg-name="La2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/95093_la2.jpg" group-title="{BOUQUET_NAME}",La2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/537.ts
-#EXTINF:-1 tvg-name="Antena 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/4786_Antena3.jpg" group-title="{BOUQUET_NAME}",Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/971.ts
-#EXTINF:-1 tvg-name="Cuatro" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/45943_cuatro_es.png" group-title="{BOUQUET_NAME}",Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/153.ts
-#EXTINF:-1 tvg-name="Tele5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/3159_telecinco.png" group-title="{BOUQUET_NAME}",Tele5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/36.ts
-#EXTINF:-1 tvg-name="La sexta" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/9614_Lasexta.png" group-title="{BOUQUET_NAME}",La sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/970.ts
-#EXTINF:-1 tvg-name="Neox" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/40949_neox.png" group-title="{BOUQUET_NAME}",Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/930.ts
-#EXTINF:-1 tvg-name="Nova" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/70357_nova.png" group-title="{BOUQUET_NAME}",Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/924.ts
-#EXTINF:-1 tvg-name="Mega" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/95179_mega.jpg" group-title="{BOUQUET_NAME}",Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/925.ts
-#EXTINF:-1 tvg-name="FDF" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/38315_fdf.png" group-title="{BOUQUET_NAME}",FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2754.ts
-#EXTINF:-1 tvg-name="Canal Sur" tvg-logo="" group-title="{BOUQUET_NAME}",Canal Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/3414.ts
-#EXTINF:-1 tvg-name="Canal 24 Horas" tvg-logo="" group-title="{BOUQUET_NAME}",Canal 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/3415.ts
-#EXTINF:-1 tvg-name="#0" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/22280_movistar_es_0.png" group-title="{BOUQUET_NAME}",#0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/152.ts
-#EXTINF:-1 tvg-name="M Estrenos" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/13173_mestrenos.png" group-title="{BOUQUET_NAME}",M Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/31.ts
-#EXTINF:-1 tvg-name="M  Accion" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/32134_maccion.png" group-title="{BOUQUET_NAME}",M  Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/159.ts
-#EXTINF:-1 tvg-name="M Comedia" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/24587_mcomedia.png" group-title="{BOUQUET_NAME}",M Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/155.ts
-#EXTINF:-1 tvg-name="M DCINE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/67278_mdcine.png" group-title="{BOUQUET_NAME}",M DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/156.ts
-#EXTINF:-1 tvg-name="M Serie" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/9295_mserie.png" group-title="{BOUQUET_NAME}",M Serie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/35.ts
-#EXTINF:-1 tvg-name="Bein LaLiga" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/42160_beinlaliga.png" group-title="{BOUQUET_NAME}",Bein LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1590.ts
-#EXTINF:-1 tvg-name="Bein sPORT" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/51673_16.jpg" group-title="{BOUQUET_NAME}",Bein sPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/578.ts
-#EXTINF:-1 tvg-name="la Liga  ES" tvg-logo="" group-title="{BOUQUET_NAME}",la Liga  ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/32.ts
-#EXTINF:-1 tvg-name="GOL TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/11483_goltv.png" group-title="{BOUQUET_NAME}",GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2753.ts
-#EXTINF:-1 tvg-name="Eurosport1 es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/98425_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport1 es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1596.ts
-#EXTINF:-1 tvg-name="Barca TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/89004_barca.jpg" group-title="{BOUQUET_NAME}",Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1037.ts
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/87175_realmadrid.jpg" group-title="{BOUQUET_NAME}",Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1038.ts
-#EXTINF:-1 tvg-name="M Partidazo" tvg-logo="" group-title="{BOUQUET_NAME}",M Partidazo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2757.ts
-#EXTINF:-1 tvg-name="M Futbol es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/84721_mfutbol.png" group-title="{BOUQUET_NAME}",M Futbol es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/33.ts
-#EXTINF:-1 tvg-name="M Deportes1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/14408_mdeportes1.png" group-title="{BOUQUET_NAME}",M Deportes1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/34.ts
-#EXTINF:-1 tvg-name="M Deportes2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/21268_mdeportes2.png" group-title="{BOUQUET_NAME}",M Deportes2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1591.ts
-#EXTINF:-1 tvg-name="M Formula1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/10765_mformula1.png" group-title="{BOUQUET_NAME}",M Formula1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1595.ts
-#EXTINF:-1 tvg-name="M Golf" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/63238_mgolf.png" group-title="{BOUQUET_NAME}",M Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1598.ts
-#EXTINF:-1 tvg-name="M MotoGP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/64132_mmotogp.png" group-title="{BOUQUET_NAME}",M MotoGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1594.ts
-#EXTINF:-1 tvg-name="AMC Spain" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/95139_amc.jpg" group-title="{BOUQUET_NAME}",AMC Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2756.ts
-#EXTINF:-1 tvg-name="AXN es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/62077_AXN.png" group-title="{BOUQUET_NAME}",AXN es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1601.ts
-#EXTINF:-1 tvg-name="Comedy Central es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/28556_comedycentral.jpg" group-title="{BOUQUET_NAME}",Comedy Central es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1593.ts
-#EXTINF:-1 tvg-name="Hollywood es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/24561_533px-Canal_Hollywood.svg_.png" group-title="{BOUQUET_NAME}",Hollywood es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/157.ts
-#EXTINF:-1 tvg-name="Syfy es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/43054_syfy.png" group-title="{BOUQUET_NAME}",Syfy es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/929.ts
-#EXTINF:-1 tvg-name="Fox  ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/75354_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox  ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1592.ts
-#EXTINF:-1 tvg-name="Calle 13" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/69814_calle13.png" group-title="{BOUQUET_NAME}",Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1039.ts
-#EXTINF:-1 tvg-name="FoxLife" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/59262_439-italian_proverbs_quotes.jpg" group-title="{BOUQUET_NAME}",FoxLife
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/753.ts
-#EXTINF:-1 tvg-name="Boing es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/51689_boing.jpg" group-title="{BOUQUET_NAME}",Boing es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1540.ts
-#EXTINF:-1 tvg-name="Clan" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/79038_clan.jpg" group-title="{BOUQUET_NAME}",Clan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1541.ts
-#EXTINF:-1 tvg-name="Disney es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/36068_disney.jpg" group-title="{BOUQUET_NAME}",Disney es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1539.ts
-#EXTINF:-1 tvg-name="Disney Junior es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/57576_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1538.ts
-#EXTINF:-1 tvg-name="Disney XD es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/864_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1537.ts
-#EXTINF:-1 tvg-name="ES:Nickelodeon es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/76081_nickelodeon.png" group-title="{BOUQUET_NAME}",ES:Nickelodeon es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1536.ts
-#EXTINF:-1 tvg-name="Caza y Pesca" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/75313_cazaypesca.jpg" group-title="{BOUQUET_NAME}",Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1597.ts
-#EXTINF:-1 tvg-name="DeCasa" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/72396_decasa.png" group-title="{BOUQUET_NAME}",DeCasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1599.ts
-#EXTINF:-1 tvg-name="ES:Discovery es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/83298_discoverys.png" group-title="{BOUQUET_NAME}",ES:Discovery es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1600.ts
-#EXTINF:-1 tvg-name="Odisea" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/34865_odisea.jpg" group-title="{BOUQUET_NAME}",Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/154.ts
-#EXTINF:-1 tvg-name="Nat Geo Wild es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/2621_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2755.ts
-#EXTINF:-1 tvg-name="Nat geo es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/33881_1216.png" group-title="{BOUQUET_NAME}",Nat geo es
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/558.ts
-#EXTINF:-1 tvg-name="Nat geo" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",Nat geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2083.ts
-#EXTINF:-1 tvg-name="Hollywood" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2087.ts
-#EXTINF:-1 tvg-name="ES:Taquilla1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1706.ts
-#EXTINF:-1 tvg-name="ES:Taquilla2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1589.ts
-#EXTINF:-1 tvg-name="ES:Taquilla3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1584.ts
-#EXTINF:-1 tvg-name="ES:Taquilla4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1503.ts
-#EXTINF:-1 tvg-name="ES:Taquilla5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1502.ts
+#EXTINF:-1 tvg-ID="32422" tvg-name="ES...#0 HD" tvg-logo="" group-title="Espana",ES...#0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32422.ts
+#EXTINF:-1 tvg-ID="32421" tvg-name="ES...24 HORAS" tvg-logo="" group-title="Espana",ES...24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32421.ts
+#EXTINF:-1 tvg-ID="32420" tvg-name="ES...A&E" tvg-logo="" group-title="Espana",ES...A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32420.ts
+#EXTINF:-1 tvg-ID="32436" tvg-name="ES...A3 SERIES" tvg-logo="" group-title="Espana",ES...A3 SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32436.ts
+#EXTINF:-1 tvg-ID="32306" tvg-name="ES...ALQ XXHARD" tvg-logo="" group-title="Espana",ES...ALQ XXHARD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32306.ts
+#EXTINF:-1 tvg-ID="32419" tvg-name="ES...ALQUILER 1" tvg-logo="" group-title="Espana",ES...ALQUILER 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32419.ts
+#EXTINF:-1 tvg-ID="32418" tvg-name="ES...ALQUILER 2" tvg-logo="" group-title="Espana",ES...ALQUILER 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32418.ts
+#EXTINF:-1 tvg-ID="32417" tvg-name="ES...ALQUILER 2 HD" tvg-logo="" group-title="Espana",ES...ALQUILER 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32417.ts
+#EXTINF:-1 tvg-ID="32416" tvg-name="ES...ALQUILER 3" tvg-logo="" group-title="Espana",ES...ALQUILER 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32416.ts
+#EXTINF:-1 tvg-ID="32415" tvg-name="ES...ALQUILER 4" tvg-logo="" group-title="Espana",ES...ALQUILER 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32415.ts
+#EXTINF:-1 tvg-ID="32414" tvg-name="ES...ALQUILER 5" tvg-logo="" group-title="Espana",ES...ALQUILER 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32414.ts
+#EXTINF:-1 tvg-ID="32413" tvg-name="ES...ALQUILER 6" tvg-logo="" group-title="Espana",ES...ALQUILER 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32413.ts
+#EXTINF:-1 tvg-ID="32412" tvg-name="ES...ALQUILER HD" tvg-logo="" group-title="Espana",ES...ALQUILER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32412.ts
+#EXTINF:-1 tvg-ID="32305" tvg-name="ES...ALQUILER X" tvg-logo="" group-title="Espana",ES...ALQUILER X
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32305.ts
+#EXTINF:-1 tvg-ID="32304" tvg-name="ES...ALQUILER XX" tvg-logo="" group-title="Espana",ES...ALQUILER XX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32304.ts
+#EXTINF:-1 tvg-ID="32303" tvg-name="ES...ALQUILER XY" tvg-logo="" group-title="Espana",ES...ALQUILER XY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32303.ts
+#EXTINF:-1 tvg-ID="32411" tvg-name="ES...AMC HD" tvg-logo="" group-title="Espana",ES...AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32411.ts
+#EXTINF:-1 tvg-ID="32445" tvg-name="ES...ANDALUCIA TV" tvg-logo="" group-title="Espana",ES...ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32445.ts
+#EXTINF:-1 tvg-ID="32410" tvg-name="ES...ANTENA 3 HD" tvg-logo="" group-title="Espana",ES...ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32410.ts
+#EXTINF:-1 tvg-ID="32409" tvg-name="ES...AXN HD" tvg-logo="" group-title="Espana",ES...AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32409.ts
+#EXTINF:-1 tvg-ID="32308" tvg-name="ES...AXN WHITE" tvg-logo="" group-title="Espana",ES...AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32308.ts
+#EXTINF:-1 tvg-ID="32408" tvg-name="ES...BABY TV" tvg-logo="" group-title="Espana",ES...BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32408.ts
+#EXTINF:-1 tvg-ID="32407" tvg-name="ES...BAR.A TV" tvg-logo="" group-title="Espana",ES...BAR.A TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32407.ts
+#EXTINF:-1 tvg-ID="32406" tvg-name="ES...BEIN LALIGA" tvg-logo="" group-title="Espana",ES...BEIN LALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32406.ts
+#EXTINF:-1 tvg-ID="32405" tvg-name="ES...BEIN MAX 1" tvg-logo="" group-title="Espana",ES...BEIN MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32405.ts
+#EXTINF:-1 tvg-ID="32404" tvg-name="ES...BEIN MAX 2" tvg-logo="" group-title="Espana",ES...BEIN MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32404.ts
+#EXTINF:-1 tvg-ID="32403" tvg-name="ES...BEIN MAX 3" tvg-logo="" group-title="Espana",ES...BEIN MAX 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32403.ts
+#EXTINF:-1 tvg-ID="32402" tvg-name="ES...BEIN MAX 4" tvg-logo="" group-title="Espana",ES...BEIN MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32402.ts
+#EXTINF:-1 tvg-ID="32401" tvg-name="ES...BEIN MAX 5" tvg-logo="" group-title="Espana",ES...BEIN MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32401.ts
+#EXTINF:-1 tvg-ID="32400" tvg-name="ES...BEIN MAX 6" tvg-logo="" group-title="Espana",ES...BEIN MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32400.ts
+#EXTINF:-1 tvg-ID="32399" tvg-name="ES...BEIN MAX 7" tvg-logo="" group-title="Espana",ES...BEIN MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32399.ts
+#EXTINF:-1 tvg-ID="32398" tvg-name="ES...BEIN MAX 8" tvg-logo="" group-title="Espana",ES...BEIN MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32398.ts
+#EXTINF:-1 tvg-ID="32424" tvg-name="ES...BEIN SPORT SP HD" tvg-logo="" group-title="Espana",ES...BEIN SPORT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32424.ts
+#EXTINF:-1 tvg-ID="32397" tvg-name="ES...BEIN SPORTS" tvg-logo="" group-title="Espana",ES...BEIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32397.ts
+#EXTINF:-1 tvg-ID="32396" tvg-name="ES...BEINLALIGA1" tvg-logo="" group-title="Espana",ES...BEINLALIGA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32396.ts
+#EXTINF:-1 tvg-ID="32395" tvg-name="ES...BEINLALIGA2" tvg-logo="" group-title="Espana",ES...BEINLALIGA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32395.ts
+#EXTINF:-1 tvg-ID="32394" tvg-name="ES...BEINLALIGA3" tvg-logo="" group-title="Espana",ES...BEINLALIGA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32394.ts
+#EXTINF:-1 tvg-ID="32393" tvg-name="ES...BEINLALIGA4" tvg-logo="" group-title="Espana",ES...BEINLALIGA4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32393.ts
+#EXTINF:-1 tvg-ID="32392" tvg-name="ES...BEINLALIGA5" tvg-logo="" group-title="Espana",ES...BEINLALIGA5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32392.ts
+#EXTINF:-1 tvg-ID="32391" tvg-name="ES...BEINLALIGA6" tvg-logo="" group-title="Espana",ES...BEINLALIGA6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32391.ts
+#EXTINF:-1 tvg-ID="32390" tvg-name="ES...BEINLALIGA7" tvg-logo="" group-title="Espana",ES...BEINLALIGA7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32390.ts
+#EXTINF:-1 tvg-ID="32389" tvg-name="ES...BEINLALIGA8" tvg-logo="" group-title="Espana",ES...BEINLALIGA8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32389.ts
+#EXTINF:-1 tvg-ID="32388" tvg-name="ES...BOING" tvg-logo="" group-title="Espana",ES...BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32388.ts
+#EXTINF:-1 tvg-ID="32387" tvg-name="ES...CALLE 13 HD" tvg-logo="" group-title="Espana",ES...CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32387.ts
+#EXTINF:-1 tvg-ID="32430" tvg-name="ES...CANAL ORBE 21" tvg-logo="" group-title="Espana",ES...CANAL ORBE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32430.ts
+#EXTINF:-1 tvg-ID="32386" tvg-name="ES...CANAL ORBE21" tvg-logo="" group-title="Espana",ES...CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32386.ts
+#EXTINF:-1 tvg-ID="32431" tvg-name="ES...CANAL PANDA" tvg-logo="" group-title="Espana",ES...CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32431.ts
+#EXTINF:-1 tvg-ID="32385" tvg-name="ES...CANAL SUR A." tvg-logo="" group-title="Espana",ES...CANAL SUR A.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32385.ts
+#EXTINF:-1 tvg-ID="32384" tvg-name="ES...CAZA Y PESCA" tvg-logo="" group-title="Espana",ES...CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32384.ts
+#EXTINF:-1 tvg-ID="32383" tvg-name="ES...CAZAyPESCA HD" tvg-logo="" group-title="Espana",ES...CAZAyPESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32383.ts
+#EXTINF:-1 tvg-ID="32382" tvg-name="ES...CLAN  TVE" tvg-logo="" group-title="Espana",ES...CLAN  TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32382.ts
+#EXTINF:-1 tvg-ID="32433" tvg-name="ES...CLAN TVE" tvg-logo="" group-title="Espana",ES...CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32433.ts
+#EXTINF:-1 tvg-ID="32310" tvg-name="ES...COCINA" tvg-logo="" group-title="Espana",ES...COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32310.ts
+#EXTINF:-1 tvg-ID="32381" tvg-name="ES...COMEDYCENTRALHD" tvg-logo="" group-title="Espana",ES...COMEDYCENTRALHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32381.ts
+#EXTINF:-1 tvg-ID="32380" tvg-name="ES...COSMO HD" tvg-logo="" group-title="Espana",ES...COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32380.ts
+#EXTINF:-1 tvg-ID="32437" tvg-name="ES...CRIMEN INVES" tvg-logo="" group-title="Espana",ES...CRIMEN INVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32437.ts
+#EXTINF:-1 tvg-ID="32444" tvg-name="ES...CUATRO" tvg-logo="" group-title="Espana",ES...CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32444.ts
+#EXTINF:-1 tvg-ID="32443" tvg-name="ES...CUATRO HD" tvg-logo="" group-title="Espana",ES...CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32443.ts
+#EXTINF:-1 tvg-ID="32379" tvg-name="ES...DISCOVERY" tvg-logo="" group-title="Espana",ES...DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32379.ts
+#EXTINF:-1 tvg-ID="32378" tvg-name="ES...DISNEY CH HD" tvg-logo="" group-title="Espana",ES...DISNEY CH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32378.ts
+#EXTINF:-1 tvg-ID="32309" tvg-name="ES...DISNEY JR" tvg-logo="" group-title="Espana",ES...DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32309.ts
+#EXTINF:-1 tvg-ID="32377" tvg-name="ES...DISNEY XD" tvg-logo="" group-title="Espana",ES...DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32377.ts
+#EXTINF:-1 tvg-ID="32376" tvg-name="ES...DIVINITY" tvg-logo="" group-title="Espana",ES...DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32376.ts
+#EXTINF:-1 tvg-ID="32375" tvg-name="ES...ENERGY" tvg-logo="" group-title="Espana",ES...ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32375.ts
+#EXTINF:-1 tvg-ID="32374" tvg-name="ES...EUROSPORT 1" tvg-logo="" group-title="Espana",ES...EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32374.ts
+#EXTINF:-1 tvg-ID="32373" tvg-name="ES...EUROSPORT1HD" tvg-logo="" group-title="Espana",ES...EUROSPORT1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32373.ts
+#EXTINF:-1 tvg-ID="32425" tvg-name="ES...F1 Formula1" tvg-logo="" group-title="Espana",ES...F1 Formula1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32425.ts
+#EXTINF:-1 tvg-ID="32372" tvg-name="ES...FDF" tvg-logo="" group-title="Espana",ES...FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32372.ts
+#EXTINF:-1 tvg-ID="32371" tvg-name="ES...FOX HD" tvg-logo="" group-title="Espana",ES...FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32371.ts
+#EXTINF:-1 tvg-ID="32370" tvg-name="ES...FOX LIFE HD" tvg-logo="" group-title="Espana",ES...FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32370.ts
+#EXTINF:-1 tvg-ID="32369" tvg-name="ES...FOX NEWS" tvg-logo="" group-title="Espana",ES...FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32369.ts
+#EXTINF:-1 tvg-ID="32451" tvg-name="ES...GLAMOUR FM" tvg-logo="" group-title="Espana",ES...GLAMOUR FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32451.ts
+#EXTINF:-1 tvg-ID="32358" tvg-name="ES...GOL" tvg-logo="" group-title="Espana",ES...GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32358.ts
+#EXTINF:-1 tvg-ID="32357" tvg-name="ES...HISTORIA" tvg-logo="" group-title="Espana",ES...HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32357.ts
+#EXTINF:-1 tvg-ID="32356" tvg-name="ES...HOLLYWOOD" tvg-logo="" group-title="Espana",ES...HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32356.ts
+#EXTINF:-1 tvg-ID="32355" tvg-name="ES...HOLLYWOODHD" tvg-logo="" group-title="Espana",ES...HOLLYWOODHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32355.ts
+#EXTINF:-1 tvg-ID="32449" tvg-name="ES...LA 1" tvg-logo="" group-title="Espana",ES...LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32449.ts
+#EXTINF:-1 tvg-ID="32448" tvg-name="ES...LA 1 HD" tvg-logo="" group-title="Espana",ES...LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32448.ts
+#EXTINF:-1 tvg-ID="32446" tvg-name="ES...LA 2" tvg-logo="" group-title="Espana",ES...LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32446.ts
+#EXTINF:-1 tvg-ID="32439" tvg-name="ES...LA SEXTA" tvg-logo="" group-title="Espana",ES...LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32439.ts
+#EXTINF:-1 tvg-ID="32438" tvg-name="ES...LA SEXTA HD" tvg-logo="" group-title="Espana",ES...LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32438.ts
+#EXTINF:-1 tvg-ID="32450" tvg-name="ES...LA1 HD" tvg-logo="" group-title="Espana",ES...LA1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32450.ts
+#EXTINF:-1 tvg-ID="32447" tvg-name="ES...LA2" tvg-logo="" group-title="Espana",ES...LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32447.ts
+#EXTINF:-1 tvg-ID="32354" tvg-name="ES...LALIGATV BAR" tvg-logo="" group-title="Espana",ES...LALIGATV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32354.ts
+#EXTINF:-1 tvg-ID="32353" tvg-name="ES...LALIGATVBAR1" tvg-logo="" group-title="Espana",ES...LALIGATVBAR1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32353.ts
+#EXTINF:-1 tvg-ID="32352" tvg-name="ES...M. ACCI©N HD" tvg-logo="" group-title="Espana",ES...M. ACCI©N HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32352.ts
+#EXTINF:-1 tvg-ID="32351" tvg-name="ES...M. Cine Espaæol" tvg-logo="" group-title="Espana",ES...M. Cine Espaæol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32351.ts
+#EXTINF:-1 tvg-ID="32350" tvg-name="ES...M. DCINE HD" tvg-logo="" group-title="Espana",ES...M. DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32350.ts
+#EXTINF:-1 tvg-ID="32349" tvg-name="ES...M. DEP 1 HD" tvg-logo="" group-title="Espana",ES...M. DEP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32349.ts
+#EXTINF:-1 tvg-ID="32348" tvg-name="ES...M. DISNEY" tvg-logo="" group-title="Espana",ES...M. DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32348.ts
+#EXTINF:-1 tvg-ID="32347" tvg-name="ES...M. F.TBOL HD" tvg-logo="" group-title="Espana",ES...M. F.TBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32347.ts
+#EXTINF:-1 tvg-ID="32346" tvg-name="ES...M. GOLF HD" tvg-logo="" group-title="Espana",ES...M. GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32346.ts
+#EXTINF:-1 tvg-ID="32345" tvg-name="ES...M. MOTOGP" tvg-logo="" group-title="Espana",ES...M. MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32345.ts
+#EXTINF:-1 tvg-ID="32344" tvg-name="ES...M. SERIES" tvg-logo="" group-title="Espana",ES...M. SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32344.ts
+#EXTINF:-1 tvg-ID="32343" tvg-name="ES...M. SERIES HD" tvg-logo="" group-title="Espana",ES...M. SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32343.ts
+#EXTINF:-1 tvg-ID="32342" tvg-name="ES...M. SeriesXtraHD" tvg-logo="" group-title="Espana",ES...M. SeriesXtraHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32342.ts
+#EXTINF:-1 tvg-ID="32341" tvg-name="ES...M. XTRA" tvg-logo="" group-title="Espana",ES...M. XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32341.ts
+#EXTINF:-1 tvg-ID="32340" tvg-name="ES...M.COMEDIA HD" tvg-logo="" group-title="Espana",ES...M.COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32340.ts
+#EXTINF:-1 tvg-ID="32339" tvg-name="ES...M.FORMULA1" tvg-logo="" group-title="Espana",ES...M.FORMULA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32339.ts
+#EXTINF:-1 tvg-ID="32338" tvg-name="ES...M.FORMULA1HD" tvg-logo="" group-title="Espana",ES...M.FORMULA1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32338.ts
+#EXTINF:-1 tvg-ID="32337" tvg-name="ES...M.MOTOGPHD" tvg-logo="" group-title="Espana",ES...M.MOTOGPHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32337.ts
+#EXTINF:-1 tvg-ID="32336" tvg-name="ES...M.Partidazo" tvg-logo="" group-title="Espana",ES...M.Partidazo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32336.ts
+#EXTINF:-1 tvg-ID="32335" tvg-name="ES...M.PartidazoHD" tvg-logo="" group-title="Espana",ES...M.PartidazoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32335.ts
+#EXTINF:-1 tvg-ID="32427" tvg-name="ES...MEZZO" tvg-logo="" group-title="Espana",ES...MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32427.ts
+#EXTINF:-1 tvg-ID="32334" tvg-name="ES...MEZZO LIVE HD" tvg-logo="" group-title="Espana",ES...MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32334.ts
+#EXTINF:-1 tvg-ID="32333" tvg-name="ES...MTV ESPA¹A" tvg-logo="" group-title="Espana",ES...MTV ESPA¹A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32333.ts
+#EXTINF:-1 tvg-ID="32332" tvg-name="ES...MULTI-X" tvg-logo="" group-title="Espana",ES...MULTI-X
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32332.ts
+#EXTINF:-1 tvg-ID="32331" tvg-name="ES...MULTIDEP.1" tvg-logo="" group-title="Espana",ES...MULTIDEP.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32331.ts
+#EXTINF:-1 tvg-ID="32330" tvg-name="ES...MULTIDEP.2" tvg-logo="" group-title="Espana",ES...MULTIDEP.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32330.ts
+#EXTINF:-1 tvg-ID="32329" tvg-name="ES...MULTIDEP.3" tvg-logo="" group-title="Espana",ES...MULTIDEP.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32329.ts
+#EXTINF:-1 tvg-ID="32328" tvg-name="ES...MULTIDEP.4" tvg-logo="" group-title="Espana",ES...MULTIDEP.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32328.ts
+#EXTINF:-1 tvg-ID="32327" tvg-name="ES...MULTIDEP.5" tvg-logo="" group-title="Espana",ES...MULTIDEP.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32327.ts
+#EXTINF:-1 tvg-ID="32326" tvg-name="ES...MULTIDEPORTE" tvg-logo="" group-title="Espana",ES...MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32326.ts
+#EXTINF:-1 tvg-ID="32325" tvg-name="ES...MULTIFUT. 1" tvg-logo="" group-title="Espana",ES...MULTIFUT. 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32325.ts
+#EXTINF:-1 tvg-ID="32324" tvg-name="ES...MULTIFUT. 2" tvg-logo="" group-title="Espana",ES...MULTIFUT. 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32324.ts
+#EXTINF:-1 tvg-ID="32323" tvg-name="ES...MULTIFUT. 3" tvg-logo="" group-title="Espana",ES...MULTIFUT. 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32323.ts
+#EXTINF:-1 tvg-ID="32322" tvg-name="ES...MULTIFUT. 4" tvg-logo="" group-title="Espana",ES...MULTIFUT. 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32322.ts
+#EXTINF:-1 tvg-ID="32321" tvg-name="ES...NAT GEO HD" tvg-logo="" group-title="Espana",ES...NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32321.ts
+#EXTINF:-1 tvg-ID="32320" tvg-name="ES...NAT GEO WILD" tvg-logo="" group-title="Espana",ES...NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32320.ts
+#EXTINF:-1 tvg-ID="32435" tvg-name="ES...NEOX" tvg-logo="" group-title="Espana",ES...NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32435.ts
+#EXTINF:-1 tvg-ID="32319" tvg-name="ES...NG WILD HD" tvg-logo="" group-title="Espana",ES...NG WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32319.ts
+#EXTINF:-1 tvg-ID="32318" tvg-name="ES...NICK JR" tvg-logo="" group-title="Espana",ES...NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32318.ts
+#EXTINF:-1 tvg-ID="32317" tvg-name="ES...NICKELODEONHD" tvg-logo="" group-title="Espana",ES...NICKELODEONHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32317.ts
+#EXTINF:-1 tvg-ID="32432" tvg-name="ES...NON STOP PEOPLE" tvg-logo="" group-title="Espana",ES...NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32432.ts
+#EXTINF:-1 tvg-ID="32316" tvg-name="ES...NONSTOPEOPLE" tvg-logo="" group-title="Espana",ES...NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32316.ts
+#EXTINF:-1 tvg-ID="32434" tvg-name="ES...NOVA" tvg-logo="" group-title="Espana",ES...NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32434.ts
+#EXTINF:-1 tvg-ID="32315" tvg-name="ES...SUNDANCE" tvg-logo="" group-title="Espana",ES...SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32315.ts
+#EXTINF:-1 tvg-ID="32368" tvg-name="ES...TAQUILLA 1" tvg-logo="" group-title="Espana",ES...TAQUILLA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32368.ts
+#EXTINF:-1 tvg-ID="32359" tvg-name="ES...TAQUILLA 10" tvg-logo="" group-title="Espana",ES...TAQUILLA 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32359.ts
+#EXTINF:-1 tvg-ID="32367" tvg-name="ES...TAQUILLA 2" tvg-logo="" group-title="Espana",ES...TAQUILLA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32367.ts
+#EXTINF:-1 tvg-ID="32366" tvg-name="ES...TAQUILLA 3" tvg-logo="" group-title="Espana",ES...TAQUILLA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32366.ts
+#EXTINF:-1 tvg-ID="32365" tvg-name="ES...TAQUILLA 4" tvg-logo="" group-title="Espana",ES...TAQUILLA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32365.ts
+#EXTINF:-1 tvg-ID="32364" tvg-name="ES...TAQUILLA 5" tvg-logo="" group-title="Espana",ES...TAQUILLA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32364.ts
+#EXTINF:-1 tvg-ID="32363" tvg-name="ES...TAQUILLA 6" tvg-logo="" group-title="Espana",ES...TAQUILLA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32363.ts
+#EXTINF:-1 tvg-ID="32362" tvg-name="ES...TAQUILLA 7" tvg-logo="" group-title="Espana",ES...TAQUILLA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32362.ts
+#EXTINF:-1 tvg-ID="32361" tvg-name="ES...TAQUILLA 8" tvg-logo="" group-title="Espana",ES...TAQUILLA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32361.ts
+#EXTINF:-1 tvg-ID="32360" tvg-name="ES...TAQUILLA 9" tvg-logo="" group-title="Espana",ES...TAQUILLA 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32360.ts
+#EXTINF:-1 tvg-ID="32429" tvg-name="ES...TCM HD" tvg-logo="" group-title="Espana",ES...TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32429.ts
+#EXTINF:-1 tvg-ID="32442" tvg-name="ES...TELECINCO" tvg-logo="" group-title="Espana",ES...TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32442.ts
+#EXTINF:-1 tvg-ID="32440" tvg-name="ES...TELECINCO FHD" tvg-logo="" group-title="Espana",ES...TELECINCO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32440.ts
+#EXTINF:-1 tvg-ID="32441" tvg-name="ES...TELECINCO HD" tvg-logo="" group-title="Espana",ES...TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32441.ts
+#EXTINF:-1 tvg-ID="32423" tvg-name="ES...TELEDEPORTE HD" tvg-logo="" group-title="Espana",ES...TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32423.ts
+#EXTINF:-1 tvg-ID="32314" tvg-name="ES...TNT" tvg-logo="" group-title="Espana",ES...TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32314.ts
+#EXTINF:-1 tvg-ID="32313" tvg-name="ES...TNT HD" tvg-logo="" group-title="Espana",ES...TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32313.ts
+#EXTINF:-1 tvg-ID="32312" tvg-name="ES...TOROS TV" tvg-logo="" group-title="Espana",ES...TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32312.ts
+#EXTINF:-1 tvg-ID="32311" tvg-name="ES...TOROS TV HD" tvg-logo="" group-title="Espana",ES...TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32311.ts
+#EXTINF:-1 tvg-ID="32426" tvg-name="ES...TV GALICIA" tvg-logo="" group-title="Espana",ES...TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32426.ts
+#EXTINF:-1 tvg-ID="32428" tvg-name="ES...VH1" tvg-logo="" group-title="Espana",ES...VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32428.ts
+#EXTINF:-1 tvg-ID="30768" tvg-name="ES_BEIN LALIGA1 (event only)" tvg-logo="" group-title="Espana",ES_BEIN LALIGA1 (event only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30768.ts
+#EXTINF:-1 tvg-ID="30767" tvg-name="ES_BEIN LALIGA2 (event only)" tvg-logo="" group-title="Espana",ES_BEIN LALIGA2 (event only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30767.ts
+#EXTINF:-1 tvg-ID="30766" tvg-name="ES_BEIN LALIGA3 (event only)" tvg-logo="" group-title="Espana",ES_BEIN LALIGA3 (event only)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30766.ts
+#EXTINF:-1 tvg-ID="32307" tvg-name="ES... BEIN SPORT HD" tvg-logo="" group-title="Espana",ES... BEIN SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/32307.ts
+#EXTINF:-1 tvg-ID="29089" tvg-name="ES:_Antena 3 HD" tvg-logo="" group-title="Espana",ES:_Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29089.ts
+#EXTINF:-1 tvg-ID="29033" tvg-name="ES:_AXN" tvg-logo="" group-title="Espana",ES:_AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29033.ts
+#EXTINF:-1 tvg-ID="29090" tvg-name="ES:_AXN White HD" tvg-logo="" group-title="Espana",ES:_AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29090.ts
+#EXTINF:-1 tvg-ID="29032" tvg-name="ES:_Baby TV" tvg-logo="" group-title="Espana",ES:_Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29032.ts
+#EXTINF:-1 tvg-ID="29031" tvg-name="ES:_Bein LaLiga" tvg-logo="" group-title="Espana",ES:_Bein LaLiga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29031.ts
+#EXTINF:-1 tvg-ID="29030" tvg-name="ES:_Bein Sportpana" tvg-logo="" group-title="Espana",ES:_Bein Sportpana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29030.ts
+#EXTINF:-1 tvg-ID="29091" tvg-name="ES:_bein SPORTS HD" tvg-logo="" group-title="Espana",ES:_bein SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29091.ts
+#EXTINF:-1 tvg-ID="29037" tvg-name="ES:_bein SPORTS LA LIGA HD" tvg-logo="" group-title="Espana",ES:_bein SPORTS LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29037.ts
+#EXTINF:-1 tvg-ID="29029" tvg-name="ES:_BOING" tvg-logo="" group-title="Espana",ES:_BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29029.ts
+#EXTINF:-1 tvg-ID="29092" tvg-name="ES:_Calle 13 HD" tvg-logo="" group-title="Espana",ES:_Calle 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29092.ts
+#EXTINF:-1 tvg-ID="29028" tvg-name="ES:_Canal  TeleDeporte" tvg-logo="" group-title="Espana",ES:_Canal  TeleDeporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29028.ts
+#EXTINF:-1 tvg-ID="29027" tvg-name="ES:_Canal Cocina" tvg-logo="" group-title="Espana",ES:_Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29027.ts
+#EXTINF:-1 tvg-ID="29026" tvg-name="ES:_Canal DeCasa" tvg-logo="" group-title="Espana",ES:_Canal DeCasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29026.ts
+#EXTINF:-1 tvg-ID="29052" tvg-name="ES:_Nick JR" tvg-logo="" group-title="Espana",ES:_Nick JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29052.ts
+#EXTINF:-1 tvg-ID="29025" tvg-name="ES:_Comedy Central" tvg-logo="" group-title="Espana",ES:_Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29025.ts
+#EXTINF:-1 tvg-ID="29093" tvg-name="ES:_Cosmo HD" tvg-logo="" group-title="Espana",ES:_Cosmo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29093.ts
+#EXTINF:-1 tvg-ID="29069" tvg-name="ES:_Crimen y Investigation" tvg-logo="" group-title="Espana",ES:_Crimen y Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29069.ts
+#EXTINF:-1 tvg-ID="29023" tvg-name="ES:_Cuatro HD" tvg-logo="" group-title="Espana",ES:_Cuatro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29023.ts
+#EXTINF:-1 tvg-ID="29053" tvg-name="ES:_Disney Channel" tvg-logo="" group-title="Espana",ES:_Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29053.ts
+#EXTINF:-1 tvg-ID="29022" tvg-name="ES:_Disney Junior" tvg-logo="" group-title="Espana",ES:_Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29022.ts
+#EXTINF:-1 tvg-ID="29021" tvg-name="ES:_Disney XD" tvg-logo="" group-title="Espana",ES:_Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29021.ts
+#EXTINF:-1 tvg-ID="29020" tvg-name="ES:_Energy" tvg-logo="" group-title="Espana",ES:_Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29020.ts
+#EXTINF:-1 tvg-ID="29087" tvg-name="ES:_EUROSPORT" tvg-logo="" group-title="Espana",ES:_EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29087.ts
+#EXTINF:-1 tvg-ID="29094" tvg-name="ES:_FOX" tvg-logo="" group-title="Espana",ES:_FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29094.ts
+#EXTINF:-1 tvg-ID="29018" tvg-name="ES:_FOX LIFE" tvg-logo="" group-title="Espana",ES:_FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29018.ts
+#EXTINF:-1 tvg-ID="29095" tvg-name="ES:_FOX Life HD" tvg-logo="" group-title="Espana",ES:_FOX Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29095.ts
+#EXTINF:-1 tvg-ID="29034" tvg-name="ES:_GOL TV HD" tvg-logo="" group-title="Espana",ES:_GOL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29034.ts
+#EXTINF:-1 tvg-ID="29017" tvg-name="ES:_Historia" tvg-logo="" group-title="Espana",ES:_Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29017.ts
+#EXTINF:-1 tvg-ID="29096" tvg-name="ES:_Hollywood HD" tvg-logo="" group-title="Espana",ES:_Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29096.ts
+#EXTINF:-1 tvg-ID="29035" tvg-name="ES:_LA LIGA TV HD" tvg-logo="" group-title="Espana",ES:_LA LIGA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29035.ts
+#EXTINF:-1 tvg-ID="29097" tvg-name="ES:_LA sexta HD" tvg-logo="" group-title="Espana",ES:_LA sexta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29097.ts
+#EXTINF:-1 tvg-ID="29040" tvg-name="ES:_M DEPORTES 1 HD" tvg-logo="" group-title="Espana",ES:_M DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29040.ts
+#EXTINF:-1 tvg-ID="29041" tvg-name="ES:_M DEPORTES 2 HD" tvg-logo="" group-title="Espana",ES:_M DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29041.ts
+#EXTINF:-1 tvg-ID="29044" tvg-name="ES:_M FORMULA 1 HD" tvg-logo="" group-title="Espana",ES:_M FORMULA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29044.ts
+#EXTINF:-1 tvg-ID="29038" tvg-name="ES:_M FUTBOL HD" tvg-logo="" group-title="Espana",ES:_M FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29038.ts
+#EXTINF:-1 tvg-ID="29042" tvg-name="ES:_M GOLF HD" tvg-logo="" group-title="Espana",ES:_M GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29042.ts
+#EXTINF:-1 tvg-ID="29043" tvg-name="ES:_M MOTO GP HD" tvg-logo="" group-title="Espana",ES:_M MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29043.ts
+#EXTINF:-1 tvg-ID="29067" tvg-name="ES:_Mega" tvg-logo="" group-title="Espana",ES:_Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29067.ts
+#EXTINF:-1 tvg-ID="29054" tvg-name="ES:_Movistar Accion" tvg-logo="" group-title="Espana",ES:_Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29054.ts
+#EXTINF:-1 tvg-ID="29055" tvg-name="ES:_Movistar Comedia HD" tvg-logo="" group-title="Espana",ES:_Movistar Comedia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29055.ts
+#EXTINF:-1 tvg-ID="29056" tvg-name="ES:_Movistar DCine" tvg-logo="" group-title="Espana",ES:_Movistar DCine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29056.ts
+#EXTINF:-1 tvg-ID="29059" tvg-name="ES:_Movistar Estrenos" tvg-logo="" group-title="Espana",ES:_Movistar Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29059.ts
+#EXTINF:-1 tvg-ID="29075" tvg-name="ES:_Movistar F1" tvg-logo="" group-title="Espana",ES:_Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29075.ts
+#EXTINF:-1 tvg-ID="29070" tvg-name="ES:_Movistar MotoGP" tvg-logo="" group-title="Espana",ES:_Movistar MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29070.ts
+#EXTINF:-1 tvg-ID="29062" tvg-name="ES:_Movistar Series" tvg-logo="" group-title="Espana",ES:_Movistar Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29062.ts
+#EXTINF:-1 tvg-ID="29058" tvg-name="ES:_Movistar Series Xtra" tvg-logo="" group-title="Espana",ES:_Movistar Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29058.ts
+#EXTINF:-1 tvg-ID="29011" tvg-name="ES:_Movistar SeriSP Xtra" tvg-logo="" group-title="Espana",ES:_Movistar SeriSP Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29011.ts
+#EXTINF:-1 tvg-ID="29057" tvg-name="ES:_Movistar Xtra" tvg-logo="" group-title="Espana",ES:_Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29057.ts
+#EXTINF:-1 tvg-ID="29013" tvg-name="ES:_Movistartrenos" tvg-logo="" group-title="Espana",ES:_Movistartrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29013.ts
+#EXTINF:-1 tvg-ID="29068" tvg-name="ES:_MTV espana" tvg-logo="" group-title="Espana",ES:_MTV espana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29068.ts
+#EXTINF:-1 tvg-ID="29010" tvg-name="ES:_MTV" tvg-logo="" group-title="Espana",ES:_MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29010.ts
+#EXTINF:-1 tvg-ID="29009" tvg-name="ES:_Nat Geo Wild" tvg-logo="" group-title="Espana",ES:_Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29009.ts
+#EXTINF:-1 tvg-ID="29008" tvg-name="ES:_National Geographic" tvg-logo="" group-title="Espana",ES:_National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29008.ts
+#EXTINF:-1 tvg-ID="29065" tvg-name="ES:_Neox TV" tvg-logo="" group-title="Espana",ES:_Neox TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29065.ts
+#EXTINF:-1 tvg-ID="29007" tvg-name="ES:_Nickelodeon HD" tvg-logo="" group-title="Espana",ES:_Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29007.ts
+#EXTINF:-1 tvg-ID="29006" tvg-name="ES:_Nova" tvg-logo="" group-title="Espana",ES:_Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29006.ts
+#EXTINF:-1 tvg-ID="29066" tvg-name="ES:_Odisea TV" tvg-logo="" group-title="Espana",ES:_Odisea TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29066.ts
+#EXTINF:-1 tvg-ID="29061" tvg-name="ES:_Paramount Channel" tvg-logo="" group-title="Espana",ES:_Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29061.ts
+#EXTINF:-1 tvg-ID="29098" tvg-name="ES:_REAL MADRID TV" tvg-logo="" group-title="Espana",ES:_REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29098.ts
+#EXTINF:-1 tvg-ID="29051" tvg-name="ES:_RTVA" tvg-logo="" group-title="Espana",ES:_RTVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29051.ts
+#EXTINF:-1 tvg-ID="29004" tvg-name="ES:_SYFY" tvg-logo="" group-title="Espana",ES:_SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29004.ts
+#EXTINF:-1 tvg-ID="29077" tvg-name="ES:_Taquilla 1" tvg-logo="" group-title="Espana",ES:_Taquilla 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29077.ts
+#EXTINF:-1 tvg-ID="29086" tvg-name="ES:_Taquilla 10" tvg-logo="" group-title="Espana",ES:_Taquilla 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29086.ts
+#EXTINF:-1 tvg-ID="29078" tvg-name="ES:_Taquilla 2" tvg-logo="" group-title="Espana",ES:_Taquilla 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29078.ts
+#EXTINF:-1 tvg-ID="29079" tvg-name="ES:_Taquilla 3" tvg-logo="" group-title="Espana",ES:_Taquilla 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29079.ts
+#EXTINF:-1 tvg-ID="29080" tvg-name="ES:_Taquilla 4" tvg-logo="" group-title="Espana",ES:_Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29080.ts
+#EXTINF:-1 tvg-ID="29081" tvg-name="ES:_Taquilla 5" tvg-logo="" group-title="Espana",ES:_Taquilla 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29081.ts
+#EXTINF:-1 tvg-ID="29082" tvg-name="ES:_Taquilla 6" tvg-logo="" group-title="Espana",ES:_Taquilla 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29082.ts
+#EXTINF:-1 tvg-ID="29083" tvg-name="ES:_Taquilla 7" tvg-logo="" group-title="Espana",ES:_Taquilla 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29083.ts
+#EXTINF:-1 tvg-ID="29084" tvg-name="ES:_Taquilla 8" tvg-logo="" group-title="Espana",ES:_Taquilla 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29084.ts
+#EXTINF:-1 tvg-ID="29085" tvg-name="ES:_Taquilla 9" tvg-logo="" group-title="Espana",ES:_Taquilla 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29085.ts
+#EXTINF:-1 tvg-ID="29099" tvg-name="ES:_Telecinco HD" tvg-logo="" group-title="Espana",ES:_Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29099.ts
+#EXTINF:-1 tvg-ID="29000" tvg-name="ES:_TNT" tvg-logo="" group-title="Espana",ES:_TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29000.ts
+#EXTINF:-1 tvg-ID="28999" tvg-name="ES:_Toros Tv" tvg-logo="" group-title="Espana",ES:_Toros Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/28999.ts
+#EXTINF:-1 tvg-ID="29064" tvg-name="ES:_TVE Clan" tvg-logo="" group-title="Espana",ES:_TVE Clan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29064.ts
+#EXTINF:-1 tvg-ID="29045" tvg-name="ES:_TVE LA 1 HD" tvg-logo="" group-title="Espana",ES:_TVE LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29045.ts
+#EXTINF:-1 tvg-ID="29046" tvg-name="ES:_TVE LA 2" tvg-logo="" group-title="Espana",ES:_TVE LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29046.ts
+#EXTINF:-1 tvg-ID="29100" tvg-name="ES:_Viajar HD" tvg-logo="" group-title="Espana",ES:_Viajar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/29100.ts
+#EXTINF:-1 tvg-ID="30024" tvg-name="ES:_AMC" tvg-logo="" group-title="Espana",ES:_AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30024.ts
+#EXTINF:-1 tvg-ID="30027" tvg-name="ES:_Barca TV" tvg-logo="" group-title="Espana",ES:_Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30027.ts
+#EXTINF:-1 tvg-ID="30023" tvg-name="ES:_Real Madrid  tv" tvg-logo="" group-title="Espana",ES:_Real Madrid  tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30023.ts
+#EXTINF:-1 tvg-ID="30022" tvg-name="ES:_DIVINITY" tvg-logo="" group-title="Espana",ES:_DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30022.ts
+#EXTINF:-1 tvg-ID="30026" tvg-name="ES:_FDF" tvg-logo="" group-title="Espana",ES:_FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30026.ts
+#EXTINF:-1 tvg-ID="30021" tvg-name="ES:_GALICIA TV" tvg-logo="" group-title="Espana",ES:_GALICIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30021.ts
+#EXTINF:-1 tvg-ID="30020" tvg-name="ES:_IBERALIA TV" tvg-logo="" group-title="Espana",ES:_IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30020.ts
+#EXTINF:-1 tvg-ID="30028" tvg-name="ES:_TVE LA 1" tvg-logo="" group-title="Espana",ES:_TVE LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30028.ts
+#EXTINF:-1 tvg-ID="30230" tvg-name="ES | beIN Max 1 {Live match}" tvg-logo="" group-title="",ES | beIN Max 1 {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30230.ts
+#EXTINF:-1 tvg-ID="30228" tvg-name="ES | beIN Max 2 HD {Live match}" tvg-logo="" group-title="",ES | beIN Max 2 HD {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30228.ts
+#EXTINF:-1 tvg-ID="30229" tvg-name="ES | beIN Max 2 {Live match}" tvg-logo="" group-title="",ES | beIN Max 2 {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30229.ts
+#EXTINF:-1 tvg-ID="30227" tvg-name="ES | beIN Max 3 {Live match}" tvg-logo="" group-title="",ES | beIN Max 3 {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30227.ts
+#EXTINF:-1 tvg-ID="30226" tvg-name="ES | beIN Max 4 {Live match}" tvg-logo="" group-title="",ES | beIN Max 4 {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30226.ts
+#EXTINF:-1 tvg-ID="30225" tvg-name="ES | beIN Max 5 {Live match}" tvg-logo="" group-title="",ES | beIN Max 5 {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30225.ts
+#EXTINF:-1 tvg-ID="30224" tvg-name="ES | beIN Max 6 {Live match}" tvg-logo="" group-title="",ES | beIN Max 6 {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30224.ts
+#EXTINF:-1 tvg-ID="30223" tvg-name="ES | beIN Max 7 {Live match}" tvg-logo="" group-title="",ES | beIN Max 7 {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30223.ts
+#EXTINF:-1 tvg-ID="30222" tvg-name="ES | beIN Max 8 {Live match}" tvg-logo="" group-title="",ES | beIN Max 8 {Live match}
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30222.ts
+#EXTINF:-1 tvg-ID="30283" tvg-name="ES:_ANDALUCIA TV" tvg-logo="" group-title="Espana",ES:_ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30283.ts
+#EXTINF:-1 tvg-ID="30292" tvg-name="ES:_BEIN LA LIGA TV 1" tvg-logo="" group-title="Espana",ES:_BEIN LA LIGA TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30292.ts
+#EXTINF:-1 tvg-ID="30293" tvg-name="ES:_BEIN LA LIGA TV 2" tvg-logo="" group-title="Espana",ES:_BEIN LA LIGA TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30293.ts
+#EXTINF:-1 tvg-ID="30294" tvg-name="ES:_BEIN LA LIGA TV 3" tvg-logo="" group-title="Espana",ES:_BEIN LA LIGA TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30294.ts
+#EXTINF:-1 tvg-ID="30295" tvg-name="ES:_BEIN MAX 1 HD" tvg-logo="" group-title="Espana",ES:_BEIN MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30295.ts
+#EXTINF:-1 tvg-ID="30296" tvg-name="ES:_BEIN MAX 2 HD" tvg-logo="" group-title="Espana",ES:_BEIN MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30296.ts
+#EXTINF:-1 tvg-ID="30291" tvg-name="ES:_CANAL ORBE 21" tvg-logo="" group-title="Espana",ES:_CANAL ORBE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30291.ts
+#EXTINF:-1 tvg-ID="30286" tvg-name="ES:_CANAL PANDA" tvg-logo="" group-title="Espana",ES:_CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30286.ts
+#EXTINF:-1 tvg-ID="30285" tvg-name="ES:_CLAN TVE" tvg-logo="" group-title="Espana",ES:_CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30285.ts
+#EXTINF:-1 tvg-ID="30287" tvg-name="ES:_LA LIGA TV BAR" tvg-logo="" group-title="Espana",ES:_LA LIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30287.ts
+#EXTINF:-1 tvg-ID="30280" tvg-name="ES:_LA1 HD" tvg-logo="" group-title="Espana",ES:_LA1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30280.ts
+#EXTINF:-1 tvg-ID="30281" tvg-name="ES:_LA2" tvg-logo="" group-title="Espana",ES:_LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30281.ts
+#EXTINF:-1 tvg-ID="30289" tvg-name="ES:_MEZZO" tvg-logo="" group-title="Espana",ES:_MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30289.ts
+#EXTINF:-1 tvg-ID="30297" tvg-name="ES:_MULTIDEPORTES 1" tvg-logo="" group-title="Espana",ES:_MULTIDEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30297.ts
+#EXTINF:-1 tvg-ID="30298" tvg-name="ES:_MULTIDEPORTES 2" tvg-logo="" group-title="Espana",ES:_MULTIDEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30298.ts
+#EXTINF:-1 tvg-ID="30299" tvg-name="ES:_MULTIDEPORTES 3" tvg-logo="" group-title="Espana",ES:_MULTIDEPORTES 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30299.ts
+#EXTINF:-1 tvg-ID="30300" tvg-name="ES:_MULTIFUTBOLL 1" tvg-logo="" group-title="Espana",ES:_MULTIFUTBOLL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30300.ts
+#EXTINF:-1 tvg-ID="30301" tvg-name="ES:_MULTIFUTBOLL 2" tvg-logo="" group-title="Espana",ES:_MULTIFUTBOLL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30301.ts
+#EXTINF:-1 tvg-ID="30302" tvg-name="ES:_MULTIFUTBOLL 3" tvg-logo="" group-title="Espana",ES:_MULTIFUTBOLL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30302.ts
+#EXTINF:-1 tvg-ID="30288" tvg-name="ES:_NON STOP PEOPLE" tvg-logo="" group-title="Espana",ES:_NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30288.ts
+#EXTINF:-1 tvg-ID="30284" tvg-name="ES:_TCM HD" tvg-logo="" group-title="Espana",ES:_TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30284.ts
+#EXTINF:-1 tvg-ID="30279" tvg-name="ES:_TELEDEPORTES" tvg-logo="" group-title="Espana",ES:_TELEDEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30279.ts
+#EXTINF:-1 tvg-ID="30282" tvg-name="ES:_TV GALICIA" tvg-logo="" group-title="Espana",ES:_TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30282.ts
+#EXTINF:-1 tvg-ID="30290" tvg-name="ES:_VH1" tvg-logo="" group-title="Espana",ES:_VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/30290.ts
+#EXTINF:-1 tvg-ID="3710" tvg-name="------------------------- ESPANA MVSTR+ -------------------------" tvg-logo="" group-title="FM_RADIO",------------------------- ESPANA MVSTR+ -------------------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3710.ts
+#EXTINF:-1 tvg-ID="3614" tvg-name="ES:Taquilla-1" tvg-logo="" group-title="Espana",ES:Taquilla-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3614.ts
+#EXTINF:-1 tvg-ID="4517" tvg-name="ES:Taquilla-2" tvg-logo="" group-title="Espana",ES:Taquilla-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4517.ts
+#EXTINF:-1 tvg-ID="3616" tvg-name="ES:Taquilla-3" tvg-logo="" group-title="Espana",ES:Taquilla-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3616.ts
+#EXTINF:-1 tvg-ID="3010" tvg-name="ES:Taquilla 4" tvg-logo="" group-title="Espana",ES:Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3010.ts
+#EXTINF:-1 tvg-ID="3617" tvg-name="ES:Taquilla-5" tvg-logo="" group-title="Espana",ES:Taquilla-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3617.ts
+#EXTINF:-1 tvg-ID="3012" tvg-name="ES:Taquilla 6" tvg-logo="" group-title="Espana",ES:Taquilla 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3012.ts
+#EXTINF:-1 tvg-ID="3013" tvg-name="ES:Taquilla 7" tvg-logo="" group-title="Espana",ES:Taquilla 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3013.ts
+#EXTINF:-1 tvg-ID="3014" tvg-name="ES:Taquilla 8" tvg-logo="" group-title="Espana",ES:Taquilla 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3014.ts
+#EXTINF:-1 tvg-ID="4518" tvg-name="ES:Taquilla-9" tvg-logo="" group-title="Espana",ES:Taquilla-9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4518.ts
+#EXTINF:-1 tvg-ID="10768" tvg-name="ES:Taquilla-10" tvg-logo="" group-title="Espana",ES:Taquilla-10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10768.ts
+#EXTINF:-1 tvg-ID="4721" tvg-name="ESP:TV3 24h" tvg-logo="" group-title="Nacionales",ESP:TV3 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4721.ts
+#EXTINF:-1 tvg-ID="5584" tvg-name="ES: TELECINCO HD" tvg-logo="" group-title="Espana",ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/5584.ts
+#EXTINF:-1 tvg-ID="4719" tvg-name="ESP:TV Galicia" tvg-logo="" group-title="Nacionales",ESP:TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4719.ts
+#EXTINF:-1 tvg-ID="4714" tvg-name="ESP:13TV" tvg-logo="" group-title="Nacionales",ESP:13TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4714.ts
+#EXTINF:-1 tvg-ID="3621" tvg-name="ES:Movistar Toros TV" tvg-logo="" group-title="Espana",ES:Movistar Toros TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3621.ts
+#EXTINF:-1 tvg-ID="4218" tvg-name="ES:Movistar Deportes 2" tvg-logo="" group-title="Espana",ES:Movistar Deportes 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4218.ts
+#EXTINF:-1 tvg-ID="3623" tvg-name="ES:Movistar Deportes 1" tvg-logo="" group-title="Espana",ES:Movistar Deportes 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3623.ts
+#EXTINF:-1 tvg-ID="3624" tvg-name="ES:CANAL SERIES" tvg-logo="" group-title="Espana",ES:CANAL SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3624.ts
+#EXTINF:-1 tvg-ID="3619" tvg-name="ES:Nat-Geograph" tvg-logo="" group-title="Espana",ES:Nat-Geograph
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3619.ts
+#EXTINF:-1 tvg-ID="4519" tvg-name="ES:NAT GEO WILD" tvg-logo="" group-title="Espana",ES:NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4519.ts
+#EXTINF:-1 tvg-ID="4524" tvg-name="ES:Syfy HD" tvg-logo="" group-title="Espana",ES:Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4524.ts
+#EXTINF:-1 tvg-ID="4521" tvg-name="ES:Movistar Xtra" tvg-logo="" group-title="Espana",ES:Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4521.ts
+#EXTINF:-1 tvg-ID="4520" tvg-name="ES:HISTORIA" tvg-logo="" group-title="Espana",ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4520.ts
+#EXTINF:-1 tvg-ID="4522" tvg-name="ES:Canal Dcine HD" tvg-logo="" group-title="Espana",ES:Canal Dcine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4522.ts
+#EXTINF:-1 tvg-ID="4523" tvg-name="ES:AXN" tvg-logo="" group-title="Espana",ES:AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/4523.ts
+#EXTINF:-1 tvg-ID="3007" tvg-name="ES:Movistar Series Xtra" tvg-logo="" group-title="Espana",ES:Movistar Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3007.ts
+#EXTINF:-1 tvg-ID="3002" tvg-name="ES:Movistar Accion" tvg-logo="" group-title="Espana",ES:Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3002.ts
+#EXTINF:-1 tvg-ID="3004" tvg-name="ES:Hollywood" tvg-logo="" group-title="Espana",ES:Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3004.ts
+#EXTINF:-1 tvg-ID="3003" tvg-name="ES:Fox Life" tvg-logo="" group-title="Espana",ES:Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3003.ts
+#EXTINF:-1 tvg-ID="3618" tvg-name="ES:CANAL_FUTBOL HD" tvg-logo="" group-title="Espana",ES:CANAL_FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3618.ts
+#EXTINF:-1 tvg-ID="3620" tvg-name="ES:FOX HD" tvg-logo="" group-title="Espana",ES:FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3620.ts
+#EXTINF:-1 tvg-ID="3473" tvg-name="ES: Antena3" tvg-logo="" group-title="Espana",ES: Antena3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/3473.ts
+#EXTINF:-1 tvg-ID="10703" tvg-name="ES:A&E" tvg-logo="" group-title="Espana",ES:A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10703.ts
+#EXTINF:-1 tvg-ID="10702" tvg-name="ES:AMC" tvg-logo="" group-title="Espana",ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10702.ts
+#EXTINF:-1 tvg-ID="10701" tvg-name="ES:AXN White" tvg-logo="" group-title="Espana",ES:AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10701.ts
+#EXTINF:-1 tvg-ID="10699" tvg-name="ES:BARCA TV" tvg-logo="" group-title="Espana",ES:BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10699.ts
+#EXTINF:-1 tvg-ID="10698" tvg-name="ES:BOING" tvg-logo="" group-title="Espana",ES:BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10698.ts
+#EXTINF:-1 tvg-ID="10688" tvg-name="ES:CANAL GOLF" tvg-logo="" group-title="Espana",ES:CANAL GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10688.ts
+#EXTINF:-1 tvg-ID="10687" tvg-name="ES:CANAL MOTOGP" tvg-logo="" group-title="Espana",ES:CANAL MOTOGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10687.ts
+#EXTINF:-1 tvg-ID="10685" tvg-name="ES:CASA Y PESCA" tvg-logo="" group-title="Espana",ES:CASA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10685.ts
+#EXTINF:-1 tvg-ID="10684" tvg-name="ES:COMEDY CENTRAL" tvg-logo="" group-title="Espana",ES:COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10684.ts
+#EXTINF:-1 tvg-ID="10683" tvg-name="ES:COSMO" tvg-logo="" group-title="Espana",ES:COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10683.ts
+#EXTINF:-1 tvg-ID="10682" tvg-name="ES:CRIME&INVESTIGATION" tvg-logo="" group-title="Espana",ES:CRIME&INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10682.ts
+#EXTINF:-1 tvg-ID="10680" tvg-name="ES:DECASA" tvg-logo="" group-title="Espana",ES:DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10680.ts
+#EXTINF:-1 tvg-ID="10679" tvg-name="ES:DISCOVERY CHANNEL" tvg-logo="" group-title="Espana",ES:DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10679.ts
+#EXTINF:-1 tvg-ID="10678" tvg-name="ES:DISNEY CHANNEL" tvg-logo="" group-title="Espana",ES:DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10678.ts
+#EXTINF:-1 tvg-ID="10677" tvg-name="ES:DISNEY JR." tvg-logo="" group-title="Espana",ES:DISNEY JR.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10677.ts
+#EXTINF:-1 tvg-ID="10676" tvg-name="ES:DISNEY XD" tvg-logo="" group-title="Espana",ES:DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10676.ts
+#EXTINF:-1 tvg-ID="10675" tvg-name="ES:EUROSPORT 1" tvg-logo="" group-title="Espana",ES:EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10675.ts
+#EXTINF:-1 tvg-ID="10674" tvg-name="ES:EUROSPORT 2" tvg-logo="" group-title="Espana",ES:EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10674.ts
+#EXTINF:-1 tvg-ID="10671" tvg-name="ES:IBERALIA TV" tvg-logo="" group-title="Espana",ES:IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10671.ts
+#EXTINF:-1 tvg-ID="10670" tvg-name="ES:LA 1" tvg-logo="" group-title="Espana",ES:LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10670.ts
+#EXTINF:-1 tvg-ID="10662" tvg-name="ES:La 2" tvg-logo="" group-title="Espana",ES:La 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10662.ts
+#EXTINF:-1 tvg-ID="10669" tvg-name="ES:LA SEXTA" tvg-logo="" group-title="Espana",ES:LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10669.ts
+#EXTINF:-1 tvg-ID="10694" tvg-name="ES:MOV ACCION" tvg-logo="" group-title="Espana",ES:MOV ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10694.ts
+#EXTINF:-1 tvg-ID="10693" tvg-name="ES:MOV COCINA" tvg-logo="" group-title="Espana",ES:MOV COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10693.ts
+#EXTINF:-1 tvg-ID="10692" tvg-name="ES:MOV COMEDIA" tvg-logo="" group-title="Espana",ES:MOV COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10692.ts
+#EXTINF:-1 tvg-ID="10690" tvg-name="ES:MOV ESTRENOS" tvg-logo="" group-title="Espana",ES:MOV ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10690.ts
+#EXTINF:-1 tvg-ID="10667" tvg-name="ES:MTV" tvg-logo="" group-title="Espana",ES:MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10667.ts
+#EXTINF:-1 tvg-ID="10691" tvg-name="ES:NICK JR." tvg-logo="" group-title="Espana",ES:NICK JR.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10691.ts
+#EXTINF:-1 tvg-ID="10666" tvg-name="ES:NOVA" tvg-logo="" group-title="Espana",ES:NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10666.ts
+#EXTINF:-1 tvg-ID="10664" tvg-name="ES:ODISEA" tvg-logo="" group-title="Espana",ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10664.ts
+#EXTINF:-1 tvg-ID="10663" tvg-name="ES:PARAMOUNT CHANNEL" tvg-logo="" group-title="Espana",ES:PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10663.ts
+#EXTINF:-1 tvg-ID="10661" tvg-name="ES:TCM" tvg-logo="" group-title="Espana",ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10661.ts
+#EXTINF:-1 tvg-ID="10659" tvg-name="ES:TELECINCO" tvg-logo="" group-title="Espana",ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10659.ts
+#EXTINF:-1 tvg-ID="10660" tvg-name="ES:TNT" tvg-logo="" group-title="Espana",ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10660.ts
+#EXTINF:-1 tvg-ID="10658" tvg-name="ES:TOROS" tvg-logo="" group-title="Espana",ES:TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10658.ts
+#EXTINF:-1 tvg-ID="10657" tvg-name="ES:VIAJAR" tvg-logo="" group-title="Espana",ES:VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10657.ts
+#EXTINF:-1 tvg-ID="10806" tvg-name="ES:MEGA ESPANA" tvg-logo="" group-title="Espana",ES:MEGA ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10806.ts
+#EXTINF:-1 tvg-ID="10899" tvg-name="ES:CUATRO TV" tvg-logo="" group-title="Espana",ES:CUATRO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10899.ts
+#EXTINF:-1 tvg-ID="10900" tvg-name="ES:FDF" tvg-logo="" group-title="Espana",ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/10900.ts
+#EXTINF:-1 tvg-ID="11532" tvg-name="ES:CALLE 13" tvg-logo="" group-title="Espana",ES:CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://wohuogai.com:58000/live/765hjgyugjhb/876ikjbghiuh_y/11532.ts
