@@ -1,492 +1,124 @@
 #EXTM3U
 
+	
+	
 
 
-#EXTINF:-1,ES:LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37103.ts
-#EXTINF:-1,ES:LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37102.ts
-#EXTINF:-1,ES:LA 1 PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37104.ts
-#EXTINF:-1,ES:LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37100.ts
-#EXTINF:-1,ES:La 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37099.ts
-#EXTINF:-1,ES:LA 2 PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37101.ts
-#EXTINF:-1,ES:ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37097.ts
-#EXTINF:-1,ES:ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37096.ts
-#EXTINF:-1,ES:ANTENA 3 PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37098.ts
-#EXTINF:-1,ES:LA CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37094.ts
-#EXTINF:-1,ES:LA CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37093.ts
-#EXTINF:-1,ES:CUATRO PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37095.ts
-#EXTINF:-1,ES:TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37091.ts
-#EXTINF:-1,ES:TELECINCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37090.ts
-#EXTINF:-1,ES:TELECINCO PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37092.ts
-#EXTINF:-1,ES:MOVISTAR  0#
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37046.ts
-#EXTINF:-1,ES:MOVISTAR  ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37037.ts
-#EXTINF:-1,ES:MOVISTAR  DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37043.ts
-#EXTINF:-1,ES:MOVISTAR 0# FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37044.ts
-#EXTINF:-1,ES:MOVISTAR 0# HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37045.ts
-#EXTINF:-1,ES:MOVISTAR ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37035.ts
-#EXTINF:-1,ES:MOVISTAR ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37036.ts
-#EXTINF:-1,ES:MOVISTAR ACCION PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37038.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37033.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37032.ts
-#EXTINF:-1,ES:MOVISTAR COMEDIA PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37034.ts
-#EXTINF:-1,ES:MOVISTAR DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37031.ts
-#EXTINF:-1,ES:MOVISTAR DCINE  Ã‘
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37029.ts
-#EXTINF:-1,ES:MOVISTAR DCINE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37030.ts
-#EXTINF:-1,ES:MOVISTAR ESPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36971.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37041.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37039.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37040.ts
-#EXTINF:-1,ES:MOVISTAR ESTRENOS PARA MOVILE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37042.ts
-#EXTINF:-1,ES:MOVISTAR SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37025.ts
-#EXTINF:-1,ES:MOVISTAR SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37024.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37022.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37019.ts
-#EXTINF:-1,ES:MOVISTAR SERIES XTRA PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37023.ts
-#EXTINF:-1,ES:MOVISTAR XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37028.ts
-#EXTINF:-1,ES:MOVISTAR XTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37027.ts
-#EXTINF:-1,ES:MOVISTR SERIES PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37026.ts
-#EXTINF:-1,ES:MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36987.ts
-#EXTINF:-1,ES:NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37002.ts
-#EXTINF:-1,ES:NAT GEO  WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37000.ts
-#EXTINF:-1,ES:NAT GEO FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37003.ts
-#EXTINF:-1,ES:NAT GEO WILD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37001.ts
-#EXTINF:-1,ES:NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37055.ts
-#EXTINF:-1,ES:NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37004.ts
-#EXTINF:-1,ES:NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37005.ts
-#EXTINF:-1,ES:NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37006.ts
-#EXTINF:-1,ES:ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36989.ts
-#EXTINF:-1,ES:PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37018.ts
-#EXTINF:-1,ES:PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37061.ts
-#EXTINF:-1,ES:SOL Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36974.ts
-#EXTINF:-1,ES:SOMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37047.ts
-#EXTINF:-1,ES:SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36976.ts
-#EXTINF:-1,ES:SUNDANCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36975.ts
-#EXTINF:-1,ES:SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37067.ts
-#EXTINF:-1,ES:SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37066.ts
-#EXTINF:-1,ES:TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37059.ts
-#EXTINF:-1,ES:TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37058.ts
-#EXTINF:-1,ES:TCM PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37060.ts
-#EXTINF:-1,ES:TELEMADRID FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36960.ts
-#EXTINF:-1,ES:TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36982.ts
-#EXTINF:-1,ES:TEN PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36983.ts
-#EXTINF:-1,ES:TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37073.ts
-#EXTINF:-1,ES:TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37072.ts
-#EXTINF:-1,ES:TV 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37053.ts
-#EXTINF:-1,ES:Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36996.ts
-#EXTINF:-1,ES:VIAJAR FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36995.ts
-#EXTINF:-1,ES:XTRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37048.ts
-#EXTINF:-1,ES: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37070.ts
-#EXTINF:-1,ES: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37016.ts
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37054.ts
-#EXTINF:-1,ES:13 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36968.ts
-#EXTINF:-1,ES:24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36981.ts
-#EXTINF:-1,ES:7RM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36967.ts
-#EXTINF:-1,ES:8Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36980.ts
-#EXTINF:-1,ES:A3SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37056.ts
-#EXTINF:-1,ES:AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37080.ts
-#EXTINF:-1,ES:AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37079.ts
-#EXTINF:-1,ES:AMC PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37081.ts
-#EXTINF:-1,ES:ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36979.ts
-#EXTINF:-1,ES:ARAGON TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36978.ts
-#EXTINF:-1,ES:AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37085.ts
-#EXTINF:-1,ES:AXN  WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37083.ts
-#EXTINF:-1,ES:AXN  WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37082.ts
-#EXTINF:-1,ES:AXN FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37084.ts
-#EXTINF:-1,ES:AXN PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37086.ts
-#EXTINF:-1,ES:BABY  TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37007.ts
-#EXTINF:-1,ES:BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37020.ts
-#EXTINF:-1,ES:BARCATV PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37021.ts
-#EXTINF:-1,ES:BE MAD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36985.ts
-#EXTINF:-1,ES:BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36969.ts
-#EXTINF:-1,ES:BOING PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37017.ts
-#EXTINF:-1,ES:CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37069.ts
-#EXTINF:-1,ES:CALLE 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37068.ts
-#EXTINF:-1,ES:CANAL ORBE21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36970.ts
-#EXTINF:-1,ES:CANAL SUR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36966.ts
-#EXTINF:-1,ES:CAZA  Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36994.ts
-#EXTINF:-1,ES:CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36993.ts
-#EXTINF:-1,ES:CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36997.ts
-#EXTINF:-1,ES:CI PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36999.ts
-#EXTINF:-1,ES:CLAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37009.ts
-#EXTINF:-1,ES:CLAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37008.ts
-#EXTINF:-1,ES:CMM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36965.ts
-#EXTINF:-1,ES:COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36991.ts
-#EXTINF:-1,ES:COCINA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36990.ts
-#EXTINF:-1,ES:COMEDY  CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37063.ts
-#EXTINF:-1,ES:COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37062.ts
-#EXTINF:-1,ES:COMEDY CENTRAL PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36998.ts
-#EXTINF:-1,ES:COSMOPOLITAN  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37064.ts
-#EXTINF:-1,ES:COSMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37065.ts
-#EXTINF:-1,ES:DARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37049.ts
-#EXTINF:-1,ES:DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36988.ts
-#EXTINF:-1,ES:DISCOVERY  CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36992.ts
-#EXTINF:-1,ES:DISNEY  JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37013.ts
-#EXTINF:-1,ES:DISNEY  XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37014.ts
-#EXTINF:-1,ES:DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37011.ts
-#EXTINF:-1,ES:DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37010.ts
-#EXTINF:-1,ES:DISNEY CHANNEL PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37012.ts
-#EXTINF:-1,ES:DISNEY XD PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37015.ts
-#EXTINF:-1,ES:DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37057.ts
-#EXTINF:-1,ES:DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36977.ts
-#EXTINF:-1,ES:DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36984.ts
-#EXTINF:-1,ES:ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37051.ts
-#EXTINF:-1,ES:ETB 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36964.ts
-#EXTINF:-1,ES:EXTREMADURA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36963.ts
-#EXTINF:-1,ES:FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37052.ts
-#EXTINF:-1,ES:FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37077.ts
-#EXTINF:-1,ES:FOX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37076.ts
-#EXTINF:-1,ES:FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37075.ts
-#EXTINF:-1,ES:FOX LIFE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37074.ts
-#EXTINF:-1,ES:FOX PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37078.ts
-#EXTINF:-1,ES:HIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36986.ts
-#EXTINF:-1,ES:HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37071.ts
-#EXTINF:-1,ES:INTERECONOMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36961.ts
-#EXTINF:-1,ES:LA OTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36962.ts
-#EXTINF:-1,ES:MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37050.ts
-#EXTINF:-1,ES:MEZZO LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36973.ts
-#EXTINF:-1,ES:MEZZO LIVE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/36972.ts
-#EXTINF:-1,â–? â–‚ â–„ â–… â–†â˜† SPANISH SPORTâ˜†â–† â–… â–„ â–‚ â–?
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://
-#EXTINF:-1,ES SP:BEIN LALIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37189.ts
-#EXTINF:-1,ES SP:BEIN LALIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37188.ts
-#EXTINF:-1,ES SP:BEIN LALIGA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37147.ts
-#EXTINF:-1,ES SP:BEIN LALIGA 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37145.ts
-#EXTINF:-1,ES SP:LA LIGATV BAR 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37149.ts
-#EXTINF:-1,ES SP:Partidazo HD ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37206.ts
-#EXTINF:-1,ES SP: BEIN  LALIGA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37144.ts
-#EXTINF:-1,ES SP: BEIN  LALIGA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37143.ts
-#EXTINF:-1,ES SP: BEIN LALIGA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37142.ts
-#EXTINF:-1,ES SP:AXN WAHIT PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37111.ts
-#EXTINF:-1,ES SP:BEIN  LALIGA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37146.ts
-#EXTINF:-1,ES SP:BEIN LALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37190.ts
-#EXTINF:-1,ES SP:BEIN LALIGA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37148.ts
-#EXTINF:-1,ES SP:BEIN LALIGA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37141.ts
-#EXTINF:-1,ES SP:BEIN LALIGA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37140.ts
-#EXTINF:-1,ES SP:BEIN LALIGA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37139.ts
-#EXTINF:-1,ES SP:BEIN LALIGA PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37191.ts
-#EXTINF:-1,ES SP:CLASSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37110.ts
-#EXTINF:-1,ES SP:ESPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37113.ts
-#EXTINF:-1,ES SP:Eurosport  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37154.ts
-#EXTINF:-1,ES SP:EUROSPORT  ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37157.ts
-#EXTINF:-1,ES SP:EUROSPORT 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37156.ts
-#EXTINF:-1,ES SP:EUROSPORT 2 PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37155.ts
-#EXTINF:-1,ES SP:Extreme EMEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37112.ts
-#EXTINF:-1,ES SP:FOX LIFE PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37109.ts
-#EXTINF:-1,ES SP:GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37173.ts
-#EXTINF:-1,ES SP:HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37160.ts
-#EXTINF:-1,ES SP:HISTORIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37159.ts
-#EXTINF:-1,ES SP:HOLLYWOOD PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37108.ts
-#EXTINF:-1,ES SP:Iberalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37153.ts
-#EXTINF:-1,ES SP:LIGA 123 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37177.ts
-#EXTINF:-1,ES SP:LIGA 123 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37178.ts
-#EXTINF:-1,ES SP:LIGA 123 MULTI 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37176.ts
-#EXTINF:-1,ES SP:LIGA 123 MULTI 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37175.ts
-#EXTINF:-1,ES SP:LIGA 123 MULTI 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37174.ts
-#EXTINF:-1,ES SP:LIGA 123 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37179.ts
-#EXTINF:-1,ES SP:LIGA CAMPEONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37187.ts
-#EXTINF:-1,ES SP:LIGA CAMPEONES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37136.ts
-#EXTINF:-1,ES SP:LIGA CAMPEONES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37186.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES 1 EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37137.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37138.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES 2  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37135.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES 3  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37134.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES 5  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37132.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES 6  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37131.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES 7  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37130.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES 8 ESPAÃ‘A
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37129.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37185.ts
-#EXTINF:-1,ES SP:LIGA DE CAMPEONES4  EspaÃ±a
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37133.ts
-#EXTINF:-1,ES SP:LIGA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37182.ts
-#EXTINF:-1,ES SP:LIGA TV PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37184.ts
-#EXTINF:-1,ES SP:LIGA123 PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37180.ts
-#EXTINF:-1,ES SP:LIGATV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37181.ts
-#EXTINF:-1,ES SP:LIGATV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37183.ts
-#EXTINF:-1,ES SP:MOVISTAR  DEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37203.ts
-#EXTINF:-1,ES SP:MOVISTAR  DEPORTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37199.ts
-#EXTINF:-1,ES SP:MOVISTAR  FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37194.ts
-#EXTINF:-1,ES SP:MOVISTAR  GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37161.ts
-#EXTINF:-1,ES SP:MOVISTAR  MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37167.ts
-#EXTINF:-1,ES SP:MOVISTAR  TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37163.ts
-#EXTINF:-1,ES SP:MOVISTAR DEPORTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37201.ts
-#EXTINF:-1,ES SP:MOVISTAR DEPORTE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37198.ts
-#EXTINF:-1,ES SP:MOVISTAR DEPORTE DOS PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37200.ts
-#EXTINF:-1,ES SP:MOVISTAR DEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37202.ts
-#EXTINF:-1,ES SP:MOVISTAR DEPORTE UNO PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37204.ts
-#EXTINF:-1,ES SP:MOVISTAR F1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37169.ts
-#EXTINF:-1,ES SP:MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37170.ts
-#EXTINF:-1,ES SP:MOVISTAR FORMULA 1 PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37172.ts
-#EXTINF:-1,ES SP:MOVISTAR FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37193.ts
-#EXTINF:-1,ES SP:MOVISTAR FUTBOL PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37195.ts
-#EXTINF:-1,ES SP:MOVISTAR FUTBOLL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37192.ts
-#EXTINF:-1,ES SP:MOVISTAR GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37158.ts
-#EXTINF:-1,ES SP:MOVISTAR MOTO GP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37165.ts
-#EXTINF:-1,ES SP:MOVISTAR MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37166.ts
-#EXTINF:-1,ES SP:MOVISTAR MOTO PG PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37168.ts
-#EXTINF:-1,ES SP:MOVISTAR PARTIDAZO PARA MOVILES ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37208.ts
-#EXTINF:-1,ES SP:MOVISTAR PARTIDAZOS ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37207.ts
-#EXTINF:-1,ES SP:MOVISTAR PARTIDAZOS FULLHD ( SOLO EVENTOS )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37205.ts
-#EXTINF:-1,ES SP:MOVISTAR TORO PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37164.ts
-#EXTINF:-1,ES SP:MOVISTAR TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37162.ts
-#EXTINF:-1,ES SP:MOVISTAR XTRA PARA MOVIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37107.ts
-#EXTINF:-1,ES SP:MULTI DEPORTE  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37127.ts
-#EXTINF:-1,ES SP:MULTIDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37196.ts
-#EXTINF:-1,ES SP:MULTIDEPORTE  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37128.ts
-#EXTINF:-1,ES SP:MULTIDEPORTE  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37126.ts
-#EXTINF:-1,ES SP:MULTIDEPORTE  4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37125.ts
-#EXTINF:-1,ES SP:MULTIDEPORTE  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37124.ts
-#EXTINF:-1,ES SP:MULTIDEPORTE  6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37123.ts
-#EXTINF:-1,ES SP:MULTIDEPORTE  7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37122.ts
-#EXTINF:-1,ES SP:MULTIFUTBOL  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37121.ts
-#EXTINF:-1,ES SP:MULTIFUTBOL  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37120.ts
-#EXTINF:-1,ES SP:MULTIFUTBOL  3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37119.ts
-#EXTINF:-1,ES SP:MULTIFUTBOL  4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37118.ts
-#EXTINF:-1,ES SP:MULTIFUTBOL  5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37117.ts
-#EXTINF:-1,ES SP:MULTIFUTBOL  6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37116.ts
-#EXTINF:-1,ES SP:MULTIFUTBOL  7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37115.ts
-#EXTINF:-1,ES SP:MULTIFUTBOL  8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37114.ts
-#EXTINF:-1,ES SP:REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37152.ts
-#EXTINF:-1,ES SP:TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37151.ts
-#EXTINF:-1,ES SP:TELEDEPORTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37150.ts
-#EXTINF:-1,ES SP:TNT PARA MOVILES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR gold]JHG[/COLOR];url=http://54.37.255.204:9977/live/68730/iptv/37106.ts
+#EXTINF:-1 tvg-name="La1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/51679_la1.jpg" group-title="{BOUQUET_NAME}",La1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/536.ts
+#EXTINF:-1 tvg-name="La2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/95093_la2.jpg" group-title="{BOUQUET_NAME}",La2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/537.ts
+#EXTINF:-1 tvg-name="Antena 3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/4786_Antena3.jpg" group-title="{BOUQUET_NAME}",Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/971.ts
+#EXTINF:-1 tvg-name="Cuatro" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/45943_cuatro_es.png" group-title="{BOUQUET_NAME}",Cuatro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/153.ts
+#EXTINF:-1 tvg-name="Tele5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/3159_telecinco.png" group-title="{BOUQUET_NAME}",Tele5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/36.ts
+#EXTINF:-1 tvg-name="La sexta" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/9614_Lasexta.png" group-title="{BOUQUET_NAME}",La sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/970.ts
+#EXTINF:-1 tvg-name="Neox" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/40949_neox.png" group-title="{BOUQUET_NAME}",Neox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/930.ts
+#EXTINF:-1 tvg-name="Nova" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/70357_nova.png" group-title="{BOUQUET_NAME}",Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/924.ts
+#EXTINF:-1 tvg-name="Mega" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/95179_mega.jpg" group-title="{BOUQUET_NAME}",Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/925.ts
+#EXTINF:-1 tvg-name="FDF" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/38315_fdf.png" group-title="{BOUQUET_NAME}",FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2754.ts
+#EXTINF:-1 tvg-name="Canal Sur" tvg-logo="" group-title="{BOUQUET_NAME}",Canal Sur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/3414.ts
+#EXTINF:-1 tvg-name="Canal 24 Horas" tvg-logo="" group-title="{BOUQUET_NAME}",Canal 24 Horas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/3415.ts
+#EXTINF:-1 tvg-name="#0" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/22280_movistar_es_0.png" group-title="{BOUQUET_NAME}",#0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/152.ts
+#EXTINF:-1 tvg-name="M Estrenos" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/13173_mestrenos.png" group-title="{BOUQUET_NAME}",M Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/31.ts
+#EXTINF:-1 tvg-name="M  Accion" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/32134_maccion.png" group-title="{BOUQUET_NAME}",M  Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/159.ts
+#EXTINF:-1 tvg-name="M Comedia" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/24587_mcomedia.png" group-title="{BOUQUET_NAME}",M Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/155.ts
+#EXTINF:-1 tvg-name="M DCINE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/67278_mdcine.png" group-title="{BOUQUET_NAME}",M DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/156.ts
+#EXTINF:-1 tvg-name="M Serie" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/9295_mserie.png" group-title="{BOUQUET_NAME}",M Serie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/35.ts
+#EXTINF:-1 tvg-name="Bein LaLiga" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/42160_beinlaliga.png" group-title="{BOUQUET_NAME}",Bein LaLiga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1590.ts
+#EXTINF:-1 tvg-name="Bein sPORT" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/51673_16.jpg" group-title="{BOUQUET_NAME}",Bein sPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/578.ts
+#EXTINF:-1 tvg-name="la Liga  ES" tvg-logo="" group-title="{BOUQUET_NAME}",la Liga  ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/32.ts
+#EXTINF:-1 tvg-name="GOL TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/11483_goltv.png" group-title="{BOUQUET_NAME}",GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2753.ts
+#EXTINF:-1 tvg-name="Eurosport1 es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/98425_eurosport1.png" group-title="{BOUQUET_NAME}",Eurosport1 es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1596.ts
+#EXTINF:-1 tvg-name="Barca TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/89004_barca.jpg" group-title="{BOUQUET_NAME}",Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1037.ts
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/87175_realmadrid.jpg" group-title="{BOUQUET_NAME}",Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1038.ts
+#EXTINF:-1 tvg-name="M Partidazo" tvg-logo="" group-title="{BOUQUET_NAME}",M Partidazo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2757.ts
+#EXTINF:-1 tvg-name="M Futbol es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/84721_mfutbol.png" group-title="{BOUQUET_NAME}",M Futbol es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/33.ts
+#EXTINF:-1 tvg-name="M Deportes1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/14408_mdeportes1.png" group-title="{BOUQUET_NAME}",M Deportes1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/34.ts
+#EXTINF:-1 tvg-name="M Deportes2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/21268_mdeportes2.png" group-title="{BOUQUET_NAME}",M Deportes2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1591.ts
+#EXTINF:-1 tvg-name="M Formula1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/10765_mformula1.png" group-title="{BOUQUET_NAME}",M Formula1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1595.ts
+#EXTINF:-1 tvg-name="M Golf" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/63238_mgolf.png" group-title="{BOUQUET_NAME}",M Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1598.ts
+#EXTINF:-1 tvg-name="M MotoGP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/64132_mmotogp.png" group-title="{BOUQUET_NAME}",M MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1594.ts
+#EXTINF:-1 tvg-name="AMC Spain" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/95139_amc.jpg" group-title="{BOUQUET_NAME}",AMC Spain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2756.ts
+#EXTINF:-1 tvg-name="AXN es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/62077_AXN.png" group-title="{BOUQUET_NAME}",AXN es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1601.ts
+#EXTINF:-1 tvg-name="Comedy Central es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/28556_comedycentral.jpg" group-title="{BOUQUET_NAME}",Comedy Central es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1593.ts
+#EXTINF:-1 tvg-name="Hollywood es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/24561_533px-Canal_Hollywood.svg_.png" group-title="{BOUQUET_NAME}",Hollywood es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/157.ts
+#EXTINF:-1 tvg-name="Syfy es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/43054_syfy.png" group-title="{BOUQUET_NAME}",Syfy es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/929.ts
+#EXTINF:-1 tvg-name="Fox  ES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/75354_foxtv.jpg" group-title="{BOUQUET_NAME}",Fox  ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1592.ts
+#EXTINF:-1 tvg-name="Calle 13" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/69814_calle13.png" group-title="{BOUQUET_NAME}",Calle 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1039.ts
+#EXTINF:-1 tvg-name="FoxLife" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/59262_439-italian_proverbs_quotes.jpg" group-title="{BOUQUET_NAME}",FoxLife
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/753.ts
+#EXTINF:-1 tvg-name="Boing es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/51689_boing.jpg" group-title="{BOUQUET_NAME}",Boing es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1540.ts
+#EXTINF:-1 tvg-name="Clan" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/79038_clan.jpg" group-title="{BOUQUET_NAME}",Clan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1541.ts
+#EXTINF:-1 tvg-name="Disney es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/36068_disney.jpg" group-title="{BOUQUET_NAME}",Disney es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1539.ts
+#EXTINF:-1 tvg-name="Disney Junior es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/57576_disneyjunior.jpg" group-title="{BOUQUET_NAME}",Disney Junior es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1538.ts
+#EXTINF:-1 tvg-name="Disney XD es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/864_disneyxd.jpg" group-title="{BOUQUET_NAME}",Disney XD es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1537.ts
+#EXTINF:-1 tvg-name="ES:Nickelodeon es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/76081_nickelodeon.png" group-title="{BOUQUET_NAME}",ES:Nickelodeon es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1536.ts
+#EXTINF:-1 tvg-name="Caza y Pesca" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/75313_cazaypesca.jpg" group-title="{BOUQUET_NAME}",Caza y Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1597.ts
+#EXTINF:-1 tvg-name="DeCasa" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/72396_decasa.png" group-title="{BOUQUET_NAME}",DeCasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1599.ts
+#EXTINF:-1 tvg-name="ES:Discovery es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/83298_discoverys.png" group-title="{BOUQUET_NAME}",ES:Discovery es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1600.ts
+#EXTINF:-1 tvg-name="Odisea" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/34865_odisea.jpg" group-title="{BOUQUET_NAME}",Odisea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/154.ts
+#EXTINF:-1 tvg-name="Nat Geo Wild es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/2621_natgeowild.png" group-title="{BOUQUET_NAME}",Nat Geo Wild es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2755.ts
+#EXTINF:-1 tvg-name="Nat geo es" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/33881_1216.png" group-title="{BOUQUET_NAME}",Nat geo es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/558.ts
+#EXTINF:-1 tvg-name="Nat geo" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",Nat geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2083.ts
+#EXTINF:-1 tvg-name="Hollywood" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="{BOUQUET_NAME}",Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/2087.ts
+#EXTINF:-1 tvg-name="ES:Taquilla1" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1706.ts
+#EXTINF:-1 tvg-name="ES:Taquilla2" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1589.ts
+#EXTINF:-1 tvg-name="ES:Taquilla3" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1584.ts
+#EXTINF:-1 tvg-name="ES:Taquilla4" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1503.ts
+#EXTINF:-1 tvg-name="ES:Taquilla5" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://logo.ndasat.com/iptv/images/15614_taquilla.png" group-title="{BOUQUET_NAME}",ES:Taquilla5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://iptv.ndasat.com:88/live/1234/kNb-9mR!28/1502.ts
