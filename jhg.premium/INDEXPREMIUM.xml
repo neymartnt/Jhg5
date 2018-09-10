@@ -5,7 +5,7 @@
 
   
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] MOVISTAR [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] JHG [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
@@ -15,7 +15,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Seleciona un Servidor ', ['TDT','AUTONOMICAS','MOVISTAR 1', 'MOVISTAR 2', 'MOVISTAR 3', 'MOVISTAR 4','MOVISTAR 5'])
+   ret = dialog.select('Seleciona un Servidor ', ['TDT','AUTONOMICAS','JHG 1', 'JHG 2', 'JHG 3', 'JHG 4','JHG 5'])
    lists = ['https://bit.ly/2MhnYTI', 'https://bit.ly/2NsjYEx', 'https://bit.ly/2wHNs6F', 'https://bit.ly/2PDybeZ','https://bit.ly/2NwGlIH']
    return lists[ret]
 ]]></expres>
