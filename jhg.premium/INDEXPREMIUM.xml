@@ -6,7 +6,7 @@
 
 	
 	 <item>
-        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] JHG.MASTER [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] JHG.MASTER [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/IN1X.xml</externallink>
         <thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
@@ -53,7 +53,7 @@
 
   
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] ROKY** [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] MOVISTAR [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
@@ -100,88 +100,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-  
 
-  
-	<item>
-<title> [COLOR  yellow] _**_  [/COLOR][COLOR red] TDT [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
-<thumbnail>https://i.imgur.com/nYNBCrt.jpg</thumbnail>
-<fanart>https://i.imgur.com/nYNBCrt.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/TDT2.xml</externallink>
-</item>
-
-
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] AUTONOMICAS [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
-<thumbnail>https://i.imgur.com/HTiQoeQ.jpg</thumbnail>
-<fanart>https://i.imgur.com/HTiQoeQ.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/AUTONOMICAS.xml</externallink>
-</item>
-	
 	
 
-
-
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 1  [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA1.m3u</externallink>
-<thumbnail>https://i.imgur.com/N9ERvL6.jpg</thumbnail>
-<fanart>https://i.imgur.com/N9ERvL6.jpg</fanart>
-</item>
-	
-	
-		
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 2 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/LISTA2.m3u</externallink>
-<thumbnail>https://i.imgur.com/32CuiHB.jpg</thumbnail>
-<fanart>https://i.imgur.com/32CuiHB.jpg</fanart>
-</item>
-	
-
-
-
-
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 3 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista3.m3u</externallink>
-<thumbnail>https://i.imgur.com/WGtmKdJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/WGtmKdJ.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 4 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/Lista4.m3u</externallink>
-<thumbnail>https://i.imgur.com/D0QhWPM.jpg</thumbnail>
-<fanart>https://i.imgur.com/D0QhWPM.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MOVISTAR 5 [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/lista5.m3u</externallink>
-<thumbnail>https://i.imgur.com/7gcpVay.jpg</thumbnail>
-<fanart>https://i.imgur.com/7gcpVay.jpg</fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MUNDIAL F1 Y MOTOGP [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/MUNDIALF1.m3u</externallink>
-<thumbnail>https://i.imgur.com/IEzs8gs.jpg</thumbnail>
-<fanart>https://i.imgur.com/IEzs8gs.jpg</fanart>
-</item>
 
 
  
