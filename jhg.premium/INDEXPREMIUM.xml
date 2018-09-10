@@ -4,6 +4,15 @@
 
 
 
+	
+	 <item>
+        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] JHG.MASTER [/COLOR][COLOR orange] CINE [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/IN1X.xml</externallink>
+        <thumbnail>https://i.imgur.com/JK14obf.jpg</thumbnail>
+        <fanart>https://i.imgur.com/JK14obf.jpg</fanart>
+</item>
+	
 
 
 <item>
@@ -91,20 +100,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-	
-	 <item>
-        <title>[COLOR red]          LISTA AUTOACTUALIZABLE  MOVISTAR        [/COLOR]</title>
-        <link>http://Ignoreme</link>
-        <externallink>http://xml.autoiptv.net/normal.php?c=SP</externallink>
-        <thumbnail>https://i.imgur.com/bHGVK2G.jpg</thumbnail>
-        <fanart>https://i.imgur.com/bHGVK2G.jpg</fanart>
-</item>
-	
+
   
 
   
 	<item>
-<title> [COLOR lime] TDT OFF [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<title> [COLOR  yellow] _**_  [/COLOR][COLOR red] TDT [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 <thumbnail>https://i.imgur.com/nYNBCrt.jpg</thumbnail>
 <fanart>https://i.imgur.com/nYNBCrt.jpg</fanart>
 <link>http://ignoreme</link>
@@ -113,7 +114,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] AUTONOMICAS [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] AUTONOMICAS [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 <thumbnail>https://i.imgur.com/HTiQoeQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/HTiQoeQ.jpg</fanart>
 <link>http://ignoreme</link>
@@ -121,13 +122,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 	
 	
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MUNDIAL F1 Y MOTOGP [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/MUNDIALF1.m3u</externallink>
-<thumbnail>https://i.imgur.com/IEzs8gs.jpg</thumbnail>
-<fanart>https://i.imgur.com/IEzs8gs.jpg</fanart>
-</item>
 
 
 
@@ -183,23 +177,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] CANALES DEPORTES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR red] MUNDIAL F1 Y MOTOGP [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/SOLODEPORTES.m3u</externallink>
-<thumbnail>https://i.imgur.com/EKck8Ut.jpg</thumbnail>
-<fanart>https://i.imgur.com/EKck8Ut.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/MUNDIALF1.m3u</externallink>
+<thumbnail>https://i.imgur.com/IEzs8gs.jpg</thumbnail>
+<fanart>https://i.imgur.com/IEzs8gs.jpg</fanart>
 </item>
-
-
- 	
-<item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR red]  Canales PEQUES [/COLOR][COLOR  yellow]  _**_ [/COLOR]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/peques.m3u</externallink>
-<thumbnail>https://i.imgur.com/zKaqr8T.jpg</thumbnail>
-<fanart>https://i.imgur.com/zKaqr8T.jpg</fanart>
-</item>
-	
 
 
  
