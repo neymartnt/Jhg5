@@ -156,6 +156,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
 <item>
 <title>[COLOR yellow]*[COLOR skyblue] M+ESTRENOS [/COLOR]</title>
 <sportsdevil>http://lacalleochotv.org/movistar-estrenos-online-gratis</sportsdevil>
@@ -185,8 +186,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
-<sportsdevil></sportsdevil>
+<title>[COLOR yellow]*[COLOR skyblue] M+COMEDIA [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/movistar-comedia-online-gratis</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
