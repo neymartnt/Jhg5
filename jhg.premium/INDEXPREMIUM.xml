@@ -121,7 +121,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] **2** [/COLOR]</title>
+<title>[COLOR yellow]*[COLOR skyblue] **LA*LIGA** [/COLOR]</title>
 <sportsdevil>http://lacalleochotv.org/la-liga-online-en-directo-gratis</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
@@ -130,7 +130,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] **3** [/COLOR]</title>
+<title>[COLOR yellow]*[COLOR skyblue] **MOTOGP** [/COLOR]</title>
 <sportsdevil>http://lacalleochotv.org/magu/espana/motogp.php</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
@@ -139,8 +139,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
-<sportsdevil></sportsdevil>
+<title>[COLOR yellow]*[COLOR skyblue] **F1** [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/formula-1-online-en-directo-gratis</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
