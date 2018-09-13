@@ -5,7 +5,7 @@
 
   
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] JHG [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] CANALES JHG [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
@@ -100,7 +100,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue] JHGMASTER   [/COLOR][B][COLOR goldenrod]   La Cuatro  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  </title>
+   <sportsdevil>http://lacalleochotv.org/la-4-online-en-directo-gratis</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/cuatro.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/cuatro.png</thumbnail>
+ <fanart></fanart>
+</item>
 	
 
 
