@@ -78,7 +78,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] NO TOCAR. [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR lime] DEPORTES [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
 
 <link>NA</link>
 <externallink>$doregex[select]</externallink>
@@ -88,8 +88,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Seleciona un Servidor ', ['MOTOR', 'DEPORTES', 'VARIADOS'])
-   lists = ['https://bit.ly/2PHwWvr', 'https://bit.ly/2NQqYYN', 'https://bit.ly/2LXIad2']
+   ret = dialog.select('Seleciona un Servidor ', [ 'DEPORTES'])
+   lists = ['https://bit.ly/2MsIIrE']
    return lists[ret]
 ]]></expres>
 <page></page>
@@ -98,54 +98,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-
-
-
-
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] **LA*LIGA** [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/la-liga-online-en-directo-gratis</sportsdevil>
-<referer>http://lacalleochotv.org/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] LA*LIGA123* [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/la-liga-123-tv-en-directo-gratis</sportsdevil>
-<referer>http://lacalleochotv.org/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] **BEIN SPORTS** [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/bein-sports-en-directo-gratis</sportsdevil>
-<referer>http://lacalleochotv.org/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] **MOTOGP** [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/magu/espana/motogp.php</sportsdevil>
-<referer>http://lacalleochotv.org/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] **FORMULA *1** [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/formula-1-online-en-directo-gratis</sportsdevil>
-<referer>http://lacalleochotv.org/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item>
@@ -198,12 +150,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] LA*LIGA123* [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/la-liga-123-tv-en-directo-gratis</sportsdevil>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -211,12 +170,105 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] **BEIN SPORTS** [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/bein-sports-en-directo-gratis</sportsdevil>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
 
 <item>
@@ -337,6 +389,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
+
+
+
 
 
 
