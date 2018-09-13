@@ -111,5 +111,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>4</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://lacalleochotv.org/la-4-online-en-directo-gratis</page>
+<referer>http://vertelevisor.com/tv/nacionales/cuatro.html</referer>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/cuatro.png</thumbnail>
+<fanart>http://vertelevisor.com/logos/cuatro.png</fanart>
+</item>
  
 
