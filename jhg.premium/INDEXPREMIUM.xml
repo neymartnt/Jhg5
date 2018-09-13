@@ -195,6 +195,32 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
+
+<item>
+<title>[COLOR aquamarine] TVE 1 [/COLOR]</title>
+<link>$doregex[getLink]</link>  
+<regex>
+   <name>getLink</name>
+ <expres><![CDATA[(?s)secure_m3u8_url":"(.*?)"]]></expres>
+   <page>$doregex[getStream]</page>
+   <cookieJar></cookieJar>
+</regex>
+<regex>
+   <name>getStream</name>
+ <expres><![CDATA[(?s)iframe id=.*?src="(.*?)"]]></expres>
+   <page>http://zimblektv02.blogspot.com.es/2012/05/tve-1-online-en-directo-gratis.html</page>
+   <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
 <item>
 <title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
 <sportsdevil></sportsdevil>
