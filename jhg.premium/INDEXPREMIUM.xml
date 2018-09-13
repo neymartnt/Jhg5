@@ -110,6 +110,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 	
 
 
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/la-4-online-en-directo-gratis</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 
 <item>
 <title>4</title>
@@ -117,7 +126,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>GetPageUrl</name>
 <expres>source: '(.*?)'</expres>
-<page>http://lacalleochotv.org/la-4-online-en-directo-gratis</page>
+<page>http://lacalleochotv.org/</page>
 <referer>http://vertelevisor.com/tv/nacionales/cuatro.html</referer>
 </regex>
 <thumbnail>http://vertelevisor.com/logos/cuatro.png</thumbnail>
