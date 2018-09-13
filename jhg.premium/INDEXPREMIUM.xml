@@ -102,24 +102,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
- <title>[COLOR goldenrod][COLOR darkblue] JHGMASTER   [/COLOR][B][COLOR goldenrod]   La Cuatro  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  </title>
-   <sportsdevil>http://lacalleochotv.org/la-4-online-en-directo-gratis</sportsdevil>
-    <referer>http://vertelevisor.com/tv/nacionales/cuatro.html</referer>
-   <thumbnail>http://vertelevisor.com/logos/cuatro.png</thumbnail>
- <fanart></fanart>
-</item>
-	
-
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] **4** [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/la-4-online-en-directo-gratis</sportsdevil>
-<referer>http://lacalleochotv.org/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
 
 <item>
 <title>[COLOR yellow]*[COLOR skyblue] **LA*LIGA** [/COLOR]</title>
@@ -129,6 +111,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] LA*LIGA123* [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/la-liga-123-tv-en-directo-gratis</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] **BEIN SPORTS** [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/bein-sports-en-directo-gratis</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>[COLOR yellow]*[COLOR skyblue] **MOTOGP** [/COLOR]</title>
@@ -140,7 +141,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] **F1** [/COLOR]</title>
+<title>[COLOR yellow]*[COLOR skyblue] **FORMULA *1** [/COLOR]</title>
 <sportsdevil>http://lacalleochotv.org/formula-1-online-en-directo-gratis</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
@@ -198,32 +199,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR aquamarine] TVE 1 [/COLOR]</title>
-<link>$doregex[getLink]</link>  
-<regex>
-   <name>getLink</name>
- <expres><![CDATA[(?s)secure_m3u8_url":"(.*?)"]]></expres>
-   <page>$doregex[getStream]</page>
-   <cookieJar></cookieJar>
-</regex>
-<regex>
-   <name>getStream</name>
- <expres><![CDATA[(?s)iframe id=.*?src="(.*?)"]]></expres>
-   <page>http://zimblektv02.blogspot.com.es/2012/05/tve-1-online-en-directo-gratis.html</page>
-   <cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
 
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
-<sportsdevil></sportsdevil>
+<title>[COLOR yellow]*[COLOR skyblue] LA*LIGA123* [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/la-liga-123-tv-en-directo-gratis</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -231,8 +212,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] **** [/COLOR]</title>
-<sportsdevil></sportsdevil>
+<title>[COLOR yellow]*[COLOR skyblue] **BEIN SPORTS** [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/bein-sports-en-directo-gratis</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
