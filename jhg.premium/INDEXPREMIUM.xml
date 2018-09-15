@@ -16,7 +16,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
    ret = dialog.select('Seleciona un Servidor ', ['TDT','AUTONOMICAS','JHG 1', 'JHG 2', 'JHG 3', 'JHG 4','JHG 5'])
-   lists = ['https://bit.ly/2MhnYTI', 'https://bit.ly/2NsjYEx', 'https://bit.ly/2NMy6VS', 'https://bit.ly/2oGJKXB','https://bit.ly/2xcS7Pp','https://bit.ly/2x4YHaj','https://bit.ly/2NwGlIH']
+   lists = ['https://bit.ly/2MhnYTI', 'https://bit.ly/2NsjYEx', 'https://bit.ly/2CYas7P', 'https://bit.ly/2oGJKXB','https://bit.ly/2xcS7Pp','https://bit.ly/2x4YHaj','https://bit.ly/2NwGlIH']
    return lists[ret]
 ]]></expres>
 <page></page>
