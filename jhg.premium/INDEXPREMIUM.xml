@@ -106,11 +106,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] MAS[/COLOR][COLOR orange] CANALES 1.0 [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/FCKCIUP.jpg</thumbnail>
-<fanart>https://i.imgur.com/FCKCIUP.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/robin/123.xml</externallink>
 </item>	
 
