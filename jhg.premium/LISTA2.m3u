@@ -1,105 +1,304 @@
 #EXTM3U
 
-	
+	#EXTINF:-1,[ES] 0# HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1405.ts
+#EXTINF:-1,[ES] M.ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1410.ts
+#EXTINF:-1,[ES] M.ACCION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1984.ts
+#EXTINF:-1,[ES]  M.COMEDIA.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1983.ts
+#EXTINF:-1,[ES]  M.DCINE.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1982.ts
+#EXTINF:-1,|ES| M.ESTRENOS.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1981.ts
+#EXTINF:-1,[ES]  M.SERIES.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1980.ts
+#EXTINF:-1,[ES] DISCOVERY.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1409.ts
+#EXTINF:-1,[ES] M.SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1408.ts
+#EXTINF:-1,[ES]  CANAL+SERIES XTRA HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1979.ts
+#EXTINF:-1,[ES]  CANAL+SERIES XTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1978.ts
+#EXTINF:-1,[ES] HOLLYWOOD SD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1413.ts
+#EXTINF:-1,[ES] M.ESTRENOS.SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1407.ts
+#EXTINF:-1,======= ENTRETENIMIENTO=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2287.ts
+#EXTINF:-1,[ES] FOX LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2234.ts
+#EXTINF:-1,[ES] AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1971.ts
+#EXTINF:-1,[ES] AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1970.ts
+#EXTINF:-1,[ES] HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2232.ts
+#EXTINF:-1,[ES] SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2231.ts
+#EXTINF:-1,[ES] TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2230.ts
+#EXTINF:-1,[ES] AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2227.ts
+#EXTINF:-1,=======ESP-TDT=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2286.ts
+#EXTINF:-1,[ES] TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2229.ts
+#EXTINF:-1,[ES]  LA.1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1990.ts
+#EXTINF:-1,[ES]  LA.2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1989.ts
+#EXTINF:-1,[ES] CAZA Y PESCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2004.ts
+#EXTINF:-1,[ES] CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1975.ts
+#EXTINF:-1,[ES] CANAL COCINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1974.ts
+#EXTINF:-1,[ES] ODISSEIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1973.ts
+#EXTINF:-1,[ES] CANAL PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1972.ts
+#EXTINF:-1,[ES] COMDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1977.ts
+#EXTINF:-1,[ES] ANTENA 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1988.ts
+#EXTINF:-1,[ES] COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1976.ts
+#EXTINF:-1,[ES] CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1987.ts
+#EXTINF:-1,[ES] LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1412.ts
+#EXTINF:-1,[ES] LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1985.ts
+#EXTINF:-1,[ES] LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/68.ts
+#EXTINF:-1,[ES] ASTAURIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/74.ts
+#EXTINF:-1,[ES] CANAL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/123.ts
+#EXTINF:-1,[ES] TELEMADRID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/77.ts
+#EXTINF:-1,[ES] ETB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/76.ts
+#EXTINF:-1,[FR] TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/69.ts
+#EXTINF:-1,[FR] BEINSPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/60.ts
+#EXTINF:-1,=======CULTURA=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2290.ts
+#EXTINF:-1,[ES] DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2244.ts
+#EXTINF:-1,[ES] NATIIONAL GEO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2243.ts
+#EXTINF:-1,[ES] NATIIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2242.ts
+#EXTINF:-1,=======NIÃ‘OS=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2291.ts
+#EXTINF:-1,[ES] DISENEY CHANNEL HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2238.ts
+#EXTINF:-1,[ES] DISENEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2239.ts
+#EXTINF:-1,[ES] NICKELODEON HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2240.ts
+#EXTINF:-1,=======DEPORTES=======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2289.ts
+#EXTINF:-1,[ES] CANAL LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1421.ts
+#EXTINF:-1,[ES] TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1411.ts
+#EXTINF:-1,[ES] M DEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2010.ts
+#EXTINF:-1,[ES] M DEPORTE HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2011.ts
+#EXTINF:-1,[ES] EUROSPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2013.ts
+#EXTINF:-1,[ES] EUROSPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2012.ts
+#EXTINF:-1,[ES] GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2016.ts
+#EXTINF:-1,[ES] BAR LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2017.ts
+#EXTINF:-1,[ES] M Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2018.ts
+#EXTINF:-1,[ES] CANAL + FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1406.ts
+#EXTINF:-1,[ES] BARCA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2015.ts
+#EXTINF:-1,[ES] BARCA TV HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1415.ts
+#EXTINF:-1,[ES] REAL MADRID HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1416.ts
+#EXTINF:-1,[ES] REAL MADRID TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2014.ts
+#EXTINF:-1,[ES] M Toros HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2005.ts
+#EXTINF:-1,[ES] M GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2009.ts
+#EXTINF:-1,[ES] MOTOGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2008.ts
+#EXTINF:-1,[ES] Movistar F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2007.ts
+#EXTINF:-1,[ES] TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1986.ts
+#EXTINF:-1,[ES] Teledeporte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2006.ts
+#EXTINF:-1,[ES] BEIN SPORT ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1414.ts
+#EXTINF:-1,[ES] BEIN LIGA HD ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2003.ts
+#EXTINF:-1,[ES] BEIN LALIGA 2HD(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2002.ts
+#EXTINF:-1,[ES] BEIN LALIGA 2HD(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2001.ts
+#EXTINF:-1,[ES] BEIN LALIGA 3HD (Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/2000.ts
+#EXTINF:-1,[ES] BEIN MAX 1HD ES (Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1999.ts
+#EXTINF:-1,[ES] BEIN MAX 2HD ES(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1998.ts
+#EXTINF:-1,[ES] BEIN MAX 3HD ES(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1997.ts
+#EXTINF:-1,[ES] BEIN MAX 4HD ES(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1996.ts
+#EXTINF:-1,[ES] BEIN MAX 5HD ES(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1995.ts
+#EXTINF:-1,[ES] BEIN MAX 6HD ES(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1994.ts
+#EXTINF:-1,[ES] BEIN MAX 7HD ES(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1993.ts
+#EXTINF:-1,[ES] BEIN MAX 8HD ES(Solo_partidos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1992.ts
+#EXTINF:-1,=====TAQUILLAS=====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1588.ts
+#EXTINF:-1,[ES] TAQUILLA 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1589.ts
+#EXTINF:-1,[ES] TAQUILLA 2HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1590.ts
+#EXTINF:-1,[ES] TAQUILLA 3HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1591.ts
+#EXTINF:-1,[ES] TAQUILLA 4HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1592.ts
+#EXTINF:-1,[ES] TAQUILLA 5HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1593.ts
+#EXTINF:-1,[ES] TAQUILLA 6HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1594.ts
+#EXTINF:-1,[ES] TAQUILLA 7HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1595.ts
+#EXTINF:-1,[ES] TAQUILLA 8HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1596.ts
+#EXTINF:-1,[ES] TAQUILLA 9HD
+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://195.154.107.246:1155/live/arous/arous1/1597.ts
+#EXTINF:-1,[ES] TAQUILLA 10HD
 	#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3637.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3637.ts
 #EXTINF:-1,ES: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3630.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3630.ts
 #EXTINF:-1,ES: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3636.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3636.ts
 #EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3143.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3143.ts
 #EXTINF:-1,ES: Bein La Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3142.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3142.ts
 #EXTINF:-1,ES: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3628.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3628.ts
 #EXTINF:-1,ES: Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3155.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3155.ts
 #EXTINF:-1,ES: CANAL  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3619.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3619.ts
 #EXTINF:-1,ES: CANAL  DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3620.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3620.ts
 #EXTINF:-1,ES: CANAL  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3622.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3622.ts
 #EXTINF:-1,ES: CANAL  LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3627.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3627.ts
 #EXTINF:-1,ES: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3617.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3617.ts
 #EXTINF:-1,ES: Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3139.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3139.ts
 #EXTINF:-1,ES: Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3138.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3138.ts
 #EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3137.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3137.ts
 #EXTINF:-1,ES: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3135.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3135.ts
 #EXTINF:-1,ES: Disney Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3141.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3141.ts
 #EXTINF:-1,ES: Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3134.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3134.ts
 #EXTINF:-1,ES: Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3133.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3133.ts
 #EXTINF:-1,ES: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3624.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3624.ts
 #EXTINF:-1,ES: Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3132.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3132.ts
 #EXTINF:-1,ES: Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3131.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3131.ts
 #EXTINF:-1,ES: LA LIGA  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3629.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3629.ts
 #EXTINF:-1,ES: M. ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3618.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3618.ts
 #EXTINF:-1,ES: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3623.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3623.ts
 #EXTINF:-1,ES: M. FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3625.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3625.ts
 #EXTINF:-1,ES: M. GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3626.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3626.ts
 #EXTINF:-1,ES: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3616.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3616.ts
 #EXTINF:-1,ES: Mega HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3129.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3129.ts
 #EXTINF:-1,ES: Movistar  Deportes 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3148.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3148.ts
 #EXTINF:-1,ES: Movistar  Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3153.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3153.ts
 #EXTINF:-1,ES: Movistar  Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3147.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3147.ts
 #EXTINF:-1,ES: Movistar Accion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3154.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3154.ts
 #EXTINF:-1,ES: Movistar Cine Espanol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3149.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3149.ts
 #EXTINF:-1,ES: Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3152.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3152.ts
 #EXTINF:-1,ES: Movistar Dcine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3136.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3136.ts
 #EXTINF:-1,ES: Movistar Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3144.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3144.ts
 #EXTINF:-1,ES: Movistar Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3151.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3151.ts
 #EXTINF:-1,ES: Movistar Xtra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3145.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3145.ts
 #EXTINF:-1,ES: National Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3127.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3127.ts
 #EXTINF:-1,ES: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3128.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3128.ts
 #EXTINF:-1,ES: Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3126.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3126.ts
 #EXTINF:-1,ES: Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3140.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3140.ts
 #EXTINF:-1,ES: Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3125.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3125.ts
 #EXTINF:-1,ES: Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3124.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3124.ts
 #EXTINF:-1,ES: Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3123.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3123.ts
 #EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3635.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3635.ts
 #EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3634.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3634.ts
 #EXTINF:-1,ES: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3633.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3633.ts
 #EXTINF:-1,ES: TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3632.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3632.ts
 #EXTINF:-1,ES: TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]TvGratis[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3631.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3631.ts
