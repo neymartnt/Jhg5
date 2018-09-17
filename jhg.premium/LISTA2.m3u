@@ -3,8 +3,8 @@
 
 
 
-	#EXTINF:-1,[ES]1234D
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=https://petopa154.caraponi.me/live/verliga5/index.m3u8?token=Fj7ikSyf_b-90eBm0X2C-w&expires=1537307399
+	#EXTINF:-1,[ES]12344D
+https://petopa154.caraponi.me/live/verliga5/index.m3u8?token=Fj7ikSyf_b-90eBm0X2C-w&expires=1537307399
 #EXTINF:-1,[ES]123
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=https://petopa154.caraponi.me/live/verliga5/index.m3u8
 #EXTINF:-1,[ES] M.ACCION SD
