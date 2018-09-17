@@ -104,8 +104,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] ARENAVISION [/COLOR][COLOR orange] CANALES DEPORTES (NUEVO) [/COLOR][COLOR  yellow] _**_[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/RoKJ9OP.jpg</thumbnail>
+<fanart>https://i.imgur.com/RoKJ9OP.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/Arenavision1.xml</externallink>
 </item>	
 
