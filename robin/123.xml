@@ -2,10 +2,9 @@
 
 
 
-
 <item>
-<title>[COLOR gold][B]Multideporte [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/5165.ts
+<title>[COLOR green][B]Multideporte [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/5165.ts
 
 
 
@@ -19,8 +18,8 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]#Vamos[/B][/COLOR] [COLOR maroon][B]Disponible hoy 21:30[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1040.ts
+<title>[COLOR green][B]#Vamos[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1040.ts
 
 
 
@@ -32,13 +31,13 @@
 &amp;streamtype=TSDOWNLOADER&amp;name=#Vamos</link>
 <thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png
 </thumbnail>
-<fanart>https://cdn4.areajugones.es/wp-content/uploads/2018/08/Vamos-810x400.png
+<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/09/16/15370901249219.jpg
 </fanart>
 </item>
 
 <item>
-<title>[COLOR gold][B]#Vamos HD[/B][/COLOR] [COLOR maroon][B]Disponible hoy 21:30[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/3111.ts
+<title>[COLOR green][B]#Vamos HD[/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/3111.ts
 
 
 
@@ -51,13 +50,13 @@
 &amp;streamtype=TSDOWNLOADER&amp;name=#Vamos HD</link>
 <thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png
 </thumbnail>
-<fanart>https://cdn4.areajugones.es/wp-content/uploads/2018/08/Vamos-810x400.png
+<fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/09/16/15370901249219.jpg
 </fanart>
 </item>
 
 <item>
-<title>[COLOR gold][B]Movistar Partidazo [/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/3965.ts
+<title>[COLOR green][B]Movistar Partidazo [/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/3965.ts
 
 
 
@@ -69,8 +68,8 @@
 </fanart>
 </item>
 <item>
-<title>[COLOR gold][B]Movistar Partidazo HD[/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/3964.ts
+<title>[COLOR green][B]Movistar Partidazo HD[/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/3964.ts
 
 
 
@@ -85,8 +84,8 @@
 
 
 <item>
-<title>[COLOR gold][B]Movistar Fútbol [/B][/COLOR]  [COLOR cyan][B](solo en eventos) [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1025.ts
+<title>[COLOR green][B]Movistar Fútbol [/B][/COLOR]  [COLOR cyan][B](solo en eventos) [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1025.ts
 
 
 
@@ -98,8 +97,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </fanart>
 </item>
 <item>
-<title>[COLOR gold][B]Movistar Fútbol HD[/B][/COLOR]  [COLOR cyan][B](solo en eventos) [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1000.ts
+<title>[COLOR green][B]Movistar Fútbol HD[/B][/COLOR]  [COLOR cyan][B](solo en eventos) [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1000.ts
 
 
 &amp;streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
@@ -110,8 +109,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </item>
 
 <item>
-<title>[COLOR gold][B]Movistar Liga de Campeones [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/3kIdhk932O/c5JI3Jv0oQ/1423.ts
+<title>[COLOR green][B]Movistar Liga de Campeones [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1423.ts
 
 
 
@@ -128,8 +127,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </fanart>
 </item>
 <item>
-<title>[COLOR gold][B]Movistar Liga de Campeones HD[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/5229.ts
+<title>[COLOR green][B]Movistar Liga de Campeones HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/5229.ts
 
 
 
@@ -152,8 +151,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 
 <item>
-<title>[COLOR gold][B]Movistar Liga de Campeones 1[/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1013.ts
+<title>[COLOR green][B]Movistar Liga de Campeones 1[/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1013.ts
 
 
 
@@ -168,8 +167,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </item>
 
 <item>
-<title>[COLOR gold][B]Movistar Liga de Campeones 2[/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1014.ts
+<title>[COLOR green][B]Movistar Liga de Campeones 2[/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1014.ts
 
 
 
@@ -182,8 +181,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </fanart>
 </item>
 <item>
-<title>[COLOR gold][B]Movistar Liga de Campeones 3[/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1015.ts
+<title>[COLOR green][B]Movistar Liga de Campeones 3[/B][/COLOR] [COLOR cyan][B](solo en eventos) [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1015.ts
 
 
 
@@ -203,8 +202,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 
 <item>
- <title>[COLOR gold][B]Movistar Deportes[/B][/COLOR]  </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/427.ts
+ <title>[COLOR green][B]Movistar Deportes[/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/427.ts
 
 
 
@@ -221,8 +220,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </item>
 
 <item>
- <title>[COLOR gold][B]Movistar Deportes HD[/B][/COLOR]  </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/3110.ts
+ <title>[COLOR green][B]Movistar Deportes HD[/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/3110.ts
 
 
 
@@ -242,8 +241,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 
 <item>
-<title>[COLOR gold][B]Movistar Golf [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/910.ts
+<title>[COLOR green][B]Movistar Golf [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/910.ts
 
 
 
@@ -257,8 +256,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </fanart>
 </item>
 <item>
-<title>[COLOR gold][B]Movistar Golf HD[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/997.ts
+<title>[COLOR green][B]Movistar Golf HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/997.ts
 
 
 
@@ -277,8 +276,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 
 <item>
- <title>[COLOR gold][B]Movistar Formula 1 [/B][/COLOR]   </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1053.ts
+ <title>[COLOR green][B]Movistar Formula 1 [/B][/COLOR]   </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1053.ts
 
 
 
@@ -289,8 +288,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>http://movistar.i.lithium.com/t5/image/serverpage/image-id/111641iA6F01CFB43B522C3/image-size/original?v=v2&px=-1</fanart>
 </item>
 <item>
- <title>[COLOR gold][B]Movistar Formula 1 HD[/B][/COLOR]  </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/430.ts
+ <title>[COLOR green][B]Movistar Formula 1 HD[/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/430.ts
 
 
 
@@ -303,8 +302,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </item>
 
 <item>
- <title>[COLOR gold][B]Movistar Moto GP[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/429.ts
+ <title>[COLOR green][B]Movistar Moto GP[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/429.ts
 
 
 
@@ -320,8 +319,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </fanart>
 </item>
 <item>
- <title>[COLOR gold][B]Movistar Moto GP HD[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1001.ts
+ <title>[COLOR green][B]Movistar Moto GP HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1001.ts
 
 
 
@@ -343,8 +342,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 
 <item>
-<title>[COLOR gold][B]Eurosport 1 [/B][/COLOR]  </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1047.ts
+<title>[COLOR green][B]Eurosport 1 [/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1047.ts
 
 
 
@@ -363,8 +362,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </item>
 
 <item>
-<title>[COLOR gold][B]Eurosport 2 [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1048.ts
+<title>[COLOR green][B]Eurosport 2 [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1048.ts
 
 
 
@@ -384,25 +383,10 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 
 
-<item>
- <title>[COLOR gold][B]La Liga TV[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4390.ts
 
-<thumbnail>http://www.movistarplus.es/recorte/m-NEOCOL/ficha/LIGBAR.png</thumbnail>
-<fanart>https://cdn.sincroguia.tv/uploads/programs/t/o/u/xtour-de-hungria-607841_SPA-79.jpg.pagespeed.ic.zs_tZTHsT1.jpg</fanart>
-
- 
- 
- 
- 
- 
- 
-&amp;streamtype=TSDOWNLOADER&amp;name=La Liga TV </link>
- 
-</item>
 <item>
-<title>[COLOR gold][B]La Liga TV[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1339.ts
+<title>[COLOR green][B]La Liga TV[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/5iDvE3HVea/UyJHIZuNlV/1339.ts
 
 
 
@@ -423,8 +407,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR gold][B]La Liga TV HD[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1340.ts
+<title>[COLOR green][B]La Liga TV HD[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1340.ts
 
 
 
@@ -441,8 +425,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR gold][B]Bein Sports La Liga [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/5228.ts
+<title>[COLOR green][B]Bein Sports La Liga [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/5228.ts
 
 
 
@@ -458,28 +442,11 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR gold][B]Bein Sports La Liga Opción 1[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37189.ts
 
-
-
-
-
-
-
-
-
-
-
-&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports La Liga</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png</thumbnail>
-<fanart>http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg</fanart>
-</item>
 
 <item>
-<title>[COLOR gold][B]Bein Sports La Liga HD[/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1338.ts
+<title>[COLOR green][B]Bein Sports La Liga HD[/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1338.ts
 
 
 
@@ -498,7 +465,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 
 <item>
-<title>[COLOR gold][B]Bein Sports La Liga 1 [/B][/COLOR] </title>
+<title>[COLOR green][B]Bein Sports La Liga 1 [/B][/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37147.ts
 
 
@@ -511,7 +478,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg</fanart>
 </item>
 <item>
-<title>[COLOR gold][B]Bein Sports La Liga 2 [/B][/COLOR]</title>
+<title>[COLOR green][B]Bein Sports La Liga 2 [/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37145.ts
 
 
@@ -522,8 +489,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg</fanart>
 </item>
 <item>
-<title>[COLOR gold][B]GOL TV [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/1424.ts
+<title>[COLOR green][B]GOL TV [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/1424.ts
 
 
 
@@ -543,8 +510,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>https://atencionalcliente.es/wp-content/uploads/2016/10/telefono-gol-tv-atencion-al-cliente-268x190.jpg</fanart>
 </item>
 <item>
-<title>[COLOR gold][B]Real Madrid TV [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/bhWUqsB4Hh/jK1rWQVDB4/263.ts
+<title>[COLOR green][B]Real Madrid TV [/B][/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/263.ts
 
 
 
@@ -565,7 +532,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg</fanart>
 </item>
 <item>
-<title>[COLOR gold][B]La Liga 123 TV [/B][/COLOR] </title>
+<title>[COLOR green][B]La Liga 123 TV [/B][/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.latintvweb.com:25461/live/fklejm2018/lrb4r4ggv5rbz/92102.ts
 
 
@@ -589,7 +556,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/06/25/15299195117945.jpg</fanart>
 </item>
 <item>
-<title>[COLOR gold][B]La Liga 123 TV HD[/B][/COLOR] </title>
+<title>[COLOR green][B]La Liga 123 TV HD[/B][/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37178.ts
 
 
@@ -613,7 +580,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </item>
 
 <item>
-<title>[COLOR gold][B]La Liga 123 TV Multi 1[/B][/COLOR] </title>
+<title>[COLOR green][B]La Liga 123 TV Multi 1[/B][/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37176.ts
 
 
@@ -633,7 +600,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/06/25/15299195117945.jpg</fanart>
 </item>
 <item>
-<title>[COLOR gold][B]La Liga 123 TV Multi 2[/B][/COLOR] </title>
+<title>[COLOR green][B]La Liga 123 TV Multi 2[/B][/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37175.ts
 
 
@@ -653,7 +620,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/06/25/15299195117945.jpg</fanart>
 </item>
 <item>
-<title>[COLOR gold][B]La Liga 123 TV Multi 3[/B][/COLOR] </title>
+<title>[COLOR green][B]La Liga 123 TV Multi 3[/B][/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37174.ts
 
 
@@ -673,8 +640,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 <fanart>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/06/25/15299195117945.jpg</fanart>
 </item>
 <item>
- <title>[COLOR gold][B]Teledeporte [/B][/COLOR]  </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37150.ts
+ <title>[COLOR green][B]Teledeporte [/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/428.ts
 
 
 
@@ -692,8 +659,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 </fanart>
 </item>
 <item>
- <title>[COLOR gold][B]Movistar eSports [/B][/COLOR]  </title>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.latintvweb.com:25461/live/fklejm2018/lrb4r4ggv5rbz/92134.ts
+ <title>[COLOR green][B]Movistar eSports [/B][/COLOR]  </title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/5iDvE3HVea/UyJHIZuNlV/922.ts
 
 
 
@@ -723,7 +690,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 </item>
 <item>
- <title>[COLOR gold][B]Movistar Deportes 1[/B][/COLOR]  </title>
+ <title>[COLOR green][B]Movistar Deportes 1[/B][/COLOR]  </title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.latintvweb.com:25461/live/fklejm2018/lrb4r4ggv5rbz/92072.ts
 
 
@@ -739,7 +706,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 </item>
 <item>
- <title>[COLOR gold][B]Movistar Deportes 2[/B][/COLOR]  </title>
+ <title>[COLOR green][B]Movistar Deportes 2[/B][/COLOR]  </title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.latintvweb.com:25461/live/fklejm2018/lrb4r4ggv5rbz/92071.ts
 
 
@@ -755,7 +722,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 </item>
 <item>
- <title>[COLOR gold][B]Movistar Deportes 3[/B][/COLOR]  </title>
+ <title>[COLOR green][B]Movistar Deportes 3[/B][/COLOR]  </title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.latintvweb.com:25461/live/fklejm2018/lrb4r4ggv5rbz/92070.ts
 
 
@@ -771,7 +738,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 </item>
 <item>
- <title>[COLOR gold][B]Movistar Deportes 4[/B][/COLOR]  </title>
+ <title>[COLOR green][B]Movistar Deportes 4[/B][/COLOR]  </title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.latintvweb.com:25461/live/fklejm2018/lrb4r4ggv5rbz/92069.ts
 
 
@@ -801,7 +768,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 </item>
 <item>
- <title>[COLOR gold][B]Multifutbol 1[/B][/COLOR]  </title>
+ <title>[COLOR green][B]Multifutbol 1[/B][/COLOR]  </title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37121.ts
 
 
@@ -817,9 +784,8 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 </item>
 <item>
- <title>[COLOR gold][B]Multifutbol  2[/B][/COLOR]  </title>
+ <title>[COLOR green][B]Multifutbol  2[/B][/COLOR]  </title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/live/cristy/Cristy/37120.ts
-
 
 
 
@@ -833,7 +799,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 </item>
 <item>
- <title>[COLOR gold][B]Multifutbol 3[/B][/COLOR]  </title>
+ <title>[COLOR green][B]Multifutbol 3[/B][/COLOR]  </title>
 <link>plugin://plugin.video.f4mTester/?url=http://365tv.info:999/live/HLZmITBm8W/fAcCUMFitJ/19274.ts
 
 
@@ -849,35 +815,7 @@ streamtype=TSDOWNLOADER&amp;name=Movistar Futbol</link>
 
 </item>
 <item>
- <title>[COLOR gold][B]Multifutbol 4[/B][/COLOR]  </title>
+ <title>[COLOR green][B]Multifutbol 4[/B][/COLOR]  </title>
 <link>https://pastebin.com/raw/99FYm0cy</link>
-
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>[COLOR gold][B]Multideporte [/B][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.oirza.com:8000/live/r6l0b5J3q9/GqSXnUlEL8/5165.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Partidazo</link>
-<thumbnail>http://www.movistarplus.es/recorte/m-NEO/canal/CPEV.png
-</thumbnail>
 
 </item>
