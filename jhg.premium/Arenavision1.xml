@@ -1,6 +1,97 @@
 <?xml version="3.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+<item>
+<title>[COLOR orange]AGENDA AVEZY CLASIFICADA POR DEPORTES[/COLOR]</title>
+<link>$doregex[jhg]</link>
+ 
+<regex>
+<name>jhg</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][jhg.param1] [/COLOR][COLOR orange]-Nº Eventos [/COLOR][COLOR yellow]([jhg.param2]) [/COLOR]</title>
+<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+<link>$doregex[jhg2]</link>
+]]></listrepeat>
+<expres>categoria":"(.*?)","items":"(.*?)"</expres>
+<page>https://avezy.xyz/json.php</page>
+</regex>
+ 
+<regex>
+<name>jhg2</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[COLOR yellow][jhg2.param2] [/COLOR] [COLOR orange][jhg2.param3] [/COLOR] [COLOR white] [jhg2.param5][/COLOR]</title>
+<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+<link>$doregex[jhgresolucion]</link>
+]]></listrepeat>
+<expres>"id":"(.*?)","fecha":"(.*?)","hora":"(.*?)","categoria":"(.*?)","titulo":"(.*?)"</expres>
+<page>https://avezy.xyz/json.php?action=listado_eventos&amp;cat=[jhg.param1]</page>
+</regex>
+ 
+<regex>
+<name>jhgresolucion</name>
+<listrepeat><![CDATA[
+<title>[COLOR orange][jhgresolucion.param3] [/COLOR][COLOR white][jhg2.param5][/COLOR] [COLOR red]([jhgresolucion.param1]) [/COLOR]</title>
+<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+<link>plugin://program.plexus/?url=[jhgresolucion.param2]&amp;mode=1&amp;name=jhg</link>
+</item>
+]]></listrepeat>
+<expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
+<page>https://avezy.xyz/json.php?action=listado_canales&amp;evento=[jhg2.param1]</page>
+</regex>
+ 
+<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]AGENDA AVEZY SOLO EVENTOS EN CASTELLANO[/COLOR]</title>
+<link>$doregex[jhg]</link>
+<regex>
+<name>jhg</name>
+<listrepeat><![CDATA[
+<title>[COLOR orange][jhg.param1][/COLOR] [COLOR yellow][jhg.param2]H.[/COLOR][COLOR goldenrod][jhg.param4][/COLOR] [COLOR white][jhg.param5][/COLOR][COLOR red] ([jhg.param7])[/COLOR]</title>
+<thumbnail>https://avezy.xyz/[jhg.param3]</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+<link>plugin://program.plexus/?url=[jhg.param8]&amp;mode=1&amp;name=jhg</link>
+</item>
+]]></listrepeat>
+<expres><![CDATA[(?s)center'>([^<]+).*?br>([^<]+).*? src="(.*?)".*? title='([^']+).*?br>([^<]+).*?spa([^']+).*?AV([^<]+).*?acestream://(.*?)".*?]]></expres>
+<page>https://avezy.xyz/</page>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]AGENDA AVEZY COMPLETA[/COLOR]</title>
+<link>$doregex[jhg]</link>
+<regex>
+<name>jhg</name>
+<listrepeat><![CDATA[
+<title>[COLOR orange][jhg.param1][/COLOR] [COLOR yellow][jhg.param2]H.[/COLOR][COLOR goldenrod][jhg.param4][/COLOR] [COLOR white][jhg.param5][/COLOR][COLOR red] ([jhg.param6])[/COLOR]</title>
+<thumbnail>https://avezy.xyz/[jhg.param3]</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+<link>plugin://program.plexus/?url=[jhg.param7]&amp;mode=1&amp;name=jhg</link>
+</item>
+]]></listrepeat>
+<expres><![CDATA[(?s)center'>([^<]+).*?br>([^<]+).*? src="(.*?)".*? title='([^']+).*?br>([^<]+).*?AV([^<]+).*?acestream://(.*?)".*?]]></expres>
+<page>https://avezy.xyz/</page>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-XWS-ula5dok/WDLAzEh8apI/AAAAAAAADGo/3B6jDpUfBGwYNXd0jx9zzJV2BrHsvrJOACPcB/s640/arenavision3.PNG</thumbnail>
+<fanart>http://makambaonline.com/wp-content/uploads/2017/11/UEFA-Champions-League-Stadium-Wallpaper.jpg</fanart>
+</item>
+
+
+
 <item>
 <title>[COLOR green] ARENAVISION con Agenda [/COLOR] [COLOR yellow]PINCHA AQUI[/COLOR]</title>
 <link>$doregex[makelist]</link>
