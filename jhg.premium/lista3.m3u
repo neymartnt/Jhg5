@@ -1,160 +1,568 @@
 #EXTM3U
-#EXTINF:-1,-------------- | SPAIN | LISTA 3-----------
+#EXTINF:-1,-------------- | SPAIN | LISTA PREMIUM----------
 	
 
-#EXTINF:-1,CAZAyPESCA HD
-http://188.62.160.32:25000/play/a035
-#EXTINF:-1,VIAJAR HD
-http://188.62.160.32:25000/play/a03d
-#EXTINF:-1,AMC HD
-http://188.62.160.32:25000/play/a01s
-#EXTINF:-1,M. DCINE HD
-http://188.62.160.32:25000/play/a01n
-#EXTINF:-1,NICKELODEONHD
-http://188.62.160.32:25000/play/a01x
-#EXTINF:-1,ANTENA 3 HD
-http://188.62.160.32:25000/play/a01t
-#EXTINF:-1,M.PartidazoHD
-http://188.62.160.32:25000/play/a00k
-#EXTINF:-1,TCM HD
-http://188.62.160.32:25000/play/a030
-#EXTINF:-1,BEIN SPORTS HD
-http://188.62.160.32:25000/play/a03s
-#EXTINF:-1,LA 1 HD_UP01
-http://188.62.160.32:25000/play/a03t
-#EXTINF:-1,TNT HD
-http://188.62.160.32:25000/play/a031
-#EXTINF:-1,M. SERIES
-http://188.62.160.32:25000/play/a015
-#EXTINF:-1,EUROSPORT1HD
-http://188.62.160.32:25000/play/a020
-#EXTINF:-1,M. SERIES HD
-http://188.62.160.32:25000/play/a02z
-#EXTINF:-1,M.COMEDIA HD
-http://188.62.160.32:25000/play/a00h
-#EXTINF:-1,TOROS TV HD
-http://188.62.160.32:25000/play/a023
-#EXTINF:-1,FOX HD
-http://188.62.160.32:25000/play/a01l
-#EXTINF:-1,M.ESTRENOSHD
-http://188.62.160.32:25000/play/a03e
-#EXTINF:-1,NICK JR
-http://188.62.160.32:25000/play/a016
-#EXTINF:-1,MEZZO
-http://188.62.160.32:25000/play/a017
-#EXTINF:-1,EUROSPORT 1
-http://188.62.160.32:25000/play/a00v
-#EXTINF:-1,M. F.TBOL HD
-http://188.62.160.32:25000/play/a01j
-#EXTINF:-1,DISNEY CH HD
-http://188.62.160.32:25000/play/a033
-#EXTINF:-1,BEINLALIGA2
-http://188.62.160.32:25000/play/a043
-#EXTINF:-1,M.FORMULA1
-http://188.62.160.32:25000/play/a00y
-#EXTINF:-1,ENERGY
-http://188.62.160.32:25000/play/a00t
-#EXTINF:-1,LALIGA123TVM1
-http://188.62.160.32:25000/play/a04b
-#EXTINF:-1,BAR.A TV
-http://188.62.160.32:25000/play/a00u
-#EXTINF:-1,M.LCAMPEONES
-http://188.62.160.32:25000/play/a04d
-#EXTINF:-1,GOL
-http://188.62.160.32:25000/play/a00x
-#EXTINF:-1,BABY TV
-http://188.62.160.32:25000/play/a00q
-#EXTINF:-1,LA 1 HD_UP06
-http://188.62.160.32:25000/play/a041
-#EXTINF:-1,M. SeriesXtraHD
-http://188.62.160.32:25000/play/a038
-#EXTINF:-1,LA 1 HD
-http://188.62.160.32:25000/play/a00m
-#EXTINF:-1,M.FORMULA1HD
-http://188.62.160.32:25000/play/a01q
-#EXTINF:-1,LA 1 HD_UP02
-http://188.62.160.32:25000/play/a03u
-#EXTINF:-1,BEIN MAX 1
-http://188.62.160.32:25000/play/a044
-#EXTINF:-1,SYFY HD
-http://188.62.160.32:25000/play/a03c
-#EXTINF:-1,MTV ESPA¹A
-http://188.62.160.32:25000/play/a00w
-#EXTINF:-1,BEIN MAX 2
-http://188.62.160.32:25000/play/a045
-#EXTINF:-1,AXN WHITE HD
-http://188.62.160.32:25000/play/a03h
-#EXTINF:-1,M.LCAMPEONES
-http://188.62.160.32:25000/play/a04c
-#EXTINF:-1,#0 HD
-http://188.62.160.32:25000/play/a034
-#EXTINF:-1,M. XTRA HD
-http://188.62.160.32:25000/play/a03g
-#EXTINF:-1,NG WILD HD
-http://188.62.160.32:25000/play/a032
-#EXTINF:-1,M.Partidazo
-http://188.62.160.32:25000/play/a01a
-#EXTINF:-1,AXN HD
-http://188.62.160.32:25000/play/a00g
-#EXTINF:-1,NAT GEO HD
-http://188.62.160.32:25000/play/a022
-#EXTINF:-1,DIVINITY
-http://188.62.160.32:25000/play/a00o
-#EXTINF:-1,COSMO HD
-http://188.62.160.32:25000/play/a03a
-#EXTINF:-1,MEZZO LIVE HD
-http://188.62.160.32:25000/play/a01y
-#EXTINF:-1,BEIN LALIGA
-http://188.62.160.32:25000/play/a01p
-#EXTINF:-1,HOLLYWOODHD
-http://188.62.160.32:25000/play/a01o
-#EXTINF:-1,CANAL ORBE21
-http://188.62.160.32:25000/play/a01f
-#EXTINF:-1,TOROS TV
-http://188.62.160.32:25000/play/a02i
-#EXTINF:-1,LALIGA123TVM2
-http://188.62.160.32:25000/play/a04a
-#EXTINF:-1,FOX NEWS
-http://188.62.160.32:25000/play/a00p
-#EXTINF:-1,BEINLALIGA1
-http://188.62.160.32:25000/play/a042
-#EXTINF:-1,M.LCAMPEON2
-http://188.62.160.32:25000/play/a049
-#EXTINF:-1,M.LCAMPEON1
-http://188.62.160.32:25000/play/a048
-#EXTINF:-1,CUATRO HD
-http://188.62.160.32:25000/play/a01u
-#EXTINF:-1,LA 1 HD_UP05
-http://188.62.160.32:25000/play/a040
-#EXTINF:-1,M. DEP 1 HD
-http://188.62.160.32:25000/play/a021
-#EXTINF:-1,LA 1 HD_UP04
-http://188.62.160.32:25000/play/a03z
-#EXTINF:-1,SUNDANCE
-http://188.62.160.32:25000/play/a01g
-#EXTINF:-1,CALLE 13 HD
-http://188.62.160.32:25000/play/a01z
-#EXTINF:-1,LALIGATV BAR
-http://188.62.160.32:25000/play/a00i
-#EXTINF:-1,LA 1 HD_UP03
-http://188.62.160.32:25000/play/a03y
-#EXTINF:-1,FOX LIFE HD
-http://188.62.160.32:25000/play/a037
-#EXTINF:-1,M. DEP 2 HD
-http://188.62.160.32:25000/play/a03f
-#EXTINF:-1,TELECINCO HD
-http://188.62.160.32:25000/play/a01v
-#EXTINF:-1,COMEDYCENTRALHD
-http://188.62.160.32:25000/play/a03b
-#EXTINF:-1,LA SEXTA HD
-http://188.62.160.32:25000/play/a01w
-#EXTINF:-1,BOING
-http://188.62.160.32:25000/play/a00s
-#EXTINF:-1,M. ACCI©N HD
-http://188.62.160.32:25000/play/a01m
-#EXTINF:-1,M.MOTOGPHD
-http://188.62.160.32:25000/play/a01r
-#EXTINF:-1,M. GOLF HD
-http://188.62.160.32:25000/play/a039
-#EXTINF:-1,M. DISNEY
-http://188.62.160.32:25000/play/a047
+#EXTINF:-1,==● ▄ ★ JHG MASTER PREMIUM ★ ▄ ●==
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1379.m3u8
+#EXTINF:-1,•●★--- ES Canales a la carta ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1025.m3u8
+#EXTINF:-1,ES: Taquilla 1 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1024.m3u8
+#EXTINF:-1,ES: Taquilla 2 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1023.m3u8
+#EXTINF:-1,ES: Taquilla 3 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1022.m3u8
+#EXTINF:-1,ES: Taquilla 4 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1021.m3u8
+#EXTINF:-1,ES: Taquilla 5 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1020.m3u8
+#EXTINF:-1,ES: Taquilla 6 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1019.m3u8
+#EXTINF:-1,ES: Taquilla 7 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1018.m3u8
+#EXTINF:-1,ES: Taquilla 8 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1017.m3u8
+#EXTINF:-1,ES: Taquilla 9 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1016.m3u8
+#EXTINF:-1,ES: Taquilla 10 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1015.m3u8
+#EXTINF:-1,ES: Taquilla 11 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1014.m3u8
+#EXTINF:-1,ES: Taquilla 12 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1013.m3u8
+#EXTINF:-1,ES: Taquilla 13 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1012.m3u8
+#EXTINF:-1,ES: Barca TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1011.m3u8
+#EXTINF:-1,ES: Caza y Pesca FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1010.m3u8
+#EXTINF:-1,ES: Caza y Pesca HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1009.m3u8
+#EXTINF:-1,ES: Cine 3D
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1003.m3u8
+#EXTINF:-1,ES: Classica
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1004.m3u8
+#EXTINF:-1,ES: Iberalia
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1005.m3u8
+#EXTINF:-1,ES: Toros
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1006.m3u8
+#EXTINF:-1,ES: Toros FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1008.m3u8
+#EXTINF:-1,ES: Toros HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1007.m3u8
+#EXTINF:-1,•●★--- ES Fútbol ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1072.m3u8
+#EXTINF:-1,ES: Movistar liga de campeones FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/2067.m3u8
+#EXTINF:-1,ES: Movistar liga de campeones HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/2066.m3u8
+#EXTINF:-1,ES: Movistar liga de campeones SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/2065.m3u8
+#EXTINF:-1,ES: Bein Sports LaLiga FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1060.m3u8
+#EXTINF:-1,ES: Bein Sports LaLiga HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1059.m3u8
+#EXTINF:-1,ES: Bein Sports LaLiga SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1058.m3u8
+#EXTINF:-1,ES: Betis TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1027.m3u8
+#EXTINF:-1,ES: Esport 3 CAT
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1026.m3u8
+#EXTINF:-1,ES: La Liga TV BAR FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1034.m3u8
+#EXTINF:-1,ES: La Liga TV BAR HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1033.m3u8
+#EXTINF:-1,ES: La Liga TV BAR SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1032.m3u8
+#EXTINF:-1,ES: LaLiga 1|2|3 TV HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1049.m3u8
+#EXTINF:-1,ES: Movistar  Futbol FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1041.m3u8
+#EXTINF:-1,ES: Movistar  Futbol HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1040.m3u8
+#EXTINF:-1,ES: Movistar  Futbol SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1039.m3u8
+#EXTINF:-1,ES: Real Madrid FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1031.m3u8
+#EXTINF:-1,ES: Real Madrid HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1030.m3u8
+#EXTINF:-1,ES: Real Madrid SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1029.m3u8
+#EXTINF:-1,ES: Sevilla FC
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1028.m3u8
+#EXTINF:-1,ES: Bein LaLiga Max 1 FHD (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1057.m3u8
+#EXTINF:-1,ES: Bein LaLiga Max 1 HD (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1056.m3u8
+#EXTINF:-1,ES: Bein LaLiga Max 1 SD (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1055.m3u8
+#EXTINF:-1,ES: Bein LaLiga Max 2 HD (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1054.m3u8
+#EXTINF:-1,ES: Bein LaLiga Max 3 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1053.m3u8
+#EXTINF:-1,ES: Bein LaLiga Max 4 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1052.m3u8
+#EXTINF:-1,ES: Bein LaLiga Max 5 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1051.m3u8
+#EXTINF:-1,ES: Bein LaLiga Max 6 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1050.m3u8
+#EXTINF:-1,ES: Bein Sports Max 1 HD (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1068.m3u8
+#EXTINF:-1,ES: Bein Sports Max 2 HD (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1067.m3u8
+#EXTINF:-1,ES: Bein Sports Max 3 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1066.m3u8
+#EXTINF:-1,ES: Bein Sports Max 4 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1065.m3u8
+#EXTINF:-1,ES: Bein Sports Max 5 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1064.m3u8
+#EXTINF:-1,ES: Bein Sports Max 6 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1063.m3u8
+#EXTINF:-1,ES: Bein Sports Max 7 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1062.m3u8
+#EXTINF:-1,ES: Bein Sports Max 8 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1061.m3u8
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 1 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1048.m3u8
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 2 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1047.m3u8
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 3 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1046.m3u8
+#EXTINF:-1,ES: LaLiga 1|2|3 TV Multi 4 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1045.m3u8
+#EXTINF:-1,ES: Movistar  Partidazo FHD (LIVE DURING MATCH)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1044.m3u8
+#EXTINF:-1,ES: Movistar  Partidazo HD (LIVE DURING MATCH)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1043.m3u8
+#EXTINF:-1,ES: Movistar  Partidazo SD (LIVE DURING MATCH)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1042.m3u8
+#EXTINF:-1,ES: Multifutbol 1 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1038.m3u8
+#EXTINF:-1,ES: Multifutbol 2 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1037.m3u8
+#EXTINF:-1,ES: Multifutbol 3 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1036.m3u8
+#EXTINF:-1,ES: Multifutbol 4 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1035.m3u8
+#EXTINF:-1,•●★--- ES Movistar  Deportes ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1097.m3u8
+#EXTINF:-1,ES: Eurosport 1 FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1076.m3u8
+#EXTINF:-1,ES: Eurosport 1 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1075.m3u8
+#EXTINF:-1,ES: Eurosport 1 SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1074.m3u8
+#EXTINF:-1,ES: Eurosport 2 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1073.m3u8
+#EXTINF:-1,ES: Movistar  Deportes FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1088.m3u8
+#EXTINF:-1,ES: Movistar  Deportes HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1087.m3u8
+#EXTINF:-1,ES: Movistar  Deportes SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1086.m3u8
+#EXTINF:-1,ES: #VAMOS FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1085.m3u8
+#EXTINF:-1,ES: #VAMOS HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1084.m3u8
+#EXTINF:-1,ES: #VAMOS SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1083.m3u8
+#EXTINF:-1,ES: Movistar  eSports HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1082.m3u8
+#EXTINF:-1,ES: Movistar  Formula 1 FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1096.m3u8
+#EXTINF:-1,ES: Movistar  Formula 1 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1095.m3u8
+#EXTINF:-1,ES: Movistar  Formula 1 SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1094.m3u8
+#EXTINF:-1,ES: Movistar  Golf
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1089.m3u8
+#EXTINF:-1,ES: Movistar  Golf FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1090.m3u8
+#EXTINF:-1,ES: Movistar  Moto GP FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1093.m3u8
+#EXTINF:-1,ES: Movistar  Moto GP HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1092.m3u8
+#EXTINF:-1,ES: Movistar  Moto GP SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1091.m3u8
+#EXTINF:-1,ES: Multideporte 1 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1081.m3u8
+#EXTINF:-1,ES: Multideporte 2 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1080.m3u8
+#EXTINF:-1,ES: Multideporte 3 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1079.m3u8
+#EXTINF:-1,ES: Multideporte 4 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1078.m3u8
+#EXTINF:-1,ES: Multideporte 5 (Match Time)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1077.m3u8
+#EXTINF:-1,•●★--- ES Movistar  Cine ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1122.m3u8
+#EXTINF:-1,ES: Dark
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1104.m3u8
+#EXTINF:-1,ES: Hollywood FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1100.m3u8
+#EXTINF:-1,ES: Hollywood HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1099.m3u8
+#EXTINF:-1,ES: Movistar  Accion FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1121.m3u8
+#EXTINF:-1,ES: Movistar  Accion HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1120.m3u8
+#EXTINF:-1,ES: Movistar  Accion SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1119.m3u8
+#EXTINF:-1,ES: Movistar  Cine N
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1105.m3u8
+#EXTINF:-1,ES: Movistar  Comedia FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1118.m3u8
+#EXTINF:-1,ES: Movistar  Comedia HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1117.m3u8
+#EXTINF:-1,ES: Movistar  Comedia SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1116.m3u8
+#EXTINF:-1,ES: Movistar Drama FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1112.m3u8
+#EXTINF:-1,ES: Movistar Drama HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1111.m3u8
+#EXTINF:-1,ES: Movistar Drama SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1110.m3u8
+#EXTINF:-1,ES: Movistar  Disney
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1109.m3u8
+#EXTINF:-1,ES: Movistar  Estrenos FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1115.m3u8
+#EXTINF:-1,ES: Movistar  Estrenos HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1114.m3u8
+#EXTINF:-1,ES: Movistar  Estrenos SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1113.m3u8
+#EXTINF:-1,ES: Movistar CineDoc&Roll FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1108.m3u8
+#EXTINF:-1,ES: Movistar CineDoc&Roll HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1107.m3u8
+#EXTINF:-1,ES: Movistar CineDoc&Roll
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1106.m3u8
+#EXTINF:-1,ES: Sundance TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1098.m3u8
+#EXTINF:-1,ES: TCM FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1103.m3u8
+#EXTINF:-1,ES: TCM HD)
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1102.m3u8
+#EXTINF:-1,ES: TCM SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1101.m3u8
+#EXTINF:-1,•●★--- ES Movistar  Series ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1162.m3u8
+#EXTINF:-1,ES: #0 FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1155.m3u8
+#EXTINF:-1,ES: #0
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1154.m3u8
+#EXTINF:-1,ES: #0 SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1153.m3u8
+#EXTINF:-1,ES: AMC FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1147.m3u8
+#EXTINF:-1,ES: AMC HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1146.m3u8
+#EXTINF:-1,ES: AXN FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1139.m3u8
+#EXTINF:-1,ES: AXN HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1138.m3u8
+#EXTINF:-1,ES: AXN SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1137.m3u8
+#EXTINF:-1,ES: AXN White FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1136.m3u8
+#EXTINF:-1,ES: AXN White HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1135.m3u8
+#EXTINF:-1,ES: AXN White SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1134.m3u8
+#EXTINF:-1,ES: Calle 13 FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1152.m3u8
+#EXTINF:-1,ES: Calle 13
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1151.m3u8
+#EXTINF:-1,ES: Comedy Central FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1127.m3u8
+#EXTINF:-1,ES: Comedy Central HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1126.m3u8
+#EXTINF:-1,ES: Comedy Central SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1125.m3u8
+#EXTINF:-1,ES: Cosmo TV FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1150.m3u8
+#EXTINF:-1,ES: Cosmo TV HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1149.m3u8
+#EXTINF:-1,ES: Cosmo TV SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1148.m3u8
+#EXTINF:-1,ES: Fox FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1145.m3u8
+#EXTINF:-1,ES: Fox HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1144.m3u8
+#EXTINF:-1,ES: Fox SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1143.m3u8
+#EXTINF:-1,ES: Fox Life FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1142.m3u8
+#EXTINF:-1,ES: Fox Life HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1141.m3u8
+#EXTINF:-1,ES: Fox Life SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1140.m3u8
+#EXTINF:-1,ES: Movistar  Series FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1161.m3u8
+#EXTINF:-1,ES: Movistar  Series HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1160.m3u8
+#EXTINF:-1,ES: Movistar  Series SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1159.m3u8
+#EXTINF:-1,ES: Movistar Seriesmanía FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1158.m3u8
+#EXTINF:-1,ES: Movistar Seriesmanía HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1157.m3u8
+#EXTINF:-1,ES: Movistar Seriesmanía SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1156.m3u8
+#EXTINF:-1,ES: MTV Espana
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1123.m3u8
+#EXTINF:-1,ES: Nonstopeople
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1124.m3u8
+#EXTINF:-1,ES: SyFy FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1130.m3u8
+#EXTINF:-1,ES: SYFY HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1129.m3u8
+#EXTINF:-1,ES: SyFy SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1128.m3u8
+#EXTINF:-1,ES: TNT FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1133.m3u8
+#EXTINF:-1,ES: TNT HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1132.m3u8
+#EXTINF:-1,ES: TNT SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1131.m3u8
+#EXTINF:-1,•●★--- ES Documentales ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1179.m3u8
+#EXTINF:-1,ES: Blaze
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1163.m3u8
+#EXTINF:-1,ES: Discovery Channel FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1172.m3u8
+#EXTINF:-1,ES: Discovery Channel HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1171.m3u8
+#EXTINF:-1,ES: Discovery Channel SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1170.m3u8
+#EXTINF:-1,ES: Historia HD/SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1167.m3u8
+#EXTINF:-1,ES: Nat Geo Wild FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1175.m3u8
+#EXTINF:-1,ES: Nat Geo Wild HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1174.m3u8
+#EXTINF:-1,ES: Nat Geo Wild SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1173.m3u8
+#EXTINF:-1,ES: National Geoghraphic FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1178.m3u8
+#EXTINF:-1,ES: National Geoghraphic HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1177.m3u8
+#EXTINF:-1,ES: National Geoghraphic SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1176.m3u8
+#EXTINF:-1,ES: Odisea HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1169.m3u8
+#EXTINF:-1,ES: Odisea SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1168.m3u8
+#EXTINF:-1,ES: Viajar FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1166.m3u8
+#EXTINF:-1,ES: Viajar HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1165.m3u8
+#EXTINF:-1,ES: Viajar SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1164.m3u8
+#EXTINF:-1,•●★--- ES Estilo de Vida ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1185.m3u8
+#EXTINF:-1,ES: Canal Cocina
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1180.m3u8
+#EXTINF:-1,ES: Crime & Investigation
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1184.m3u8
+#EXTINF:-1,ES: Decasa
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1183.m3u8
+#EXTINF:-1,ES: Dkiss
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1182.m3u8
+#EXTINF:-1,ES: El Garaje TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1181.m3u8
+#EXTINF:-1,•●★--- ES Infantil ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1197.m3u8
+#EXTINF:-1,ES: Baby TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1187.m3u8
+#EXTINF:-1,ES: Canal Panda
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1188.m3u8
+#EXTINF:-1,ES: Disney Channel FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1192.m3u8
+#EXTINF:-1,ES: Disney Channel HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1191.m3u8
+#EXTINF:-1,ES: Disney Channel SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1190.m3u8
+#EXTINF:-1,ES: Disney Junior
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1193.m3u8
+#EXTINF:-1,ES: Disney XD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1189.m3u8
+#EXTINF:-1,ES: Nick JR
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1194.m3u8
+#EXTINF:-1,ES: Nickelodeon FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1196.m3u8
+#EXTINF:-1,ES: Nickelodeon
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1195.m3u8
+#EXTINF:-1,ES: Super3
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1186.m3u8
+#EXTINF:-1,•●★--- ES TDT ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1250.m3u8
+#EXTINF:-1,ES: 24H
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1207.m3u8
+#EXTINF:-1,ES: 7 TV Murcia
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1200.m3u8
+#EXTINF:-1,ES: A3series HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1221.m3u8
+#EXTINF:-1,ES: Antena 3 FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1236.m3u8
+#EXTINF:-1,ES: Antena 3 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1235.m3u8
+#EXTINF:-1,ES: Antena 3 SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1234.m3u8
+#EXTINF:-1,ES: BeMad TV FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1215.m3u8
+#EXTINF:-1,ES: BeMad TV HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1214.m3u8
+#EXTINF:-1,ES: Boing
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1226.m3u8
+#EXTINF:-1,ES: Canal Costa TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1202.m3u8
+#EXTINF:-1,ES: Canal Parlamento
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1199.m3u8
+#EXTINF:-1,ES: Clan TVE
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1225.m3u8
+#EXTINF:-1,ES: Cuatro FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1239.m3u8
+#EXTINF:-1,ES: Cuatro HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1238.m3u8
+#EXTINF:-1,ES: Cuatro SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1237.m3u8
+#EXTINF:-1,ES: Discovery Max
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1208.m3u8
+#EXTINF:-1,ES: Divinity
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1216.m3u8
+#EXTINF:-1,ES: Energy
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1217.m3u8
+#EXTINF:-1,ES: FDF
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1218.m3u8
+#EXTINF:-1,ES: Gol
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1233.m3u8
+#EXTINF:-1,ES: Gol HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1232.m3u8
+#EXTINF:-1,ES: Gol SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1231.m3u8
+#EXTINF:-1,ES: Canal Sur Flamenco
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1201.m3u8
+#EXTINF:-1,ES: intereconomia
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1209.m3u8
+#EXTINF:-1,ES: LA 1  FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1249.m3u8
+#EXTINF:-1,ES: LA 1 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1248.m3u8
+#EXTINF:-1,ES: LA 1 SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1247.m3u8
+#EXTINF:-1,ES: LA 2
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1246.m3u8
+#EXTINF:-1,ES: La Sexta FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1245.m3u8
+#EXTINF:-1,ES: La Sexta HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1244.m3u8
+#EXTINF:-1,ES: La Sexta SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1243.m3u8
+#EXTINF:-1,ES: Libertad Digital
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1204.m3u8
+#EXTINF:-1,ES: LTC
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1205.m3u8
+#EXTINF:-1,ES: Mega FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1224.m3u8
+#EXTINF:-1,ES: Mega HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1223.m3u8
+#EXTINF:-1,ES: Mega SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1222.m3u8
+#EXTINF:-1,ES: Neox HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1213.m3u8
+#EXTINF:-1,ES: Neox
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1212.m3u8
+#EXTINF:-1,ES: Nova
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1219.m3u8
+#EXTINF:-1,ES: Nova HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1220.m3u8
+#EXTINF:-1,ES: Paramount Channel
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1227.m3u8
+#EXTINF:-1,ES: Telecinco FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1242.m3u8
+#EXTINF:-1,ES: Telecinco HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1241.m3u8
+#EXTINF:-1,ES: Telecinco SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1240.m3u8
+#EXTINF:-1,ES: Teledeporte FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1230.m3u8
+#EXTINF:-1,ES: Teledeporte
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1229.m3u8
+#EXTINF:-1,ES: Teledeporte SD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1228.m3u8
+#EXTINF:-1,ES: Telesur HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1206.m3u8
+#EXTINF:-1,ES: Televisa HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1210.m3u8
+#EXTINF:-1,ES: TEN
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1211.m3u8
+#EXTINF:-1,ES: Trece
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1203.m3u8
+#EXTINF:-1,ES: TV Canaria
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1198.m3u8
+#EXTINF:-1,•●★--- ES Autonómicas ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1278.m3u8
+#EXTINF:-1,ES: 3/24 CAT
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1274.m3u8
+#EXTINF:-1,ES: 33 CAT
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1272.m3u8
+#EXTINF:-1,ES: 8TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1275.m3u8
+#EXTINF:-1,ES: Andalucia TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1256.m3u8
+#EXTINF:-1,ES: Aragon TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1259.m3u8
+#EXTINF:-1,ES: Canal De Las Estrellas
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1257.m3u8
+#EXTINF:-1,ES: Canal Sur
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1265.m3u8
+#EXTINF:-1,ES: Canal Sur Cocina
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1264.m3u8
+#EXTINF:-1,ES: Canal Sur La Banda TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1262.m3u8
+#EXTINF:-1,ES: Canal Sur Turismo
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1263.m3u8
+#EXTINF:-1,ES: Castilla La Mancha Media
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1258.m3u8
+#EXTINF:-1,ES: DW en Español
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1270.m3u8
+#EXTINF:-1,ES: ETB Sat
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1267.m3u8
+#EXTINF:-1,ES: Euronews HD en Español
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1271.m3u8
+#EXTINF:-1,ES: Extremadura TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1260.m3u8
+#EXTINF:-1,ES: Galicia TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1261.m3u8
+#EXTINF:-1,ES: Hispan TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1268.m3u8
+#EXTINF:-1,ES: IB3 HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1273.m3u8
+#EXTINF:-1,ES: La 8 Mediterráneo
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1253.m3u8
+#EXTINF:-1,ES: La Otra
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1252.m3u8
+#EXTINF:-1,ES: Lancelot TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1254.m3u8
+#EXTINF:-1,ES: Levante TV
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1266.m3u8
+#EXTINF:-1,ES: Onda Azul
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1255.m3u8
+#EXTINF:-1,ES: RT HD en Español
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1269.m3u8
+#EXTINF:-1,ES: TeleMadrid
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1251.m3u8
+#EXTINF:-1,ES: TV3. CAT HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1277.m3u8
+#EXTINF:-1,ES: XTRM
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1276.m3u8
+#EXTINF:-1,•●★--- ES Música ----★●•
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1283.m3u8
+#EXTINF:-1,ES: Mezzo Live FHD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1280.m3u8
+#EXTINF:-1,ES: Mezzo Live HD
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1279.m3u8
+#EXTINF:-1,ES: VH1
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1282.m3u8
+#EXTINF:-1,ES: VH1 Classic
+http://io.xtrego.com:8080/live/1159/QNcZjqXNra/1281.m3u8
