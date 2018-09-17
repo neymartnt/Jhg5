@@ -2,19 +2,19 @@
 
 
 #EXTINF:-1,ES:LA 1
-http://54.37.255.204:9977/live/rosendo/iptv/37103.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/rosendo/iptv/37103.m3u8
 #EXTINF:-1,ES:LA 1 FHD
 http://54.37.255.204:9977/live/rosendo/iptv/37102.m3u8
 #EXTINF:-1,ES:LA 1 PARA MOVILES
 http://54.37.255.204:9977/live/rosendo/iptv/37104.m3u8
 #EXTINF:-1,ES:LA 2
-http://54.37.255.204:9977/live/rosendo/iptv/37100.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/rosendo/iptv/37100.m3u8
 #EXTINF:-1,ES:La 2 FHD
 http://54.37.255.204:9977/live/rosendo/iptv/37099.m3u8
 #EXTINF:-1,ES:LA 2 PARA MOVILES
 http://54.37.255.204:9977/live/rosendo/iptv/37101.m3u8
 #EXTINF:-1,ES:ANTENA 3
-http://54.37.255.204:9977/live/rosendo/iptv/37097.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR green]JHG[/COLOR];url=http://54.37.255.204:9977/live/rosendo/iptv/37097.m3u8
 #EXTINF:-1,ES:ANTENA 3 FHD
 http://54.37.255.204:9977/live/rosendo/iptv/37096.m3u8
 #EXTINF:-1,ES:ANTENA 3 PARA MOVILES
