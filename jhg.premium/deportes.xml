@@ -60,34 +60,42 @@
 
 <item>
 <title>[COLOR yellow]*[COLOR skyblue] *2* [/COLOR]</title>
-<sportsdevil>https://verliga1.net/ver-movistar-campeones-online-gratis-en-directo-por-internet/</sportsdevil>
-<referer>https://verliga1.net/</referer>
+<sportsdevil>http://lacalleochotv.org/magu/espana/mov0.php</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+https://petopa154.caraponi.me/live/verliga5/index.m3u8?token=Fj7ikSyf_b-90eBm0X2C-w&expires=1537307399
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue] JHG   [/COLOR][B]Canal LA 1 [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vergol.com/live/plus1.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-1.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/canal-cero.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] *DD* [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/magu/espana/deporte2.php</sportsdevil>
+<referer>https://vergol.com/live1/plusdeportes2.php</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] *S* [/COLOR]</title>
+<sportsdevil>https://vergol.com/live3/verliga.php</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] ** [/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] ** [/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] ** [/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
+<title>[COLOR yellow]*[COLOR skyblue] *D* [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/magu/espana/beinlaliga.php</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
