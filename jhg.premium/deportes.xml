@@ -59,7 +59,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] *MOT* [/COLOR]</title>
+<title>[COLOR yellow]*[COLOR skyblue] *MOTOGP* [/COLOR]</title>
 <sportsdevil>http://lacalleochotv.org/magu/espana/motogp.php</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
@@ -69,36 +69,25 @@
 
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] *DD* [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/magu/espana/deporte2.php</sportsdevil>
-<referer>https://vergol.com/live1/plusdeportes2.php</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] *SM* [/COLOR]</title>
-<sportsdevil>https://vertelevision.tv/tv/deportes/motogp.php</sportsdevil>
-<referer>https://vertelevision.tv/</referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]*[COLOR skyblue] *D* [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/magu/espana/beinlaliga.php</sportsdevil>
+<title>[COLOR yellow]*[COLOR skyblue] *66* [/COLOR]</title>
+<sportsdevil>https://vergol.com/live3/campeones.php</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] *cp* [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/magu/espana/beinsport.php</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] *V* [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/magu/espana/eurosport.php</sportsdevil>
-<referer>http://lacalleochotv.org/</referer>
+<title>[COLOR yellow]*[COLOR skyblue] ** [/COLOR]</title>
+<sportsdevil></sportsdevil>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
