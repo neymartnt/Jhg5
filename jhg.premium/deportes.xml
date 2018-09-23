@@ -85,16 +85,32 @@
 </item>
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] ** [/COLOR]</title>
-<sportsdevil></sportsdevil>
-<referer></referer>
+<title>[COLOR yellow]*[COLOR skyblue] *z* [/COLOR]</title>
+<sportsdevil>https://vertelevision.tv/tv/deportes/formula1.php</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] *ddd* [/COLOR]</title>
+<sportsdevil>https://vergol.com/live1/plusseries.php</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] *g* [/COLOR]</title>
+<sportsdevil>https://vergol.com/live1/plusseries.php</sportsdevil>
+<referer>https://vergol.com/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[COLOR yellow]*[COLOR skyblue] ** [/COLOR]</title>
-<sportsdevil></sportsdevil>
+<sportsdevil>https://vertelevision.tv/tv/deportes/formula1.php</sportsdevil>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
