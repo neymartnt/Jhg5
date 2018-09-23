@@ -1,3 +1,47 @@
 <?xml version="3.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+  
+  <item>
+<title>    CANALES ESPAÑA [/I]</title>
+<link>$doregex[makelist2]</link>
+
+ <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[makelist2.param2] </title>
+<link>https:$doregex[get-id]|Referer=https://vergol.com/canales/live3/beinsport.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<thumbnail>https:[makelist2.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)".*?title="(.*?)Online.*?src="(.*?)"[\w\W\s]{0,10}45"]]></expres>
+<page>https://verliga1.net/</page>
+</regex>
+
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<rawpost>password=12345</rawpost>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+<page>https:$doregex[page2]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page2</name>
+<expres>src="([^"]+)</expres>
+<page>https://verliga1.net$doregex[page3]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page3</name>
+<expres>450" src="([^"]+)</expres>
+<page>[makelist2.param1]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail></item>
