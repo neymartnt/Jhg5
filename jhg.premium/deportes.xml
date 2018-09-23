@@ -59,21 +59,14 @@
 </item>
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] *2* [/COLOR]</title>
-<sportsdevil>http://lacalleochotv.org/magu/espana/mov0.php</sportsdevil>
+<title>[COLOR yellow]*[COLOR skyblue] *MOT* [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/magu/espana/motogp.php</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-https://petopa154.caraponi.me/live/verliga5/index.m3u8?token=Fj7ikSyf_b-90eBm0X2C-w&expires=1537307399
 
-<item>
- <title>[COLOR goldenrod][COLOR darkblue] JHG   [/COLOR][B]Canal LA 1 [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
-   <sportsdevil>http://vergol.com/live/plus1.php</sportsdevil>
-    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-1.html</referer>
-   <thumbnail>http://vertelevisor.com/logos/canal-cero.png</thumbnail>
- <fanart></fanart>
-</item>
+
 
 <item>
 <title>[COLOR yellow]*[COLOR skyblue] *DD* [/COLOR]</title>
@@ -84,9 +77,9 @@ https://petopa154.caraponi.me/live/verliga5/index.m3u8?token=Fj7ikSyf_b-90eBm0X2
 </item>
 
 <item>
-<title>[COLOR yellow]*[COLOR skyblue] *S* [/COLOR]</title>
-<sportsdevil>https://vergol.com/live3/verliga.php</sportsdevil>
-<referer>http://lacalleochotv.org/</referer>
+<title>[COLOR yellow]*[COLOR skyblue] *SM* [/COLOR]</title>
+<sportsdevil>https://vertelevision.tv/tv/deportes/motogp.php</sportsdevil>
+<referer>https://vertelevision.tv/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -95,6 +88,15 @@ https://petopa154.caraponi.me/live/verliga5/index.m3u8?token=Fj7ikSyf_b-90eBm0X2
 <item>
 <title>[COLOR yellow]*[COLOR skyblue] *D* [/COLOR]</title>
 <sportsdevil>http://lacalleochotv.org/magu/espana/beinlaliga.php</sportsdevil>
+<referer>http://lacalleochotv.org/</referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]*[COLOR skyblue] *V* [/COLOR]</title>
+<sportsdevil>http://lacalleochotv.org/magu/espana/eurosport.php</sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
