@@ -114,53 +114,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR gold]-->[/COLOR][COLOR cyan][B][I]222[/I][/B][/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movistarseries&width=650&height=397</page>
-<cookieJar></cookieJar></regex><thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bein_Sports.png/200px-Bein_Sports.png</thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart></item>
-
-
-
-<item>
-<title>MOVISTAR ESTRENOS</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com/live/plusestrenos.php</page>
-<referer>http://vercanalestv.com/tv/nacionales/canal-plus-estrenos.html</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/dcaynz51r/estrenos.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-
-<item>
-<title>MOVISTAR SERIES</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embedna.php?file=movistarseries&width=650&height=397</page>
-<referer>https://vergol.com/live1/plusseries.php	</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/qt7x6ya9b/series.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
-		
-	https://vergol.com/live1/plusseries.php	
-		
-<item>
-<title>[COLOR lime] 1 [/COLOR]</title>
-<urlsolve>http://streamcloud.eu/i97d64i4xkxy</urlsolve>
-<thumbnail><thumbnail>
-<info></info> 
-</item>
-
-
-
-<item>
 <title>[COLOR yellow]*[COLOR skyblue] [/COLOR]</title>
 <sportsdevil></sportsdevil>
 <referer>http://lacalleochotv.org/</referer>
