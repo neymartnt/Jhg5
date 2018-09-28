@@ -84,18 +84,6 @@
 </item>
 
 
-<item>
-<title>MOVISTAR DCINE</title>
-<link>$doregex[GetPageUrl]|User-Agent=Mozilla/5.0</link>
-<regex>
-<name>GetPageUrl</name>
-<expres>source: '(.*?)'</expres>
-<page>https://vergol.com/live3/verliga.php</page>
-<referer>http://verdirectotv.com/tv/digitales/plusdcine.html</referer>
-</regex>
-<thumbnail>https://s9.postimg.cc/4ha4dey8v/dcine.jpg</thumbnail>
-<fanart>https://s18.postimg.cc/kvp4paatl/fondocanalestv.jpg</fanart>
-</item>
 
 
 <item>
