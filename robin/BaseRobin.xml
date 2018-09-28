@@ -1,5 +1,1341 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue] JHG   [/COLOR][B]Canal LA 1 [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vergol.com/live/plus1.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-1.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/canal-cero.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]La Primera TVE 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vergol.com/live/tve1.php</sportsdevil> 
+    <referer>http://vertelevisor.com/tv/nacionales/tve-1.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/tve1.png</thumbnail>
+  <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]La Segunda TVE 2 [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vercanalestv.com/tv/nacionales/tve-2.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/tve-2.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/tve2.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+
+
+	<item>
+		<title>[COLOR goldenrod][COLOR darkblue]j63•   [/COLOR][B] La Primera TVE 1 [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]✓</title>
+		<sportsdevil>http://vertelevisor.com/tv/nacionales/tve-1.html</sportsdevil>
+		<referer>http://www.vertelevisor.com/ver-tve-1-en-directo-y-gratis-por-internet/</referer>
+		<thumbnail>http://vertelevisor.com/logos/tve1.png</thumbnail>
+		<info></info>
+		</item>
+	<item>
+		<title>[COLOR goldenrod][COLOR darkblue]j63•   [/COLOR][B] La Primera TVE 1 [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]✓</title>
+		<sportsdevil>http://vergol.com/live/tve1.php</sportsdevil>
+		<referer>http://vertelevisor.com/tv/nacionales/tve-1.html</referer>
+		<thumbnail>http://vertelevisor.com/logos/tve1.png</thumbnail>
+		<info></info>
+		</item>		
+		
+	<item>
+		<title>[COLOR goldenrod][COLOR darkblue]j63•   [/COLOR][B] La Segunda TVE 2 [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]✓</title>
+		<sportsdevil>http://vertelevisor.com/tv/nacionales/tve-2.html</sportsdevil>
+		<referer>http://www.vertelevisor.com/ver-la-2-en-directo-gratis-por-internet/</referer>
+		<thumbnail>http://vertelevisor.com/logos/tve2.png</thumbnail>
+		<info></info>
+		</item>
+		
+		
+		
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]La Segunda TVE 24H  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vercanalestv.com/tv/nacionales/tve-24h-noticas.html</sportsdevil>
+    <referer>http://www.rtve.es/directo/canal-24h/</referer>
+   <thumbnail>http://vertelevisor.com/logos/24h.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Antena 3   [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vergol.com/live1/antena3.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/antena-3.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/antena3.png</thumbnail>
+ <fanart></fanart>
+</item>
+ 
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue] JHGMASTER   [/COLOR][B][COLOR goldenrod]   La Cuatro  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  </title>
+   <sportsdevil>http://lacalleochotv.org/la-4-online-en-directo-gratis</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/cuatro.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/cuatro.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Telecinco  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vergol.com/live1/telecinco.php</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/telecinco.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/telecinco.png</thumbnail>
+ <fanart></fanart>
+</item>															
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]La Sexta  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vergol.com/live1/lasexta.php</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/la-sexta.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/sexta.png</thumbnail>
+ <fanart></fanart>
+<credits>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on</credits>
+</item>	
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Nova  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vercanalestv.com/tv/nacionales/nova.html</sportsdevil>
+   <sportsdevil>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8|User-Agent=Mozilla</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/nova.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/nova.png</thumbnail>
+ <fanart></fanart>
+</item>	 
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Divinity  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]  ✓</title>
+   <sportsdevil>http://vergol.com/live/divinity.php</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/divinity.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/divinity1.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Divinity  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed2.php?file=divinity&width=650&height=397</page>
+<referer>http://vertelevisor.com/tv/nacionales/divinity.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/ten.png</thumbnail>
+</item>	
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]astreseries  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vercanalestv.com/tv/nacionales/atreseries.html</sportsdevil>
+    <referer>http://www.vercanalestv.com/tv/nacionales/atreseries.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/atreseries.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]BE MAD  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/bemad.php</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/bemad.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]BE MAD  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://copo4.mitopo.me/live/bemad/index.m3u8?token=tgOnM77AHvqKOk5WqlXctw&expires=1519684973</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/be-mad.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/bemad.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]TEN  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/nacionales/ten.html</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/ten.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/ten.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]TEN  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=ten&width=650&height=400</page>
+<referer>http://vercanalestv.com/tv/nacionales/ten.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/ten.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Energy  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/energy.php</sportsdevil>
+    <referer>http://verdirectotv.com/tv/nacionales/energy.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/energy.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Cosmopolitan  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/cosmo.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/cosmo.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/cosmo.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]FDF  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/fdf.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/fdf.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/fdf.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Neox  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8|User-Agent=Mozilla</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/neox.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/neox.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Neox  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevisor.com/tv/nacionales/neox.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/neox.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/neox.png</thumbnail>
+ <fanart></fanart>
+</item>
+		
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]mega  [/B][/COLOR][COLOR darkcyan] [I] ~ [/I][/COLOR]</title>
+   <link>http://petu16.pedromo.me/live/mega/index.m3u8?token=nZt17AzOMJeVxzjhR0bIFA&expires=1519687106|User-Agent=Mozilla</link>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-mega.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/mega.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]mega  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/mega.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-mega.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/mega.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]MTV España  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/mtv.php</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/mtv.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/mtv.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]canal amc  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/amc.php</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/amc.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/amc.png</thumbnail>
+ <fanart></fanart>
+</item>
+																						
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]FOX España  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/fox.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/fox.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/fox.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]TNT España  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/tnt.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/tnt.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/tnt.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]AXN España  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/axn.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/axn.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Calle 13  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/nacionales/calle-13.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/calle-13.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/calle-13.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Calle 13  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=calltrees&width=650&height=400</page>
+<referer>http://vertelevisor.com/tv/nacionales/calle-13.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/calle-13.jpg</thumbnail>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Syfy  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/syfy.php</sportsdevil>
+    <referer>http://vercanalestv.com/tv/nacionales/syfy.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/syfy.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Paramount Channel  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/paramountchannel.php</sportsdevil>
+    <referer>http://verdirectotv.com/tv/nacionales/paramount.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/paramountchannel.png</thumbnail>
+ <fanart></fanart>
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Paramount comedy  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vercanalestv.com/tv/nacionales/paramount-comedy.html</sportsdevil>
+    <referer>http://www.vertelevisor.com/tv/nacionales/paramount-comedy.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/comedycentral.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Paramount comedy  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=comedycentral&width=650&height=400</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/paramount-comedy.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/comedycentral.png</thumbnail>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Holliwood  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevisor.com/tv/nacionales/canal-hollywood.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-hollywood.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/hollywood.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Holliwood  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=hollywesp&width=650&height=400</page>
+<referer>http://www.vercanalestv.com/tv/nacionales/paramount-comedy.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/hollywood.png</thumbnail>
+</item>
+																								
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Discovery Channel  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/discovery-channel.php</sportsdevil>
+    <referer>http://verdirectotv.com/tv/documentales/discovery.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/discovery-channel.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Discovery Max  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/dmax.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/documentales/discovery-max.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/Discovery_Max.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]AE  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevisor.com/tv/documentales/ae.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/documentales/ae.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/ae.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]AE  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=anadetelefive&width=650&height=400</page>
+<referer>http://vertelevisor.com/tv/documentales/ae.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/ae.png</thumbnail>
+</item>
+																						
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Cocina Gratis  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/cocina.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-cocina.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/cocina.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Odisea  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/documentales/odisea.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/documentales/odisea.html</referer>
+   <thumbnail>http://www.vertelevisor.com/logos/odisea.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Odisea  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=odiseatelef&width=650&height=400</page>
+<referer>http://vercanalestv.com/tv/documentales/odisea.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.vertelevisor.com/logos/odisea.png</thumbnail>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Caza y Pesca  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevisor.com/tv/documentales/caza-y-pesca.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/documentales/caza-y-pesca.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/cazapesca.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Caza y Pesca  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=cazaypesca&width=650&height=400</page>
+<referer>http://vertelevisor.com/tv/documentales/caza-y-pesca.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/cazapesca.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Crimen + Investigacion  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevisor.com/tv/documentales/crimen-investigacion.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/documentales/crimen-investigacion.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/ci.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Crimen + Investigacion  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embedna.php?file=crimenyinvestigacion&width=650&height=400
+</page>
+<referer>http://vertelevisor.com/tv/documentales/crimen-investigacion.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/ci.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]National Geographic  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/nationalgeo.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/documentales/national-geographic.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/national.png</thumbnail>
+ <fanart></fanart>
+</item> 
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]National Geographic Wild  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/nationalwild.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/documentales/nat-geo-wild.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/natgeowild.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Historia  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/historia.php</sportsdevil>
+    <referer>http://verdirectotv.com/tv/documentales2/historia.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/Historia.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Animal Planet  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://embed.latino-webtv.com/animalplanet.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/mexico/animal-planet.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/animalplanet.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]TLnovelas  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://embed.latino-webtv.com/tlnovelas.html</sportsdevil>
+    <referer>http://www.vertelevisor.com/tv/mexico/tlnovelas.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/Tlnovelas.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]HBO Latino  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://embed.latino-webtv.com/hbo.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/argentina/hbo-latino.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/HBO-Latino.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Cinemax Latino  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/cinemax.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/argentina/cinemax.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/cinemax.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]TNT   [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/tntlatino.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/tv/mexico/tnt.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/tnt-latino.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Fox  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/foxlatino.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/mexico/fox.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/Fox-latino.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Real Madrid  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevision.tv/tv/deportes/madridtv.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/real-madrid-tv.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/realmadrid.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Barca TV España  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevisor.com/tv/deportes/barca-tv.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/barca-tv.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/barcatv.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Barca TV España  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=barca&width=650&height=400</page>
+<referer>http://vertelevisor.com/tv/deportes/barca-tv.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/barcatv.png</thumbnail>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Fox Sports  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/deportes/fox-sports.html</sportsdevil>
+    <referer>http://vercanalestv.com/tv/deportes/fox-sports.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/foxsports.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Fox Sports  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/opcion2/fox-sports.html</sportsdevil>
+    <referer>http://vercanalestv.com/tv/deportes/fox-sports.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/foxsports.png</thumbnail>
+ <fanart></fanart>
+</item>																			
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Fox Sport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/deportes/fox-sports-2.html</sportsdevil>
+    <referer>http://vercanalestv.com/tv/multicanal/fox-sports-2.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/foxsports2.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Fox Sport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/opcion2/fox-sports-2.html</sportsdevil>
+    <referer>http://vercanalestv.com/tv/multicanal/fox-sports-2.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/foxsports2.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Directv Sports  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://tvenvivo.online/deportes/directv-sports-en-vivo-hd.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/directv-sports.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/directv-sports.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]ESPN  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/deportes/espn-deportes.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/espn-deportes.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/espn-latino.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]ESPN  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vercanalestv.com/tv/opcion2/espn-1.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/espn-deportes.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/espn-latino.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]ESPN 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/cosmo.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/cosmo.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/espn2.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]GOL Peru  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.fulltvhd.fi/deportes/golperu.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/peru/gol-peru.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/Golperu.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]MotoGP  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/motogp.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-motogp-gratis-online-24h-en-directo-por-internet/</referer>
+   <thumbnail>http://vertelevisor.com/logos/motos.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Formula 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevision.tv/tv/deportes/f1.html</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-la-f1-online-en-directo-por-internet-formula-1-gratis/</referer>
+   <thumbnail>http://vertelevisor.com/logos/formula1.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Formula 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevision.tv/tv/deportes/f1.html</sportsdevil>
+    <referer>http://vertelevision.tv/tv/deportes/f1.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/formula1.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Formula 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevision.tv/tv/deportes/f1.html</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/formula-1.php</referer>
+   <thumbnail>http://vertelevisor.com/logos/formula1.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Eurosport  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/eurosport.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/eurosport.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/eurosport-logo.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Eurosport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/eurosport2.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/eurosport-2.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/logo-eurosport2.png</thumbnail>
+ <fanart></fanart>
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Teledeporte  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/teledeporte.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/teledeporte.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/teledeporte.png</thumbnail>
+ <fanart></fanart>
+</item> 
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]TYC  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/tycsports.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-tyc-sports-en-vivo-online-gratis/</referer>
+   <thumbnail>http://vertelevisor.com/logos/tyc.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Caracol  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vertelevisor.com/tv/colombia/caracol-television.html</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-caracol-tv-online-en-vivo-gratis/</referer>
+   <thumbnail>http://vertelevisor.com/logos/caracoltv.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Barca Caracol  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://cdn.chatytvgratis.net/caracol01.php?width=650&height=400</page>
+<referer>http://vertelevisor.com/tv/colombia/caracol-television.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/caracoltv.png</thumbnail>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Azteca 7  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/azteca7.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-azteca-7-en-vivo-por-internet/</referer>
+   <thumbnail>http://vertelevisor.com/logos/azteca-7.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal #0  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/plus1.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-1.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/canal-cero.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar estrenos   [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/plusestrenos.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-estrenos.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-estrenos.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Accion  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/plusaccion.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-accion.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-accion.png</thumbnail>
+ <fanart></fanart>
+</item>http://edge2.telesport.pw/live/plusaccion/index.m3u8
+																				
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Dcine  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/dcine.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-dcine.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-dcine.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Comedia  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live/comedia.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-comedia.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-comedia.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]M+ COMEDIA  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://copo3.mitopo.me/live/comedia/index.m3u8?token=qjkBmx2JmM3OMFM3iv2YHw&expires=1519694947</sportsdevil>
+   <referer>http://verdirectotv.com/tv/digitales/pluscomedia.html</referer>
+     <thumbnail>http://vertelevisor.com/logos/m-comedia.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar series   [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/plusseries.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/nacionales/canal-plus-series.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-series.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal TorosTV  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/toros.php</sportsdevil>
+    <referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/torostv.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]GolTV  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/goltv.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/goltv.html</referer>
+   <thumbnail>http://vertelevisor.com/imagenes/goltv.jpg</thumbnail>
+ <fanart></fanart>
+
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein sport  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/beinsport.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein-sports.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Sport LaLiga  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/canal1.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/tv/deportes/multi-liga.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein-laliga.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal LaLiga 123  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/liga123.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-canal-laliga-123-tv-online-partidos-de-seguda-division/</referer>
+   <thumbnail>http://vertelevisor.com/logos/laliga123.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Partidazo  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/canal1.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-canal-movistar-partidazo-online-en-directo-gratis-por-internet-24h/</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-partidazo.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Futbol  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://verdirectotv.com/tv/deportes2/plusfutbol.html</sportsdevil>
+    <referer>http://verdirectotv.com/tv/deportes2/plusfutbol.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-futbol.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Futbol  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.ucasterplayer.com/hembedplayer/futbolluck/1/650/400</page>
+<referer>http://verdirectotv.com/tv/deportes2/plusfutbol.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/m-futbol.png</thumbnail>
+</item>
+										
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Deportes  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/plusdeportes1.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-canal-plus-deportes-en-directo-gratis-por-internet/</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-deportes1.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Deportes 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/canal-plus-deportes-2.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-deportes2.png</thumbnail>
+ <fanart></fanart>
+</item>
+											
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Golf  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/golf.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/canal-plus-golf.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-golf.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Sport 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bein-sport-1-france-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein1fr.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Sport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bein-sport-2-france-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein2fr.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Sport 3  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bein-sport-3-france-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein3fr.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+																		
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal plus sport  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-canal-plus-sport-francia-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/Canal%2B_Sport_2015.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-1-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky1.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-2-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky2.png</thumbnail>
+ <fanart></fanart>
+</item>
+											
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 3  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-3-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky3.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 4  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-4-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky4.png</thumbnail>
+ <fanart></fanart>
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 5  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-5-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky5.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 1 GER  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-sky-sport-1-ger-en-vivo-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky1ger.png</thumbnail>
+ <fanart></fanart>
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 2 GER  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-sky-sport-2-ger-en-vivo-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky2ger.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]BT Sport 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bt-sport-1-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/btsport1.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]BT Sport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bt-sport-2-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/btsport2.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Latino  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bein-n-sport-latino-en-vivo-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein-latino.png</thumbnail>
+ <fanart></fanart>
+</item>
+															
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]WWE  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-wwe-en-vivo-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/wwe.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]RCN hd  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-rcn-television-en-vivo-y-en-directo/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/rcn.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Playboy  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-canal-playboy-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/playboy.png</thumbnail>
+ <fanart></fanart>
+</item> 
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Venus Online En Vivo Gratis  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-canal-venus-online-en-vivo-gratis-por-internet/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/venus.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]hustler tv hd en vivo  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/hustler-tv-online-en-vivo-gratis-por-internet/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/hustlertv.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+															
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]HOT  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-canal-hot-adultos-online-en-vivo/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/hot.png</thumbnail>
+ <fanart></fanart>
+</item> 
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Redlight  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-canal-redlight-online-en-vivo/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/redlight.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]M+ COMEDIA  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn3.shurs.xyz/</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]CINE 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn3.shurs.xyz/verliga/2/playlist.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]M+ DCINE  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn3.shurs.xyz/verliga/3/playlist.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>	
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]M+ ACCION  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://edge3.telesport.pw/live/plusaccion/index.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>	
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]CINEMAX  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn1.shurs.xyz/verliga/4/playlist.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]WIN STREAM  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn3.shurs.xyz/verliga/5/playlist.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>	
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]COCINA  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn3.shurs.xyz/verliga/6/playlist.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]TNT  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn3.shurs.xyz/verliga/7/playlist.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>	
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]HOT  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn3.shurs.xyz/verliga/10/playlist.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>	
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]REDLIGHT HD  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://cdn3.shurs.xyz/verliga/11/playlist.m3u8</sportsdevil>
+   <referer>http://vercanalestv.com/</referer>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]TELEDEPORTE  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+  <sportsdevil>http://edge6.telesport.pw/live/teledeporte/index.m3u8</sportsdevil>
+   <referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+   <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0</agent>
+     <thumbnail>http://vertutele.com/img/cine.png</thumbnail>
+     <info>CANALES DE CINE EN VIVO ONLINE GRATIS POR INTERNET 24H</info>
+    </item>
+
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal TorosTV  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/toros.php</sportsdevil>
+    <referer>http://verdirectotv.com/tv/digitales2/plustoros.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/torostv.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]GolTV  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/goltv.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/goltv.html</referer>
+   <thumbnail>http://vertelevisor.com/imagenes/goltv.jpg</thumbnail>
+ <fanart></fanart>
+
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein sport  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/beinsport.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein-sports.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Sport LaLiga  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/canal1.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/tv/deportes/multi-liga.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein-laliga.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal LaLiga 123  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/liga123.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-canal-laliga-123-tv-online-partidos-de-seguda-division/</referer>
+   <thumbnail>http://vertelevisor.com/logos/laliga123.jpg</thumbnail>
+ <fanart></fanart>
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Partidazo  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live3/canal1.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-canal-movistar-partidazo-online-en-directo-gratis-por-internet-24h/</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-partidazo.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Futbol  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://verdirectotv.com/tv/deportes2/plusfutbol.html</sportsdevil>
+    <referer>http://verdirectotv.com/tv/deportes2/plusfutbol.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-futbol.png</thumbnail>
+ <fanart></fanart>
+</item>
+<item>
+<title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Futbol  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=Mozilla</link>
+<regex>
+<name>GetPageUrl</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.ucasterplayer.com/hembedplayer/futbolluck/1/650/400</page>
+<referer>http://verdirectotv.com/tv/deportes2/plusfutbol.html</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vertelevisor.com/logos/m-futbol.png</thumbnail>
+</item>
+										
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Deportes  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/plusdeportes1.php</sportsdevil>
+    <referer>http://www.vertelevisor.com/ver-canal-plus-deportes-en-directo-gratis-por-internet/</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-deportes1.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Deportes 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/plusdeportes2.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/canal-plus-deportes-2.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-deportes2.png</thumbnail>
+ <fanart></fanart>
+</item>
+											
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal Movistar Golf  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://vergol.com/live1/golf.php</sportsdevil>
+    <referer>http://vertelevisor.com/tv/deportes/canal-plus-golf.html</referer>
+   <thumbnail>http://vertelevisor.com/logos/m-golf.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Sport 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bein-sport-1-france-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein1fr.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Sport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bein-sport-2-france-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein2fr.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Sport 3  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bein-sport-3-france-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein3fr.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+																		
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Canal plus sport  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-canal-plus-sport-francia-online-en-vivo-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/Canal%2B_Sport_2015.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-1-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky1.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-2-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky2.png</thumbnail>
+ <fanart></fanart>
+</item>
+											
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 3  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-3-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky3.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 4  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-4-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky4.png</thumbnail>
+ <fanart></fanart>
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 5  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/sky-sport-5-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky5.png</thumbnail>
+ <fanart></fanart>
+</item>
+												
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 1 GER  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-sky-sport-1-ger-en-vivo-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky1ger.png</thumbnail>
+ <fanart></fanart>
+</item>
+																							
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Sky Sport 2 GER  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/ver-sky-sport-2-ger-en-vivo-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/sky2ger.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]BT Sport 1  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bt-sport-1-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/btsport1.png</thumbnail>
+ <fanart></fanart>
+</item>
+	
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]BT Sport 2  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bt-sport-2-live-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/btsport2.png</thumbnail>
+ <fanart></fanart>
+</item>
+
+<item>
+ <title>[COLOR goldenrod][COLOR darkblue]j63 •   [/COLOR][B]Bein Latino  [/B][/COLOR][COLOR darkcyan] [I] ~  SportDevil[/I][/COLOR]</title>
+   <sportsdevil>http://www.vertelevisor.com/bein-n-sport-latino-en-vivo-online-gratis/</sportsdevil>
+    <referer>http://www.vertelevisor.com/</referer>
+   <thumbnail>http://vertelevisor.com/logos/bein-latino.png</thumbnail>
+ <fanart></fanart>
+</item>
+				
+	
+<item>
+<title>[COLOR darkcyan]Multicanal[/COLOR] [COLOR lightblue]VerLiga 01[/COLOR][COLOR white][I]  [/I][/COLOR]</title>
+<link>$doregex[get-id]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0&amp;Referer=http://www.verliga.net/live/verliga1.php</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.verliga.net/live/verliga1.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail></thumbnail>
+<info></info>
+</item>
+
+
+
+
+
 
 
 
