@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+    <name>          <<<<<<<<<Camaras España>>>>>>>></name>
+     <thumbnail></thumbnail>
+   
+        <items>
+		
+		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Camaras España[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link></link></item>
+     
+ <channel>
+<name>Barcelona</name>
+<thumbnail></thumbnail>
+anart></fanart>
+<items>
+
+<item>
+  <title>[COLOR white]Playa de Sant Sebastia [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/playa-sant-sebastia.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Playa La Barceloneta[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/playa-barceloneta.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Lloret De Mar Costa Brava[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/lloret-de-mar-costa-brava.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<channel>
+<name>Madrid</name>
+<thumbnail></thumbnail>
+anart></fanart>
+<items>
+
+<item>
+  <title>[COLOR white]Madrid - Puerta del Sol[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/puerta-del-sol.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Madrid - Calle de Alcalá[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/calle-alcala.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+
+  <item>
+  <title>[COLOR white]Madrid - Plaza de España[/COLOR] </title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/plaza-de-espana.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Tio Pepe- Puerta del Sol[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/puerta-del-sol-tio-pepe.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Madrid - Metropolis Building[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/edificio-metropolis.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Madrid - Plaza del Callao[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/madrid-plaza-del-callao.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+
+ <item>
+  <title>[COLOR white]Playa de Los Cristianos - Tenerife[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-los-cristianos.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+  
+<item>
+  <title>[COLOR white]Playa de Fañabé - Tenerife[/COLOR] </title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/canarias/santa-cruz-de-tenerife/playa-de-fanabe.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+ 
+   <item>
+  <title>[COLOR white]Playa de Poniente - Puerto - Benidorm[/COLOR] </title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-poniente.html</page>
+  <agent>Mozilla/5.0</agent>
+  <cookieJar></cookieJar>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Playa Albir [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/alicante-playa-albir.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Playa La Cicer en Las Canteras - Surf [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/la-cicer-las-canteras.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Playa Levante [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-levante.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Santander - Muelle de Calderón[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/cantabria/santander/muelle-calderon.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+
+<item>
+  <title>[COLOR white]Castro-Urdiales[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/cantabria/castro-urdiales/castro-urdiales.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Santillana del Mar - Cantabria[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/espana/cantabria/santillana-del-mar/santillana-del-mar-cantabria.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+<title>[COLOR white]Auditorium de Palma de Mallorca [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gRL-rHVdJTw</link>
+<referer>http://americatvstream.blogspot.com/</referer>
+</item>
+
+<item>
+<title>[COLOR white]Puente de la Constitución - Cadiz[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=krIypJ2MEBU</link>
+<referer>http://americatvstream.blogspot.com/</referer>
+</item>
+		
+<item>
+<title>[COLOR white]Plaza de Sevilla - Cadiz[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jFELUgq46WA</link>
+<referer>http://americatvstream.blogspot.com/</referer>
+<thumbnail></thumbnail>
+anart></fanart>
+</item>		
+		
+<item>
+<title>[COLOR white]Puente de la Const - Cadiz[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7D7bVqypm74</link>
+<referer>http://americatvstream.blogspot.com/</referer>
+<thumbnail></thumbnail>
+anart></fanart>
+</item>			
+
+<channel>
+    <name>          <<<<<<<<<Camaras Israel>>>>>>>></name>
+     <thumbnail></thumbnail>
+      anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+        <items>
+
+
+
+		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Camaras Israel[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+     
+
+<item>
+  <title>[COLOR white]Jerusalem - Israel[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/western-wall.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+
+
+
+<channel>
+    <name>          <<<<<<<<<Camaras Italia>>>>>>>></name>
+     <thumbnail></thumbnail>
+      anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+        <items>
+
+
+
+		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Camaras Italia[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+     
+
+
+<channel>
+<name>Italia</name>
+<thumbnail></thumbnail>
+anart></fanart>
+<items>
+
+<channel>
+<item>
+  <title>[COLOR white]Castillo Sant'Angelo - Roma[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/lazio/roma/castel-santangelo.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Cuenca San Marcos - Riva degli Schiavoni  - Venecia [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/veneto/venezia/riva-schiavoni.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Grand Canal - Venecia [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/veneto/venezia/canal-grande.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Basílica de San Antonio [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/veneto/padova/padova-basilica-di-sant-antonio.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Plaza Tartini - Piran  [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/slovenija/primorska/piran/trg-tartini.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Fontana de Trevi - Roma [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/lazio/roma/fontana-di-trevi.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Catedral de Milán [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/lombardia/milano/duomo-milano.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Plaza de la Señoría  - Florencia[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/toscana/firenze/piazza-signoria.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Rialto Bridge - Venecia [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/italia/veneto/venezia/rialto-canal-grande.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white] Pantheon - Roma [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/lazio/roma/pantheon.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Colosseum - Roma [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/lazio/roma/colosseo.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]La escalinada de Plaza de España - La Barcaza [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/italia/lazio/roma/scalinata-piazza-di-spagna-barcaccia.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Plaza  Navona - Roma [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-navona.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Basilica di Santa Maria Maggiore - Roma [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/italia/lazio/roma/basilica-papale-santa-maria-maggiore.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<channel>
+<item>
+  <title>[COLOR white]Campo de' Fiori - Roma [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/italia/lazio/roma/campo-de-fiori.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+
+
+<channel>
+    <name>          <<<<<<<<<Camaras EE.UU.>>>>>>>></name>
+     <thumbnail></thumbnail>
+      anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+        <items>
+		
+		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Camaras EE.UU.[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+ 
+<channel>
+<item>
+  <title>[COLOR white]Hollywood Beach - Florida [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/united-states/florida/hollywood/hollywood-beach.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Las Vegas Strip - The Stratosphere [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/united-states/nevada/las-vegas/las-vegas.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]New York City - Times Square [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/es/webcam/united-states/new-york/new-york/new-york-skyline.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Panorama de Nueva York[/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/united-states/new-york/new-york/new-york-city.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+<item>
+  <title>[COLOR white]Islamorada, Village of Islands - Florida [/COLOR]</title>
+  <link>$doregex[playUrl]|User-Agent=Mozilla/5.0</link>
+  <regex>
+  <name>playUrl</name>
+  <expres>url:'(.+m3u8.+?)'</expres>
+  <page>https://www.skylinewebcams.com/en/webcam/united-states/florida/islamorada/chesapeake-beach-resort.html</page>
+  <agent>Mozilla/5.0</agent>
+  </regex>
+</item>
+
+
+<channel>
+    <name>          <<<<<<<<<Camaras Francia>>>>>>>></name>
+     <thumbnail></thumbnail>
+      anart>http://zonadjjavi.webcindario.com/fanart.jpg</fanart>
+        <items>
+		
+
+		                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow] Camaras Francia[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://zonadjjavi.webcindario.com</link></item>
+ 
+ <item>
+<title>[COLOR white] Directo Lourdes[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=j-2kDh7kfD0</link>
+<referer>http://americatvstream.blogspot.com/</referer>
+</item>
+
+<item>
+<title>[COLOR white] Directo Taiwan[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=azPXMiTOsAE?list=PLnaDvrEGF8Azam0RvOQWtmOV52L7IDMzX</link>
+<referer>http://americatvstream.blogspot.com/</referer>
+</item>
+
+
+
+
+
+
+
+</items>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
