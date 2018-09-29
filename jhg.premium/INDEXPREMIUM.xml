@@ -86,9 +86,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
   
 
 	 <item>
-        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue]  [/COLOR][COLOR orange]  [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
+        <title>[COLOR  yellow]_**_  [/COLOR][COLOR skyblue] DOCUMENTALES [/COLOR][COLOR  yellow] _**_ [/COLOR]</title>
         <link>http://Ignoreme</link>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/new%20424.xml</externallink>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </item>
