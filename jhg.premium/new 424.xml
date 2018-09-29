@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+
+
+
+
+ <item>
+<title>[COLOR lime]•[/COLOR] Documentales de viajes</title>
+<thumbnail>https://i.pinimg.com/736x/72/d4/af/72d4af03ded597b1fc7eabbfe5470492--travel-bug-danny.jpg</thumbnail>
+<fanart>https://vuelosviajesbaratos.files.wordpress.com/2017/02/consejos-para-viajar.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/Documentales%20de%20viajes.xml</externallink>
+</item>
+
+ <item>
+<title>[COLOR lime]•[/COLOR] Documentales</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/neymartnt/Jhg5/master/jhg.premium/documentales.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Discovery Max</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentalesdiscovery+max&search_type=playlist</jsonrpc>
+<thumbnail>http://lh3.googleusercontent.com/7eXzTMqf-5LMBkGasoWMw5YeV8oZXKBAk1XZIc_W1GDiELhNvvcPzFiP158HXW5rww=w300</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales Infantiles </title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%20infantiles%20en%20espa%c3%b1ol&search_type=playlist</jsonrpc>
+<thumbnail>https://4.bp.blogspot.com/-QXYGpoUNKYQ/WalhzdpxStI/AAAAAAAAFmE/a6vKgOjbcbonQ_baLJCfEFGaNZN1ZTCCgCLcBGAs/s1600/david%2Bpintor.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales de Historia </title>
+<link>nolink</link>
+<externallink>https://pastebin.com/raw/XpVAKXhN</externallink>
+<thumbnail>http://canalhistoria.es/wp-content/uploads/2016/07/39244054_Historia_Logo_2015_RGB_Black_type-1.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales Bélicos </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2rPPuAc</externallink>
+<thumbnail>http://mundosinguerras-cv.org/images/conflicto.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales y Biografías </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2MAtylt</externallink>
+<thumbnail>https://i0.wp.com/cambiopolitico.com/wp-content/uploads/2013/03/biografias.jpg?fit=500%2C500&ssl=1</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales de Ciencias y Tecnología </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2K1Axp4</externallink>
+<thumbnail>https://4.bp.blogspot.com/-lk5Yi68CocA/WDvDIx4hQeI/AAAAAAAAeJk/xhaCwNItuKU-kZjO8pf30hYJlqnWcMkMQCLcB/s1600/Tecnologia%2BRobotica.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales del Universo </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2JVJgpB</externallink>
+<thumbnail>http://codigooculto.com/wp-content/uploads/2017/07/tumblr_ng1pb57AJA1t9tak1o1_500.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales de Naturaleza </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2MBpSjt</externallink>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFRa7_8AiVwHLUNwBfrRk7ReNkCFnRjMgXGeOFRlrh6Ah0P2NX</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales de Religiones </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2tn7bqX</externallink>
+<thumbnail>https://pm1.narvii.com/6504/e76bc014f333578b04f6447151949244d36ef2c3_hq.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales de Ovnis y Ufología </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2thWlSK</externallink>
+<thumbnail>https://i.pinimg.com/originals/93/2e/d5/932ed557347d80b825ca0f98cd2e0cb3.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales de Misterios y Conspiraciones </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2JQMWbY</externallink>
+<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales Sociales </title>
+<link>nolink</link>
+<externallink>https://bit.ly/2ygGzNT</externallink>
+<thumbnail>https://www.porescribir.com/wp-content/uploads/2018/02/SOCIEDAD.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales Variados 2018 </title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Documentales%202018%20full%20hd&search_type=playlist</jsonrpc>
+<thumbnail>https://img.etsystatic.com/il/c44bc4/1423991331/il_570xN.1423991331_4701.jpg?version=0</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Documentales: Mas de 2400 Documentales Variados</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCWoopXUOjEGk9aOU4I71nhQ/playlist/PL7Gl77owRvTsI-JSfh9WPf-2N2Ujmh1Da/</jsonrpc>
+<thumbnail>https://1.bp.blogspot.com/-yrAzWMWuRFw/VtmSI7hXISI/AAAAAAAAAgY/KnFOA3UFVD4/s1600/12803033_827599300699787_3252258708545373766_n.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
