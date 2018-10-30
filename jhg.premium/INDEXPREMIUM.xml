@@ -119,7 +119,100 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>	
 
 
+	
+	
 
+
+<item>
+<title>[COLOR yellow] _**_  [/COLOR][COLOR white]  [B]FUTBOL[/B][/COLOR] [COLOR gold](Elige tu Liga) [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR white][makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR white] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHG+[COLOR white][makelist.param4][/COLOR]</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://cdn.arenavision.biz/$doregex[canal]</page>
+			<referer>https://arenavision.us/</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<regex>
+			<name>canal</name> 			<expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+<thumbnail></thumbnail>
+<fanart></fanart>
+
+</item>
+]]></listrepeat>
+<expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">$doregex[select]<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,52}"(>[0-9]+)]]></expres>
+<page>https://arenavision.us/guide</page>
+<Agent>Mozilla</Agent>
+<referer>https://arenavision.us/guide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+
+
+ <regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige un Liga ', ['LA LIGA', 'LA LIGA 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'COPA DE ESPAÑA', 'BUNDESLIGA', 'FRANCE LEAGUE 1', 'SERIE A ITALIA', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA'])
+   lists = ['SPANISH LEAGUE', 'SPANISH LEAGUE 2', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LEAGUE 1', 'ITALY SERIE A', 'PORTUGAL A LIGA', 'EFL CUP', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE', 'ARGENTINA SUPERLIGA']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+
+</regex><thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR  yellow] _**_  [/COLOR][COLOR white]  [B]AGENDA ARENAVISION[/B][/COLOR] [COLOR gold] [/COLOR][COLOR  yellow] _**_  [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+
+<title>$pyFunction:'[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepskyblue][makelist.param2] [/COLOR][COLOR gold][makelist.param3] [/COLOR] [COLOR skyblue][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]'.replace('>','Canal ')</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHG+[makelist.param5]+Arenavision</link>
+			<regex>
+			<name>hash</name>
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://cdn.arenavision.biz/$doregex[canal]</page>
+			<referer>http://cdn.arenavision.biz</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+				<regex>
+			<name>canal</name>
+			<expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','tk/11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+			<page></page>
+			</regex>
+
+			<thumbnail></thumbnail>
+
+]]></listrepeat>
+<expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,52}"(>[0-9]+)]]></expres>
+<page>http://arenavision.us/guide</page>
+<Agent>Mozilla</Agent>
+<referer>http://cdn.arenavision.biz</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail></thumbnail>
+</item>
+	
+	
+	
+	
+	
 
 
 
